@@ -1,0 +1,259 @@
+qst_deliver_message|Doručení zprávy
+qst_deliver_message_text|{s9} tě žádá, ať doručíš zprávu adresátovi jménem {s13}. Naposledy ho viděli v obci {s4}.
+qst_deliver_message_to_enemy_lord|Dopis
+qst_deliver_message_to_enemy_lord_text|{s9} tě žádá, ať doručíš zprávu adresátovi jménem {s13} z obce {s15}. Naposledy ho viděli v {s4}.
+qst_raise_troops|Zverbovaní {s14}
+qst_raise_troops_text|{s9} tě žádá, ať naverbuješ jednotku {s14} v počtu {reg1} osob a přivedeš mu ji.
+qst_escort_lady|{s13} potřebuje doprovod.
+qst_escort_lady_text|Není
+qst_deal_with_bandits_at_lords_village|Zbojníci ve vesnici {s15}
+qst_deal_with_bandits_at_lords_village_text|{s13} tě žádá, ať se vypořádáš se zbojníky, kteří se schovávají ve vesnici zvané {s15}. Máš mu to pak zajít nahlásit.
+qst_collect_taxes|Výběrčí daní
+qst_collect_taxes_text|{s9} tě žádá, ať vybereš daně v obci {s3}. Pětinu vybrané částky si můžeš nechat.
+qst_hunt_down_fugitive|Po stopách uprchlíka
+qst_hunt_down_fugitive_text|{s9} tě žádá, ať vypátráš uprchlíka jménem {s4}. Naposledy ho viděli v obci {s3}.
+qst_kill_local_merchant|Vražda kupce
+qst_kill_local_merchant_text|{s9} tě prosí, ať zabiješ místního kupce ve městě {s3}.
+qst_bring_back_runaway_serfs|Uprchlí nevolníci
+qst_bring_back_runaway_serfs_text|{s9} tě prosí, ať najdeš tři skupiny jeho uprchlých nevolníků a přinutíš je, aby se vrátili do vesnice zvané {s2}. Říkal, že všichni prchali přibližně směrem, kde leží {s3}.
+qst_follow_spy|Špionážní hrátky
+qst_follow_spy_text|{s11} tě pověřil sledováním špeha, který se vydal na cestu z obce {s12}. Špeh by si tě neměl všimnout, jinak by mohl začít něco tušit a vrátil by se. Až se špeh sejde s tím, kdo ho najal, máš je oba přepadnout a přivést, {s11} už na ně čeká.
+qst_capture_enemy_hero|Únos
+qst_capture_enemy_hero_text|{s11} tě žádá, ať zajmeš vládce državy {s13}.
+qst_lend_companion|Zapůjčený společník
+qst_lend_companion_text|{s9} tě žádá, abys u něj {nechal/nechala} svého společníka jménem {s3}, a to nejméně na týden.
+qst_collect_debt|Vrácení dluhů
+qst_collect_debt_text|{s9} tě žádá, ať vyzvedneš dlužnou částku {reg4} tolarů od dlužníka jménem {s3}.
+qst_incriminate_loyal_commander|Pomluva
+qst_incriminate_loyal_commander_text|Není
+qst_raid_caravan_to_start_war|Provokace
+qst_raid_caravan_to_start_war_text|Není
+qst_meet_spy_in_enemy_town|Setkání se špehem
+qst_meet_spy_in_enemy_town_text|Není
+qst_capture_prisoners|Lov na zajatce
+qst_capture_prisoners_text|{s9} tě požádal, ať pochytáš {reg1} zajatců. Mají to být {s3}
+qst_lend_surgeon|Zapůjčený chirurg
+qst_lend_surgeon_text|Tvůj zkušený chirurg {s3} má zajít za pacientem jménem {s1}.
+qst_follow_army|Pronásledování armády {s9}
+qst_follow_army_text|Není
+qst_report_to_army|Hlášení maršálovi
+qst_report_to_army_text|Není
+qst_deliver_cattle_to_army|Dobytek pro {s13}
+qst_deliver_cattle_to_army_text|Není
+qst_join_siege_with_army|Obléhání města {s14}
+qst_join_siege_with_army_text|Není
+qst_scout_waypoints|Průzkum okolí
+qst_scout_waypoints_text|Není
+qst_rescue_lord_by_replace|{s13} ze sídla {s14} - záchrana
+qst_rescue_lord_by_replace_text|Není
+qst_deliver_message_to_prisoner_lord|Dopis pro adresáta jménem {s13} 
+qst_deliver_message_to_prisoner_lord_text|Není
+qst_duel_for_lady|Souboj s pánem jménem {s13}
+qst_duel_for_lady_text|Není
+qst_move_cattle_herd|Přeprava dobytka
+qst_move_cattle_herd_text|Starosta z města {s10} tě prosí o zajištění transportu dobytka do obce {s13}.
+qst_escort_merchant_caravan|Ochrana vozu
+qst_escort_merchant_caravan_text|Doprovodit kupeckou karavanu do města {s8}.
+qst_deliver_wine|Dodávka zboží
+qst_deliver_wine_text|{s9} z obce {s3} tě prosí, ať do taverny ve městě {s4} odvezeš jeho {s6} v množství {reg5} kusů, a to do 7 dní.
+qst_troublesome_bandits|Lov na zbojníky
+qst_troublesome_bandits_text|{s9} z města {s4} tě prosí, ať vypátráš nebezpečné zbojníky poblíž města.
+qst_kidnapped_girl|Zajatá dívka
+qst_kidnapped_girl_text|Starosta města {s4} ti dal {reg12} tolarů na zaplacení výkupného za dívku, kterou unesli zbojníci. Máš se s nimi potkat v okolí obce {s3} a předat jim peníze. Pak máš děvče odvézt zpátky, do města {s4}.
+qst_persuade_lords_to_make_peace|Mírové jednání
+qst_persuade_lords_to_make_peace_text|Starosta města {s4} ti slíbil {reg12} tolarů, když zařídíš, aby {s12} a {s13} nestáli v cestě mírovým rozhovorům, které spolu {s15} a {s14} hodlají vést. Máš je buď zkusit přemluvit, nebo je zajmout a držet je v zajetí až do té doby, dokud nebude uzavřen mír.
+qst_deal_with_looters|Loupežnické bandy z města {s4}
+qst_deal_with_looters_text|Starosta města {s4} ti dal za úkol zlikvidovat několik loupežnických tlup v okolí a získat pro něj zpět pokud možno co nejvíc ukradeného zboží.
+qst_deal_with_night_bandits|Noční lupiči
+qst_deal_with_night_bandits_text|Starosta města {s14} tě požádal, ať ho nějak zbavíš zbojníků, kteří se usadili v okolí.
+qst_deliver_grain|Osivo pro rolníky
+qst_deliver_grain_text|Starosta z vesnice {s3} tě požádal, ať jim přivezeš alespoň {reg5} pytlů obilí.
+qst_deliver_cattle|Dobytek pro vesnici {s3}
+qst_deliver_cattle_text|Starosta z vesnice {s3} tě požádal, ať jim přiženeš alespoň {reg5} kusů dobytka.
+qst_train_peasants_against_bandits|Vojenský výcvik
+qst_train_peasants_against_bandits_text|Není
+qst_eliminate_bandits_infesting_village|Zbojníci v obci {s7}
+qst_eliminate_bandits_infesting_village_text|Člověk z vesnice {s7} tě prosí, ať z vesnice vyženeš zbojníky, kteří se tam usadili.
+qst_join_faction|Přísaha věrnosti člověku jménem {s1}
+qst_join_faction_text|Vyhledat lenního pána jménem {s1} a složit mu vazalskou přísahu.
+qst_rebel_against_kingdom|Podpora uchazeče o trůn
+qst_rebel_against_kingdom_text|Není
+qst_talk_to_zamoshie_elder|Rozhovor se starostou
+qst_talk_to_zamoshie_elder_text|De Clermont říkal, že starosta ze Zámostí platí za práci dobrými penězi. Proč bych tam nezajel?
+qst_zamoshie_lower_taxes|Rolníci a jejich daně
+qst_zamoshie_lower_taxes_text|Přesvědčit smolenského vojvodu, aby snížil daně rolníkům ze Zámostí.
+qst_deal_with_zamoshie_bandits|Zbojníci ze Zámostí
+qst_deal_with_zamoshie_bandits_text|Zabít zbojníky ze Zámostí.
+qst_oim_bring_goods_zamoshie|Dodávka zboží
+qst_oim_bring_goods_zamoshie_text|Dovézt zboží do Zámostí.
+qst_oim_trakay_icon|Nepolapitelný kněz
+qst_oim_trakay_icon_text|Nepolapitelný kněz
+qst_oim_bring_tatarin_to_sich|Se zajatcem na Síč
+qst_oim_bring_tatarin_to_sich_text|Se zajatcem na Síč
+qst_oim_bring_tatarin_to_perekop|Do Perekopu
+qst_oim_bring_tatarin_to_perekop_text|Do Perekopu
+qst_oim_sem_samuraev|Sedm dobrovolníků
+qst_oim_sem_samuraev_text|Sedm dobrovolníků
+qst_oim_lendliz|Pomoc kozákům
+qst_oim_lendliz_text|Pomoc kozákům
+qst_oim_lendliz2|Pomoc kozákům
+qst_oim_lendliz2_text|Pomoc kozákům
+qst_oim_monfor_shved|Zverbovat rytíře de Clermont
+qst_oim_monfor_shved_text|Zverbování de Clermonta
+qst_oim_monfor_shved_army|Carský průvod
+qst_oim_monfor_shved_army_text|Carský průvod
+qst_mest_i_zakon|Pomsta a právo
+qst_mest_i_zakon_text|Pomsta a právo
+qst_mest_i_zakon2|Zachráněná vesnice
+qst_mest_i_zakon2_text|Pomsta a právo
+qst_mest_i_zakon3|Chmelnického pomsta
+qst_mest_i_zakon3_text|Pomsta a právo
+qst_oim_kidalovo_z_konyem|Půl carství za koně
+qst_oim_kidalovo_z_konyem_text|Půl carství za koně
+qst_oim_invest|Tajný fond
+qst_oim_invest_text|Tajný fond
+qst_oim_trubeckoy_rekomendation|Doporučení pro Trubeckého
+qst_oim_trubeckoy_rekomendation_text|Doporučení pro Trubeckého
+qst_oim_tzr_korsar|Carský korzár
+qst_oim_tzr_korsar_text|Carský korzár
+qst_oim_potop_main|Potopa
+qst_oim_potop_main_text|Potopa
+qst_oim_potop_find_zagloba|Pan Zagloba
+qst_oim_potop_find_zagloba_text|Pan Zagloba
+qst_oim_potop_deliver_letter|Špatné zprávy pro krále
+qst_oim_potop_deliver_letter_text|Špatné zprávy pro krále
+qst_oim_potop_deliver_swedish_solders|Nájezd do švédského zázemí
+qst_oim_potop_deliver_swedish_solders_text|Nájezd do švédského zázemí
+qst_oim_potop_deliver_swedish_troops_reward|Jít si vybrat odměnu
+qst_oim_potop_deliver_swedish_troops_reward_text|Jít si vybrat odměnu
+qst_oim_potop_defend_church|Polská svatyně
+qst_oim_potop_defend_church_text|Polská svatyně
+qst_oim_potop_defend_get_back_warshaw|Varšava
+qst_oim_potop_defend_get_back_warshaw_text|Varšava
+qst_oim_potop_capture_swedish_lord|Protestantské bludy
+qst_oim_potop_capture_swedish_lord_text|Protestantské bludy
+qst_oim_potop_shtirlic|Nový chán
+qst_oim_potop_alias|Tatarský společník
+qst_oim_potop_alias_text|Tatarský společník
+qst_oim_potop_return|Návrat hrdiny
+qst_oim_potop_return_text|Návrat hrdiny
+qst_oim_potop_kmitic|Chovanský do hlízy!
+qst_oim_potop_kmitic_text|Chovanský do hlízy!
+qst_oim_potop_volodievskiy|Zloděj koní
+qst_oim_potop_volodievskiy_text|Zloděj koní
+qst_oim_potop_kshetuskiy|Unesená nevěsta
+qst_oim_potop_kshetuskiy_text|Unesená nevěsta
+qst_oim_potop_marshal|Ranec s maršálskou holí
+qst_oim_potop_marshal_text|Ranec s maršálskou holí
+qst_oim_potop_marshal_started|Volby maršála
+qst_oim_potop_marshal_started_text|Volby maršála
+qst_oim_potop_mission_impossible|Hrdina - osvoboditel
+qst_oim_potop_mission_impossible_text|Hrdina - osvoboditel
+qst_oim_potop_capture_tszar|Carský lov
+qst_oim_potop_capture_tszar_text|Carský lov
+qst_oim_potop_king_elections_kings_node|Zaglobovo povstání
+qst_oim_potop_king_elections_kings_node_text|Zaglobovo povstání
+qst_oim_potop_king_elections_zagloba|Nevyužito
+qst_oim_potop_king_elections_zagloba_text|Nevyužito
+qst_oim_potop_last_qst|Smrt při odletu
+qst_oim_potop_last_qst_text|Smrt při odletu
+qst_oim_potop_zagloba_revoult|Císař Zagloba!
+qst_oim_potop_zagloba_revoult_text|Císař Zagloba!
+qst_oim_potop_invasion_info|Německé pluky
+qst_oim_potop_invasion_info_text|Německé pluky
+qst_oim_potop_destroy_mercs|Německé pluky
+qst_oim_potop_destroy_mercs_text|Německé pluky
+qst_oim_potop_dismiss_king|Proticarská koalice
+qst_oim_potop_dismiss_king_text|Proticarská koalice
+qst_oim_potop_execute_king|Odříct se krále
+qst_oim_potop_execute_king_text|Odříct se krále
+qst_oim_potop_final_qst|Poslední hranice
+qst_oim_potop_final_qst_text|Poslední hranice
+qst_oim_getman_defend_villages|Obrana vesnice
+qst_oim_getman_defend_villages_text|Obrana vesnice
+qst_oim_getman_main|Tajemství Černého hejtmana
+qst_oim_getman_main_text|Tajemství Černého hejtmana
+qst_oim_getman_kozaks_service|Na pochůzkách
+qst_oim_getman_kozaks_service_text|Na pochůzkách
+qst_oim_getman_za_radzivilla|Za Velikou Litvu!
+qst_oim_getman_za_radzivilla_text|Za Velikou Litvu!
+qst_oim_getman_radzivill_rebelion|Radzivillovo povstání
+qst_oim_getman_radzivill_rebelion_text|Radzivillovo povstání
+qst_oim_getman_radzivill_capture_city|První rozkaz
+qst_oim_getman_radzivill_capture_city_text|První rozkaz
+qst_oim_getman_kiev_capture|Dobytí Kyjeva
+qst_oim_getman_kiev_capture_text|Dobytí Kyjeva
+qst_oim_getman_kiev_burgomistr|Hlášení kyjevského starosty
+qst_oim_getman_kiev_burgomistr_text|Hlášení kyjevského starosty
+qst_oim_getman_kiev_burgomistr_gold|Kyjevská legenda
+qst_oim_getman_kiev_burgomistr_gold_text|Kyjevská legenda
+qst_oim_getman_ask_add_info|Nesdílný Radziville
+qst_oim_getman_ask_add_info_text|Nesdílný Radziville
+qst_oim_getman_capture_tatarin|Tatarský šlechtic
+qst_oim_getman_capture_tatarin_text|Tatarský šlechtic
+qst_oim_getman_tampliers_archives|Templářský archiv
+qst_oim_getman_tampliers_archives_text|Templářský archiv
+qst_oim_getman_nesviz_grobnica_radzivilov|Rodinná hrobka
+qst_oim_getman_nesviz_grobnica_radzivilov_text|Rodinná hrobka
+qst_oim_getman_nesviz_legend|Nesvižská legenda
+qst_oim_getman_nesviz_legend_text|Nesvižská legenda
+qst_oim_getman_tayna_knyaza|Tajemství knížecího rodu Olegovičů
+qst_oim_getman_tayna_knyaza_text|Tajemství knížecího rodu Olegovičů
+qst_oim_getman_borat_dlg|Kníže Borjatynský
+qst_oim_getman_voron_book|Boronova kniha
+qst_oim_getman_voron_translate|Pafnutij
+qst_oim_getman_kozak_legend|Kozácké legendy
+qst_oim_getman_barabash|Hejtman Barabáš
+qst_oim_getman_nesvizh_pernach|Nesvěž
+qst_oim_getman_kill_radzivill|Hejtman Radziville
+qst_oim_getman_za_barabasha|Za Barabáše!
+qst_oim_getman_caravan|Karavana s dopisem
+qst_oim_getman_za_hmelya|Za Chmelnického!
+qst_oim_na_rech_pospolitu|Na Rzeczpospolitu!
+qst_oim_getman_hmel_reb|Povstání
+qst_oim_getman_hmel_casus_beli|Vojenský konflikt
+qst_oim_getman_hmel_greate_war|Válka na dvou frontách
+qst_oim_getman_korona_vitovta|Witoldova koruna
+qst_oim_getman_last_qst|Od moře k moři
+qst_oim_na_msk_tsarzd|Na Moskevské carství!
+qst_oim_getman_barabash_reb|Povstání!
+qst_oim_getman_barabash_casus_beli|Vojenský konflikt
+qst_oim_getman_barabash_greate_war|Válka na dvou frontách
+qst_oim_dmitriy_main|Carská tajemství.
+qst_dmitriy_loot_villages|Vyplenit vesnice
+qst_oim_dmitriy_gerasim|Gerasim Evangelík
+qst_oim_dmitriy_elena|Eleonora
+qst_oim_dmitriy_eleonora|Přivézt Eleonoru Karlovi
+qst_oim_dmitriy_eleonora_home|Přivézt Eleonoru knížeti...
+qst_oim_dmitriy_deliver_letter_msk|Dopis pro cara
+qst_oim_dmitriy_deliver_letter_shwed|Dopis pro cara
+qst_oim_dmitriy_talk_to_voevoda|Rozhovor s vojvodou
+qst_oim_dmitriy_tsar_prison|Carská milost
+qst_oim_dmitriy_razin|Stěnka Razin
+qst_biyars_specnaz|Za bojary
+qst_oim_alevtina_hanum|Alevtina v harému
+qst_oim_black_lord|Lžidmitrij III.
+qst_oim_black_lord_text|Lžidmitrij III.
+qst_oim_dmitriy_elections|Carské volby
+qst_oim_dmitriy_elections_text|Carské volby
+qst_oim_duel_wound|Zranění v souboji
+qst_oim_duel_wound_text|Zranění v souboji
+qst_oim_alcoholic|Alkoholismus
+qst_oim_alcoholic_text|Alkoholismus
+qst_oim_illness_1|Zimnice
+qst_oim_illness_1_text|Zimnice
+qst_oim_illness_2|Podagra
+qst_oim_illness_2_text|Podagra
+qst_oim_illness_3|Vodnatelnost
+qst_oim_illness_3_text|Vodnatelnost
+qst_oim_illness_4|Úplavice
+qst_oim_illness_4_text|Úplavice
+qst_oim_illness_5|Svrab
+qst_oim_illness_5_text|Svrab
+qst_oim_potop_capture_city|Obsazení města
+qst_oim_deliver_caravan|Výprava karavany
+qst_oim_trade_pantent|Obchodní patent
+qst_oim_hunt_down_thieves|Honba za zloději
+qst_oim_get_feast_supplies|Zásoby na hostinu
+qst_oim_invest_2|Navrácení peněz
+qst_quests_end|Úkol splněn

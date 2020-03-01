@@ -1,0 +1,687 @@
+﻿menu_start_game_0|Witaj w "Mount and Blade. Ogniem i mieczem", wędrowcze. Zanim rozpoczniesz grę, musisz stworzyć swoją postać i wybrać poziom trudności gry.
+mno_start_easy|Łatwy
+mno_start_normal|Średni
+mno_start_hard|Trudny
+mno_go_back_dot|[Wstecz]
+menu_start_phase_2|{s10}
+mno_get_deal_with|Zobacz, co się dzieje.
+mno_talk_to_monfore|Kontynuuj...
+mno_camp_train_archery|Poćwiczyć posługiwanie się bronią palną.
+mno_continue|Kontynuuj...
+menu_reports|Sława: {reg5}^Szacunek: {reg6}^Morale oddziału: {reg8}^Wielkość oddziału: {reg7}^
+mno_view_character_report|Informacje o postaci.
+mno_view_party_size_report|Informacje o liczebności oddziału.
+mno_view_morale_report|Informacje o morale oddziału.
+mno_view_faction_relations_report|Obejrzeć dane o stosunkach z państwami.
+mno_view_banking_reports|Zapoznać się z danymi o rachunkach bankowych. 
+mno_resume_travelling|Kontynuuj...
+menu_custom_battle_end|Walka zakończona. {s1} Twój oddział zabił {reg5} wrogów i stracił {reg6} wojowników. Osobiście zabiłeś podczas walki {reg7} ludzi.
+menu_start_game_1|Wstrzymaj konia, jeźdźcze. Nastały ciężkie czasy i różnych można spotkać. Powiedz najpierw, ktoś ty?
+mno_start_male_2|Mężczyzna
+mno_start_female|Kobieta
+mno_go_back|Wróć...
+menu_start_character_1|Z jakiego rodu pochodzisz? Z jakiej rodziny?
+mno_start_noble|Moi rodzice są szlachetnymi dworzanami.
+mno_start_merchant|... wędrownym kupcem.
+mno_start_guard|... weteranem wojennym.
+mno_start_forester|... myśliwym.
+mno_start_nomad|... koczownikiem.
+mno_start_thief|... złodziejem.
+menu_start_character_2|{s10}^^ Zacząłeś poznawać świat, gdy tylko nauczyłeś się chodzić i mówić. Najmłodsze lata spędziłeś jako...
+mno_page|... paź na dworze możnowładcy.
+mno_apprentice|... czeladnik.
+mno_stockboy|... pomocnik w sklepie.
+mno_urchin|... uliczny łobuz.
+mno_nomad|... prawdziwe dziecko stepu.
+menu_start_character_3|{s11}^^ W młodości Twoje życie zmieniło się, jak to zazwyczaj bywa. Zostałeś...
+mno_squire|... posiadaczem ziemskim.
+mno_lady|... frejliną.
+mno_troubadour|... trubadurem.
+mno_student|... żakiem.
+mno_peddler|... domokrążcą.
+mno_craftsman|... kowalem.
+mno_poacher|... szulerem.
+menu_start_character_4|{s12}^^ Wkrótce jednak okoliczności zmusiły Cię do porzucenia wszystkiego i zostania poszukiwaczem przygód. Co skłoniło Cię do podjęcia takiej decyzji?
+mno_revenge|Żądza zemsty.
+mno_death|Śmierć ukochanej osoby.
+mno_wanderlust|Marzenia o podróżach do dalekich krajów.
+mno_disown|Zostałem wyrzucony z własnego domu.
+mno_greed|Dążenie do bogactwa i władzy.
+menu_choose_skill|Zauważasz w oddali grupę gotowych do walki ludzi.
+mno_begin_adventuring|Zobacz, co się dzieje.
+menu_past_life_explanation|{s3}
+mno_view_next|{s5}
+menu_auto_return|To polecenie menu powoduje automatyczny powrót do...
+menu_morale_report|{s1}
+menu_faction_orders|{s9}
+mno_faction_orders_next_faction|Wybierz kolejne państwo.
+mno_faction_orders_defend|Zmuś do obrony.
+mno_faction_orders_gather|Zmuś armię do mobilizacji.
+mno_faction_orders_increase_time|Zwiększ czas trwania ostatniego ataku do 24 godzin.
+mno_faction_orders_rethink|Zmuś do przemyślenia.
+mno_faction_orders_rethink_all|Zmusić wszystkie państwa do zmiany decyzji.
+menu_character_report|{s9}
+menu_party_size_report|{s1}
+menu_faction_relations_report|{s1}
+menu_camp|Rozbijasz obóz. Co chcesz zrobić?
+mno_camp_action_1|Cheat: pospacerować dookoła.
+mno_camp_action|Podjąć działanie.
+mno_oim_diplomacy_menu|Dyplomacja
+mno_wagenburg_action_on|Wybuduj Wagenburg.
+mno_wagenburg_action_off|Zburz Wagenburg.
+mno_camp_wait_here|Poczekać jakiś czas.
+mno_camp_cheat|MENU KODÓW CHEAT!
+mno_ms_extra_adviser|Wysłać gońca do pomocnika przywódcy.
+menu_camp_cheat|Wybierz cheat:
+mno_camp_cheat_1|Zwiększyć popularność gracza.
+mno_camp_action_4|Wrócić do menu obozu...
+menu_camp_action|Wybierz działanie:
+mno_camp_recruit_prisoners|Zwerbować niektórych jeńców do swojego oddziału.
+mno_action_read_book|Wybrać książkę do czytania.
+mno_action_modify_banner|Zmienić wygląd sztandaru.
+mno_action_retire|Przejść w stan spoczynku.
+menu_camp_recruit_prisoners|Proponujesz swoim jeńcom wolność, jeśli zgodzą się dołączyć do Twojego oddziału. {s18}
+mno_camp_recruit_prisoners_accept|Wziąć ich.
+mno_camp_recruit_prisoners_reject|Odmówić im.
+menu_camp_no_prisoners|Nie masz jeńców do zwerbowania.
+menu_camp_action_read_book|Wybierz książkę do czytania.
+mno_action_read_book_1|{s1}.
+mno_action_read_book_2|{s1}.
+mno_action_read_book_3|{s1}.
+mno_action_read_book_4|{s1}.
+mno_action_read_book_5|{s1}.
+mno_action_read_book_6|{s1}.
+mno_action_read_book_7|{s1}.
+menu_camp_action_read_book_start|{s1}
+menu_retirement_verify|Dziś nastał {reg0} dzień Twoich przygód. Twój majątek wynosi {reg1} talarów. Jesteś pewien, że chcesz przejść w stan spoczynku?
+mno_retire_yes|Tak
+mno_retire_no|Nie
+menu_end_game|Decyzja została przyjęta - pora zakończyć tułaczkę. Nie masz ani sił, ani ochoty na szukanie kolejnych przygód. Sprzedajesz broń i zbroję, zwalniasz oddział i znajdujesz cichą przystań, z dala od wojen i zamieszek...
+mno_end_game_bye|Żegnaj.
+menu_pay_day|{s1}.
+menu_cattle_herd|Natykasz się na stado bydła.
+mno_cattle_drive_away|Pognać stado.
+mno_cattle_stop|Zatrzymać stado.
+mno_cattle_kill|Zabić kilka zwierząt.
+mno_leave|Odejść...
+menu_cattle_herd_kill|Ile zwierząt chcesz zabić?
+mno_cattle_kill_1|Jedno.
+mno_cattle_kill_2|Dwa.
+mno_cattle_kill_3|Trzy.
+mno_cattle_kill_4|Cztery.
+mno_cattle_kill_5|Pięć.
+menu_cattle_herd_kill_end|Nie powinieneś widzieć tego tekstu.
+menu_arena_duel_fight|Ty i Twój przeciwnik przygotowujecie się do pojedynku.
+menu_simple_encounter|{s2} Stosunek siły oddziału przeciwnika do Twojej drużyny wynosi {reg11} do {reg10}. ^{s4}
+mno_encounter_attack|Zaatakować wroga.
+mno_encounter_attack_wagenburg_mounted|Zaatakować konnicą.
+mno_encounter_attack_wagenburg_unmounted|Zaatakować piechotą.
+mno_encounter_order_attack|Rozkazać wojsku zaatakować bez Ciebie.
+mno_encounter_leave|Odejść...
+mno_encounter_retreat|Wycofać się, zostawiając kilku żołnierzy do ochrony tyłów.
+mno_encounter_surrender|Poddać się.
+menu_encounter_retreat_confirm|   Jako najlepszy taktyk w oddziale ({reg2} punktów taktyki), {reg3?opracowujesz:{s3} opracowuje} plan, który pozwoli Tobie i twoim ludziom ujść cało, jednak będzie trzeba zostawić {reg4} wojowników, którzy zatrzymają wroga.
+mno_leave_behind|Poświęcić tych ludzi, żeby uratować pozostałych.
+mno_dont_leave_behind|Zostać na polu bitwy.
+menu_encounter_retreat|Wydajesz rozkaz. {reg4} wojowników zatrzyma wroga. W tym czasie wycofujesz się z częścią oddziału.
+menu_order_attack_begin|Twoje wojska przygotowują się do ataku na przeciwnika.
+mno_order_attack_begin|Wydać rozkaz do rozpoczęcia ataku.
+mno_call_back|Odwołać wojska.
+menu_order_attack_2|{s4}^^Twoje straty: {s8}^^Straty przeciwnika: {s9}
+mno_order_attack_continue|Rozkazać swoim wojownikom kontynuować atak.
+mno_order_retreat|Odwołać swoich żołnierzy.
+menu_battle_debrief|{s11}^^Twoje straty: {s8}{s10}^^Straty przeciwnika: {s9}
+menu_total_victory|Nie powinieneś widzieć tego tekstu. {s9}
+menu_enemy_slipped_away|{s17}
+menu_total_defeat|Nie powinieneś widzieć tego tekstu.
+menu_permanent_damage|{s0}
+mno_s0|{s0}
+menu_pre_join|Trafiłeś na moment, gdy walczą ze sobą {s2} i {s1}. Wesprzesz jedną ze stron, czy może czmychniesz?
+mno_pre_join_help_attackers|Wesprzeć {s2}.
+mno_pre_join_help_defenders|Wesprzeć {s1}.
+mno_pre_join_talk|Zamień słowo z napastnikami.
+mno_pre_join_leave|Odejść...
+menu_join_battle|{s2} staje się twoim sojusznikiem w bitwie. {s1} chce was zaatakować. Macie {reg10} gotowych do walki wojowników, wróg posiada ich {reg11}.
+mno_join_attack|Zaatakować przeciwnika.
+mno_join_order_attack|Rozkazać wojskom zaatakować wraz z sojusznikami, a samemu pozostać z boku.
+mno_join_leave|Wycofać się.
+menu_join_order_attack|{s4}^^Twoje straty: {s8}^^Straty sojuszników: {s9}^^Straty przeciwnika: {s10}
+menu_zendar|Wjeżdżasz do miasta Zendar.
+mno_zendar_enter| 
+mno_zendar_enter_door|Wejście do centrum miasta
+mno_zendar_tavern| 
+mno_zendar_tavern_door|Wejście do tawerny
+mno_zendar_merchant| 
+mno_zendar_merchant_door|Wejście do sklepiku
+mno_zendar_arena| 
+mno_zendar_arena_door|Wejście na arenę
+mno_town_1_leave| 
+menu_salt_mine|Wchodzisz do kopalni soli.
+mno_enter|Wejść.
+menu_four_ways_inn|Przybywasz do karczmy Czterech Dróg.
+menu_test_scene|Wchodzisz na plac ćwiczebny.
+menu_battlefields|Wybierz plac.
+mno_enter_f1|Plac 1
+mno_enter_f2|Plac 2
+mno_enter_f3|Plac 3
+mno_enter_f4|Plac 4
+mno_enter_f5|Plac 5
+menu_dhorak_keep|Wjeżdżasz do twierdzy Dorak.
+menu_join_siege_outside|{s2} dokonuje oblężenia. {s1} się broni.
+mno_approach_besiegers|Udać się do obozu oblężniczego.
+mno_pass_through_siege|Przedostać się przez linię oblężenia, by dostać się do miejscowości {s1}.
+menu_cut_siege_without_fight|Oblegający pozwalają Ci bez przeszkód zbliżyć się do bramy.
+menu_besiegers_camp_with_allies|{s1} się broni. {s2} atakuje miasto. Wraz ze swoimi ludźmi jesteś witany w obozie.
+mno_talk_to_siege_commander|Zażądać spotkania z dowódcą.
+mno_join_siege_with_allies|Przyłączyć się do kolejnego ataku.
+mno_join_siege_stay_back|Rozkazać wojownikom przyłączyć się do kolejnego ataku bez Ciebie.
+menu_castle_outside|Przed Tobą {s2}.{s11} {s3} {s4}
+mno_approach_gates|Zbliżyć się do bramy i przywitać się ze strażnikiem.
+mno_town_sneak|Przebrać się i spróbować dostać się do miasta.
+mno_castle_start_siege|Okrążyć {reg6?miasto:twierdzę}.
+mno_talk_to_pafnutiy_menu|Porozmawiać z Pafnucym...
+mno_talk_to_borzobogataya|Pomówić z Anusią.
+mno_talk_to_borzobogataya_door|Pomówić z Anusią.
+mno_talk_to_ransom_broker|Porozmawiać z handlarzem niewolników. 
+mno_talk_to_pafnutiy_dlg|Porozmawiać z Pafnucym...
+mno_talk_to_pafnutiy_dlg_door|Porozmawiać z Pafnucym...
+mno_castle_leave|Odejść...
+menu_castle_guard|Zbliżasz się do bramy. Ludzie na murach bacznie Cię obserwują.
+mno_request_shelter|Poprosić o pozwolenie na wjazd do zamku.
+mno_request_meeting_commander|Poprosić o spotkanie.
+mno_guard_leave|Odejść...
+menu_castle_entry_granted|Po krótkim czasie strażnik otwiera bramę i wpuszcza Cię do środka.
+menu_castle_entry_denied|Władca tego zamku zabronił Ci wchodzić za jego mury. Dowódca straży uprzedza, że jego wojownicy będą strzelać, jeśli zechcesz podejść bliżej.
+menu_castle_meeting|Z kim chciałbyś się spotkać?
+mno_guard_meet_s5|{s5}
+mno_forget_it|[Wstecz]
+menu_castle_meeting_selected|Twoja prośba przekazywana jest kolejnym instancjom. W końcu na dziedzińcu pojawia się {s6}, żeby z Tobą porozmawiać.
+menu_castle_besiege|Okrążasz {s1}. {s2} {s3}
+mno_build_ladders|Przygotować drabiny do szturmu na mury.
+mno_siege_request_meeting|Wezwać na spotkanie dowódcę obrony zamku.
+mno_town_diversiya|Otruć wodę w mieście. 
+mno_town_vorvatsya|Spróbować wtargnąć do miasta.
+mno_build_podkop|Wysadzić mury miną. 
+mno_castle_lead_attack|Poprowadzić oddział do ataku.
+mno_castle_lead_attack_podkop|Rozpocząć szturm. 
+mno_attack_stay_back|Rozkazać żołnierzom zaatakować bez Ciebie.
+mno_build_siege_tower|Zbudować wieżę oblężniczą.
+mno_cheat_castle_lead_attack|CHEAT: Błyskawiczne wyposażenie wojska.
+mno_wait_24_hours|Poczekać do jutra.
+mno_lift_siege|Zakończyć oblężenie.
+menu_siege_attack_meets_sally|Obrońcy dokonują zwrotu i rozpoczynają kontratak.
+menu_castle_besiege_inner_battle|{s1}
+menu_construct_ladders|Zgodnie z waszymi wyliczeniami, na przygotowanie drabin oblężniczych potrzeba będzie około {reg4} godzin.
+mno_build_ladders_cont|Przygotować drabiny oblężnicze.
+mno_go_back_assault|Rozpatrzeć inne warianty szturmu.
+menu_construct_siege_tower|Będąc inżynierem w oddziale ({reg2} punktów inżynierii), {reg3?liczysz:{s3} liczy}, że budowa wieży oblężniczej zajmie około {reg4} godzin.
+mno_build_siege_tower_cont|Rozpocząć budowę.
+menu_castle_attack_walls_simulate|{s4}^^Twoje straty: {s8}^^Straty przeciwnika: {s9}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Twoje straty: {s8}^^Straty sojuszników: {s9}^^Straty przeciwnika: {s10}
+menu_castle_taken_by_friends|Nie ma tu na co patrzeć.
+menu_castle_taken|{s3} pada pod naciskiem Twoich wojsk. Teraz całkowicie kontrolujesz {reg2?miasto:zamek}.{reg1? Nic nie stoi na przedzkodzie w jego zagarnięciu.: }
+menu_castle_taken_2|{s3} pada pod naporem Twoich wojsk. Teraz całkowicie kontrolujesz to miejsce. Twój oddział świętuje zwycięstwo.
+mno_castle_taken_claim|Zażądać miejscowość {s3}, jako nagrodę.
+mno_castle_taken_no_claim|Kontynuuj...
+mno_castle_taken_oim|Miejscowość {s3} winna pod moim władaniem pozostać.
+menu_requested_castle_granted_to_player|{s3} przesyła Ci wiadomość.^^{reg4?Podjęła:Podjął} decyzję o ofiarowaniu Ci {s2}{reg3? i pobliskiej wsi {s4}:}, wraz z dochodami i tytułami, żebyś mógł panować nad tymi dobrami w {reg4?jej:jego} imieniu tak długo, jak długo będziesz oddany.
+menu_requested_castle_granted_to_another|{s3} przesyła Ci wiadomość.^^''Wielce ucieszyły nas wieści o Twoim męstwie i zdobyciu zamku {s2}. Twoje zwycięstwo wypełniło szczęściem nasze serca. Pamiętam, jak prosiłeś o podarowanie Ci zamku, jednak obawiam się, że decyzja będzie odmowna. Władasz już wieloma ziemiami w moim państwie. Zamiast tego przesyłam Ci {reg6} talarów, aby pokryć koszty Twojej kampanii wojennej. {s2} otrzyma nowego władcę, będzie nim {s5}''.
+mno_accept_decision|Przyjąć tę decyzję.
+mno_leave_faction|Potraktowano Cię nieuczciwie! Nie masz już obowiązku służyć temu władcy!
+menu_leave_faction|Wyrzeczenie się wierności to ciężkie przestępstwo. Twój władca może surowo Cię ukarać i odebrać Ci wszystkie ziemie. Jeśli jednak zwrócisz je dobrowolnie, możliwe, że nie będzie Cię prześladować za zdradę.
+mno_leave_faction_give_back|Wyrzec się ślubów wierności i zrezygnować ze swego mienia.
+mno_leave_faction_hold|Wyrzec się ślubów wierności i zachować ziemie oraz mienie.{s2} także do Ciebie należeć będzie.
+mno_leave_faction_cancel|Dochować wierności władcy i zgodzić się z jego decyzją.
+menu_give_center_to_player|Władca chce Cię nagrodzić! {s1} przesyła list, w którym informuje, że {s2} to nagroda za twą oddaną służbę, powiększając tym samym Twoje mienie. Jaka będzie Twoja odpowiedź?
+mno_give_center_to_player_accept|Przyjąć propozycję.
+mno_give_center_to_player_reject|Odmówić. {s2} nie leży w kręgu moich zainteresowań.
+menu_give_center_to_player_2|Podczas krótkiej ceremonii oficjalnie ogłoszono, że {s2}{reg3? wraz z wioską {s4} : }to od teraz Twoja własność. {reg3?Stanie się on:Staną się one} częścią Twoich posiadłości. Od teraz możesz pobierać podatki od ziemi i posiadłości, rekrutować żołnierzy i zarządzać tymi ziemiami, jak tylko zechcesz. Oczekuje się jednak od Ciebie, że będziesz bronił swych ziem, nie pozwolisz, aby ktoś wyrządził krzywdę twoim poddanym, oraz zadbasz o praworządność i ład.
+menu_oath_fulfilled|Na mocy umowy, którą miał z Tobą {s1}, musiałeś służyć mu przez określony czas. Umowa wygasła. Co masz zamiar zrobić?
+mno_renew_oath|Niech {s1} ma ze mną umowę na kolejny miesiąc.
+mno_dont_renew_oath|Uwolnić się od zobowiązań.
+menu_siege_started_defender|{s1} rozpoczyna szturm. {s2} się broni. Masz {reg10} żołnierzy gotowych do walki, przeciwko {reg11} wojownikom przeciwnika. Jaka jest Twoja decyzja?
+mno_siege_defender_join_battle|Rozpocząć walkę.
+mno_siege_defender_troops_join_battle|Rozkazać swoim ludziom rozpocząć walkę bez Ciebie.
+menu_siege_join_defense|{s4}^^Twoje straty: {s8}^^Straty sojuszników: {s9}^^Straty przeciwnika: {s10}
+menu_enter_your_own_castle|Twoje przybycie zostaje zauważone przez strażników zamku. Witają Cię i otwierają Ci bramę, abyś {mógł/mogła} wejść do środka.
+menu_village|{s10}{s11}{s6}{s7}{s20}{s21}
+mno_village_manage|Zarządzać wsią.
+mno_village_ms|Porozmawiać ze starostą.
+mno_additional_menu_ms|Przejść do centrum wsi...
+mno_recruit_volunteers|Zwerbować ochotników.
+mno_village_center|Skierować się do środka wsi.
+mno_village_center_door|Droga do centrum wsi.
+mno_village_buy_food|Kupić u chłopów zapasy.
+mno_village_attack_bandits|Zaatakować rozbójników.
+mno_village_wait|Poczekać jakiś czas.
+mno_collect_taxes_qst|{reg5?Kontynuować pobieranie podatków:Zebrać podatki}, jak przykazał {s1}.
+mno_train_peasants_against_bandits_qst|Przeszkolić chłopów.
+mno_village_hostile_action|Przedsięwziąć wrogie działania.
+mno_oim_potop_sneak_into_village|Idź do stajni.
+mno_village_center_nesvz|Udać się do grobowca.
+mno_village_center_nesvz_door|Udać się do grobowca.
+mno_talk_to_yavangelik|Pomówić z Ewangelikiem.
+mno_talk_to_yavangelik_door|Pomówić z Ewangelikiem.
+mno_village_leave|Odejść...
+menu_village_hostile_action|Co chcesz zrobić?
+mno_village_take_food|Zmusić chłopów do oddania zapasów.
+mno_village_steal_cattle|Uprowadzić bydło.
+mno_village_loot|Ograbić i spalić tę wieś.
+menu_recruit_volunteers|{s18}
+mno_recruit_them|Wynajmij za {reg6} talarów.
+menu_village_hunt_down_fugitive_defeated|Mocne uderzenie zbija Cię z nóg, wszystko wokół wiruje w oczach i gaśnie. Odzyskujesz przytomność i dociera do Ciebie, że zostałeś poważnie pobity, ale Twoje rany nie są śmiertelne.
+menu_village_infest_bandits_result|{s9}
+menu_village_infestation_removed|Wraz ze swoimi ludźmi przegnałeś rozbójników ze wsi. Ludzie układają pieśni o tym wspaniałym zwycięstwie. Mieszkańcy są bezpieczni. Nie mają już nic wartościowego, ale oddadzą Ci wszystko, co będą w stanie zebrać.
+mno_village_bandits_defeated_accept|Przyjąć nagrodę.
+mno_village_bandits_defeated_cont|Odmówić, zaznaczając, że potrzebują wszystkiego o wiele bardziej niż Ty.
+menu_center_manage|{s19}^{reg6?^^Obecna budowa - {s7}. Czas do zakończenia prac: {reg8} dni{reg9?:}.: }
+mno_center_build_manor|Zbudować posiadłość.
+mno_center_build_fish_pond|Zbudować młyn.
+mno_center_build_watch_tower|Zbudować wieżę wartowniczą.
+mno_center_build_school|Zbudować szkółkę.
+mno_center_build_messenger_post|Zbudować pocztę.
+mno_center_build_prisoner_tower|Zbudować więzienie.
+menu_center_improve|{s19} Będąc najlepszym inżynierem w oddziale ({reg2} punktów inżynierii), {reg3?obliczasz:{s3}oblicza} koszt budowy. {s4} będzie Cię kosztować {reg5} talarów, a budowa zajmie {reg6} dni.
+mno_improve_cont|Rozpocząć budowę.
+mno_improve_not_enough_gold|Mam za mało pieniędzy
+menu_town_bandits_failed|{s4} {s5}
+menu_town_bandits_succeeded|Rozbójnicy padają przed Tobą jeden po drugim, jak skoszone zboże. Wkrótce zostajesz sam. Większość wrogów leży bez przytomności - niektórzy konają, inni już nie żyją. Przeszukując ich, znalazłeś sakiewkę, która prawdopodobnie należała niegdyś do jednej z ofiar tych łajdaków. A może w sakwie znajduje się zapłata za Twoją śmierć?
+menu_village_steal_cattle_confirm|Jako najbardziej doświadczony złodziej w oddziale ({reg2} punktów grabieżcy), {reg3?liczysz:{s1} liczy}, że możesz uprowadzić ze wsi nie więcej niż {reg4} sztuki bydła.
+mno_village_steal_cattle_confirm|Ukraść
+menu_village_steal_cattle|{s1}
+menu_village_take_food_confirm|Nie będzie łatwo groźbą zmusić chłopów do oddania ich wartościowych zapasów. Szacujesz, że będziesz na to potrzebował co najmniej godziny.
+mno_village_take_food_confirm|Rozpocząć rabunek.
+menu_village_take_food|Chłopi mimo woli wynoszą wszystko, co mają.
+mno_take_supplies|Zabrać zapasy.
+mno_let_them_keep_it|Pozwolić im zachować zapasy.
+menu_village_start_attack|Któryś spośród rozgniewanych mieszkańców wioski łapie widły z zamiarem przeciwstawienia się Tobie. Zdaje się, że czeka Cię walka.
+mno_village_raid_attack|Rozpocząć bitwę.
+mno_village_raid_leave|Zostawić w spokoju tę wieś.
+menu_village_loot_no_resist|Na Twój widok garstka mieszkańców wsi rozbiega się we wszystkich kierunkach. Ze strachu porzucają wszystko, co posiadali. Losy tej wsi spoczywają w Twoich rękach!
+menu_village_loot_complete|Na Twój rozkaz wojownicy pustoszą wieś, zabierając co wartościowsze rzeczy, a następnie podpalają domy. Ze znalezionych pieniędzy i kosztowności odbierasz swoją dolę w wysokości {reg1} talarów.
+menu_village_loot_defeat|W odważnej, zdecydowanej walce mieszkańcy zorganizowali obronę i stawili czoła twoim siłom.
+menu_village_loot_continue|Kontynuować grabienie wsi?
+mno_disembark_yes|Tak
+mno_disembark_no|Nie
+menu_close|Nic.
+menu_center_tax|Otrzymujesz opłatę ziemską i podatki z tej posiadłości w wysokości {reg1} talarów.
+menu_town|{s10}{s11}{s12}{s13}{s20}{s21}
+mno_castle_castle|Przejść do komnaty władcy.
+mno_castle_castle_door|Do komnaty władcy
+mno_join_tournament|Wziąć udział w turnieju.
+mno_town_castle|Skierować się do zamku.
+mno_town_castle_door|Do komnaty władcy
+mno_town_center|Pospacerować ulicami.
+mno_town_center_door|Wejście do centrum miasta
+mno_town_tavern|Iść do karczmy.
+mno_town_tavern_door|Wejście do karczmy
+mno_town_merchant|Porozmawiać z kupcem.
+mno_town_merchant_door|Wejście do sklepu
+mno_town_arena|Wejść na arenę.
+mno_town_arena_door|Wejście na arenę.
+mno_town_dungeon_door|Wejście do więzienia
+mno_castle_inspect|Przejść się po dziedzińcu.
+mno_castle_inspect_door|Na dziedziniec zamku
+mno_trade_with_merchants|Ruszyć na rynek.
+mno_town_ms|Porozmawiać z włodarzem miasta.
+mno_additional_menu_town_ms|Przejść do centrum miasta.
+mno_diplomatic_center|Przejść do centrum dyplomatycznego.
+mno_walled_center_manage|Zarządzać {reg0?tym miastem:tą twierdzą}.
+mno_castle_station_troops|Zorganizować tu garnizon.
+mno_castle_wait|Poczekać tu jakiś czas{s1}.
+mno_go_to_the_garem|Przeniknąć do haremu.
+mno_town_alley|CHEAT: Ruszyć do zaułka.
+mno_castle_tavern|Iść do karczmy.
+mno_castle_tavern_door|Iść do karczmy.
+mno_castle_trade_with_merchants|Iść na rynek. 
+mno_zdat_tatarina|Przekaż Tatara.
+mno_zdat_tatarina_door|Przekaż Tatara.
+mno_town_leave|Odejść...
+mno_town_leave_door|Opuścić teren.
+mno_cheat_town_start_siege|CHEAT! Okrążyć {reg6?miasto:zamek}...
+mno_center_reports|CHEAT! Wyświetlić raporty.
+mno_sail_from_port|Wypłynąć z portu.
+menu_town_tournament_lost|Opuściłeś zawody.
+menu_town_tournament_won|Wygrałeś turniej! {s3} podziwia twe zwycięstwo! Rozpiera Cię duma, gdy tłumy skandują Twoje imię. Oprócz szacunku, rozgłosu i popularności zdobyłeś nagrodę w wysokości {reg9} talarów. {s8}
+menu_town_tournament_won_by_another|Jedyny wojownik, który nie poznał smaku klęski, {s1} wygrywa ten turniej i to {reg3?ona:on} zdobywa sławę.
+menu_town_tournament|{s1}Bierzesz udział w {reg0} rundzie turnieju. Pozostało {reg1} uczestników. W następnej rundzie znajdzie się {reg2} drużyn, liczących po {reg3}{reg4?.:.} wojowników w każdej.
+mno_tournament_view_participants|Obejrzeć listę uczestników.
+mno_tournament_bet|Postawić na siebie.
+mno_tournament_join_next_fight|Walczyć w kolejnej rundzie.
+mno_leave_tournament|Zrezygnować z udziału w turnieju.
+menu_tournament_withdraw_verify|Jesteś pewien, że chcesz opuścić turniej?
+mno_tournament_withdraw_yes|Tak, to bezsensowny pomysł.
+mno_tournament_withdraw_no|Nie, jest jeszcze nadzieja na zwycięstwo!
+menu_tournament_bet|Twoje stawki: {reg5} do {reg6}.{reg1? Postawiłeś już {reg1} talarów na siebie. Jeśli zwyciężysz, zdobędziesz {reg2} talarów.: } Ile chcesz postawić?
+mno_bet_100_denars|100 talarów
+mno_bet_50_denars|50 talarów
+mno_bet_20_denars|20 talarów
+mno_bet_10_denars|10 talarów
+mno_bet_5_denars|5 talarów
+menu_tournament_bet_confirm|Jeśli postawisz {reg1} talarów, zdobędziesz {reg2} talarów w przypadku zwycięstwa w turnieju. Zgadzasz się?
+mno_tournament_bet_accept|Tak.
+mno_tournament_bet_cancel|Nie.
+menu_tournament_participants|Prosisz jednego z heroldów o listę uczestników turnieju. Oto ich imiona:^{s11}
+menu_collect_taxes|Będąc najlepszym kupcem w oddziale ({reg2} punktów handlu), {reg3?spodziewasz się:{s1} spodziewa się}, że pobór podatków w tej miejscowości zajmie nie więcej niż {reg4} dni.
+mno_start_collecting|Rozpocząć pobór.
+mno_collect_later|Odłożyć na później.
+menu_collect_taxes_complete|Zebrałeś {reg3} talarów z podatków. {s19} oczekuje na dostarczenie tych pieniędzy.
+menu_collect_taxes_rebels_killed|Dzięki twym zdecydowanym działaniom bunt został stłumiony. Co za tym idzie - teraz niezadowoleni pomyślą dwa razy, zanim powstaną przeciwko Tobie.
+menu_collect_taxes_failed|{s3} nie przoduje pod względem płacenia podatków. Do wybuchu powstania, udało Ci się zebrać tylko {reg3} talarów. {s1} nie będzie zadowolony. Zawsze jednak niewielka ilość srebra jest lepsza niż nic...
+menu_collect_taxes_revolt_warning|{s3} - mieszkańcy są wściekli z powodu Twoich żądań i nazwali Cię złodziejem. Mogą powstać przeciwko Tobie, jeśli nadal będziesz ich uciskał.
+mno_continue_collecting_taxes|Ignoruj i kontynuuj.
+mno_halve_taxes|Obniżyć podatki o połowę. ({s1} nie będzie zachwycony).
+menu_collect_taxes_revolt|Pobór podatków w miejscowości {s3} został przerwany przez tłum wściekłych {reg9?chłopów:mieszczan}, który wyszedł na ulice wymachując pochodniami i bronią. Zdaje się, że rozgoryczeni mieszkańcy mają zamiar z Tobą walczyć!
+menu_train_peasants_against_bandits|   Jako najlepszy nauczyciel w oddziale ({reg2} punktów wykształcenia), {reg3?oceniasz:{s1} ocenia}, że wstępne szkolenie chłopów zajmie około {reg4} godzin.
+mno_make_preparation|Nauczyć ich.
+mno_train_later|Odłożyć na później.
+menu_train_peasants_against_bandits_ready|Szkolisz chłopów z podstaw służby wojskowej, dyscypliny i subordynacji. Uważasz, że {reg0} z nich dobrze {reg1?opanowało:opanował} lekcję i {reg1?są gotowi:jest gotów} do walki.
+mno_peasant_start_practice|Rozpocząć walkę treningową.
+menu_train_peasants_against_bandits_training_result|{s0}
+menu_train_peasants_against_bandits_attack|Kiedy trenowałeś z ochotnikami, od strony wsi, z krzykiem, przybiegł człowiek. Na horyzoncie zauważono bandytów, zbliżających się szybko w stronę {s3}. Starosta wsi błaga, abyś stanął przeciwko bandytom ze świeżo przeszkolonymi ochotnikami.
+mno_peasants_against_bandits_attack_resist|Przygotować się do boju!
+menu_train_peasants_against_bandits_attack_result|{s9}
+menu_train_peasants_against_bandits_success|Rozbójnicy pokonani! Garstka pozostałych przy życiu ucieka co sił w nogach przed chłopami i ich nowym obrońcą. Mieszkańcom pozostało niewiele cennych rzeczy, jednak oferują Ci skromne dary na znak wdzięczności.
+menu_disembark|Chcesz tu zawinąć?
+menu_ship_reembark|Chcesz wyjść na brzeg?
+mno_reembark_yes|Tak.
+mno_reembark_no|Nie.
+menu_center_reports|Nazwa miasta: {s1}^Dochody z podatku ziemskiego: {reg1} talarów^Dochody z poborów i cła: {reg2} talarów^Zapasy: na {reg3} dni
+mno_to_price_and_productions|Wyświetlić produkowane towary wraz z cenami.
+menu_price_and_production|Wykaz produkowanych towarów:^{s1}^^Ceny:^{s2}
+menu_town_trade|Kierujesz się na rynek.
+mno_assess_prices|Poznać tutejsze ceny.
+mno_trade_with_arms_merchant|Porozmawiać z handlarzem bronią.
+mno_trade_with_armor_merchant|Porozmawiać z handlarzem zbrojami.
+mno_trade_with_horse_merchant|Porozmawiać z handlarzem końmi.
+mno_trade_with_goods_merchant|Porozmawiać z handlarzem różnymi towarami.
+mno_back_to_town_menu|[Wstecz]
+menu_town_trade_assessment_begin|Przysłuchujesz się rozmowom o tutejszych cenach w nadziei na zawarcie najkorzystniejszej transakcji.
+menu_town_trade_assessment|   Jako najlepszy kupiec w oddziale ({reg2} punktów handlu), {reg3?przeliczasz:{s1} przelicza}, jakimi towarami najkorzystniej będzie handlować. {s2}
+menu_sneak_into_town_suceeded|Przebrawszy się za biednego pielgrzyma, wprowadzasz w błąd straż i niepostrzeżenie wchodzisz do miasta.
+menu_sneak_into_town_caught|Kiedy próbujesz wejść do środka, jeden ze strażników rozpoznaje Cię i wszczyna alarm! Musisz uciekać przez bramę, zanim rzucą się na Ciebie wszyscy strażnicy!
+mno_sneak_caught_fight|Spróbujmy dostać się siłą!
+mno_sneak_caught_surrender|Poddać się.
+menu_sneak_into_town_caught_dispersed_guards|Wprowadzasz strażników w błąd, zacierając ślady. Udaje Ci się uwolnić od prześladowców w labiryncie ulic.
+menu_sneak_into_town_caught_ran_away|Wracasz przez bramę i szybko wycofujesz się na wzgórza, w bezpieczne miejsce.
+menu_enemy_offer_ransom_for_prisoner|{s2} zapłaci Ci {reg12} talarów, jeśli {s1} odzyska wolność.
+mno_ransom_accept|Przyjąć propozycję.
+mno_ransom_reject|Odrzucić ofertę.
+menu_training_ground|Wjeżdżasz do obozu najemników... Możesz tutaj wziąć ludzi do oddziału i uzbroić swoich żołnierzy.
+mno_camp_trainer|Porozmawiać z nauczycielem.
+mno_camp_merch|Znaleźć kapitana najemników.
+mno_camp_train_melee|Walka w zwarciu.
+mno_camp_train_mounted|Trening jazdy wierzchem.
+mno_go_to_track|Cheat: przejść na ścieżkę
+mno_go_to_range|Cheat: przejść do dystansu
+menu_training_ground_selection_details_melee_1|Z iloma przeciwnikami będziesz walczyć?
+mno_camp_train_melee_num_men_1|Z jednym
+mno_camp_train_melee_num_men_2|Z dwoma
+mno_camp_train_melee_num_men_3|Z trzema
+mno_camp_train_melee_num_men_4|Z czterema
+menu_training_ground_selection_details_melee_2|Wybrać przeciwnika #{reg1}:
+mno_training_ground_selection_details_melee_random|Wybór losowy
+menu_training_ground_selection_details_mounted|Z jaką bronią chciałbyś potrenować?
+mno_camp_train_mounted_details_1|Broń jednoręczna
+mno_camp_train_mounted_details_2|Broń drzewcowa
+mno_camp_train_mounted_details_3|Łuk
+mno_camp_train_mounted_details_4|Broń miotająca
+menu_training_ground_selection_details_ranged_1|Jaką bronią dystansową chciałbyś potrenować?
+mno_camp_train_ranged_weapon_bow|Łuk i strzały
+mno_camp_train_ranged_weapon_crossbow|Pistolet
+mno_camp_train_ranged_weapon_mushket|Muszkiet
+mno_camp_train_ranged_weapon_thrown|Noże do rzucania
+menu_training_ground_selection_details_ranged_2|Z jakiej odległości chcesz strzelać?
+mno_camp_train_ranged_details_1|10 kroków
+mno_camp_train_ranged_details_2|20 kroków
+mno_camp_train_ranged_details_3|30 kroków
+mno_camp_train_ranged_details_4|40 kroków
+mno_camp_train_ranged_details_5|50 kroków
+mno_camp_train_ranged_details_6|60 kroków
+mno_camp_train_ranged_details_7|70 kroków
+menu_training_ground_description|{s0}
+mno_s2_dot|{s2}...
+menu_training_ground_training_result|{s7}{s2}
+menu_marshall_selection_candidate_ask|W miejscowości {s23} wkrótce odbędą się wybory nowego marszałka. Niektórzy z wielmożów zgłosili Twoją kandydaturę.
+mno_marshall_candidate_accept|Wysunąć swoją kandydaturę w wyborach.
+mno_marshall_candidate_reject|Odmówić, ponieważ jesteś teraz zbyt zajęty.
+menu_captivity_avoid_wilderness|Nagle pociemniało Ci przed oczyma. Kilka godzin później odzyskujesz przytomność i zaczyna do Ciebie docierać, że leżysz w tym samym miejscu, w którym upadłeś. Zdaje się, że wrogowie wzięli Cię za martwego i zostawili na polu bitwy. Żadna z Twoich ran nie jest śmiertelna, możesz się poruszać, chociaż czujesz się okropnie. Wstajesz i próbujesz znaleźć żywych członków Twojego oddziału.
+menu_captivity_start_wilderness|wypełniacz
+menu_captivity_start_wilderness_surrender|wypełniacz
+menu_captivity_start_wilderness_defeat|Trafiasz do niewoli!
+menu_captivity_start_castle_surrender|wypełniacz
+menu_captivity_start_castle_defeat|wypełniacz
+menu_captivity_start_under_siege_defeat|Trafiasz do niewoli!
+menu_captivity_wilderness_taken_prisoner|Trafiasz do niewoli!
+menu_captivity_wilderness_check|wypełniacz
+menu_captivity_end_wilderness_escape|Po wielu ciężkich dniach w zamknięciu uciekasz z niewoli!
+menu_captivity_castle_taken_prisoner|Strażnicy otaczają Cię i zabierają Ci broń. Klnąc i pokrzykując, wtrącają Cię do lochu, który przez jakiś czas będzie twoim więzieniem.
+menu_captivity_rescue_lord_taken_prisoner|Nie ujawniasz się, dopóki możesz wytrzymać. Strażnicy są wściekli i zostajesz okrutnie pobity, zanim znów zamkną Cię w celi, Bóg wie na jak długo...
+menu_captivity_castle_check|wypełniacz
+menu_captivity_end_exchanged_with_prisoner|   Po wielu dniach w zamknięciu zostajesz uwolniony, twoi oprawcy wymienili Cię na innego jeńca.
+menu_captivity_end_propose_ransom|Spędzasz długie godziny w wilgotnych, ciemnych podziemiach... Zdawałoby się, że tkwisz tu od wieków. Nagle jeden z Twoich oprawców wchodzi do celi z propozycją! Gotów jest uwolnić Cię za {reg5} talarów pochodzących z Twoich tajnych oszczędności. Postanawiasz...
+mno_captivity_end_ransom_accept|Przyjąć propozycję.
+mno_captivity_end_ransom_deny|Odrzucić ofertę i poczekać na inną możliwość ratunku.
+menu_captivity_castle_remain|W Twojej mrocznej celi dni mijają jeden za drugim. Trzymasz się ostatkiem sił. Wciąż Cię biją. Widzisz, jak z głodu Twoje ciało staje się coraz słabsze...
+menu_kingdom_army_quest_report_to_army|{s8} przysłał informację z prośbą o przyłączenie się do niego w kampanii wojennej. Musisz przyprowadzić ze sobą co najmniej {reg13} wojowników. Jeśli nie masz tylu żołnierzy, szybko musisz ich znaleźć.
+menu_kingdom_army_quest_messenger|{s8} przysłał list z informacją, że chce porozmawiać z Tobą o pewnej kwestii nie cierpiącej zwłoki. Prosi Cię zatem o jak najszybsze przybycie.
+menu_kingdom_army_quest_join_siege_order|{s8} przysłał list z prośbą o przyłączenie się do oblężenia miejscowości {s9} i przygotowanie do zmasowanego ataku. {s9} musi paść pod naporem twych wojsk za wszelką cenę.
+menu_kingdom_army_follow_failed|Nie wykonałeś rozkazów i nie podążyłeś za oddziałem. {s8} w gniewie wyrzucił Cię z armii i ostrzegł, że takich rzeczy się nie zapomina.
+menu_invite_player_to_faction_without_center|Otrzymałeś ofertę wstąpienia na służbę!^^ {s8} ({s9}) przysłał do Ciebie gońca z imiennym zaproszeniem. Będziesz miał zaszczyt zostać poddanym {władcy/władczyni}. {s9} stanie się Twym domem. W zamian {s8} prosi Cię o śluby wierności i udział w wyprawach wojennych. Nie zaproponowano Ci ani ziemi, ani tytułów. Odmowa może być uznana za obrazę...
+mno_faction_accept|Przyjąć.
+mno_faction_reject|Odrzucić.
+menu_invite_player_to_faction|Otrzymałeś ofertę wstąpienia na służbę!^^ {s8} ({s9}) przysłał do Ciebie gońca z imiennym zaproszeniem. Będziesz miał zaszczyt zostać poddanym {władcy/władczyni}. {s9} stanie się Twym domem. W zamian {s8} prosi Cię o śluby wierności i udział w wyprawach wojennych. W imię dobrej woli, miejscowość {s2} zostanie przekazana pod Twoje rządy. Odrzucenie takiej propozycji może być uznane za obrazę...
+menu_invite_player_to_faction_accepted|Aby {s3} Twym władcą został i byś na służbę do niego wstąpił, musisz wierność osobiście mu przysiąc. {s5}
+menu_question_peace_offer|Zaproponowano Ci pokój.^^{s1} proponuje Ci zawrzeć pakt pokojowy. Jaka będzie Twoja odpowiedź?
+mno_peace_offer_accept|Przyjąć
+mno_peace_offer_reject|Odrzucić
+menu_notification_player_faction_active|Stałeś się szlachcicem nie związanym z żadnym państwem. Nie posiadasz zwierzchnika i samodzielnie zarządzasz majątkiem ziemskim. Ciesz się wolnością, pamiętaj jednak, że każdy z władców zrobi wszystko, żeby się Ciebie pozbyć. Życie bez ochrony i wsparcia może być nadzwyczaj ciężkie.
+menu_notification_player_faction_deactive|Nie władasz już żadnymi ziemiami.
+menu_notification_center_under_siege|{s1} jest pod oblężeniem wojsk, którymi dowodzi {s2} ({s3})!
+menu_notification_village_raided|Wrogowie spustoszyli mienie!^^{s2} ({s3}) dokonuje grabieży. Łupem pada {s1}!
+menu_notification_village_raid_started|Napadnięto na Twoją wieś!^^{s2} ({s3}) dokonuje grabieży. Łupem pada {s1}!
+menu_notification_one_faction_left|Cała Europa Wschodnia została podbita przez jedno państwo.^^{s1}, po pokonaniu wszystkich rywali, staje się jedynym władcą.
+menu_notification_oath_renounced_faction_defeated|Twoje poprzednie państwo zostało pokonane.^^Państwo {s1} zostało przez Ciebie pokonane! Na tym kończy się Twoja walka, która rozpoczęła się, gdy wyparłeś się złożonych mu ślubów.
+menu_notification_center_lost|Utrata posiadłości.^^{s2} dokonuje zagarnięcia ziem. Jego łupem pada {s1}.
+menu_notification_troop_left_players_faction|Zdrada!^^{s1} i {s3} jednoczą się. {s2} traci sprzymierzeńca.
+menu_notification_troop_joined_players_faction|Dobre wieści!^^ {s2} traci sprzymierzeńca. {s1} i {s3} jednoczą się.
+menu_notification_war_declared|Wypowiedzenie wojny.^^{s1} i {s2} wstępują na wojenną ścieżkę!
+menu_notification_peace_declared|Traktat pokojowy.^^{s1} i {s2} zawierają pokój!
+menu_notification_faction_defeated|Państwo pokonane.^^{s1} już nie istnieje!
+menu_notification_rebels_switched_to_faction|Udana rebelia!^^ Twoja rebelia zakończyła się zwycięstwem! Teraz Twoje państwo jest jedynym kandydatem do tytułu ''{s11}'', a {s12} jest jedynym pełnoprawnym władcą.
+menu_kill_local_merchant_begin|Zauważasz swoją ofiarę i zaczynasz ją śledzić. Niczego nie podejrzewając, człowiek skręca za róg. Masz doskonałą okazję do ataku.
+menu_auto_return_to_map|wypełniacz
+menu_monfor_talk|Witaj awanturniku w grze Ogniem i Mieczem. Zanim rozpoczniesz swoją przygodę, musisz stworzyć sobie postać. Aby zacząć, wybierz płeć postaci.
+mno_start_male|Mężczyzna
+menu_oim_training_ground_selection_details_ranged|Z jakiej odległości chcesz strzelać?
+menu_oim_training_ground_description|{s0}
+menu_oim_training_ground_training_result|{s7}{s2}
+mno_hvatit|Przerwać trening...
+menu_oim_defeated_by_monk|Zostałeś pobity w bójce przez księdza, który kazał strażnikom wrzucić Cię do więzienia.
+menu_oim_monk_is_killed|Udało Ci się pobić mnicha i zabrać ikonę. Najwyższy czas opuścić miasto. 
+menu_oim_tatarin_brought_to_perekop|Właśnie przybyłeś do Perekopu...
+menu_oim_talk_to_tatarin|{s2}
+mno_talk_to_tatarin|Porozmawiaj z Tatarem.
+menu_oim_fight_sem_samuraev|{s2}
+mno_defend_village_|Przygotować się do walki!
+menu_oim_sem_sameraev_battle_result|{s2}
+menu_oim_talk_to_bandits_horse|{s2}
+menu_oim_bandits_battle_for_horse_result|{s2}
+menu_oim_invest_menu|{s2}
+mno_zabrat_dengi|Zabierz pieniądze.
+mno_do_not_take_|Nie bierz pieniędzy.
+menu_oim_auto_talk_menu|{s2}
+menu_oim_potop_defend_church|Przybyłeś w dobrym momencie - Szwedzi nie zdążyli jeszcze ograbić klasztoru. Najwyższy czas przypomnieć im nauczkę spod Kircholmu!
+menu_oim_potop_defend_church_result|{s2}
+menu_oim_auto_message_menu|{s2}
+menu_oim_potop_romeo_fight|{s2}
+menu_capitan_vid|Wypytujesz żołnierzy w obozie, gdzie znajdziesz dowódcę, a oni wskazują Ci swojego kapitana.
+mno_merch_tatar|Porozmawiać z kapitanem tatarskich najemników.
+mno_merch_kozak|Porozmawiać z kapitanem kozackich najemników.
+mno_merch_polyak|Porozmawiać z kapitanem polskich najemników.
+mno_merch_shved|Porozmawiać z kapitanem szwedzkich najemników.
+mno_merch_moskov|Porozmawiać z kapitanem moskiewskich najemników.
+mno_Back_1|Odejść...
+menu_oim_potop_kshetuskiy|{s2}
+mno_sneak_in|Kontynuuj...
+menu_podkup_neg|Twój parlamentariusz nie zdążył przejść przez bramę z białą flagą, kiedy usłyszałeś wystrzał, a później ujrzałeś ciało swego wysłannika wiszące na murach. ^^ Morale Twojego oddziału obniżyło się.
+mno_Back_2|Kontynuuj...
+menu_podkup_ataka|Udało Ci się przekupić obrońcę twierdzy, by otworzył wrota i teraz możesz rozpocząć masakrę miasta.
+mno_Cont|Kontynuuj...
+menu_udral_otravil|Udało Ci się przedostać do miasta i zatruć wodę w studni. 
+mno_Cont1|Kontynuuj...
+menu_vzvesili|Niepowodzenie! Zostałeś zauważony i schwytany.
+mno_Cont2|Kontynuuj...
+menu_udral_neotravil|Zostałeś zauważony, ale udało Ci się uciec przed obrońcami miasta.
+mno_Cont3|Kontynuuj...
+menu_neudral_otravil|Chociaż zostałeś zauważony, udało Ci się otruć wodę. Teraz będziesz musiał przedzierać się przez szeregi obrońców.
+mno_Cont4|Kontynuuj...
+menu_neudral_neotravil|Zostałeś zauważony i nie udało Ci się otruć wody. Będziesz musiał przedzierać się przez szeregi obrońców.
+menu_sneak_into_town_caught_dispersed_guards_t|Udało Ci się przedrzeć przez szereg strażników i wydostać z miasta.
+menu_sneak_into_town_caught_ran_away_t|Udało Ci się ukryć w labiryncie ulic i wydostać z miasta. 
+menu_vorvatsya_uspeh|Udało Ci się dostać do miasta, ale część Twojej armii pozostała za jego murami. Będziesz musiał usunąć nie mniej niż {reg0}% obrońców, zanim będziesz mógł wykorzystać resztę swojej armii. 
+menu_vorvatsya_proval|Nie udało Ci się dostać do miasta. Co więcej, nieudana próba kosztowała cię utratę jednostek: {s50}. Skutkiem tego niepowodzenia jest również spadek morale w oddziale.
+menu_podkop_uspih|Według Twoich szacunków, potrzebujesz nie mniej niż {reg4} godzin, aby podłożyć minę.
+mno_build_podkop_min|Rozpocząć prace inżynieryjne.
+menu_podkop_neg|Nie udało Ci się podłożyć miny, najprawdopodobniej zbyt mało się na tym znasz.
+menu_podkop_uspih_walls|Tym razem mury tego miasta oparły się próbie wysadzenia. 
+menu_podkop_uspih_uspih|Mina wybuchła, burząc część muru...
+mno_go_next|Rozpocząć szturm!
+menu_podkop_uspih_neg|Tym razem mury tego miasta oparły się próbie wysadzenia. 
+menu_oim_last_game_menu|{s2}
+menu_oim_getman_defend_village|Zjawiasz się w ostatniej chwili. Bandyci nie zdążyli jeszcze spustoszyć wsi. Zauważyli Cię i przygotowują się do ataku.
+menu_oim_getman_defend_village_result|{s2}
+menu_oim_getman_defend_village_result2|Nie zdążył starzec dokończyć, kiedy jeden z rannych bandytów wystrzelił. Niestety, kula sięgnęła celu... Starzec nic więcej Ci nie powie. 
+menu_oim_getman_letter_text|Tajny rozkaz do rąk własnych diaka. ^^ Gdym twe zadanie wykonywał, dowiedziałem się, że sarkofag książąt Olegowiczów wykradł z Kijowa kniaź litewski Janusz Radziwiłł. Mówią, że kazał go przewieźć do swojego rodowego grobowca. Nic więcej nie wiem. Jasne jest jedno: Radziwiłł, heretyk protestancki, by włożyć na swą głowę koronę, gotów jest nawet na sprawki nieczyste. Jednakowoż za tym wszystkim chłodna rachuba się kryje. ^Wysyłam ten list przez zaufanego szpiega, Boże miej go w swojej opiece, a sam wyruszam do Rygi, gdzie w archiwach zakonu templariuszy, według mych informacji, znajduje się rozwiązanie tajemnicy Czarnego Hetmana...
+menu_oim_getman_tamplier_archives|{s2}
+menu_oim_potop_fight_with_king_result|{s3}
+menu_oim_cheats_and_solving_quests_menu|Nie używany
+mno_money_menu|Oszustwo - Ceny
+mno_exp_menu|Oszustwo - Doświadczenie
+mno_exp_renown|Oszustwo - Chwała
+mno_add_relation_to_all|Oszustwo - Reputacja
+mno_add_zagloba|Oszustwo - Dodaj Zagłobę
+mno_fac_kingdom_4|Oszustwo - Mniej Szwedów
+mno_swedish_prisoner|Oszustwo - Więzień
+mno_exit_menu|Wyjście
+menu_oim_getman_reading_book|{s3}
+menu_getman_book_translated|{s3}
+menu_oim_dmitriy_yevangelik|{s3}
+menu_oim_getman_fight_in_nesvizh|{s3}
+menu_oim_getman_sneack_in|{s3}
+menu_oim_getman_quest_failed|{s3}
+menu_oim_getman_hmel_order|{s3}
+menu_oim_getman_hmel_rebelion|{s3}
+menu_oim_getman_casus_beli_hmel|{s3}
+menu_oim_getman_casus_beli_hmel_war|{s3}
+menu_oim_korono_vitovta|{s3}
+menu_oim_dmitriy_captured|{s3}
+mno_edit_slot_town_walls_destroyed_door|Slot edycji centrum mury miasta zniszczone
+menu_oim_dmitriy_alevtina_hanum|{s3}
+mno_oim_walk_the_streets|Wyjść z haremu i przejść do miasta.
+menu_oim_barabash_order_mc|{s3}
+menu_oim_getman_barabash_rebelion|{s3}
+menu_oim_getman_casus_beli_barabash|{s3}
+menu_oim_getman_casus_beli_barabash_war|{s3}
+menu_oim_tavern_simple_fight|Wyzwałeś na walkę na pięści gościa karczmy. Przeciwnik jest gotów i czeka na Ciebie.
+menu_oim_tavern_simple_fight_result|{s2}
+menu_oim_duel_fight|Nieudany żart doprowadził do bójki. Najwyższy czas przypomnieć sobie lekcje fechtunku, aby dać godny odpór przeciwnikowi.
+menu_oim_tavern_duel_fight_result|{s2}
+menu_oim_tavern_ranged_fight|Masz zamiar rywalizować w celności. Aby zwyciężyć, należy trafić jak najwięcej celów.
+menu_oim_ranged_duel_tavern_result|{s2}
+menu_oim_drunken_prison|Ostatni kielich wina okazał się zdradliwy. Budząc się widzisz blade światło przenikające przez kraty do zimnej, więziennej celi, w której się znajdujesz.
+menu_oim_drunken_wound|Z trudem przypominając sobie za co wychyliłeś ostatnią kolejkę, ocknąłeś się sam nie wiedząc gdzie, a w dodatku z o wiele lżejszą sakiewką...
+menu_oim_alcoholic|Stałeś się zbyt częstym gościem karczm. Nie ma dnia, żebyś nie wypił kufla czy dwóch. Do tego po wszystkim brak Ci pieniędzy i siły w rękach...
+menu_oim_rich_visitor|{s2}
+mno_attack|Tropić mieszczanina.
+menu_oim_rich_visitor_result|{s2}
+menu_captured_enemy_menu|{s17}
+mno_continue_kill|Zabij jeńców.
+mno_continue_spawn|Wypuść jeńców.
+menu_capture_prisoners_as_guards|{s17}
+mno_continue_guards|Wciel do garnizonu. 
+mno_continue_spawn_prisoners|Wypuść.
+menu_charge_with_bunt|Kiepskie nastroje w oddziale doprowadziły do buntu. Dezerterzy teraz żądają Twojej krwi lub złota za ich poświęcenie. 
+mno_continue_bunt|Kontynuuj...
+menu_illness_warning|{s0}. Mądrzy ludzie mówią, że dobre wyżywienie powinno pomóc. Może {s1} lub {s2} będą mogli wyleczyć odział. Zresztą - porządny wypoczynek w karczmie też nie zaszkodzi.
+menu_illness_end|Dzięki porządnemu odpoczynkowi udało Ci się wyleczyć oddział z choroby: {s0}.
+menu_warn_taverna_morale|Twoi żołnierze narzekają, że morzysz ich głodem. Są zmęczeni ciągłym marszem i przeprawami. Szerzy się niezadowolenie w twym oddziale. ^^Doświadczeni żołnierze dają czasem do zrozumienia, że nie mieliby nic przeciw spędzeniu kilku dni w pobliskiej karczmie...
+menu_oim_dmitriy_razin_warn|Szerzą się słuchy, że ataman Stieńka Razin znów wywołał powstanie, tym razem przeciwko Tobie. 
+menu_oim_razin_asking_for_marshal|{s2}
+menu_oim_dmitry_elected|Po przekonaniu bojarów do głosowania na Ciebie w wyborach, udało Ci się otrzymać nie tylko ich poparcie, ale również tytuł cara. 
+menu_oim_dmitry_election_failed|Ponieważ nie udało Ci się nakłonić większości bojarów do poparcia Twojej osoby, Duma Bojarów wybrała na cara Razina.
+menu_simle_text_message|{s2}
+menu_oim_diplomacy_window|Z którym państwem chcesz rozpocząć wojnę?
+mno_fac_1_continue|{s2}
+mno_fac_2_continue|{s2}
+mno_fac_3_continue|{s2}
+mno_fac_4_continue|{s2}
+mno_fac_5_continue|{s2}
+menu_submit_war|Czy na pewno chcesz rozpocząć wojnę z państwem: {s2}? 
+mno_submit_war|Tak
+mno_reject|Nie
+menu_oim_auto_talk_menu2|none
+menu_oim_auto_message_menu2|{s2}
+menu_notification_about_gold_usage_after_construct|W miejscowości {s1} {s51}.
+menu_notification_about_gold_usage_30_day|W miejscowości {s1} {s51}.
+menu_notification_party_under_siege_with_defence|Podczas oblężenia, {s2} ({s3}) stracił następujące oddziały: {s50}.
+menu_notification_village_element_leave_service|{s2} ({s1}) opuścił służbę.
+menu_notification_extra_good_ready|W miejscowości {s1} na Twój rozkaz wyprodukowano pewien przedmiot, którym jest {s2}. Możesz już go odebrać.
+menu_ms_additional_menu|{s0}
+mno_ms_add_1|{s1}.
+mno_ms_add_2|{s1}.
+mno_ms_add_3|{s1}.
+mno_ms_add_4|{s1}.
+mno_ms_add_5|{s1}.
+mno_ms_add_6|{s1}.
+mno_ms_add_7|{s1}.
+mno_ms_add_8|{s1}.
+mno_ms_add_9|{s1}.
+mno_ms_add_10|{s1}.
+mno_ms_back|[Wstecz]
+menu_ms_additional_school|{s2}
+mno_ms_see_npc_list|Obejrzeć listę towarzyszy podróży.
+menu_ms_additional_merchant_guild|Zdecyduj, co chcesz zrobić.
+mno_ms_guild_deposit|Zainwestować pieniądze na {reg0}% na miesiąc. 
+mno_ms_guild_credit|Wziąć kredyt na {reg0}% na jeden miesiąc. 
+mno_ms_guild_deposit_out|Odebrać depozyt ({reg0} talarów).
+mno_ms_guild_credit_out|Spłacić kredyt ({reg0} talarów).
+menu_ms_guild_get_value|Chcesz wykorzystać {s0}. Obecna suma wynosi {reg5} talarów.
+mno_ms_guild_500_minus|-500 talarów
+mno_ms_guild_500_plus|+500 talarów
+mno_ms_guild_1000_minus|-1000 talarów
+mno_ms_guild_1000_plus|+1000 talarów
+mno_ms_guild_1500_minus|-1500 talarów
+mno_ms_guild_1500_plus|+1500 talarów
+mno_ms_guild_2000_minus|-2000 talarów
+mno_ms_guild_2000_plus|+2000 talarów
+mno_ms_continue|Przeprowadzić transakcję.
+menu_ms_guild_get_out|Na pewno chcesz przeprowadzić tę transakcję?
+mno_ms_guild_break|Tak
+mno_ms_guild_back|Nie
+menu_ms_guild_not_enough_money|Nie masz wystarczającej ilości pieniędzy!
+menu_ms_credit_fight|Nie oddałeś kredytu na czas, dlatego bankierzy postanowili odebrać Ci go siłą.
+mno_ms_credit_fight_continue|Kontynuować...
+menu_ms_additional_extra_goods|{s0}
+mno_ms_extra_goods_next|Kontynuować...
+menu_ms_additional_adviser|{s0}
+mno_ms_extra_adviser_continue|Kontynuować...
+menu_notification_change_diplomatic_capital|Od teraz {s1} będzie stolicą, w której posłów znaleźć będzie można.
+menu_messenger_for_capital|{s0}
+menu_select_ambassador|Wybierz posła:
+mno_ambassador_fac1|{s0}.
+mno_ambassador_fac2|{s0}.
+mno_ambassador_fac3|{s0}.
+mno_ambassador_fac4|{s0}.
+mno_ambassador_fac5|{s0}.
+mno_back|[Wstecz]
+menu_ms_additional_officer|Tutaj możesz porozmawiać z dowódcą garnizonu i nająć żołnierzy.
+mno_ms_additional_officer_next|Porozmawiać z dowódcą garnizonu.
+menu_oim_caravan_delivered|Cały towar z taboru został sprzedany. Po dokładnym podliczeniu kosztów, obliczyłeś, że utarg wyniósł {reg1} talarów.
+menu_notification_simple_str|{s2}
+menu_notification_tax_collected|{s2}
+menu_banks_report|{s2}
+menu_notification_about_gold_usage_7_day|W miejscowości {s1} {s51}.
+menu_meeting_with_thieves|{s1}
+menu_oim_rich_visitor_meal|Po wydaniu 25 talarów na syty posiłek, decydujesz się na chwilę odpoczynku.
+mno_start_resting|Odpocznij.

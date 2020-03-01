@@ -1,0 +1,2423 @@
+trp_multiplayer_profile_troop_male|multiplayer profile troop male
+trp_multiplayer_profile_troop_male_pl|multiplayer profile troop male
+trp_multiplayer_profile_troop_female|multiplayer profile troop female
+trp_multiplayer_profile_troop_female_pl|multiplayer profile troop female
+trp_temp_troop|Geçici Birlik
+trp_temp_troop_pl|Geçici Birlik
+trp_find_item_cheat|öğe bulma hilesi
+trp_find_item_cheat_pl|öğe bulma hilesi
+trp_random_town_sequence|Rastgele Kasaba Sırası
+trp_random_town_sequence_pl|Rastgele Kasaba Sırası
+trp_tournament_participants|Turnuva Katılımcıı
+trp_tournament_participants_pl|Turnuva Katılımcıı
+trp_tutorial_maceman|Gürzcü
+trp_tutorial_maceman_pl|Gürzcü
+trp_tutorial_archer|Okçu
+trp_tutorial_archer_pl|Okçu
+trp_tutorial_swordsman|Kılıç Ustası
+trp_tutorial_swordsman_pl|Kılıç Ustası
+trp_novice_fighter|Acemi Savaşçı
+trp_novice_fighter_pl|Acemi Savaşçı
+trp_regular_fighter|Gedikli Savaşçı
+trp_regular_fighter_pl|Gedikli Savaşçı
+trp_veteran_fighter|Kıdemli Savaşçı
+trp_veteran_fighter_pl|Kıdemli Savaşçı
+trp_champion_fighter|Usta Savaşçı
+trp_champion_fighter_pl|Usta Savaşçı
+trp_arena_training_fighter_1|Acemi Savaşçı
+trp_arena_training_fighter_1_pl|Acemi Savaşçı
+trp_arena_training_fighter_2|Acemi Savaşçı
+trp_arena_training_fighter_2_pl|Acemi Savaşçı
+trp_arena_training_fighter_3|Gedikli Savaşçı
+trp_arena_training_fighter_3_pl|Gedikli Savaşçı
+trp_arena_training_fighter_4|Gedikli Savaşçı
+trp_arena_training_fighter_4_pl|Gedikli Savaşçı
+trp_arena_training_fighter_5|Gedikli Savaşçı
+trp_arena_training_fighter_5_pl|Gedikli Savaşçı
+trp_arena_training_fighter_6|Kıdemli Savaşçı
+trp_arena_training_fighter_6_pl|Kıdemli Savaşçı
+trp_arena_training_fighter_7|Kıdemli Savaşçı
+trp_arena_training_fighter_7_pl|Kıdemli Savaşçı
+trp_arena_training_fighter_8|Kıdemli Savaşçı
+trp_arena_training_fighter_8_pl|Kıdemli Savaşçı
+trp_arena_training_fighter_9|Usta Savaşçı
+trp_arena_training_fighter_9_pl|Usta Savaşçı
+trp_arena_training_fighter_10|Usta Savaşçı
+trp_arena_training_fighter_10_pl|Usta Savaşçı
+trp_cattle|Sığır
+trp_cattle_pl|Sığır
+trp_farmer|Çiftçi
+trp_farmer_pl|Çiftçi
+trp_townsman|Milis
+trp_townsman_pl|Milis
+trp_watchman|Paralı Teberci
+trp_watchman_pl|Paralı Teberci
+trp_caravan_guard|Paralı Süvari
+trp_caravan_guard_pl|Paralı Süvari
+trp_mercenary_swordsman|Paralı Nişancı
+trp_mercenary_swordsman_pl|Paralı Nişancı
+trp_hired_blade|Paralı Mızrakçı
+trp_hired_blade_pl|Paralı Mızrakçı
+trp_mercenary_crossbowman|Paralı Silahşör
+trp_mercenary_crossbowman_pl|Paralı Silahşör
+trp_mercenary_horseman|Paralı Hafif Süvari
+trp_mercenary_horseman_pl|Paralı Hafif Süvari
+trp_mercenaries_end|mercenaries end
+trp_mercenaries_end_pl|mercenaries end
+trp_swadian_recruit|Tırpancı
+trp_swadian_recruit_pl|Tırpancı
+trp_swadian_militia|Mızrakçı Milis
+trp_swadian_militia_pl|Mızrakçı Milis
+trp_swadian_militia_levelup|Mızrakçı Milis
+trp_swadian_militia_levelup_pl|Mızrakçı Milis
+trp_swadian_skirmisher|Tüfekli Milis
+trp_swadian_skirmisher_pl|Tüfekli Milis
+trp_swadian_skirmisher_levelup|Tüfekli Milis (kıdemli)
+trp_swadian_skirmisher_levelup_pl|Tüfekli Milis (kıdemli)
+trp_swadian_footman|Mızrakçı
+trp_swadian_footman_pl|Mızrakçı
+trp_swadian_footman_levelup|Mızrakçı (kıdemli)
+trp_swadian_footman_levelup_pl|Mızrakçı (kıdemli)
+trp_swadian_crossbowman|Zolnier Tüfekçi Piyade
+trp_swadian_crossbowman_pl|Zolnier Tüfekçi Piyade
+trp_swadian_crossbowman_levelup|Zolnier Tüfekçi Piyade (kıdemli)
+trp_swadian_crossbowman_levelup_pl|Zolnier Tüfekçi Piyade (kıdemli)
+trp_swadian_infantry|Alman Mızrakçı Piyadesi 
+trp_swadian_infantry_pl|Alman Mızrakçı Piyadei
+trp_swadian_infantry_levelup|Alman Mızrakçı Piyadesi  (kıdemli)
+trp_swadian_infantry_levelup_pl|Alman Mızrakçı Piyadei (kıdemli)
+trp_swadian_sharpshooter|Alman Silahşör Piyadesi
+trp_swadian_sharpshooter_pl|Alman Silahşör Piyadei
+trp_swadian_sharpshooter_levelup|Alman Silahşör Piyadesi (kıdemli)
+trp_swadian_sharpshooter_levelup_pl|Alman Silahşör Piyadei (kıdemli)
+trp_swadian_man_at_arms|Gönüllü
+trp_swadian_man_at_arms_pl|Gönüllü
+trp_swadian_man_at_arms_levelup|Gönüllü (kıdemli)
+trp_swadian_man_at_arms_levelup_pl|Gönüllü (kıdemli)
+trp_polish_dragoon|Leh Dragun
+trp_polish_dragoon_pl|Leh Dragun
+trp_polish_dragoon_levelup|Leh Dragun (kıdemli)
+trp_polish_dragoon_levelup_pl|Leh Dragun (kıdemli)
+trp_swadian_sergeant|Zırhlı Kazak
+trp_swadian_sergeant_pl|Zırhlı Kazak
+trp_swadian_sergeant_levelup|Zırhlı Kazak (kıdemli)
+trp_swadian_sergeant_levelup_pl|Zırhlı Kazak (kıdemli)
+trp_polish_reytar|Leh Atlısı
+trp_polish_reytar_pl|Leh Atlısı
+trp_polish_reytar_levelup|Leh Atlısı (kıdemli)
+trp_polish_reytar_levelup_pl|Leh Atlısı (kıdemli)
+trp_swadian_knight|Kanatlı Hüssar
+trp_swadian_knight_pl|Kanatlı Hüssar
+trp_swadian_knight_levelup|Kanatlı Hüssar (kıdemli)
+trp_swadian_knight_levelup_pl|Kanatlı Hüssar(kıdemli)
+trp_swadian_messenger|Ulak
+trp_swadian_messenger_pl|Ulak
+trp_swadian_deserter|Firari
+trp_swadian_deserter_pl|Firari
+trp_swadian_prison_guard|Muhafız
+trp_swadian_prison_guard_pl|Muhafız
+trp_swadian_castle_guard|Kale Muhafızı
+trp_swadian_castle_guard_pl|Kale Muhafızı
+trp_vaegir_recruit|Sopalı Milis
+trp_vaegir_recruit_pl|Sopalı Milis
+trp_vaegir_footman|Mızraklı Milis
+trp_vaegir_footman_pl|Mızraklı Milis
+trp_vaegir_footman_levelup|Kargılı Milis (kıdemli)
+trp_vaegir_footman_levelup_pl|Kargılı Milis (kıdemli)
+trp_vaegir_skirmisher|Posad Nişancısı
+trp_vaegir_skirmisher_pl|Posad Nişancısı
+trp_vaegir_skirmisher_levelup|Posad Nişancısı (kıdemli)
+trp_vaegir_skirmisher_levelup_pl|Posad Nişancısı (kıdemli)
+trp_vaegir_veteran|Nişancı Kargıcı
+trp_vaegir_veteran_pl|Nişancı Kargıcı
+trp_vaegir_veteran_levelup|Nişancı Kargıcı (kıdemli)
+trp_vaegir_veteran_levelup_pl|Nişancı Kargıcı (kıdemli)
+trp_vaegir_archer|Nişancı
+trp_vaegir_archer_pl|Nişancı
+trp_vaegir_archer_levelup|Nişancı (kıdemli)
+trp_vaegir_archer_levelup_pl|Nişancı (kıdemli)
+trp_vaegir_infantry|Yeni Düzen Kargıcısı
+trp_vaegir_infantry_pl|Yeni Düzen Kargıcısı
+trp_vaegir_infantry_levelup|Yeni Düzen Mızrakçısı (kıdemli)
+trp_vaegir_infantry_levelup_pl|Yeni Düzen Mızrakçısı (kıdemli)
+trp_vaegir_marksman|Yeni Düzen Nişancısı
+trp_vaegir_marksman_pl|Yeni Düzen Nişancısı
+trp_vaegir_marksman_levelup|Yeni Düzen Nişancısısı (kıdemli)
+trp_vaegir_marksman_levelup_pl|Yeni Düzen Nişancısı (kıdemli)
+trp_vaegir_horseman|Tüfekli Serf
+trp_vaegir_horseman_pl|Tüfekli Serf
+trp_vaegir_horseman_levelup|Savaşçı Serf (kıdemli)
+trp_vaegir_horseman_levelup_pl|Savaşçı Serf (kıdemli)
+trp_moskow_dragoon|Asilzade Süvari
+trp_moskow_dragoon_pl|Asilzade Süvari
+trp_moskow_dragoon_levelup|Hanedan Süvarisi (kıdemli)
+trp_moskow_dragoon_levelup_pl|Hanedan Süvarisi (kıdemli)
+trp_vaegir_knight|Moskova Atlısı
+trp_vaegir_knight_pl|Moskova Atlısı
+trp_vaegir_knight_levelup|Moskova Atlısı (kıdemli)
+trp_vaegir_knight_levelup_pl|Moskova Atlısı (kıdemli)
+trp_vaegir_guard|Asilzade Muhafız
+trp_vaegir_guard_pl|Asilzade Muhafız
+trp_vaegir_guard_levelup|Asilzade Muhafız (kıdemli)
+trp_vaegir_guard_levelup_pl|Asilzade Muhafız (kıdemli)
+trp_vaegir_messenger|Ulak
+trp_vaegir_messenger_pl|Ulak
+trp_vaegir_deserter|Vaegir Firari
+trp_vaegir_deserter_pl|Vaegir Firari
+trp_vaegir_prison_guard|Gardiyan
+trp_vaegir_prison_guard_pl|Gardiyan
+trp_vaegir_castle_guard|Kale Muhafızı
+trp_vaegir_castle_guard_pl|Kale Muhafızı
+trp_rinda|Çar Muhafızı
+trp_rinda_pl|Çar Muhafızı
+trp_khergit_tribesman|Göçer
+trp_khergit_tribesman_pl|Göçer
+trp_khergit_skirmisher|Kapıkulu
+trp_khergit_skirmisher_pl|Kapıkulu
+trp_khergit_skirmisher_levelup|Kapıkulu (kıdemli)
+trp_khergit_skirmisher_levelup_pl|Kapıkulu (kıdemli)
+trp_khergit_horseman|Bayrak
+trp_khergit_horseman_pl|Bayrak
+trp_khergit_horseman_levelup|Bayrak (kıdemli)
+trp_khergit_horseman_levelup_pl|Bayrak (kıdemli)
+trp_saymen|Seymen
+trp_saymen_pl|Seymen
+trp_saymen_levelup|Seymen (kıdemli)
+trp_saymen_levelup_pl|Seymen (kıdemli)
+trp_khergit_horse_archer|Yasak
+trp_khergit_horse_archer_pl|Yasak
+trp_khergit_horse_archer_levelup|Yasak (kıdemli)
+trp_khergit_horse_archer_levelup_pl|Yasak (kıdemli)
+trp_khergit_lancer|Oğlan
+trp_khergit_lancer_pl|Oğlan
+trp_khergit_lancer_levelup|Oğlan (kıdemli)
+trp_khergit_lancer_levelup_pl|Oğlan (kıdemli)
+trp_khergit_veteran_horse_archer|Mirza Şambul
+trp_khergit_veteran_horse_archer_pl|Mirza Şambul
+trp_khergit_veteran_horse_archer_levelup|Mirza Şambul (kıdemli)
+trp_khergit_veteran_horse_archer_levelup_pl|Mirza Şambul (kıdemli)
+trp_asak_bey|Asak beyi
+trp_asak_bey_pl|Asak beyi
+trp_asak_bey_levelup|Asak beyi (kıdemli)
+trp_asak_bey_levelup_pl|Asak beyi (kıdemli)
+trp_zyndjirli|Nokor
+trp_zyndjirli_pl|Nokor
+trp_zyndjirli_levelup|Nokor (kıdemli)
+trp_zyndjirli_levelup_pl|Nokor (kıdemli)
+trp_khergit_messenger|Ulak
+trp_khergit_messenger_pl|Ulak
+trp_khergit_deserter|Firari
+trp_khergit_deserter_pl|Firari
+trp_khergit_prison_guard|Gardiyan
+trp_khergit_prison_guard_pl|Gardiyan
+trp_khergit_castle_guard|Kale Muhafızı
+trp_khergit_castle_guard_pl|Kale Muhafızı
+trp_nord_recruit|Şehirli Milis
+trp_nord_recruit_pl|Şehirli Milis
+trp_nord_footman|Muhafız Piyade
+trp_nord_footman_pl|Muhafız Piyade
+trp_nord_footman_levelup|Kale Muhafızı
+trp_nord_footman_levelup_pl|Kale Muhafızı
+trp_nord_huntsman|Milis Silahşör
+trp_nord_huntsman_pl|Milis Silahşör
+trp_nord_huntsman_levelup|Milis Silahşör (kıdemli)
+trp_nord_huntsman_levelup_pl|Milis Silahşör (kıdemli)
+trp_nord_trained_footman|Mızrakçı
+trp_nord_trained_footman_pl|Mızrakçı
+trp_nord_trained_footman_levelup|Mızrakçı (kıdemli)
+trp_nord_trained_footman_levelup_pl|Mızrakçı (kıdemli)
+trp_nord_archer|Silahşör
+trp_nord_archer_pl|Silahşör
+trp_nord_archer_levelup|Silahşör (kıdemli)
+trp_nord_archer_levelup_pl|Silahşör (kıdemli)
+trp_sved_swordmaster|Kılıç Ustası
+trp_sved_swordmaster_pl|Kılıç Ustası
+trp_sved_swordmaster_levelup|Kılıç Ustası (kıdemli)
+trp_sved_swordmaster_levelup_pl|Kılıç Ustaı (kıdemli)
+trp_nord_veteran_archer|Koruma
+trp_nord_veteran_archer_pl|Koruma
+trp_nord_veteran_archer_levelup|Koruma (kıdemli)
+trp_nord_veteran_archer_levelup_pl|Koruma (kıdemli)
+trp_nord_warrior|Dragun
+trp_nord_warrior_pl|Dragun
+trp_nord_warrior_levelup|Dragun (kıdemli)
+trp_nord_warrior_levelup_pl|Dragun (kıdemli)
+trp_nord_champion|Zırhlı Süvari
+trp_nord_champion_pl|Zırhlı Süvari
+trp_nord_champion_levelup|Zırhlı Süvari
+trp_nord_champion_levelup_pl|Zırhlı Süvari
+trp_sved_lancers|Zırhlı Kargıcı
+trp_sved_lancers_pl|Zırhlı Kargıcı
+trp_sved_lancers_levelup|Zırhlı Kargıcı (kıdemli)
+trp_sved_lancers_levelup_pl|Zırhlı Kargıcı (kıdemli)
+trp_nord_veteran|İsveç Atlısı
+trp_nord_veteran_pl|İsveç Atlısı
+trp_nord_veteran_levelup|İsveç Atlısı (kıdemli)
+trp_nord_veteran_levelup_pl|İsveç Atlısı (kıdemli)
+trp_nord_messenger|Ulak
+trp_nord_messenger_pl|Ulak
+trp_nord_deserter|Nord Deserter
+trp_nord_deserter_pl|Nord Deserters
+trp_nord_prison_guard|Gardiyan
+trp_nord_prison_guard_pl|Gardiyan
+trp_nord_castle_guard|Kale Muhafızı
+trp_nord_castle_guard_pl|Kale Muhafızı
+trp_rhodok_tribesman|Taşralı
+trp_rhodok_tribesman_pl|Taşralı
+trp_rhodok_spearman|Acemi Kazak
+trp_rhodok_spearman_pl|Acemi Kazak
+trp_rhodok_spearman_levelup|Acemi Kazak (kıdemli)
+trp_rhodok_spearman_levelup_pl|Acemi Kazak(kıdemli)
+trp_ukr_golota|Acemi Kazak Mızrakçısı
+trp_ukr_golota_pl|Acemi Kazak Mızrakçısı
+trp_ukr_golota_levelup|Acemi Kazak Mızrakçısı (kıdemli)
+trp_ukr_golota_levelup_pl|Acemi Kazak Mızrakçısı (kıdemli)
+trp_rhodok_sergeant|Zaporojye Piyadesi
+trp_rhodok_sergeant_pl|Zaporojye Piyadesi
+trp_rhodok_sergeant_levelup|Zaporojye Piyadesi (kıdemli)
+trp_rhodok_sergeant_levelup_pl|Zaporojye Piyadesi (kıdemli)
+trp_rhodok_trained_crossbowman|Netyag
+trp_rhodok_trained_crossbowman_pl|Netyag
+trp_rhodok_trained_crossbowman_levelup|Netyag (kıdemli)
+trp_rhodok_trained_crossbowman_levelup_pl|Netyag (kıdemli)
+trp_rhodok_veteran_spearman|Serduk
+trp_rhodok_veteran_spearman_pl|Serduk
+trp_rhodok_veteran_spearman_levelup|Serduk (kıdemli)
+trp_rhodok_veteran_spearman_levelup_pl|Serduk (kıdemli)
+trp_rhodok_trained_spearman|Djura
+trp_rhodok_trained_spearman_pl|Djura
+trp_rhodok_trained_spearman_levelup|Djura (kıdemli)
+trp_rhodok_trained_spearman_levelup_pl|Djura (kıdemli)
+trp_rhodok_crossbowman|Gözcü
+trp_rhodok_crossbowman_pl|Gözcü
+trp_rhodok_crossbowman_levelup|Gözcü (kıdemli)
+trp_rhodok_crossbowman_levelup_pl|Gözcü (kıdemli)
+trp_ukr_storoja|Mızraklı Gözcü
+trp_ukr_storoja_pl|Mızraklı Gözcü 
+trp_ukr_storoja_levelup|Mızraklı Gözcü (kıdemli)
+trp_ukr_storoja_levelup_pl|Mızraklı Gözcü (kıdemli)
+trp_rhodok_veteran_crossbowman|Zaporojye Süvarisi
+trp_rhodok_veteran_crossbowman_pl|Zaporojye Süvarisi
+trp_rhodok_veteran_crossbowman_levelup|Zaporojye Süvarisi (kıdemli)
+trp_rhodok_veteran_crossbowman_levelup_pl|Zaporojye Süvarisi (kıdemli)
+trp_rhodok_messenger|Ulak
+trp_rhodok_messenger_pl|Ulak
+trp_rhodok_deserter|Rhodok Deserter
+trp_rhodok_deserter_pl|Rhodok Deserters
+trp_rhodok_prison_guard|Gardiyan
+trp_rhodok_prison_guard_pl|Gardiyan
+trp_rhodok_castle_guard|Kale Muhafızı
+trp_rhodok_castle_guard_pl|Kale Muhafızı
+trp_looter|Çapulcu
+trp_looter_pl|Çapulcu
+trp_bandit|Haydut
+trp_bandit_pl|Haydut
+trp_brigand|Eşkiya
+trp_brigand_pl|Eşkiya
+trp_mountain_bandit|Haydut
+trp_mountain_bandit_pl|Haydut
+trp_forest_bandit|İsyancı
+trp_forest_bandit_pl|İsyancı
+trp_sea_raider|Eşkıya
+trp_sea_raider_pl|Eşkiya
+trp_steppe_bandit|Tatar Akıncı
+trp_steppe_bandit_pl|Tatar Akıncı
+trp_black_khergit_horseman|Black Khergit Horseman
+trp_black_khergit_horseman_pl|Black Khergit Horsemen
+trp_manhunter|Gizli Birlik Nişancısı
+trp_manhunter_pl|Gizli Birlik Nişancısı
+trp_slave_driver|Köleci
+trp_slave_driver_pl|Köleci
+trp_slave_hunter|Köle Avcısı
+trp_slave_hunter_pl|Köle Avcısı
+trp_slave_crusher|Köle Kıran
+trp_slave_crusher_pl|Köle Kıran
+trp_slaver_chief|Köleci Başı
+trp_slaver_chief_pl|Köleci Başı
+trp_follower_woman|Yardakçı
+trp_follower_woman_pl|Yardakçı
+trp_hunter_woman|Avcı
+trp_hunter_woman_pl|Avcı
+trp_fighter_woman|Kamp Koruması
+trp_fighter_woman_pl|Kamp Koruması
+trp_sword_sister|Kılıç Kardeşi
+trp_sword_sister_pl|Kılıç Kardeşi
+trp_basurman_azap|Azap
+trp_basurman_azap_pl|Azap
+trp_basurman_azap_levelup|Azap (kıdemli)
+trp_basurman_azap_levelup_pl|Azap (kıdemli)
+trp_basurman_jebelu|Cebelü
+trp_basurman_jebelu_pl|Cebelü
+trp_basurman_jebelu_levelup|Cebelü (kıdemli)
+trp_basurman_jebelu_levelup_pl|Cebelü (kıdemli)
+trp_janissar|Yeniçeri
+trp_janissar_pl|Yeniçeri
+trp_janissar_levelup|Yeniçeri (kıdemli)
+trp_janissar_levelup_pl|Yeniçeri (kıdemli)
+trp_scott_pika|İskoç Mızrakçı
+trp_scott_pika_pl|İskoç Mızrakçı
+trp_scott_pika_levelup|İskoç Mızrakçı (kıdemli)
+trp_scott_pika_levelup_pl|İskoç Mızrakçı (kıdemli)
+trp_scott_musket|İskoç Silahşör
+trp_scott_musket_pl|İskoç Silahşör
+trp_scott_musket_levelup|İskoç Silahşör (kıdemli)
+trp_scott_musket_levelup_pl|İskoç Silahşör (kıdemli)
+trp_scott_sword|İskoç Kılıç Ustası
+trp_scott_sword_pl|İskoç Kılıç Ustaı
+trp_scott_sword_levelup|İskoç Kılıç Ustası (kıdemli)
+trp_scott_sword_levelup_pl|İskoç Kılıç Ustaı (kıdemli)
+trp_pruss_pike|Alman Mızrakçı
+trp_pruss_pike_pl|Alman Mızrakçı
+trp_pruss_pike_levelup|Alman Mızrakçı (kıdemli)
+trp_pruss_pike_levelup_pl|Alman Mızrakçı (kıdemli)
+trp_rundashir|Rondartşiyer
+trp_rundashir_pl|Rondartşiyer (kıdemli)
+trp_rundashir_levelup|Rondartşiyer (kıdemli)
+trp_rundashir_levelup_pl|Rondartşiyer (kıdemli)
+trp_tatar_merc_peh|Tatar Piyade
+trp_tatar_merc_peh_pl|Tatar Piyade
+trp_tatar_merc_peh_levelup|Tatar Piyade (kıdemli)
+trp_tatar_merc_peh_levelup_pl|Tatar Piyade (kıdemli)
+trp_litva_musket|Litvanyalı  Silahşör
+trp_litva_musket_pl|Litvanyalı  Silahşör
+trp_litva_musket_levelup|Litvanyalı  Silahşör (kıdemli)
+trp_litva_musket_levelup_pl|Litvanyalı  Silahşör (kıdemli)
+trp_gorod_kozak|Yerli Kazak
+trp_gorod_kozak_pl|Yerli Kazak
+trp_gorod_kozak_levelup|Yerli Kazak (kıdemli)
+trp_gorod_kozak_levelup_pl|Yerli Kazak (kıdemli)
+trp_finn_arcebuz|Fin Arkebüzcü
+trp_finn_arcebuz_pl|Fin Arkebüzcü
+trp_finn_arcebuz_levelup|Fin Arkebüzcü (kıdemli)
+trp_finn_arcebuz_levelup_pl|Fin Arkebüzcü (kıdemli)
+trp_don_cossack|Köylü Kazak
+trp_don_cossack_pl|Köylü Kazak
+trp_don_cossack_levelup|Don Kazağı (kıdemli)
+trp_don_cossack_levelup_pl|Don Kazağı (kıdemli)
+trp_reestrovuy_kozak|Rütbeli Kazak
+trp_reestrovuy_kozak_pl|Rütbeli Kazak
+trp_reestrovuy_kozak_levelup|Rütbeli Kazak (kıdemli)
+trp_reestrovuy_kozak_levelup_pl|Rütbeli Kazak (kıdemli)
+trp_lisovchiki|Lisowczyk Atlısı
+trp_lisovchiki_pl|Lisowczycy Atlısı
+trp_lisovchiki_levelup|Lisowczyk Atlısı (kıdemli)
+trp_lisovchiki_levelup_pl|Lisowczycy Atlısı  (kıdemli)
+trp_litva_lipki|Litvanyalı Tatar
+trp_litva_lipki_pl|Litvanyalı Tatar
+trp_litva_lipki_levelup|Litvanyalı Tatar (kıdemli)
+trp_litva_lipki_levelup_pl|Litvanyalı Tatar (kıdemli)
+trp_ttr_nogay|Nogay
+trp_ttr_nogay_pl|Nogay
+trp_ttr_nogay_levelup|Nogay (kıdemli)
+trp_ttr_nogay_levelup_pl|Nogay (kıdemli)
+trp_ttr_cherkes|Çerkez
+trp_ttr_cherkes_pl|Çerkez
+trp_ttr_cherkes_levelup|Çerkez (kıdemli)
+trp_ttr_cherkes_levelup_pl|Çerkez (kıdemli)
+trp_mosk_kalmyk|Kalmuk Askeri
+trp_mosk_kalmyk_pl|Kalmuk Askeri
+trp_mosk_kalmyk_levelup|Kalmuk Askeri (kıdemli)
+trp_mosk_kalmyk_levelup_pl|Kalmuk Askeri (kıdemli)
+trp_tatar_merc_cav|Tatar Süvarisi
+trp_tatar_merc_cav_pl|Tatar Süvarisi
+trp_tatar_merc_cav_levelup|Tatar Süvarisi (kıdemli)
+trp_tatar_merc_cav_levelup_pl|Tatar Süvarisi (kıdemli)
+trp_merc_reytar|Süvari
+trp_merc_reytar_pl|Süvari
+trp_merc_reytar_levelup|Kara Süvari (kıdemli)
+trp_merc_reytar_levelup_pl|Kara Süvari (kıdemli)
+trp_refugee|Mülteci
+trp_refugee_pl|Mülteci
+trp_peasant_woman|Köylü Kadın
+trp_peasant_woman_pl|Köylü Kadın
+trp_caravan_master|Kervan Başı
+trp_caravan_master_pl|Kervan Başı
+trp_kidnapped_girl|Kaçırılmış Kız
+trp_kidnapped_girl_pl|Kaçırılmış Kız
+trp_town_walker_1|Şehirli Adam
+trp_town_walker_1_pl|Şehirli Adam
+trp_town_walker_2|Şehirli Kadın
+trp_town_walker_2_pl|Şehirli Kadın
+trp_village_walker_1|Köylü
+trp_village_walker_1_pl|Köylü
+trp_village_walker_2|Köylü
+trp_village_walker_2_pl|Köylü
+trp_rich_baba_pol|Yerli
+trp_rich_baba_pol_pl|Yerli
+trp_pure_baba_pol|Yerli
+trp_pure_baba_pol_pl|Yerli
+trp_rich_mujik_pol|Yerli
+trp_rich_mujik_pol_pl|Yerli
+trp_pure_mujik_pol|Yerli
+trp_pure_mujik_pol_pl|Yerli
+trp_rich_baba_mosk|Yerli
+trp_rich_baba_mosk_pl|Yerli
+trp_pure_baba_mosk|Yerli
+trp_pure_baba_mosk_pl|Yerli
+trp_rich_mujik_mosk|Yerli
+trp_rich_mujik_mosk_pl|Yerli
+trp_pure_mujik_mosk|Yerli
+trp_pure_mujik_mosk_pl|Yerli
+trp_rich_baba_ttr|Yerli
+trp_rich_baba_ttr_pl|Yerli
+trp_pure_baba_ttr|Yerli
+trp_pure_baba_ttr_pl|Yerli
+trp_rich_mujik_ttr|Yerli
+trp_rich_mujik_ttr_pl|Yerli
+trp_pure_mujik_ttr|Yerli
+trp_pure_mujik_ttr_pl|Yerli
+trp_rich_baba_swd|Yerli
+trp_rich_baba_swd_pl|Yerli
+trp_pure_baba_swd|Yerli
+trp_pure_baba_swd_pl|Yerli
+trp_rich_mujik_swd|Yerli
+trp_rich_mujik_swd_pl|Yerli
+trp_pure_mujik_swd|Yerli
+trp_pure_mujik_swd_pl|Yerli
+trp_rich_baba_ukr|Yerli
+trp_rich_baba_ukr_pl|Yerli
+trp_pure_baba_ukr|Yerli
+trp_pure_baba_ukr_pl|Yerli
+trp_rich_mujik_ukr|Yerli
+trp_rich_mujik_ukr_pl|Yerli
+trp_pure_mujik_ukr|Yerli
+trp_pure_mujik_ukr_pl|Yerli
+trp_spy_walker_1|Şehirli Adam
+trp_spy_walker_1_pl|Şehirli Adam
+trp_spy_walker_2|Şehirli Kadın
+trp_spy_walker_2_pl|Şehirli Kadın
+trp_tournament_master|Turnuva Başı
+trp_tournament_master_pl|Turnuva Başı
+trp_trainer|Talimci
+trp_trainer_pl|Talimci
+trp_constable_hareck|Memur Hareck
+trp_constable_hareck_pl|Memur Hareck
+trp_ramun_the_slave_trader|Köle Taciri Ramun
+trp_ramun_the_slave_trader_pl|Köle Taciri Ramun
+trp_guide|Kızlı Jimmy
+trp_guide_pl|Kızlı Jimmy
+trp_xerina|Zerina
+trp_xerina_pl|Zerina
+trp_dranton|Dranton
+trp_dranton_pl|Dranton
+trp_kradus|Kradus
+trp_kradus_pl|Kradus
+trp_tutorial_trainer|Talim Alanı Üstadı
+trp_tutorial_trainer_pl|Talim Alanı Üstadı 
+trp_galeas|Galeas
+trp_galeas_pl|Galeas
+trp_farmer_from_bandit_village|Çiftçi
+trp_farmer_from_bandit_village_pl|Çiftçi
+trp_trainer_1|Talimci
+trp_trainer_1_pl|Talimci
+trp_trainer_2|Talimci
+trp_trainer_2_pl|Talimci
+trp_trainer_3|Talimci
+trp_trainer_3_pl|Talimci
+trp_trainer_4|Talimci
+trp_trainer_4_pl|Talimci
+trp_trainer_5|Talimci
+trp_trainer_5_pl|Talimci
+trp_ransom_broker_1|Fidye Simsarı
+trp_ransom_broker_1_pl|Fidye Simsarı
+trp_ransom_broker_2|Fidye Simsarı
+trp_ransom_broker_2_pl|Fidye Simsarı
+trp_ransom_broker_3|Fidye Simsarı
+trp_ransom_broker_3_pl|Fidye Simsarı
+trp_ransom_broker_4|Fidye Simsarı
+trp_ransom_broker_4_pl|Fidye Simsarı
+trp_ransom_broker_5|Fidye Simsarı
+trp_ransom_broker_5_pl|Fidye Simsarı
+trp_ransom_broker_6|Fidye Simsarı
+trp_ransom_broker_6_pl|Fidye Simsarı
+trp_ransom_broker_7|Fidye Simsarı
+trp_ransom_broker_7_pl|Fidye Simsarı
+trp_ransom_broker_8|Fidye Simsarı
+trp_ransom_broker_8_pl|Fidye Simsarı
+trp_ransom_broker_9|Fidye Simsarı
+trp_ransom_broker_9_pl|Fidye Simsarı
+trp_ransom_broker_10|Fidye Simsarı
+trp_ransom_broker_10_pl|Fidye Simsarı
+trp_tavern_traveler_1|Yolcu
+trp_tavern_traveler_1_pl|Yolcu
+trp_tavern_traveler_2|Yolcu
+trp_tavern_traveler_2_pl|Yolcu
+trp_tavern_traveler_3|Yolcu
+trp_tavern_traveler_3_pl|Yolcu
+trp_tavern_traveler_4|Yolcu
+trp_tavern_traveler_4_pl|Yolcu
+trp_tavern_traveler_5|Yolcu
+trp_tavern_traveler_5_pl|Yolcu
+trp_tavern_traveler_6|Yolcu
+trp_tavern_traveler_6_pl|Yolcu
+trp_tavern_traveler_7|Yolcu
+trp_tavern_traveler_7_pl|Yolcu
+trp_tavern_traveler_8|Yolcu
+trp_tavern_traveler_8_pl|Yolcu
+trp_tavern_traveler_9|Yolcu
+trp_tavern_traveler_9_pl|Yolcu
+trp_tavern_traveler_10|Yolcu
+trp_tavern_traveler_10_pl|Yolcu
+trp_tavern_bookseller_1|Kitap Tüccarı
+trp_tavern_bookseller_1_pl|Kitap Tüccarı
+trp_tavern_bookseller_2|Kitap Tüccarı
+trp_tavern_bookseller_2_pl|Kitap Tüccarı
+trp_tavern_minstrel_1|Ozan
+trp_tavern_minstrel_1_pl|Ozan
+trp_npc1|Albay Zagloba
+trp_npc1_pl|Albay Zagloba
+trp_npc2|Tepes
+trp_npc2_pl|Tepes
+trp_npc3|Rahip Spasokukotsky
+trp_npc3_pl|Rahip Spasokukotsky
+trp_npc4|Mamai
+trp_npc4_pl|Mamai
+trp_npc5|Karlsson
+trp_npc5_pl|Karlsson
+trp_npc6|Fedot
+trp_npc6_pl|Fedot
+trp_npc7|Yelisei
+trp_npc7_pl|Yelisei
+trp_npc8|Bakıt
+trp_npc8_pl|Bakıt
+trp_npc9|Algirdas
+trp_npc9_pl|Algirdas
+trp_npc10|Victor de la Buscador
+trp_npc10_pl|Victor de la Buscador
+trp_npc11|Nogay
+trp_npc11_pl|Nogay
+trp_npc12|Sarabun
+trp_npc12_pl|Sarabun
+trp_npc13|Oksana
+trp_npc13_pl|Oksana
+trp_npc14|Ingri
+trp_npc14_pl|Ingri
+trp_npc15|Varvara
+trp_npc15_pl|Varvara
+trp_npc16|Fatıma
+trp_npc16_pl|Fatıma
+trp_kingdom_heroes_including_player_begin|kingdom heroes including player begin
+trp_kingdom_heroes_including_player_begin_pl|kingdom heroes including player begin
+trp_kingdom_1_lord|Kral Jan Kasimir
+trp_kingdom_1_lord_pl|Kingdom 1 Lord
+trp_kingdom_2_lord|Çar Alexei Mikhailovich
+trp_kingdom_2_lord_pl|Kingdom 2 Lord
+trp_kingdom_3_lord|İslam Giray Han
+trp_kingdom_3_lord_pl|Kingdom 3 Lord
+trp_kingdom_4_lord|Kral Carl Gustaf
+trp_kingdom_4_lord_pl|Kingdom 4 Lord
+trp_kingdom_5_lord|Ataman Bogdan Hmelnitski
+trp_kingdom_5_lord_pl|Kingdom 5 Lord
+trp_knight_1_1|Albay Andrzej Kmicic
+trp_knight_1_1_pl|knight 1 1
+trp_knight_1_2|Albay Michal Wolodyjowski
+trp_knight_1_2_pl|knight 1 2
+trp_knight_1_3|Albay Jan Skrzetuski
+trp_knight_1_3_pl|knight 1 3
+trp_knight_1_4|Kumandan Alexander Oginsky
+trp_knight_1_4_pl|knight 1 4
+trp_knight_1_5|Kumandan Stanislav Liantskoronsky
+trp_knight_1_5_pl|knight 1 5
+trp_knight_1_6|Kumandan Fyodor Obukhovich
+trp_knight_1_6_pl|knight 1 6
+trp_knight_1_7|Kont Casimir Tyszkiewicz
+trp_knight_1_7_pl|knight 1 7
+trp_knight_1_8|Kumandan Janusz Kiszka
+trp_knight_1_8_pl|knight 1 8
+trp_knight_1_9|Ataman Pavel Sapega
+trp_knight_1_9_pl|knight 1 9
+trp_knight_1_10|Albay Jerzy Halecki
+trp_knight_1_10_pl|knight 1 0
+trp_knight_1_11|Albay Jan Zenowicz
+trp_knight_1_11_pl|knight 1 1
+trp_knight_1_12|Kumandan Jan Zamojski
+trp_knight_1_12_pl|knight 1 2
+trp_knight_1_13|Cornet Siegmund Slushka
+trp_knight_1_13_pl|knight 1 3
+trp_knight_1_14|Ataman Jan Sobieski
+trp_knight_1_14_pl|knight 1 4
+trp_knight_1_15|Ataman Stanislaw Potocki
+trp_knight_1_15_pl|knight 1 5
+trp_knight_1_16|Ataman Stefan Czarniecki
+trp_knight_1_16_pl|knight 1 6
+trp_knight_1_17|Kumandan Krzysztof Grzymultowski
+trp_knight_1_17_pl|knight 1 7
+trp_knight_1_18|Albay Alexander Casimir Wolowicz
+trp_knight_1_18_pl|knight 1 8
+trp_knight_1_19|Prens Boguslav Nesvizhsky
+trp_knight_1_19_pl|knight 1 9
+trp_knight_1_20|Prens Michal Vishnevetsky
+trp_knight_1_20_pl|knight 1 0
+trp_knight_2_1|Kumandan Yuri Buynosov-Rostovsky
+trp_knight_2_1_pl|knight 2 1
+trp_knight_2_2|Prens Ivan Sontsov-Zasekin
+trp_knight_2_2_pl|knight 2 2
+trp_knight_2_3|Prens Semyon Prozorovsky
+trp_knight_2_3_pl|knight 2 3
+trp_knight_2_4|Kumandan Semyon Rakhmanin
+trp_knight_2_4_pl|knight 2 4
+trp_knight_2_5|Kumandan Boris Repnin-Obolevsky
+trp_knight_2_5_pl|knight 2 5
+trp_knight_2_6|Kumandan Fyodor Volkonsky
+trp_knight_2_6_pl|knight 2 6
+trp_knight_2_7|Şef Naum Vasiliev
+trp_knight_2_7_pl|Ralcha
+trp_knight_2_8|Asilzade Alexei Vorotynsky
+trp_knight_2_8_pl|knight 2 8
+trp_knight_2_9|Prens Yakov Cherkassky
+trp_knight_2_9_pl|knight 2 9
+trp_knight_2_10|Prens Alexei Trubetskoi
+trp_knight_2_10_pl|knight 2 0
+trp_knight_2_11|Kumandan Vasiliy Buturlin
+trp_knight_2_11_pl|knight 2 1
+trp_knight_2_12|Asilzade Vasiliy Sheremetyev
+trp_knight_2_12_pl|knight 2 2
+trp_knight_2_13|Prens Semyon Urusov
+trp_knight_2_13_pl|knight 2 3
+trp_knight_2_14|Prens Yuri Boryatinsky
+trp_knight_2_14_pl|knight 2 4
+trp_knight_2_15|Kumandan Fyodor Hvorostinin
+trp_knight_2_15_pl|knight 2 5
+trp_knight_2_16|Prens Andrei Khovansky
+trp_knight_2_16_pl|knight 2 6
+trp_knight_2_17|Komutan Nikita Odoevsky
+trp_knight_2_17_pl|Ralcha
+trp_knight_2_18|Şef Pavel Neskachikhin
+trp_knight_2_18_pl|knight 2 8
+trp_knight_2_19|Kumandan Boris Pushkin
+trp_knight_2_19_pl|knight 2 9
+trp_knight_2_20|Kumandan Afanasiy Ordin-Naschokin
+trp_knight_2_20_pl|knight 2 0
+trp_knight_3_1|Beyazıd Han
+trp_knight_3_1_pl|knight 3 1
+trp_knight_3_2|Ahmed Paşa
+trp_knight_3_2_pl|knight 3 2
+trp_knight_3_3|İmad Paşa
+trp_knight_3_3_pl|knight 3 3
+trp_knight_3_4|Mirza Enikey
+trp_knight_3_4_pl|knight 3 4
+trp_knight_3_5|Mirza Yan Mehmet
+trp_knight_3_5_pl|knight 3 5
+trp_knight_3_6|Şirin Bey
+trp_knight_3_6_pl|knight 3 6
+trp_knight_3_7|Mirza Devletşin
+trp_knight_3_7_pl|knight 3 7
+trp_knight_3_8|Bukrun Bey
+trp_knight_3_8_pl|knight 3 8
+trp_knight_3_9|Barın Bey
+trp_knight_3_9_pl|knight 3 9
+trp_knight_3_10|Argun Bey
+trp_knight_3_10_pl|knight 3 0
+trp_knight_3_11|Seyyit Bey
+trp_knight_3_11_pl|knight 3 1
+trp_knight_3_12|Mansur Bey
+trp_knight_3_12_pl|knight 3 2
+trp_knight_3_13|Yaşlav Bey
+trp_knight_3_13_pl|knight 3 3
+trp_knight_3_14|Mirza Argun
+trp_knight_3_14_pl|knight 3 4
+trp_knight_3_15|Mirza Akış
+trp_knight_3_15_pl|knight 3 5
+trp_knight_3_16|Mirza Divey
+trp_knight_3_16_pl|knight 3 6
+trp_knight_3_17|Mirza Appak
+trp_knight_3_17_pl|knight 3 7
+trp_knight_3_18|Mirza Karaç
+trp_knight_3_18_pl|knight 3 8
+trp_knight_3_19|Mirza Yelçi
+trp_knight_3_19_pl|knight 3 9
+trp_knight_3_20|Uzun Bey
+trp_knight_3_20_pl|knight 3 0
+trp_knight_4_1|General Brahe Wisingsborg
+trp_knight_4_1_pl|knight 4 1
+trp_knight_4_2|Vali-General Magnus De la Gardie
+trp_knight_4_2_pl|knight 4 2
+trp_knight_4_3|Kont Orvar von Goya
+trp_knight_4_3_pl|knight 4 3
+trp_knight_4_4|Vali Anders Eriksson
+trp_knight_4_4_pl|knight 4 4
+trp_knight_4_5|Prens Frederick William
+trp_knight_4_5_pl|knight 4 5
+trp_knight_4_6|Mebus Dirich Werneken
+trp_knight_4_6_pl|knight 4 6
+trp_knight_4_7|General Arvid Vittenberg
+trp_knight_4_7_pl|knight 4 7
+trp_knight_4_8|General Gustaf Evertsson Horn
+trp_knight_4_8_pl|knight 4 8
+trp_knight_4_9|Mebus Alexander Leslie
+trp_knight_4_9_pl|knight 4 9
+trp_knight_4_10|Baron Gustaf Wrangel
+trp_knight_4_10_pl|knight 4 0
+trp_knight_4_11|Baron Christopher Bjolke
+trp_knight_4_11_pl|knight 4 1
+trp_knight_4_12|Mebus Lennart Torstenson
+trp_knight_4_12_pl|knight 4 2
+trp_knight_4_13|Mebus Otto Standbok
+trp_knight_4_13_pl|knight 4 3
+trp_knight_4_14|General Simon Grundel-Hemfet
+trp_knight_4_14_pl|knight 4 4
+trp_knight_4_15|Mebus Konrad Marenfeld
+trp_knight_4_15_pl|knight 4 5
+trp_knight_4_16|Mebus Fabian von Wersen
+trp_knight_4_16_pl|knight 4 6
+trp_knight_4_17|Mebus Hans von Koenigsmark
+trp_knight_4_17_pl|knight 4 7
+trp_knight_4_18|Mebus Nilson Kagg
+trp_knight_4_18_pl|knight 4 8
+trp_knight_4_19|General Robert Douglas
+trp_knight_4_19_pl|knight 4 9
+trp_knight_4_20|Meclis Üyesi Carl Lebenhaupt
+trp_knight_4_20_pl|knight 4 0
+trp_knight_5_1|Albay Anton Zhdanovich
+trp_knight_5_1_pl|knight 5 1
+trp_knight_5_2|Albay Bogdan Popovich
+trp_knight_5_2_pl|knight 5 2
+trp_knight_5_3|Ordu Amiri Pavlo Gomon
+trp_knight_5_3_pl|knight 5 3
+trp_knight_5_4|Albay Ivan Fedorenko
+trp_knight_5_4_pl|knight 5 4
+trp_knight_5_5|Albay Ivan Bogun
+trp_knight_5_5_pl|knight 5 5
+trp_knight_5_6|Albay Petro Doroshenko
+trp_knight_5_6_pl|knight 5 6
+trp_knight_5_7|Albay Lukyan Mozyra
+trp_knight_5_7_pl|knight 5 7
+trp_knight_5_8|Merkez Katibi Ivan Vygovsky
+trp_knight_5_8_pl|knight 5 8
+trp_knight_5_9|Albay Vasil Zolotarenko
+trp_knight_5_9_pl|knight 5 9
+trp_knight_5_10|Albay Maksim Nesterenko
+trp_knight_5_10_pl|knight 5 0
+trp_knight_5_11|Albay Prokop Shumeiko
+trp_knight_5_11_pl|knight 5 1
+trp_knight_5_12|Albay Ivan Sirko
+trp_knight_5_12_pl|knight 5 2
+trp_knight_5_13|Albay Fyodor Loboda
+trp_knight_5_13_pl|knight 5 3
+trp_knight_5_14|Albay Timofiy Nosach
+trp_knight_5_14_pl|knight 5 4
+trp_knight_5_15|Albay Matviy Gladkiy
+trp_knight_5_15_pl|knight 5 5
+trp_knight_5_16|Albay Martyn Pushkarenko
+trp_knight_5_16_pl|knight 5 6
+trp_knight_5_17|Albay Filon Jalaliy
+trp_knight_5_17_pl|knight 5 7
+trp_knight_5_18|Birlik Komutanı Ivan Hmara
+trp_knight_5_18_pl|knight 5 8
+trp_knight_5_19|Birlik Komutanı Lavrin Sinonos
+trp_knight_5_19_pl|knight 5 9
+trp_knight_5_20|Birlik Komutanı Les' Gritsenko
+trp_knight_5_20_pl|knight 5 0
+trp_kingdom_1_pretender|Janusz Radziwill
+trp_kingdom_1_pretender_pl|Kingdom 1 Lord
+trp_kingdom_2_pretender|Stepan Razin
+trp_kingdom_2_pretender_pl|Kingdom 2 Lord
+trp_kingdom_3_pretender|Mehmed Giray
+trp_kingdom_3_pretender_pl|Kingdom 3 Lord
+trp_kingdom_4_pretender|Eski Kraliçe Christina
+trp_kingdom_4_pretender_pl|Kingdom 4 Lord
+trp_kingdom_5_pretender|Ivan Barabash
+trp_kingdom_5_pretender_pl|Kingdom 5 Lord
+trp_knight_1_1_wife|Panna Olena Billewicz
+trp_knight_1_1_wife_pl|knight 1 1 wife
+trp_knight_2_1_wife|Asilzade Hanım Alina
+trp_knight_2_1_wife_pl|knight 2 1 wife
+trp_knight_3_1_wife|Alsu
+trp_knight_3_1_wife_pl|knight 3 1 wife
+trp_knight_4_1_wife|Lady Agnes
+trp_knight_4_1_wife_pl|knight 4 1 wife
+trp_knight_5_1_wife|Pani Marina
+trp_knight_5_1_wife_pl|knight 5 1 wife
+trp_knight_1_2_wife|Panna Annie Fastreacher
+trp_knight_1_2_wife_pl|knight 1 1 wife
+trp_knight_2_2_wife|Asilzade Hanım Marfa
+trp_knight_2_2_wife_pl|knight 2 1 wife
+trp_knight_3_2_wife|Bariya
+trp_knight_3_2_wife_pl|knight 3 1 wife
+trp_knight_4_2_wife|Leydi Annel
+trp_knight_4_2_wife_pl|knight 4 1 wife
+trp_knight_5_2_wife|Pani Galina
+trp_knight_5_2_wife_pl|knight 5 1 wife
+trp_knight_1_1_daughter|Panna Agneshka
+trp_knight_1_1_daughter_pl|knight 1 1 daughter
+trp_knight_2_1_daughter|Asilzade Hanım Arina
+trp_knight_2_1_daughter_pl|knight 2 1 daughter
+trp_knight_3_1_daughter|Nadira
+trp_knight_3_1_daughter_pl|knight 3 1 daughter
+trp_knight_4_1_daughter|Leydi Cecilia
+trp_knight_4_1_daughter_pl|knight 4 1 daughter
+trp_knight_5_1_daughter|Pani Hanna
+trp_knight_5_1_daughter_pl|knight 5 1 daughter
+trp_knight_1_2_daughter|Panna Angela
+trp_knight_1_2_daughter_pl|knight 1 1 daughter
+trp_knight_2_2_daughter|Asilzade Hanım Maria
+trp_knight_2_2_daughter_pl|knight 2 1 daughter
+trp_knight_3_2_daughter|Gulnur
+trp_knight_3_2_daughter_pl|knight 3 1 daughter
+trp_knight_4_2_daughter|Leydi Freja
+trp_knight_4_2_daughter_pl|knight 4 1 daughter
+trp_knight_5_2_daughter|Pani Irina
+trp_knight_5_2_daughter_pl|knight 5 1 daughter
+trp_town_1_seneschal|Town 1 Seneschal
+trp_town_1_seneschal_pl|Town 1 Seneschal
+trp_town_2_seneschal|Town 2 Seneschal
+trp_town_2_seneschal_pl|Town 2 Seneschal
+trp_town_3_seneschal|Town 3 Seneschal
+trp_town_3_seneschal_pl|Town 3 Seneschal
+trp_town_4_seneschal|Town 4 Seneschal
+trp_town_4_seneschal_pl|Town 4 Seneschal
+trp_town_5_seneschal|Town 5 Seneschal
+trp_town_5_seneschal_pl|Town 5 Seneschal
+trp_town_6_seneschal|Town 6 Seneschal
+trp_town_6_seneschal_pl|Town 6 Seneschal
+trp_town_7_seneschal|Town 7 Seneschal
+trp_town_7_seneschal_pl|Town 7 Seneschal
+trp_town_8_seneschal|Town 8 Seneschal
+trp_town_8_seneschal_pl|Town 8 Seneschal
+trp_town_9_seneschal|Town 9 Seneschal
+trp_town_9_seneschal_pl|Town 9 Seneschal
+trp_town_10_seneschal|Town 10 Seneschal
+trp_town_10_seneschal_pl|Town 10 Seneschal
+trp_town_11_seneschal|Town 11 Seneschal
+trp_town_11_seneschal_pl|Town 11 Seneschal
+trp_town_12_seneschal|Town 12 Seneschal
+trp_town_12_seneschal_pl|Town 12 Seneschal
+trp_town_13_seneschal|Town 13 Seneschal
+trp_town_13_seneschal_pl|Town 13 Seneschal
+trp_town_14_seneschal|Town 14 Seneschal
+trp_town_14_seneschal_pl|Town 14 Seneschal
+trp_town_15_seneschal|Town 15 Seneschal
+trp_town_15_seneschal_pl|Town 14 Seneschal
+trp_town_16_seneschal|Town 16 Seneschal
+trp_town_16_seneschal_pl|Town 14 Seneschal
+trp_town_17_seneschal|Town 17 Seneschal
+trp_town_17_seneschal_pl|Town 14 Seneschal
+trp_town_18_seneschal|Town 18 Seneschal
+trp_town_18_seneschal_pl|Town 14 Seneschal
+trp_castle_1_seneschal|Castle 1 Seneschal
+trp_castle_1_seneschal_pl|Castle 1 Seneschal
+trp_castle_2_seneschal|Castle 2 Seneschal
+trp_castle_2_seneschal_pl|Castle 2 Seneschal
+trp_castle_3_seneschal|Castle 3 Seneschal
+trp_castle_3_seneschal_pl|Castle 3 Seneschal
+trp_castle_4_seneschal|Castle 4 Seneschal
+trp_castle_4_seneschal_pl|Castle 4 Seneschal
+trp_castle_5_seneschal|Castle 5 Seneschal
+trp_castle_5_seneschal_pl|Castle 5 Seneschal
+trp_castle_6_seneschal|Castle 6 Seneschal
+trp_castle_6_seneschal_pl|Castle 6 Seneschal
+trp_castle_7_seneschal|Castle 7 Seneschal
+trp_castle_7_seneschal_pl|Castle 7 Seneschal
+trp_castle_8_seneschal|Castle 8 Seneschal
+trp_castle_8_seneschal_pl|Castle 8 Seneschal
+trp_castle_9_seneschal|Castle 9 Seneschal
+trp_castle_9_seneschal_pl|Castle 9 Seneschal
+trp_castle_10_seneschal|Castle 10 Seneschal
+trp_castle_10_seneschal_pl|Castle 10 Seneschal
+trp_castle_11_seneschal|Castle 11 Seneschal
+trp_castle_11_seneschal_pl|Castle 11 Seneschal
+trp_castle_12_seneschal|Castle 2 Seneschal
+trp_castle_12_seneschal_pl|Castle 2 Seneschal
+trp_castle_13_seneschal|Castle 3 Seneschal
+trp_castle_13_seneschal_pl|Castle 3 Seneschal
+trp_castle_14_seneschal|Castle 4 Seneschal
+trp_castle_14_seneschal_pl|Castle 4 Seneschal
+trp_castle_15_seneschal|Castle 5 Seneschal
+trp_castle_15_seneschal_pl|Castle 5 Seneschal
+trp_castle_16_seneschal|Castle 6 Seneschal
+trp_castle_16_seneschal_pl|Castle 6 Seneschal
+trp_castle_17_seneschal|Zaporojya Kazağı
+trp_castle_17_seneschal_pl|Zaporojya Kazağı
+trp_castle_18_seneschal|Castle 8 Seneschal
+trp_castle_18_seneschal_pl|Castle 8 Seneschal
+trp_castle_19_seneschal|Castle 9 Seneschal
+trp_castle_19_seneschal_pl|Castle 9 Seneschal
+trp_castle_20_seneschal|Castle 20 Seneschal
+trp_castle_20_seneschal_pl|Castle 20 Seneschal
+trp_castle_21_seneschal|Castle 11 Seneschal
+trp_castle_21_seneschal_pl|Castle 11 Seneschal
+trp_castle_22_seneschal|Castle 2 Seneschal
+trp_castle_22_seneschal_pl|Castle 2 Seneschal
+trp_castle_23_seneschal|Castle 3 Seneschal
+trp_castle_23_seneschal_pl|Castle 3 Seneschal
+trp_castle_24_seneschal|Castle 4 Seneschal
+trp_castle_24_seneschal_pl|Castle 4 Seneschal
+trp_castle_25_seneschal|Castle 5 Seneschal
+trp_castle_25_seneschal_pl|Castle 5 Seneschal
+trp_castle_26_seneschal|Castle 6 Seneschal
+trp_castle_26_seneschal_pl|Castle 6 Seneschal
+trp_castle_27_seneschal|Castle 7 Seneschal
+trp_castle_27_seneschal_pl|Castle 7 Seneschal
+trp_castle_28_seneschal|Castle 8 Seneschal
+trp_castle_28_seneschal_pl|Castle 8 Seneschal
+trp_castle_29_seneschal|Castle 9 Seneschal
+trp_castle_29_seneschal_pl|Castle 9 Seneschal
+trp_castle_30_seneschal|Castle 20 Seneschal
+trp_castle_30_seneschal_pl|Castle 20 Seneschal
+trp_castle_31_seneschal|Castle 11 Seneschal
+trp_castle_31_seneschal_pl|Castle 11 Seneschal
+trp_castle_32_seneschal|Castle 2 Seneschal
+trp_castle_32_seneschal_pl|Castle 2 Seneschal
+trp_castle_33_seneschal|Castle 3 Seneschal
+trp_castle_33_seneschal_pl|Castle 3 Seneschal
+trp_castle_34_seneschal|Castle 4 Seneschal
+trp_castle_34_seneschal_pl|Castle 4 Seneschal
+trp_castle_35_seneschal|Castle 5 Seneschal
+trp_castle_35_seneschal_pl|Castle 5 Seneschal
+trp_castle_36_seneschal|Castle 6 Seneschal
+trp_castle_36_seneschal_pl|Castle 6 Seneschal
+trp_castle_37_seneschal|Castle 7 Seneschal
+trp_castle_37_seneschal_pl|Castle 7 Seneschal
+trp_castle_38_seneschal|Castle 8 Seneschal
+trp_castle_38_seneschal_pl|Castle 8 Seneschal
+trp_castle_39_seneschal|Castle 9 Seneschal
+trp_castle_39_seneschal_pl|Castle 9 Seneschal
+trp_castle_40_seneschal|Castle 20 Seneschal
+trp_castle_40_seneschal_pl|Castle 20 Seneschal
+trp_town_1_arena_master|Turnuva Başı
+trp_town_1_arena_master_pl|Turnuva Başı
+trp_town_2_arena_master|Turnuva Başı
+trp_town_2_arena_master_pl|Turnuva Başı
+trp_town_3_arena_master|Turnuva Başı
+trp_town_3_arena_master_pl|Turnuva Başı
+trp_town_4_arena_master|Turnuva Başı
+trp_town_4_arena_master_pl|Turnuva Başı
+trp_town_5_arena_master|Turnuva Başı
+trp_town_5_arena_master_pl|Turnuva Başı
+trp_town_6_arena_master|Turnuva Başı
+trp_town_6_arena_master_pl|Turnuva Başı
+trp_town_7_arena_master|Turnuva Başı
+trp_town_7_arena_master_pl|Turnuva Başı
+trp_town_8_arena_master|Turnuva Başı
+trp_town_8_arena_master_pl|Turnuva Başı
+trp_town_9_arena_master|Turnuva Başı
+trp_town_9_arena_master_pl|Turnuva Başı
+trp_town_10_arena_master|Turnuva Başı
+trp_town_10_arena_master_pl|Turnuva Başı
+trp_town_11_arena_master|Turnuva Başı
+trp_town_11_arena_master_pl|Turnuva Başı
+trp_town_12_arena_master|Turnuva Başı
+trp_town_12_arena_master_pl|Turnuva Başı
+trp_town_13_arena_master|Turnuva Başı
+trp_town_13_arena_master_pl|Turnuva Başı
+trp_town_14_arena_master|Turnuva Başı
+trp_town_14_arena_master_pl|Turnuva Başı
+trp_town_15_arena_master|Turnuva Başı
+trp_town_15_arena_master_pl|Turnuva Başı
+trp_town_16_arena_master|Turnuva Başı
+trp_town_16_arena_master_pl|Turnuva Başı
+trp_town_17_arena_master|Turnuva Başı
+trp_town_17_arena_master_pl|Turnuva Başı
+trp_town_18_arena_master|Turnuva Başı
+trp_town_18_arena_master_pl|Turnuva Başı
+trp_town_1_armorer|Zırh ustası
+trp_town_1_armorer_pl|Zırh ustası
+trp_town_2_armorer|Zırh ustası
+trp_town_2_armorer_pl|Zırh ustası
+trp_town_3_armorer|Zırh ustası
+trp_town_3_armorer_pl|Zırh ustası
+trp_town_4_armorer|Zırh ustası
+trp_town_4_armorer_pl|Zırh ustası
+trp_town_5_armorer|Zırh ustası
+trp_town_5_armorer_pl|Zırh ustası
+trp_town_6_armorer|Zırh ustası
+trp_town_6_armorer_pl|Zırh ustası
+trp_town_7_armorer|Zırh ustası
+trp_town_7_armorer_pl|Zırh ustası
+trp_town_8_armorer|Zırh ustası
+trp_town_8_armorer_pl|Zırh ustası
+trp_town_9_armorer|Zırh ustası
+trp_town_9_armorer_pl|Zırh ustası
+trp_town_10_armorer|Zırh ustası
+trp_town_10_armorer_pl|Zırh ustası
+trp_town_11_armorer|Zırh ustası
+trp_town_11_armorer_pl|Zırh ustası
+trp_town_12_armorer|Zırh ustası
+trp_town_12_armorer_pl|Zırh ustası
+trp_town_13_armorer|Zırh ustası
+trp_town_13_armorer_pl|Zırh ustası
+trp_town_14_armorer|Zırh ustası
+trp_town_14_armorer_pl|Zırh ustası
+trp_town_15_armorer|Zırh ustası
+trp_town_15_armorer_pl|Zırh ustası
+trp_town_16_armorer|Zırh ustası
+trp_town_16_armorer_pl|Zırh ustası
+trp_town_17_armorer|Zırh ustası
+trp_town_17_armorer_pl|Zırh ustası
+trp_town_18_armorer|Zırh ustası
+trp_town_18_armorer_pl|Zırh ustası
+trp_town_1_weaponsmith|Silah Tüccarı
+trp_town_1_weaponsmith_pl|Silah Tüccarı
+trp_town_2_weaponsmith|Silah Tüccarı
+trp_town_2_weaponsmith_pl|Silah Tüccarı
+trp_town_3_weaponsmith|Silah Tüccarı
+trp_town_3_weaponsmith_pl|Silah Tüccarı
+trp_town_4_weaponsmith|Silah Tüccarı
+trp_town_4_weaponsmith_pl|Silah Tüccarı
+trp_town_5_weaponsmith|Silah Tüccarı
+trp_town_5_weaponsmith_pl|Silah Tüccarı
+trp_town_6_weaponsmith|Silah Tüccarı
+trp_town_6_weaponsmith_pl|Silah Tüccarı
+trp_town_7_weaponsmith|Silah Tüccarı
+trp_town_7_weaponsmith_pl|Silah Tüccarı
+trp_town_8_weaponsmith|Silah Tüccarı
+trp_town_8_weaponsmith_pl|Silah Tüccarı
+trp_town_9_weaponsmith|Silah Tüccarı
+trp_town_9_weaponsmith_pl|Silah Tüccarı
+trp_town_10_weaponsmith|Silah Tüccarı
+trp_town_10_weaponsmith_pl|Silah Tüccarı
+trp_town_11_weaponsmith|Silah Tüccarı
+trp_town_11_weaponsmith_pl|Silah Tüccarı
+trp_town_12_weaponsmith|Silah Tüccarı
+trp_town_12_weaponsmith_pl|Silah Tüccarı
+trp_town_13_weaponsmith|Silah Tüccarı
+trp_town_13_weaponsmith_pl|Silah Tüccarı
+trp_town_14_weaponsmith|Silah Tüccarı
+trp_town_14_weaponsmith_pl|Silah Tüccarı
+trp_town_15_weaponsmith|Silah Tüccarı
+trp_town_15_weaponsmith_pl|Silah Tüccarı
+trp_town_16_weaponsmith|Silah Tüccarı
+trp_town_16_weaponsmith_pl|Silah Tüccarı
+trp_town_17_weaponsmith|Silah Tüccarı
+trp_town_17_weaponsmith_pl|Silah Tüccarı
+trp_town_18_weaponsmith|Silah Tüccarı
+trp_town_18_weaponsmith_pl|Silah Tüccarı
+trp_town_1_tavernkeeper|Hancı
+trp_town_1_tavernkeeper_pl|Hancı
+trp_town_2_tavernkeeper|Hancı
+trp_town_2_tavernkeeper_pl|Hancı
+trp_town_3_tavernkeeper|Hancı
+trp_town_3_tavernkeeper_pl|Hancı
+trp_town_4_tavernkeeper|Hancı
+trp_town_4_tavernkeeper_pl|Hancı
+trp_town_5_tavernkeeper|Hancı
+trp_town_5_tavernkeeper_pl|Hancı
+trp_town_6_tavernkeeper|Hancı
+trp_town_6_tavernkeeper_pl|Hancı
+trp_town_7_tavernkeeper|Hancı
+trp_town_7_tavernkeeper_pl|Hancı
+trp_town_8_tavernkeeper|Hancı
+trp_town_8_tavernkeeper_pl|Hancı
+trp_town_9_tavernkeeper|Hancı
+trp_town_9_tavernkeeper_pl|Hancı
+trp_town_10_tavernkeeper|Hancı
+trp_town_10_tavernkeeper_pl|Hancı
+trp_town_11_tavernkeeper|Hancı
+trp_town_11_tavernkeeper_pl|Hancı
+trp_town_12_tavernkeeper|Hancı
+trp_town_12_tavernkeeper_pl|Hancı
+trp_town_13_tavernkeeper|Hancı
+trp_town_13_tavernkeeper_pl|Hancı
+trp_town_14_tavernkeeper|Hancı
+trp_town_14_tavernkeeper_pl|Hancı
+trp_town_15_tavernkeeper|Hancı
+trp_town_15_tavernkeeper_pl|Hancı
+trp_town_16_tavernkeeper|Hancı
+trp_town_16_tavernkeeper_pl|Hancı
+trp_town_17_tavernkeeper|Hancı
+trp_town_17_tavernkeeper_pl|Hancı
+trp_town_18_tavernkeeper|Hancı
+trp_town_18_tavernkeeper_pl|Hancı
+trp_town_1_merchant|Tüccar
+trp_town_1_merchant_pl|Tüccar
+trp_town_2_merchant|Tüccar
+trp_town_2_merchant_pl|Tüccar
+trp_town_3_merchant|Tüccar
+trp_town_3_merchant_pl|Tüccar
+trp_town_4_merchant|Tüccar
+trp_town_4_merchant_pl|Tüccar
+trp_town_5_merchant|Tüccar
+trp_town_5_merchant_pl|Tüccar
+trp_town_6_merchant|Tüccar
+trp_town_6_merchant_pl|Tüccar
+trp_town_7_merchant|Tüccar
+trp_town_7_merchant_pl|Tüccar
+trp_town_8_merchant|Tüccar
+trp_town_8_merchant_pl|Tüccar
+trp_town_9_merchant|Tüccar
+trp_town_9_merchant_pl|Tüccar
+trp_town_10_merchant|Tüccar
+trp_town_10_merchant_pl|Tüccar
+trp_town_11_merchant|Tüccar
+trp_town_11_merchant_pl|Tüccar
+trp_town_12_merchant|Tüccar
+trp_town_12_merchant_pl|Tüccar
+trp_town_13_merchant|Tüccar
+trp_town_13_merchant_pl|Tüccar
+trp_town_14_merchant|Tüccar
+trp_town_14_merchant_pl|Tüccar
+trp_town_15_merchant|Tüccar
+trp_town_15_merchant_pl|Tüccar
+trp_town_16_merchant|Tüccar
+trp_town_16_merchant_pl|Tüccar
+trp_town_17_merchant|Tüccar
+trp_town_17_merchant_pl|Tüccar
+trp_town_18_merchant|Tüccar
+trp_town_18_merchant_pl|Tüccar
+trp_salt_mine_merchant|Barezan
+trp_salt_mine_merchant_pl|Barezan
+trp_town_1_horse_merchant|At Tüccarı
+trp_town_1_horse_merchant_pl|Şehir 1 At Tüccarı
+trp_town_2_horse_merchant|At Tüccarı
+trp_town_2_horse_merchant_pl|Şehir 2 At Tüccarı
+trp_town_3_horse_merchant|At Tüccarı
+trp_town_3_horse_merchant_pl|Şehir 3 At Tüccarı
+trp_town_4_horse_merchant|At Tüccarı
+trp_town_4_horse_merchant_pl|Şehir 4 At Tüccarı
+trp_town_5_horse_merchant|At Tüccarı
+trp_town_5_horse_merchant_pl|Şehir 5 At Tüccarı
+trp_town_6_horse_merchant|At Tüccarı
+trp_town_6_horse_merchant_pl|Şehir 6 At Tüccarı
+trp_town_7_horse_merchant|At Tüccarı
+trp_town_7_horse_merchant_pl|Şehir 7 At Tüccarı
+trp_town_8_horse_merchant|At Tüccarı
+trp_town_8_horse_merchant_pl|Şehir 8 At Tüccarı
+trp_town_9_horse_merchant|At Tüccarı
+trp_town_9_horse_merchant_pl|Şehir 9 At Tüccarı
+trp_town_10_horse_merchant|At Tüccarı
+trp_town_10_horse_merchant_pl|Şehir 10 At Tüccarı
+trp_town_11_horse_merchant|At Tüccarı
+trp_town_11_horse_merchant_pl|Şehir 11 At Tüccarı
+trp_town_12_horse_merchant|At Tüccarı
+trp_town_12_horse_merchant_pl|Şehir 12 At Tüccarı
+trp_town_13_horse_merchant|At Tüccarı
+trp_town_13_horse_merchant_pl|Şehir 13 At Tüccarı
+trp_town_14_horse_merchant|At Tüccarı
+trp_town_14_horse_merchant_pl|Şehir 14 At Tüccarı
+trp_town_15_horse_merchant|At Tüccarı
+trp_town_15_horse_merchant_pl|Şehir 15 At Tüccarı
+trp_town_16_horse_merchant|At Tüccarı
+trp_town_16_horse_merchant_pl|Şehir 16 At Tüccarı
+trp_town_17_horse_merchant|At Tüccarı
+trp_town_17_horse_merchant_pl|Şehir 17 At Tüccarı
+trp_town_18_horse_merchant|At Tüccarı
+trp_town_18_horse_merchant_pl|Şehir 18 At Tüccarı
+trp_town_1_mayor|Vali
+trp_town_1_mayor_pl|Vali
+trp_town_2_mayor|Vali
+trp_town_2_mayor_pl|Vali
+trp_town_3_mayor|Vali
+trp_town_3_mayor_pl|Vali
+trp_town_4_mayor|Vali
+trp_town_4_mayor_pl|Vali
+trp_town_5_mayor|Vali
+trp_town_5_mayor_pl|Vali
+trp_town_6_mayor|Vali
+trp_town_6_mayor_pl|Vali
+trp_town_7_mayor|Vali
+trp_town_7_mayor_pl|Vali
+trp_town_8_mayor|Vali
+trp_town_8_mayor_pl|Vali
+trp_town_9_mayor|Vali
+trp_town_9_mayor_pl|Vali
+trp_town_10_mayor|Vali
+trp_town_10_mayor_pl|Vali
+trp_town_11_mayor|Vali
+trp_town_11_mayor_pl|Vali
+trp_town_12_mayor|Vali
+trp_town_12_mayor_pl|Vali
+trp_town_13_mayor|Vali
+trp_town_13_mayor_pl|Vali
+trp_town_14_mayor|Vali
+trp_town_14_mayor_pl|Vali
+trp_town_15_mayor|Vali
+trp_town_15_mayor_pl|Vali
+trp_town_16_mayor|Vali
+trp_town_16_mayor_pl|Vali
+trp_town_17_mayor|Vali
+trp_town_17_mayor_pl|Vali
+trp_town_18_mayor|Vali
+trp_town_18_mayor_pl|Vali
+trp_castle_1_elder|Vali
+trp_castle_1_elder_pl|Lonca Başkanı
+trp_castle_2_elder|Vali
+trp_castle_2_elder_pl|Lonca Başkanı
+trp_castle_3_elder|Vali
+trp_castle_3_elder_pl|Lonca Başkanı
+trp_castle_4_elder|Vali
+trp_castle_4_elder_pl|Lonca Başkanı
+trp_castle_5_elder|Vali
+trp_castle_5_elder_pl|Lonca Başkanı
+trp_castle_6_elder|Vali
+trp_castle_6_elder_pl|Lonca Başkanı
+trp_castle_7_elder|Vali
+trp_castle_7_elder_pl|Lonca Başkanı
+trp_castle_8_elder|Vali
+trp_castle_8_elder_pl|Lonca Başkanı
+trp_castle_9_elder|Vali
+trp_castle_9_elder_pl|Lonca Başkanı
+trp_castle_10_elder|Vali
+trp_castle_10_elder_pl|Lonca Başkanı
+trp_castle_11_elder|Vali
+trp_castle_11_elder_pl|Lonca Başkanı
+trp_castle_12_elder|Vali
+trp_castle_12_elder_pl|Lonca Başkanı
+trp_castle_13_elder|Vali
+trp_castle_13_elder_pl|Lonca Başkanı
+trp_castle_14_elder|Vali
+trp_castle_14_elder_pl|Lonca Başkanı
+trp_castle_15_elder|Vali
+trp_castle_15_elder_pl|Lonca Başkanı
+trp_castle_16_elder|Vali
+trp_castle_16_elder_pl|Lonca Başkanı
+trp_castle_17_elder|Vali
+trp_castle_17_elder_pl|Lonca Başkanı
+trp_castle_18_elder|Vali
+trp_castle_18_elder_pl|Lonca Başkanı
+trp_castle_19_elder|Vali
+trp_castle_19_elder_pl|Lonca Başkanı
+trp_castle_20_elder|Vali
+trp_castle_20_elder_pl|Lonca Başkanı
+trp_castle_21_elder|Vali
+trp_castle_21_elder_pl|Lonca Başkanı
+trp_castle_22_elder|Vali
+trp_castle_22_elder_pl|Lonca Başkanı
+trp_castle_23_elder|Vali
+trp_castle_23_elder_pl|Lonca Başkanı
+trp_castle_24_elder|Vali
+trp_castle_24_elder_pl|Lonca Başkanı
+trp_castle_25_elder|Vali
+trp_castle_25_elder_pl|Lonca Başkanı
+trp_castle_26_elder|Vali
+trp_castle_26_elder_pl|Lonca Başkanı
+trp_castle_27_elder|Vali
+trp_castle_27_elder_pl|Lonca Başkanı
+trp_castle_28_elder|Vali
+trp_castle_28_elder_pl|Lonca Başkanı
+trp_castle_29_elder|Vali
+trp_castle_29_elder_pl|Lonca Başkanı
+trp_castle_30_elder|Vali
+trp_castle_30_elder_pl|Lonca Başkanı
+trp_castle_31_elder|Vali
+trp_castle_31_elder_pl|Lonca Başkanı
+trp_castle_32_elder|Vali
+trp_castle_32_elder_pl|Lonca Başkanı
+trp_castle_33_elder|Vali
+trp_castle_33_elder_pl|Lonca Başkanı
+trp_castle_34_elder|Vali
+trp_castle_34_elder_pl|Lonca Başkanı
+trp_castle_35_elder|Vali
+trp_castle_35_elder_pl|Lonca Başkanı
+trp_castle_36_elder|Vali
+trp_castle_36_elder_pl|Lonca Başkanı
+trp_castle_37_elder|Vali
+trp_castle_37_elder_pl|Lonca Başkanı
+trp_castle_38_elder|Vali
+trp_castle_38_elder_pl|Lonca Başkanı
+trp_castle_39_elder|Vali
+trp_castle_39_elder_pl|Lonca Başkanı
+trp_castle_40_elder|Vali
+trp_castle_40_elder_pl|Lonca Başkanı
+trp_town_1_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_1_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_2_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_2_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_3_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_3_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_4_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_4_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_5_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_5_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_6_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_6_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_7_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_7_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_8_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_8_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_9_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_9_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_10_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_10_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_11_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_11_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_12_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_12_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_13_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_13_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_14_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_14_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_15_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_15_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_16_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_16_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_17_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_17_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_18_trade_guild_master|Ticaret Loncası Başkanı
+trp_town_18_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_1_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_1_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_2_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_2_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_3_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_3_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_4_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_4_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_5_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_5_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_6_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_6_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_7_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_7_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_8_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_8_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_9_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_9_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_10_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_10_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_11_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_11_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_12_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_12_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_13_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_13_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_14_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_14_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_15_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_15_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_16_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_16_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_17_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_17_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_18_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_18_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_19_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_19_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_20_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_20_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_21_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_21_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_22_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_22_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_23_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_23_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_24_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_24_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_25_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_25_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_26_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_26_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_27_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_27_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_28_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_28_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_29_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_29_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_30_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_30_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_31_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_31_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_32_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_32_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_33_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_33_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_34_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_34_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_35_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_35_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_36_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_36_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_37_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_37_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_38_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_38_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_39_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_39_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_castle_40_trade_guild_master|Ticaret Loncası Başkanı
+trp_castle_40_trade_guild_master_pl|Ticaret Loncası Başkanı
+trp_town_1_garrison_officer|Garnizon Kumandanı
+trp_town_1_garrison_officer_pl|Garnizon Kumandanı
+trp_town_2_garrison_officer|Garnizon Kumandanı
+trp_town_2_garrison_officer_pl|Garnizon Kumandanı
+trp_town_3_garrison_officer|Garnizon Kumandanı
+trp_town_3_garrison_officer_pl|Garnizon Kumandanı
+trp_town_4_garrison_officer|Garnizon Kumandanı
+trp_town_4_garrison_officer_pl|Garnizon Kumandanı
+trp_town_5_garrison_officer|Garnizon Kumandanı
+trp_town_5_garrison_officer_pl|Garnizon Kumandanı
+trp_town_6_garrison_officer|Garnizon Kumandanı
+trp_town_6_garrison_officer_pl|Garnizon Kumandanı
+trp_town_7_garrison_officer|Garnizon Kumandanı
+trp_town_7_garrison_officer_pl|Garnizon Kumandanı
+trp_town_8_garrison_officer|Garnizon Kumandanı
+trp_town_8_garrison_officer_pl|Garnizon Kumandanı
+trp_town_9_garrison_officer|Garnizon Kumandanı
+trp_town_9_garrison_officer_pl|Garnizon Kumandanı
+trp_town_10_garrison_officer|Garnizon Kumandanı
+trp_town_10_garrison_officer_pl|Garnizon Kumandanı
+trp_town_11_garrison_officer|Garnizon Kumandanı
+trp_town_11_garrison_officer_pl|Garnizon Kumandanı
+trp_town_12_garrison_officer|Garnizon Kumandanı
+trp_town_12_garrison_officer_pl|Garnizon Kumandanı
+trp_town_13_garrison_officer|Garnizon Kumandanı
+trp_town_13_garrison_officer_pl|Garnizon Kumandanı
+trp_town_14_garrison_officer|Garnizon Kumandanı
+trp_town_14_garrison_officer_pl|Garnizon Kumandanı
+trp_town_15_garrison_officer|Garnizon Kumandanı
+trp_town_15_garrison_officer_pl|Garnizon Kumandanı
+trp_town_16_garrison_officer|Garnizon Kumandanı
+trp_town_16_garrison_officer_pl|Garnizon Kumandanı
+trp_town_17_garrison_officer|Garnizon Kumandanı
+trp_town_17_garrison_officer_pl|Garnizon Kumandanı
+trp_town_18_garrison_officer|Garnizon Kumandanı
+trp_town_18_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_1_garrison_officer|Garnizon Kumandanı
+trp_castle_1_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_2_garrison_officer|Garnizon Kumandanı
+trp_castle_2_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_3_garrison_officer|Garnizon Kumandanı
+trp_castle_3_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_4_garrison_officer|Garnizon Kumandanı
+trp_castle_4_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_5_garrison_officer|Garnizon Kumandanı
+trp_castle_5_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_6_garrison_officer|Garnizon Kumandanı
+trp_castle_6_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_7_garrison_officer|Garnizon Kumandanı
+trp_castle_7_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_8_garrison_officer|Garnizon Kumandanı
+trp_castle_8_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_9_garrison_officer|Garnizon Kumandanı
+trp_castle_9_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_10_garrison_officer|Garnizon Kumandanı
+trp_castle_10_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_11_garrison_officer|Garnizon Kumandanı
+trp_castle_11_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_12_garrison_officer|Garnizon Kumandanı
+trp_castle_12_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_13_garrison_officer|Garnizon Kumandanı
+trp_castle_13_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_14_garrison_officer|Garnizon Kumandanı
+trp_castle_14_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_15_garrison_officer|Garnizon Kumandanı
+trp_castle_15_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_16_garrison_officer|Garnizon Kumandanı
+trp_castle_16_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_17_garrison_officer|Garnizon Kumandanı
+trp_castle_17_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_18_garrison_officer|Garnizon Kumandanı
+trp_castle_18_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_19_garrison_officer|Garnizon Kumandanı
+trp_castle_19_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_20_garrison_officer|Garnizon Kumandanı
+trp_castle_20_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_21_garrison_officer|Garnizon Kumandanı
+trp_castle_21_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_22_garrison_officer|Garnizon Kumandanı
+trp_castle_22_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_23_garrison_officer|Garnizon Kumandanı
+trp_castle_23_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_24_garrison_officer|Garnizon Kumandanı
+trp_castle_24_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_25_garrison_officer|Garnizon Kumandanı
+trp_castle_25_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_26_garrison_officer|Garnizon Kumandanı
+trp_castle_26_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_27_garrison_officer|Garnizon Kumandanı
+trp_castle_27_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_28_garrison_officer|Garnizon Kumandanı
+trp_castle_28_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_29_garrison_officer|Garnizon Kumandanı
+trp_castle_29_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_30_garrison_officer|Garnizon Kumandanı
+trp_castle_30_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_31_garrison_officer|Garnizon Kumandanı
+trp_castle_31_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_32_garrison_officer|Garnizon Kumandanı
+trp_castle_32_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_33_garrison_officer|Garnizon Kumandanı
+trp_castle_33_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_34_garrison_officer|Garnizon Kumandanı
+trp_castle_34_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_35_garrison_officer|Garnizon Kumandanı
+trp_castle_35_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_36_garrison_officer|Garnizon Kumandanı
+trp_castle_36_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_37_garrison_officer|Garnizon Kumandanı
+trp_castle_37_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_38_garrison_officer|Garnizon Kumandanı
+trp_castle_38_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_39_garrison_officer|Garnizon Kumandanı
+trp_castle_39_garrison_officer_pl|Garnizon Kumandanı
+trp_castle_40_garrison_officer|Garnizon Kumandanı
+trp_castle_40_garrison_officer_pl|Garnizon Kumandanı
+trp_village_1_elder|Köy Muhtarı
+trp_village_1_elder_pl|Köy Muhtarı
+trp_village_2_elder|Köy Muhtarı
+trp_village_2_elder_pl|köy 1 yaşlısı
+trp_village_3_elder|Köy Muhtarı
+trp_village_3_elder_pl|köy 1 yaşlısı
+trp_village_4_elder|Köy Muhtarı
+trp_village_4_elder_pl|köy 1 yaşlısı
+trp_village_5_elder|Köy Muhtarı
+trp_village_5_elder_pl|köy 1 yaşlısı
+trp_village_6_elder|Köy Muhtarı
+trp_village_6_elder_pl|köy 1 yaşlısı
+trp_village_7_elder|Köy Muhtarı
+trp_village_7_elder_pl|köy 1 yaşlısı
+trp_village_8_elder|Köy Muhtarı
+trp_village_8_elder_pl|köy 1 yaşlısı
+trp_village_9_elder|Köy Muhtarı
+trp_village_9_elder_pl|köy 1 yaşlısı
+trp_village_10_elder|Köy Muhtarı
+trp_village_10_elder_pl|köy 1 yaşlısı
+trp_village_11_elder|Köy Muhtarı
+trp_village_11_elder_pl|köy 1 yaşlısı
+trp_village_12_elder|Köy Muhtarı
+trp_village_12_elder_pl|köy 1 yaşlısı
+trp_village_13_elder|Köy Muhtarı
+trp_village_13_elder_pl|köy 1 yaşlısı
+trp_village_14_elder|Köy Muhtarı
+trp_village_14_elder_pl|köy 1 yaşlısı
+trp_village_15_elder|Köy Muhtarı
+trp_village_15_elder_pl|köy 1 yaşlısı
+trp_village_16_elder|Köy Muhtarı
+trp_village_16_elder_pl|köy 1 yaşlısı
+trp_village_17_elder|Köy Muhtarı
+trp_village_17_elder_pl|köy 1 yaşlısı
+trp_village_18_elder|Köy Muhtarı
+trp_village_18_elder_pl|köy 1 yaşlısı
+trp_village_19_elder|Köy Muhtarı
+trp_village_19_elder_pl|köy 1 yaşlısı
+trp_village_20_elder|Köy Muhtarı
+trp_village_20_elder_pl|köy 1 yaşlısı
+trp_village_21_elder|Köy Muhtarı
+trp_village_21_elder_pl|köy 1 yaşlısı
+trp_village_22_elder|Köy Yaşlısı
+trp_village_22_elder_pl|köy 1 yaşlısı
+trp_village_23_elder|Köy Yaşlısı
+trp_village_23_elder_pl|köy 1 yaşlısı
+trp_village_24_elder|Köy Yaşlısı
+trp_village_24_elder_pl|köy 1 yaşlısı
+trp_village_25_elder|Köy Yaşlısı
+trp_village_25_elder_pl|köy 1 yaşlısı
+trp_village_26_elder|Köy Yaşlısı
+trp_village_26_elder_pl|köy 1 yaşlısı
+trp_village_27_elder|Köy Yaşlısı
+trp_village_27_elder_pl|köy 1 yaşlısı
+trp_village_28_elder|Köy Yaşlısı
+trp_village_28_elder_pl|köy 1 yaşlısı
+trp_village_29_elder|Köy Yaşlısı
+trp_village_29_elder_pl|köy 1 yaşlısı
+trp_village_30_elder|Köy Yaşlısı
+trp_village_30_elder_pl|köy 1 yaşlısı
+trp_village_31_elder|Köy Yaşlısı
+trp_village_31_elder_pl|köy 1 yaşlısı
+trp_village_32_elder|Köy Yaşlısı
+trp_village_32_elder_pl|köy 1 yaşlısı
+trp_village_33_elder|Köy Yaşlısı
+trp_village_33_elder_pl|köy 1 yaşlısı
+trp_village_34_elder|Köy Yaşlısı
+trp_village_34_elder_pl|köy 1 yaşlısı
+trp_village_35_elder|Köy Yaşlısı
+trp_village_35_elder_pl|köy 1 yaşlısı
+trp_village_36_elder|Köy Yaşlısı
+trp_village_36_elder_pl|köy 1 yaşlısı
+trp_village_37_elder|Köy Yaşlısı
+trp_village_37_elder_pl|köy 1 yaşlısı
+trp_village_38_elder|Köy Yaşlısı
+trp_village_38_elder_pl|köy 1 yaşlısı
+trp_village_39_elder|Köy Yaşlısı
+trp_village_39_elder_pl|köy 1 yaşlısı
+trp_village_40_elder|Köy Yaşlısı
+trp_village_40_elder_pl|köy 1 yaşlısı
+trp_village_41_elder|Köy Yaşlısı
+trp_village_41_elder_pl|köy 1 yaşlısı
+trp_village_42_elder|Köy Yaşlısı
+trp_village_42_elder_pl|köy 1 yaşlısı
+trp_village_43_elder|Köy Yaşlısı
+trp_village_43_elder_pl|köy 1 yaşlısı
+trp_village_44_elder|Köy Yaşlısı
+trp_village_44_elder_pl|köy 1 yaşlısı
+trp_village_45_elder|Köy Yaşlısı
+trp_village_45_elder_pl|köy 1 yaşlısı
+trp_village_46_elder|Köy Yaşlısı
+trp_village_46_elder_pl|köy 1 yaşlısı
+trp_village_47_elder|Köy Yaşlısı
+trp_village_47_elder_pl|köy 1 yaşlısı
+trp_village_48_elder|Köy Yaşlısı
+trp_village_48_elder_pl|köy 1 yaşlısı
+trp_village_49_elder|Köy Yaşlısı
+trp_village_49_elder_pl|köy 1 yaşlısı
+trp_village_50_elder|Köy Yaşlısı
+trp_village_50_elder_pl|köy 1 yaşlısı
+trp_village_51_elder|Köy Muhtarı
+trp_village_51_elder_pl|köy 1 yaşlısı
+trp_village_52_elder|Köy Muhtarı
+trp_village_52_elder_pl|köy 1 yaşlısı
+trp_village_53_elder|Köy Muhtarı
+trp_village_53_elder_pl|köy 1 yaşlısı
+trp_village_54_elder|Köy Muhtarı
+trp_village_54_elder_pl|köy 1 yaşlısı
+trp_village_55_elder|Köy Muhtarı
+trp_village_55_elder_pl|köy 1 yaşlısı
+trp_village_56_elder|Köy Muhtarı
+trp_village_56_elder_pl|köy 1 yaşlısı
+trp_village_57_elder|Köy Muhtarı
+trp_village_57_elder_pl|köy 1 yaşlısı
+trp_village_58_elder|Köy Muhtarı
+trp_village_58_elder_pl|köy 1 yaşlısı
+trp_village_59_elder|Köy Muhtarı
+trp_village_59_elder_pl|köy 1 yaşlısı
+trp_village_60_elder|Köy Muhtarı
+trp_village_60_elder_pl|köy 1 yaşlısı
+trp_village_61_elder|Köy Muhtarı
+trp_village_61_elder_pl|köy 1 yaşlısı
+trp_village_62_elder|Köy Muhtarı
+trp_village_62_elder_pl|köy 1 yaşlısı
+trp_village_63_elder|Köy Muhtarı
+trp_village_63_elder_pl|köy 1 yaşlısı
+trp_village_64_elder|Köy Muhtarı
+trp_village_64_elder_pl|köy 1 yaşlısı
+trp_village_65_elder|Köy Muhtarı
+trp_village_65_elder_pl|köy 1 yaşlısı
+trp_village_66_elder|Zamoshye Köyü Muhtarı
+trp_village_66_elder_pl|köy 1 yaşlısı
+trp_village_67_elder|Köy Muhtarı
+trp_village_67_elder_pl|köy 1 yaşlısı
+trp_village_68_elder|Köy Muhtarı
+trp_village_68_elder_pl|köy 1 yaşlısı
+trp_village_69_elder|Köy Muhtarı
+trp_village_69_elder_pl|köy 1 yaşlısı
+trp_village_70_elder|Köy Muhtarı
+trp_village_70_elder_pl|köy 1 yaşlısı
+trp_village_71_elder|Köy Muhtarı
+trp_village_71_elder_pl|köy 1 yaşlısı
+trp_village_72_elder|Köy Muhtarı
+trp_village_72_elder_pl|köy 1 yaşlısı
+trp_village_73_elder|Köy Muhtarı
+trp_village_73_elder_pl|köy 1 yaşlısı
+trp_village_74_elder|Köy Muhtarı
+trp_village_74_elder_pl|köy 1 yaşlısı
+trp_village_75_elder|Köy Muhtarı
+trp_village_75_elder_pl|köy 1 yaşlısı
+trp_village_76_elder|Köy Muhtarı
+trp_village_76_elder_pl|köy 1 yaşlısı
+trp_village_77_elder|Köy Muhtarı
+trp_village_77_elder_pl|köy 1 yaşlısı
+trp_village_78_elder|Köy Muhtarı
+trp_village_78_elder_pl|köy 1 yaşlısı
+trp_village_79_elder|Köy Muhtarı
+trp_village_79_elder_pl|köy 1 yaşlısı
+trp_village_80_elder|Köy Muhtarı
+trp_village_80_elder_pl|köy 1 yaşlısı
+trp_village_81_elder|Köy Muhtarı
+trp_village_81_elder_pl|köy 1 yaşlısı
+trp_village_82_elder|Köy Muhtarı
+trp_village_82_elder_pl|köy 1 yaşlısı
+trp_village_83_elder|Köy Muhtarı
+trp_village_83_elder_pl|köy 1 yaşlısı
+trp_village_84_elder|Köy Muhtarı
+trp_village_84_elder_pl|köy 1 yaşlısı
+trp_village_85_elder|Köy Muhtarı
+trp_village_85_elder_pl|köy 1 yaşlısı
+trp_village_86_elder|Köy Muhtarı
+trp_village_86_elder_pl|köy 1 yaşlısı
+trp_village_87_elder|Köy Muhtarı
+trp_village_87_elder_pl|köy 1 yaşlısı
+trp_village_88_elder|Köy Muhtarı
+trp_village_88_elder_pl|köy 1 yaşlısı
+trp_village_89_elder|Köy Muhtarı
+trp_village_89_elder_pl|köy 1 yaşlısı
+trp_village_90_elder|Köy Muhtarı
+trp_village_90_elder_pl|köy 1 yaşlısı
+trp_merchants_end|merchants end
+trp_merchants_end_pl|merchants end
+trp_temp_array_a|temp array a
+trp_temp_array_a_pl|temp array a
+trp_temp_array_b|temp array b
+trp_temp_array_b_pl|temp array b
+trp_temp_array_c|temp array c
+trp_temp_array_c_pl|temp array c
+trp_stack_selection_amounts|stack selection amounts
+trp_stack_selection_amounts_pl|stack selection amounts
+trp_stack_selection_ids|stack selection ids
+trp_stack_selection_ids_pl|stack selection ids
+trp_notification_menu_types|notification menu types
+trp_notification_menu_types_pl|notification menu types
+trp_notification_menu_var1|notification menu var1
+trp_notification_menu_var1_pl|notification menu var1
+trp_notification_menu_var2|notification menu var2
+trp_notification_menu_var2_pl|notification menu var2
+trp_local_merchant|Yerel Tüccar
+trp_local_merchant_pl|Yerel Tüccar
+trp_tax_rebel|Köylü İsyancı
+trp_tax_rebel_pl|Köylü İsyancı
+trp_trainee_peasant|Köylü
+trp_trainee_peasant_pl|Köylü
+trp_fugitive|Gergin Adam
+trp_fugitive_pl|Gergin Adam
+trp_spy|Sıradan Şehirli
+trp_spy_pl|Sıradan Şehirli
+trp_oim_monfor|Jaques de Cmont
+trp_oim_monfor_pl|Montfort
+trp_oim_trakai_ksendz|Rahip
+trp_oim_trakai_ksendz_pl|Köylü İsyancı
+trp_oim_polish_taver_visitor|Han Müdavimi
+trp_oim_polish_taver_visitor_pl|Köylü İsyancı
+trp_oim_tatarin_zolotarenko|Tatar
+trp_oim_tatarin_zolotarenko_pl|Tatar
+trp_oim_polish_lord|İsveçli Subay
+trp_oim_zagloba_qst|Onufry Zagloba
+trp_oim_old_man_qst|Yaşlı Adam
+trp_oim_killer_qst|Beyefendi
+trp_oim_getman_pafnutiy|Pafnuty
+trp_oim_dmitriy_yevangelik|Gerasim Evanjelic
+trp_volhv|Kahin
+trp_volhv_pl|Kahin
+trp_halberdier|Teberci
+trp_halberdier_pl|Teberci
+trp_moskov_straj|Muhafız
+trp_moskov_straj_pl|Muhafız
+trp_oim_tavern_visitor_rp|Han müşterisi
+trp_oim_tavern_visitor_rp_pl|Han müşterisi
+trp_oim_tavern_visitor_mc|Han müşterisi
+trp_oim_tavern_visitor_mc_pl|Han müşterisi
+trp_oim_tavern_visitor_swed|Han müşterisi
+trp_oim_tavern_visitor_swed_pl|Han müşterisi
+trp_oim_tavern_visitor_tatar|Han müşterisi
+trp_oim_tavern_visitor_tatar_pl|Han müşterisi
+trp_oim_tavern_visitor_cossack|Han müşterisi
+trp_oim_tavern_visitor_cossack_pl|Han müşterisi
+trp_eleonora|Eleanor
+trp_eleonora_pl|Eleanor
+trp_alevtina|Alevtina
+trp_alevtina_pl|Alevtina
+trp_oim_caravan_master|Kervan Sürücüsü
+trp_oim_caravan_master_pl|Kervan Sürücüsü
+trp_oim_rich_visitor|Zengin Şehirli
+trp_oim_rich_visitor_pl|Zengin Şehirli
+trp_spy_partner|Sıradan Şehirli
+trp_spy_partner_pl|Sıradan Şehirli
+trp_mercanary_captain_tatars|Paralı Asker Komutanı
+trp_mercanary_captain_tatars_pl|Paralı Asker Komutanı
+trp_mercanary_captain_kozaks|Kazak Beyi
+trp_mercanary_captain_kozaks_pl|Kazak Beyi
+trp_mercanary_captain_polyak|Paralı Asker Komutanı
+trp_mercanary_captain_polyak_pl|Paralı Asker Komutanı
+trp_mercanary_captain_shved|Paralı Asker Komutanı
+trp_mercanary_captain_shved_pl|Paralı Asker Komutanı
+trp_mercanary_captain_moskov|Paralı Asker Komutanı
+trp_mercanary_captain_moskov_pl|Paralı Asker Komutanı
+trp_tatar_merch_novice_infantry|Paralı Tatar Piyadesi (acemi)
+trp_tatar_merch_novice_infantry_pl|Paralı Tatar Piyadei (acemi)
+trp_tatar_merch_regular_infantry|Paralı Tatar Piyadesi (tecrübeli)
+trp_tatar_merch_regular_infantry_pl|Paralı Tatar Piyadei (tecrübeli)
+trp_tatar_merch_veteran_infantry|Paralı Tatar Piyadesi (kıdemli)
+trp_tatar_merch_veteran_infantry_pl|Paralı Tatar Piyadei (kıdemli)
+trp_tatar_merch_champion_infantry|Paralı Tatar Piyadesi (seçkin)
+trp_tatar_merch_champion_infantry_pl|Paralı Tatar Piyadei (seçkin)
+trp_tatar_merch_novice_archer|Paralı Tatar Tüfekçisi (acemi)
+trp_tatar_merch_novice_archer_pl|Paralı Tatar Tüfekçisi (acemi)
+trp_tatar_merch_regular_archer|Paralı Tatar Tüfekçisi (tecrübeli)
+trp_tatar_merch_regular_archer_pl|Paralı Tatar Tüfekçisi (tecrübeli)
+trp_tatar_merch_veteran_archer|Paralı Tatar Tüfekçisi (kıdemli)
+trp_tatar_merch_veteran_archer_pl|Paralı Tatar Tüfekçisi (kıdemli)
+trp_tatar_merch_champion_archer|Paralı Tatar Tüfekçisi (seçkin)
+trp_tatar_merch_champion_archer_pl|Paralı Tatar Tüfekçisi (seçkin)
+trp_tatar_merch_novice_horse|Paralı Tatar Süvarisi (acemi)
+trp_tatar_merch_novice_horse_pl|Paralı Tatar Süvarisi (acemi)
+trp_tatar_merch_regular_horse|Paralı Tatar Süvarisi (tecrübeli)
+trp_tatar_merch_regular_horse_pl|Paralı Tatar Süvarisi (tecrübeli)
+trp_tatar_merch_veteran_horse|Paralı Tatar Süvarisi (kıdemli)
+trp_tatar_merch_veteran_horse_pl|Paralı Tatar Süvarisi (kıdemli)
+trp_tatar_merch_champion_horse|Paralı Tatar Süvarisi (seçkin)
+trp_tatar_merch_champion_horse_pl|Paralı Tatar Süvarisi (seçkin)
+trp_kazak_merch_novice_infantry|Paralı Kazak Piyadesi (acemi)
+trp_kazak_merch_novice_infantry_pl|Paralı Kazak Piyadei (acemi)
+trp_kazak_merch_regular_infantry|Paralı Kazak Piyadesi (tecrübeli)
+trp_kazak_merch_regular_infantry_pl|Paralı Kazak Piyadei (tecrübeli)
+trp_kazak_merch_veteran_infantry|Paralı Kazak Piyadesi (kıdemli)
+trp_kazak_merch_veteran_infantry_pl|Paralı Kazak Piyadei (kıdemli)
+trp_kazak_merch_champion_infantry|Paralı Kazak Piyadesi (seçkin)
+trp_kazak_merch_champion_infantry_pl|Paralı Kazak Piyadei (seçkin)
+trp_kazak_merch_novice_archer|Paralı Kazak Tüfekçisi (acemi)
+trp_kazak_merch_novice_archer_pl|Paralı Kazak Tüfekçisi (acemi)
+trp_kazak_merch_regular_archer|Paralı Kazak Tüfekçisi (tecrübeli)
+trp_kazak_merch_regular_archer_pl|Paralı Kazak Tüfekçisi (tecrübeli)
+trp_kazak_merch_veteran_archer|Paralı Kazak Tüfekçisi (kıdemli)
+trp_kazak_merch_veteran_archer_pl|Paralı Kazak Tüfekçisi (kıdemli)
+trp_kazak_merch_champion_archer|Paralı Kazak Tüfekçisi (seçkin)
+trp_kazak_merch_champion_archer_pl|Paralı Kazak Tüfekçisi (seçkin)
+trp_kazak_merch_novice_horse|Paralı Kazak Süvarisi (acemi)
+trp_kazak_merch_novice_horse_pl|Paralı Kazak Süvarisi (acemi)
+trp_kazak_merch_regular_horse|Paralı Kazak Süvarisi (tecrübeli)
+trp_kazak_merch_regular_horse_pl|Paralı Kazak Süvarisi (tecrübeli)
+trp_kazak_merch_veteran_horse|Paralı Kazak Süvarisi (kıdemli)
+trp_kazak_merch_veteran_horse_pl|Paralı Kazak Süvarisi (kıdemli)
+trp_kazak_merch_champion_horse|Paralı Kazak Süvarisi (seçkin)
+trp_kazak_merch_champion_horse_pl|Paralı Kazak Süvarisi (seçkin)
+trp_polyak_merch_novice_infantry|Paralı Leh Piyadesi (acemi)
+trp_polyak_merch_novice_infantry_pl|Paralı Leh Piyadesi (acemi)
+trp_polyak_merch_regular_infantry|Paralı Leh Piyadesi (tecrübeli)
+trp_polyak_merch_regular_infantry_pl|Paralı Leh Piyadesi (tecrübeli)
+trp_polyak_merch_veteran_infantry|Paralı Leh Piyadesi (kıdemli)
+trp_polyak_merch_veteran_infantry_pl|Paralı Leh Piyadesi (kıdemli)
+trp_polyak_merch_champion_infantry|Paralı Leh Piyadesi (seçkin)
+trp_polyak_merch_champion_infantry_pl|Paralı Leh Piyadesi (seçkin)
+trp_polyak_merch_novice_archer|Paralı Leh Tüfekçisi (acemi)
+trp_polyak_merch_novice_archer_pl|Paralı Leh Tüfekçisi (acemi)
+trp_polyak_merch_regular_archer|Paralı Leh Tüfekçisi (tecrübeli)
+trp_polyak_merch_regular_archer_pl|Paralı Leh Tüfekçisi (tecrübeli)
+trp_polyak_merch_veteran_archer|Paralı Leh Tüfekçisi (kıdemli)
+trp_polyak_merch_veteran_archer_pl|Paralı Leh Tüfekçisi (kıdemli)
+trp_polyak_merch_champion_archer|Paralı Leh Tüfekçisi (seçkin)
+trp_polyak_merch_champion_archer_pl|Paralı Leh Tüfekçisi (seçkin)
+trp_polyak_merch_novice_horse|Paralı Leh Süvarisi (acemi)
+trp_polyak_merch_novice_horse_pl|Paralı Leh Süvarisi (acemi)
+trp_polyak_merch_regular_horse|Paralı Leh Süvarisi (tecrübeli)
+trp_polyak_merch_regular_horse_pl|Paralı Leh Süvarisi (tecrübeli)
+trp_polyak_merch_veteran_horse|Paralı Leh Süvarisi (kıdemli)
+trp_polyak_merch_veteran_horse_pl|Paralı Leh Süvarisi (kıdemli)
+trp_polyak_merch_champion_horse|Paralı Leh Süvarisi (seçkin)
+trp_polyak_merch_champion_horse_pl|Paralı Leh Süvarisi (seçkin)
+trp_shved_merch_novice_infantry|Paralı Avrupalı Piyade (acemi)
+trp_shved_merch_novice_infantry_pl|Paralı Avrupalı Piyade (acemi)
+trp_shved_merch_regular_infantry|Paralı Avrupalı Piyade (tecrübeli)
+trp_shved_merch_regular_infantry_pl|Paralı Avrupalı Piyade (tecrübeli)
+trp_shved_merch_veteran_infantry|Paralı Avrupalı Piyade (kıdemli)
+trp_shved_merch_veteran_infantry_pl|Paralı Avrupalı Piyade (kıdemli)
+trp_shved_merch_champion_infantry|Paralı Avrupalı Piyade (seçkin)
+trp_shved_merch_champion_infantry_pl|Paralı Avrupalı Piyade (seçkin)
+trp_shved_merch_novice_archer|Paralı Avrupalı Tüfekçi (acemi)
+trp_shved_merch_novice_archer_pl|Paralı Avrupalı Tüfekçi (acemi)
+trp_shved_merch_regular_archer|Paralı Avrupalı Tüfekçi (tecrübeli)
+trp_shved_merch_regular_archer_pl|Paralı Avrupalı Tüfekçi (tecrübeli)
+trp_shved_merch_veteran_archer|Paralı Avrupalı Tüfekçi (kıdemli)
+trp_shved_merch_veteran_archer_pl|Paralı Avrupalı Tüfekçi (kıdemli)
+trp_shved_merch_champion_archer|Paralı Avrupalı Tüfekçi (seçkin)
+trp_shved_merch_champion_archer_pl|Paralı Avrupalı Tüfekçi (seçkin)
+trp_shved_merch_novice_horse|Paralı Avrupalı Süvari (acemi)
+trp_shved_merch_novice_horse_pl|Paralı Avrupalı Süvari (acemi)
+trp_shved_merch_regular_horse|Paralı Avrupalı Süvari (tecrübeli)
+trp_shved_merch_regular_horse_pl|Paralı Avrupalı Süvari (tecrübeli)
+trp_shved_merch_veteran_horse|Paralı Avrupalı Süvari (kıdemli)
+trp_shved_merch_veteran_horse_pl|Paralı Avrupalı Süvari (kıdemli)
+trp_shved_merch_champion_horse|Paralı Avrupalı Süvari (seçkin)
+trp_shved_merch_champion_horse_pl|Paralı Avrupalı Süvari (seçkin)
+trp_moskov_merch_novice_infantry|Paralı Rus Piyadesi (acemi)
+trp_moskov_merch_novice_infantry_pl|Paralı Rus Piyadesi (acemi)
+trp_moskov_merch_regular_infantry|Paralı Rus Piyadesi (tecrübeli)
+trp_moskov_merch_regular_infantry_pl|Paralı Rus Piyadesi (tecrübeli)
+trp_moskov_merch_veteran_infantry|Paralı Rus Piyadesi (kıdemli)
+trp_moskov_merch_veteran_infantry_pl|Paralı Rus Piyadesi (kıdemli)
+trp_moskov_merch_champion_infantry|Paralı Rus Piyadesi (seçkin)
+trp_moskov_merch_champion_infantry_pl|Paralı Rus Piyadesi (seçkin)
+trp_moskov_merch_novice_archer|Paralı Rus Tüfekçisi (acemi)
+trp_moskov_merch_novice_archer_pl|Paralı Rus Tüfekçisi (acemi)
+trp_moskov_merch_regular_archer|Paralı Rus Tüfekçisi (tecrübeli)
+trp_moskov_merch_regular_archer_pl|Paralı Rus Tüfekçisi (tecrübeli)
+trp_moskov_merch_veteran_archer|Paralı Rus Tüfekçisi (kıdemli)
+trp_moskov_merch_veteran_archer_pl|Paralı Rus Tüfekçisi (kıdemli)
+trp_moskov_merch_champion_archer|Paralı Rus Tüfekçisi (seçkin)
+trp_moskov_merch_champion_archer_pl|Paralı Rus Tüfekçisi (seçkin)
+trp_moskov_merch_novice_horse|Paralı Rus Süvarisi (acemi)
+trp_moskov_merch_novice_horse_pl|Paralı Rus Süvarisi (acemi)
+trp_moskov_merch_regular_horse|Paralı Rus Süvarisi (tecrübeli)
+trp_moskov_merch_regular_horse_pl|Paralı Rus Süvarisi (tecrübeli)
+trp_moskov_merch_veteran_horse|Paralı Rus Süvarisi (kıdemli)
+trp_moskov_merch_veteran_horse_pl|Paralı Rus Süvarisi (kıdemli)
+trp_moskov_merch_champion_horse|Paralı Rus Süvarisi (seçkin)
+trp_moskov_merch_champion_horse_pl|Paralı Rus Süvarisi (seçkin)
+trp_castle_tavernkeeper|Hancı
+trp_castle_tavernkeeper_pl|Hancı
+trp_town_upgrade_armourer|Silah Ustası
+trp_town_upgrade_armourer_pl|Silah Ustası
+trp_town_upgrade_protection|Zırh Üstadı
+trp_town_upgrade_protection_pl|Zırh Üstadı
+trp_militiaman|Milis
+trp_militiaman_pl|Milis
+trp_polsk_ambassador|Lehistan Elçisi
+trp_polsk_ambassador_pl|Lehistan Elçisi
+trp_moskov_ambassador|Moskova Çarlığı Elçisi
+trp_moskov_ambassador_pl|Moskova Çarlığı Elçisi
+trp_tatar_ambassador|Kırım Hanlığı Elçisi
+trp_tatar_ambassador_pl|Kırım Hanlığı Elçisi
+trp_shved_ambassador|İsveç Krallığı Elçisi
+trp_shved_ambassador_pl|İsveç Krallığı Elçisi
+trp_kozak_ambassador|Zaporojya Kazak Elçisi
+trp_kozak_ambassador_pl|Zaporojya Kazak Elçisi
+trp_armor_smith_pol|Zırh Üstadı
+trp_armor_smith_pol_pl|Zırh Üstadı
+trp_armor_smith_rus|Zırh Üstadı
+trp_armor_smith_rus_pl|Zırh Üstadı
+trp_armor_smith_tatar|Zırh Üstadı
+trp_armor_smith_tatar_pl|Zırh Üstadı
+trp_armor_smith_swed|Zırh Üstadı
+trp_armor_smith_swed_pl|Zırh Üstadı
+trp_armor_smith_ukr|Zırh Üstadı
+trp_armor_smith_ukr_pl|Zırh Üstadı
+trp_weapon_smith_pol|Silah Ustası
+trp_weapon_smith_pol_pl|Silah Ustası
+trp_weapon_smith_rus|Silah Ustası
+trp_weapon_smith_rus_pl|Silah Ustası
+trp_weapon_smith_tatar|Silah Ustası
+trp_weapon_smith_tatar_pl|Silah Ustası
+trp_weapon_smith_swed|Silah Ustası
+trp_weapon_smith_swed_pl|Silah Ustası
+trp_weapon_smith_ukr|Silah Ustası
+trp_weapon_smith_ukr_pl|Silah Ustası
+trp_castle_cmd_pol|Kale Kumandanı
+trp_castle_cmd_pol_pl|Kale Kumandanı
+trp_castle_cmd_rus|Kumandan
+trp_castle_cmd_rus_pl|Kumandan
+trp_castle_cmd_tatar|Dizdar
+trp_castle_cmd_tatar_pl|Dizdar
+trp_castle_cmd_swed|Kale Kumandanı
+trp_castle_cmd_swed_pl|Kale Kumandanı
+trp_castle_cmd_ukr|Komutan
+trp_castle_cmd_ukr_pl|Komutan
+trp_swadian_crossbowman_multiplayer_ai|Leh Silahşör
+trp_swadian_crossbowman_multiplayer_ai_pl|Leh Silahşör
+trp_swadian_infantry_multiplayer_ai|Leh Piyade
+trp_swadian_infantry_multiplayer_ai_pl|Leh Piyade
+trp_swadian_man_at_arms_multiplayer_ai|Leh Süvari
+trp_swadian_man_at_arms_multiplayer_ai_pl|Leh Süvari
+trp_vaegir_archer_multiplayer_ai|Rus Tüfekçi
+trp_vaegir_archer_multiplayer_ai_pl|Rus Tüfekçi
+trp_vaegir_spearman_multiplayer_ai|Rus Piyade
+trp_vaegir_spearman_multiplayer_ai_pl|Rus Piyade
+trp_vaegir_horseman_multiplayer_ai|Rus Atlısı
+trp_vaegir_horseman_multiplayer_ai_pl|Rus Atlısı
+trp_khergit_dismounted_lancer_multiplayer_ai|Tatar Piyade
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|Tatar Piyade
+trp_khergit_veteran_horse_archer_multiplayer_ai|Tatar Tüfekli Süvari
+trp_khergit_veteran_horse_archer_multiplayer_ai_pl|Tatar Tüfekli Süvari
+trp_khergit_lancer_multiplayer_ai|Tatar Atlısı
+trp_khergit_lancer_multiplayer_ai_pl|Tatar Atlısı
+trp_nord_veteran_multiplayer_ai|İsveç Piyadesi
+trp_nord_veteran_multiplayer_ai_pl|İsveç Piyadei
+trp_nord_scout_multiplayer_ai|isveç Süvarisi
+trp_nord_scout_multiplayer_ai_pl|İsveç Süvarisi
+trp_nord_archer_multiplayer_ai|İsveç Silahşörü
+trp_nord_archer_multiplayer_ai_pl|İsveç Silahşörü
+trp_rhodok_veteran_crossbowman_multiplayer_ai|Zaporojya Tüfekçisi
+trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Zaporojya Tüfekçisi
+trp_rhodok_veteran_spearman_multiplayer_ai|Zaporojya Piyadesi
+trp_rhodok_veteran_spearman_multiplayer_ai_pl|Zaporojya Piyadei
+trp_rhodok_scout_multiplayer_ai|Zaporojya Atlısı
+trp_rhodok_scout_multiplayer_ai_pl|Zaporojya Atlısı
+trp_sarranid_infantry_multiplayer_ai|Sarranid Infantry
+trp_sarranid_infantry_multiplayer_ai_pl|Sarranid Infantries
+trp_sarranid_archer_multiplayer_ai|Sarranid Archer
+trp_sarranid_archer_multiplayer_ai_pl|Sarranid Archers
+trp_sarranid_horseman_multiplayer_ai|Sarranid Horseman
+trp_sarranid_horseman_multiplayer_ai_pl|Sarranid Horsemen
+trp_swadian_crossbowman_multiplayer|Silahşör
+trp_swadian_crossbowman_multiplayer_pl|Silahşör
+trp_swadian_infantry_multiplayer|Piyade
+trp_swadian_infantry_multiplayer_pl|Piyade
+trp_swadian_man_at_arms_multiplayer|Süvari
+trp_swadian_man_at_arms_multiplayer_pl|Süvari
+trp_vaegir_archer_multiplayer|Nişancı
+trp_vaegir_archer_multiplayer_pl|Nişancı
+trp_vaegir_spearman_multiplayer|Piyade
+trp_vaegir_spearman_multiplayer_pl|Piyade
+trp_vaegir_horseman_multiplayer|Süvari
+trp_vaegir_horseman_multiplayer_pl|Süvari
+trp_khergit_veteran_footman_multiplayer|Tatar Piyade
+trp_khergit_veteran_footman_multiplayer_pl|Tatar Piyade
+trp_khergit_veteran_horse_archer_multiplayer|Atlı okçu
+trp_khergit_veteran_horse_archer_multiplayer_pl|Atlı Okçu
+trp_khergit_lancer_multiplayer|Mızraklı Süvari
+trp_khergit_lancer_multiplayer_pl|Mızraklı Süvari
+trp_nord_archer_multiplayer|Silahşör
+trp_nord_archer_multiplayer_pl|Silahşör
+trp_nord_veteran_multiplayer|Piyade
+trp_nord_veteran_multiplayer_pl|Piyade
+trp_nord_scout_multiplayer|Süvari
+trp_nord_scout_multiplayer_pl|Süvari
+trp_rhodok_veteran_crossbowman_multiplayer|Piyade
+trp_rhodok_veteran_crossbowman_multiplayer_pl|Piyade
+trp_rhodok_sergeant_multiplayer|Tüfekçi
+trp_rhodok_sergeant_multiplayer_pl|Tüfekçi
+trp_rhodok_horseman_multiplayer|Binici
+trp_rhodok_horseman_multiplayer_pl|Binici
+trp_mp_swadian_militia|Milis Mızrakçı
+trp_mp_swadian_militia_pl|Mızrakçı Milis
+trp_mp_swadian_footman|Acemi Mızrakçı
+trp_mp_swadian_footman_pl|Acemi Mızrakçı
+trp_mp_swadian_footman_levelup|Veteran Mızrakçı
+trp_mp_swadian_footman_levelup_pl|Mızrakçı Veteran
+trp_mp_swadian_infantry|Alman Mızrakçı Piyadesi
+trp_mp_swadian_infantry_pl|Alman Mızrakçı Piyadesi
+trp_mp_swadian_skirmisher|Milis Silahşör
+trp_mp_swadian_skirmisher_pl|Milis Silahşör
+trp_mp_swadian_crossbowman|Acemi Zolnier Tüfekçi Piyade
+trp_mp_swadian_crossbowman_pl|Acemi Zolnier Tüfekçi Piyade
+trp_mp_swadian_crossbowman_levelup|Zolnier Tüfekçi Piyade Kıdemlisi
+trp_mp_swadian_crossbowman_levelup_pl|Zolnier Tüfekçi Piyade Kıdemlisi
+trp_mp_swadian_sharpshooter|Alman Tüfekçi Piyade
+trp_mp_swadian_sharpshooter_pl|Alman Tüfekçi Piyade
+trp_mp_swadian_man_at_arms|Gönüllü
+trp_mp_swadian_man_at_arms_pl|Gönüllü
+trp_mp_polish_dragoon|Dragun
+trp_mp_polish_dragoon_pl|Dragun
+trp_mp_swadian_sergeant|Zırhlı Kazak
+trp_mp_swadian_sergeant_pl|Zırhlı Kazak
+trp_mp_swadian_knight|Leh Hüssarı Süvari
+trp_mp_swadian_knight_pl|Leh Hüssarı Süvari
+trp_mp_vaegir_footman|Posad Kargıcısı
+trp_mp_vaegir_footman_pl|Posad Kargıcısı
+trp_mp_vaegir_veteran|Nişancı Kargıcı
+trp_mp_vaegir_veteran_pl|Nişancı Kargıcı
+trp_mp_vaegir_veteran_levelup|Veteran Nişancı Kargıcı
+trp_mp_vaegir_veteran_levelup_pl|Veteran Nişancı Kargıcı
+trp_mp_vaegir_infantry|Yeni Düzen Kargıcısı
+trp_mp_vaegir_infantry_pl|Yeni Düzen Kargıcısı
+trp_mp_vaegir_skirmisher|Posad Nişancısı
+trp_mp_vaegir_skirmisher_pl|Posad Nişancısı
+trp_mp_vaegir_archer|Nişancı
+trp_mp_vaegir_archer_pl|Nişancı
+trp_mp_vaegir_archer_levelup|Veteran Nişancı
+trp_mp_vaegir_archer_levelup_pl|Veteran Nişancı
+trp_mp_vaegir_marksman|Yeni Düzen Nişancısı
+trp_mp_vaegir_marksman_pl|Yeni Düzen Nişancısı
+trp_mp_vaegir_horseman|Yerel Köylü
+trp_mp_vaegir_horseman_pl|Yerel Köylü
+trp_mp_moskow_dragoon|Asilzade Süvari
+trp_mp_moskow_dragoon_pl|Asilzade Süvari
+trp_mp_vaegir_knight|Reiter Tüfekli Süvari
+trp_mp_vaegir_knight_pl|Reiter Tüfekli Süvari
+trp_mp_vaegir_guard|Asil Boyar Muhafızı
+trp_mp_vaegir_guard_pl|Asil Boyar Muhafızı
+trp_mp_khergit_skirmisher|Kapıkulu
+trp_mp_khergit_skirmisher_pl|Kapıkulu
+trp_mp_khergit_skirmisher_levelup|Kapıkulu (kıdemli)
+trp_mp_khergit_skirmisher_levelup_pl|Kapıkulu (kıdemli)
+trp_mp_saymen|Seymen
+trp_mp_saymen_pl|Seymen
+trp_mp_janissar|Yeniçeri
+trp_mp_janissar_pl|Yeniçeri
+trp_mp_khergit_horseman|Cebeli
+trp_mp_khergit_horseman_pl|Cebeli
+trp_mp_khergit_horse_archer|Gedikli Cebeli
+trp_mp_khergit_horse_archer_pl|Gedikli Cebeli
+trp_mp_khergit_veteran_horse_archer|Çerkez
+trp_mp_khergit_veteran_horse_archer_pl|Çerkez
+trp_mp_zyndjirli|Gedikli Çerkez
+trp_mp_zyndjirli_pl|Gedikli Çerkez
+trp_mp_nord_footman|Milis Mızrakçı
+trp_mp_nord_footman_pl|Mızrakçı Milis
+trp_mp_nord_trained_footman|Mızrakçı
+trp_mp_nord_trained_footman_pl|Mızrakçı
+trp_mp_nord_trained_footman_levelup|Veteran Mızrakçı
+trp_mp_nord_trained_footman_levelup_pl|Veteran Mızrakçı
+trp_mp_sved_swordmaster|Kılıç Ustası
+trp_mp_sved_swordmaster_pl|Kılıç Ustası
+trp_mp_nord_huntsman|Milis Silahşör
+trp_mp_nord_huntsman_pl|Milis Silahşör
+trp_mp_nord_archer|Silahşör
+trp_mp_nord_archer_pl|Silahşör
+trp_mp_nord_archer_levelup|Veteran Silahşör
+trp_mp_nord_archer_levelup_pl|Veteran Silahşör
+trp_mp_nord_veteran_archer|Kral Muhafızı
+trp_mp_nord_veteran_archer_pl|Kral Muhafızı
+trp_mp_nord_warrior|Dragun
+trp_mp_nord_warrior_pl|Dragun
+trp_mp_sved_lancers|Mızraklı Süvari
+trp_mp_sved_lancers_pl|Mızraklı Süvari
+trp_mp_nord_champion|Zırhlı Süvari
+trp_mp_nord_champion_pl|Zırhlı Süvari
+trp_mp_nord_veteran|Tüfekli Süvari
+trp_mp_nord_veteran_pl|Tüfekli Süvari
+trp_mp_n_rhodok_spearman|Acemi Kazak Piştovcu
+trp_mp_n_rhodok_spearman_pl|Acemi Kazak Piştovcu
+trp_mp_n_rhodok_sergeant|Zaporojye Piştovcu
+trp_mp_n_rhodok_sergeant_pl|Zaporojye Piştovcu
+trp_mp_n_rhodok_trained_crossbowman|Netyag Piştovcu
+trp_mp_n_rhodok_trained_crossbowman_pl|Netyag Piştovcu
+trp_mp_n_rhodok_veteran_spearman|Serduk Piştovcu
+trp_mp_n_rhodok_veteran_spearman_pl|Serduk Piştovcu
+trp_mp_rhodok_spearman|Zayıf Kazak Harkbusçu
+trp_mp_rhodok_spearman_pl|Zayıf Kazak Harkbusçu
+trp_mp_rhodok_sergeant|Zaporojya Piyadesi
+trp_mp_rhodok_sergeant_pl|Zaporojya Piyadesi
+trp_mp_rhodok_trained_crossbowman|Netyag
+trp_mp_rhodok_trained_crossbowman_pl|Netyag
+trp_mp_rhodok_veteran_spearman|Serduk
+trp_mp_rhodok_veteran_spearman_pl|Serduk
+trp_quick_battle_troop_1|Tüfekli Süvari
+trp_quick_battle_troop_1_pl|Tüfekli Süvari
+trp_quick_battle_troop_2|Hafif Süvari
+trp_quick_battle_troop_2_pl|Hafif Süvari
+trp_quick_battle_troop_3|Boyar
+trp_quick_battle_troop_3_pl|Boyar
+trp_quick_battle_troop_4|Zırhlı Süvari
+trp_quick_battle_troop_4_pl|Zırhlı Süvari
+trp_quick_battle_troop_5|Atlı okçu
+trp_quick_battle_troop_5_pl|Atlı Okçu
+trp_quick_battle_troop_6|Silahşör
+trp_quick_battle_troop_6_pl|Silahşör
+trp_quick_battle_troop_7|Netyag
+trp_quick_battle_troop_7_pl|Netyag
+trp_quick_battle_troop_8|Kılıç Ustası
+trp_quick_battle_troop_8_pl|Kılıç Ustası
+trp_quick_battle_troop_9|Rondartschier
+trp_quick_battle_troop_9_pl|Rondartschier
+trp_quick_battle_troop_10|Mızrakçı
+trp_quick_battle_troop_10_pl|Mızrakçı
+trp_quick_battle_troop_11|Teberci
+trp_quick_battle_troop_11_pl|Teberci
+trp_tutorial_fighter_1|Acemi Dövüşçü
+trp_tutorial_fighter_1_pl|Dövüşçü
+trp_tutorial_fighter_2|Acemi Dövüşçü
+trp_tutorial_fighter_2_pl|Dövüşçü
+trp_tutorial_fighter_3|Dövüşçü
+trp_tutorial_fighter_3_pl|Dövüşçü
+trp_tutorial_fighter_4|Deneyimli Dövüşçü
+trp_tutorial_fighter_4_pl|Dövüşçü
+trp_tutorial_archer_1|Okçu
+trp_tutorial_archer_1_pl|Okçu
+trp_tutorial_master_archer|Usta Okçu
+trp_tutorial_master_archer_pl|Usta Okçu
+trp_tutorial_rider_1|Binici
+trp_tutorial_rider_2|Atlı okçu
+trp_tutorial_master_horseman|Usta binici
+trp_tutorial_master_horseman_pl|Usta binici
+trp_swadian_merchant|Merchant of Praven
+trp_vaegir_merchant|Merchant of Reyvadin
+trp_khergit_merchant|Merchant of Tulga
+trp_nord_merchant|Merchant of Sargoth
+trp_rhodok_merchant|Merchant of Jelkala
+trp_sarranid_merchant|Merchant of Shariz
+trp_startup_merchants_end|startup merchants end
+trp_startup_merchants_end_pl|startup merchants end
+trp_sea_raider_leader|Deniz Yağmacısı Komutanı
+trp_sea_raider_leader_pl|Deniz Yağmacısı
+trp_looter_leader|Soyguncu
+trp_looter_leader_pl|Çapulcu
+trp_bandit_leaders_end|bandit leaders end
+trp_bandit_leaders_end_pl|bandit leaders end
+trp_relative_of_merchant|Tüccarın Kardeşi
+trp_relative_of_merchants_end|relative of merchants end
+trp_relative_of_merchants_end_pl|relative of merchants end
+trp_horse_smith_pol|Leh Seyis
+trp_horse_smith_pol_pl|Leh Seyis
+trp_horse_smith_rus|Rus Seyis
+trp_horse_smith_rus_pl|Rus Seyis
+trp_horse_smith_tatar|Tatar Seyis
+trp_horse_smith_tatar_pl|Tatar Seyis
+trp_horse_smith_swed|İsveç Seyis
+trp_horse_smith_swed_pl|İsveç Seyis
+trp_horse_smith_ukr|Kazak Seyis
+trp_horse_smith_ukr_pl|Kazak Seyis
+trp_castle_1_armorer|Zırh Ustası
+trp_castle_2_armorer|Zırh Ustası
+trp_castle_3_armorer|Zırh Ustası
+trp_castle_4_armorer|Zırh Ustası
+trp_castle_5_armorer|Zırh Ustası
+trp_castle_6_armorer|Zırh Ustası
+trp_castle_7_armorer|Zırh Ustası
+trp_castle_8_armorer|Zırh Ustası
+trp_castle_9_armorer|Zırh Ustası
+trp_castle_10_armorer|Zırh Ustası
+trp_castle_11_armorer|Zırh Ustası
+trp_castle_12_armorer|Zırh Ustası
+trp_castle_13_armorer|Zırh Ustası
+trp_castle_14_armorer|Zırh Ustası
+trp_castle_15_armorer|Zırh Ustası
+trp_castle_16_armorer|Zırh Ustası
+trp_castle_17_armorer|Zırh Ustası
+trp_castle_18_armorer|Zırh Ustası
+trp_castle_19_armorer|Zırh Ustası
+trp_castle_20_armorer|Zırh Ustası
+trp_castle_21_armorer|Zırh Ustası
+trp_castle_22_armorer|Zırh Ustası
+trp_castle_23_armorer|Zırh Ustası
+trp_castle_24_armorer|Zırh Ustası
+trp_castle_25_armorer|Zırh Ustası
+trp_castle_26_armorer|Zırh Ustası
+trp_castle_27_armorer|Zırh Ustası
+trp_castle_28_armorer|Zırh Ustası
+trp_castle_29_armorer|Zırh Ustası
+trp_castle_30_armorer|Zırh Ustası
+trp_castle_31_armorer|Zırh Ustası
+trp_castle_32_armorer|Zırh Ustası
+trp_castle_33_armorer|Zırh Ustası
+trp_castle_34_armorer|Zırh Ustası
+trp_castle_35_armorer|Zırh Ustası
+trp_castle_36_armorer|Zırh Ustası
+trp_castle_37_armorer|Zırh Ustası
+trp_castle_38_armorer|Zırh Ustası
+trp_castle_39_armorer|Zırh Ustası
+trp_castle_40_armorer|Zırh Ustası
+trp_castle_1_weaponsmith|Silah Ustası
+trp_castle_2_weaponsmith|Silah Ustası
+trp_castle_3_weaponsmith|Silah Ustası
+trp_castle_4_weaponsmith|Silah Ustası
+trp_castle_5_weaponsmith|Silah Ustası
+trp_castle_6_weaponsmith|Silah Ustası
+trp_castle_7_weaponsmith|Silah Ustası
+trp_castle_8_weaponsmith|Silah Ustası
+trp_castle_9_weaponsmith|Silah Ustası
+trp_castle_10_weaponsmith|Silah Ustası
+trp_castle_11_weaponsmith|Silah Ustası
+trp_castle_12_weaponsmith|Silah Ustası
+trp_castle_13_weaponsmith|Silah Ustası
+trp_castle_14_weaponsmith|Silah Ustası
+trp_castle_15_weaponsmith|Silah Ustası
+trp_castle_16_weaponsmith|Silah Ustası
+trp_castle_17_weaponsmith|Silah Ustası
+trp_castle_18_weaponsmith|Silah Ustası
+trp_castle_19_weaponsmith|Silah Ustası
+trp_castle_20_weaponsmith|Silah Ustası
+trp_castle_21_weaponsmith|Silah Ustası
+trp_castle_22_weaponsmith|Silah Ustası
+trp_castle_23_weaponsmith|Silah Ustası
+trp_castle_24_weaponsmith|Silah Ustası
+trp_castle_25_weaponsmith|Silah Ustası
+trp_castle_26_weaponsmith|Silah Ustası
+trp_castle_27_weaponsmith|Silah Ustası
+trp_castle_28_weaponsmith|Silah Ustası
+trp_castle_29_weaponsmith|Silah Ustası
+trp_castle_30_weaponsmith|Silah Ustası
+trp_castle_31_weaponsmith|Silah Ustası
+trp_castle_32_weaponsmith|Silah Ustası
+trp_castle_33_weaponsmith|Silah Ustası
+trp_castle_34_weaponsmith|Silah Ustası
+trp_castle_35_weaponsmith|Silah Ustası
+trp_castle_36_weaponsmith|Silah Ustası
+trp_castle_37_weaponsmith|Silah Ustası
+trp_castle_38_weaponsmith|Silah Ustası
+trp_castle_39_weaponsmith|Silah Ustası
+trp_castle_40_weaponsmith|Silah Ustası
+trp_castle_1_horse_merchant|At Tüccarı
+trp_castle_2_horse_merchant|At Tüccarı
+trp_castle_3_horse_merchant|At Tüccarı
+trp_castle_4_horse_merchant|At Tüccarı
+trp_castle_5_horse_merchant|At Tüccarı
+trp_castle_6_horse_merchant|At Tüccarı
+trp_castle_7_horse_merchant|At Tüccarı
+trp_castle_8_horse_merchant|At Tüccarı
+trp_castle_9_horse_merchant|At Tüccarı
+trp_castle_10_horse_merchant|At Tüccarı
+trp_castle_11_horse_merchant|At Tüccarı
+trp_castle_12_horse_merchant|At Tüccarı
+trp_castle_13_horse_merchant|At Tüccarı
+trp_castle_14_horse_merchant|At Tüccarı
+trp_castle_15_horse_merchant|At Tüccarı
+trp_castle_16_horse_merchant|At Tüccarı
+trp_castle_17_horse_merchant|At Tüccarı
+trp_castle_18_horse_merchant|At Tüccarı
+trp_castle_19_horse_merchant|At Tüccarı
+trp_castle_20_horse_merchant|At Tüccarı
+trp_castle_21_horse_merchant|At Tüccarı
+trp_castle_22_horse_merchant|At Tüccarı
+trp_castle_23_horse_merchant|At Tüccarı
+trp_castle_24_horse_merchant|At Tüccarı
+trp_castle_25_horse_merchant|At Tüccarı
+trp_castle_26_horse_merchant|At Tüccarı
+trp_castle_27_horse_merchant|At Tüccarı
+trp_castle_28_horse_merchant|At Tüccarı
+trp_castle_29_horse_merchant|At Tüccarı
+trp_castle_30_horse_merchant|At Tüccarı
+trp_castle_31_horse_merchant|At Tüccarı
+trp_castle_32_horse_merchant|At Tüccarı
+trp_castle_33_horse_merchant|At Tüccarı
+trp_castle_34_horse_merchant|At Tüccarı
+trp_castle_35_horse_merchant|At Tüccarı
+trp_castle_36_horse_merchant|At Tüccarı
+trp_castle_37_horse_merchant|At Tüccarı
+trp_castle_38_horse_merchant|At Tüccarı
+trp_castle_39_horse_merchant|At Tüccarı
+trp_castle_40_horse_merchant|At Tüccarı
+trp_castle_1_merchant|Tüccar
+trp_castle_2_merchant|Tüccar
+trp_castle_3_merchant|Tüccar
+trp_castle_4_merchant|Tüccar
+trp_castle_5_merchant|Tüccar
+trp_castle_6_merchant|Tüccar
+trp_castle_7_merchant|Tüccar
+trp_castle_8_merchant|Tüccar
+trp_castle_9_merchant|Tüccar
+trp_castle_10_merchant|Tüccar
+trp_castle_11_merchant|Tüccar
+trp_castle_12_merchant|Tüccar
+trp_castle_13_merchant|Tüccar
+trp_castle_14_merchant|Tüccar
+trp_castle_15_merchant|Tüccar
+trp_castle_16_merchant|Tüccar
+trp_castle_17_merchant|Tüccar
+trp_castle_18_merchant|Tüccar
+trp_castle_19_merchant|Tüccar
+trp_castle_20_merchant|Tüccar
+trp_castle_21_merchant|Tüccar
+trp_castle_22_merchant|Tüccar
+trp_castle_23_merchant|Tüccar
+trp_castle_24_merchant|Tüccar
+trp_castle_25_merchant|Tüccar
+trp_castle_26_merchant|Tüccar
+trp_castle_27_merchant|Tüccar
+trp_castle_28_merchant|Tüccar
+trp_castle_29_merchant|Tüccar
+trp_castle_30_merchant|Tüccar
+trp_castle_31_merchant|Tüccar
+trp_castle_32_merchant|Tüccar
+trp_castle_33_merchant|Tüccar
+trp_castle_34_merchant|Tüccar
+trp_castle_35_merchant|Tüccar
+trp_castle_36_merchant|Tüccar
+trp_castle_37_merchant|Tüccar
+trp_castle_38_merchant|Tüccar
+trp_castle_39_merchant|Tüccar
+trp_castle_40_merchant|Tüccar
+trp_oim_monfore_tutorial|Jaques de Cmont
+trp_oim_monfore_tutorial_pl|Jaques de Cmont
+trp_foot_gop|Haydut
+trp_foot_gop_pl|Haydut
+trp_mounted_gop|Haydut
+trp_mounted_gop_pl|Haydut
+trp_pahan_gop|Haydut
+trp_pahan_gop_pl|Haydut
+trp_schwarzer_ritter|Zırhlı Süvari
+trp_schwarzer_ritter_pl|Zırhlı Süvari
+trp_oim_shoha1_tutorial|Zırhlı Süvari
+trp_oim_shoha1_tutorial_pl|Zırhlı Süvari
+trp_oim_shoha2_tutorial|Zırhlı Süvari
+trp_oim_shoha2_tutorial_pl|Zırhlı Süvari
+trp_mp_rhodok_trained_spearman|Djura
+trp_mp_rhodok_trained_spearman_pl|Djura
+trp_mp_rhodok_crossbowman|Gözcü
+trp_mp_rhodok_crossbowman_pl|Gözcü
+trp_mp_ukr_storoja|Mızraklı Gözcü
+trp_mp_ukr_storoja_pl|Mızraklı Gözcü 
+trp_mp_rhodok_veteran_crossbowman|Zaporojya Atlısı
+trp_mp_rhodok_veteran_crossbowman_pl|Zaporojya Atlısı
+trp_mp_n_khergit_horseman|Bayrak
+trp_mp_n_khergit_horseman_pl|Bayrak
+trp_mp_n_khergit_horse_archer|Yasak
+trp_mp_n_khergit_horse_archer_pl|Yasak
+trp_mp_n_khergit_veteran_horse_archer|Mirza Şambul
+trp_mp_n_khergit_veteran_horse_archer_pl|Mirza Şambul
+trp_mp_n_zyndjirli|Nöker
+trp_mp_n_zyndjirli_pl|Nöker
+trp_coop_moscovite_watchmen|Rus Bekçi
+trp_coop_moscovite_watchmen_pl|Rus Bekçi
+trp_coop_dragoons|Dragun
+trp_coop_dragoons_pl|Dragun
+trp_coop_cossack_wildriders|Kazak Dağadamı
+trp_coop_cossack_wildriders_pl|Kazak Dağadamı
+trp_coop_crimean_horse_archers|Kırım Atlı Okçusu
+trp_coop_crimean_horse_archers_pl|Kırım Atlı Okçusu
+trp_coop_winged_hussars|Kanatlı Hüssar
+trp_coop_winged_hussars_pl|Kanatlı Hüssar
+trp_coop_janissary|Yeniçeri
+trp_coop_janissary_pl|Yeniçeri
+trp_coop_cossack_swordmen|Kazak Kılıçtar
+trp_coop_cossack_swordmen_pl|Kazak Kılıçtar
+trp_coop_polish_axemen|Leh Baltacı
+trp_coop_polish_axemen_pl|Leh Baltacı
+trp_coop_russian_polearmsmen|Rus Mızrakçı
+trp_coop_russian_polearmsmen_pl|Rus Mızrakçı
+trp_coop_swedish_swordsmen|İsveç Kılıçtar
+trp_coop_swedish_swordsmen_pl|İsveç Kılıçtar
+trp_coop_volunteer_militia|Gönüllü Milis
+trp_coop_volunteer_militia_pl|Gönüllü Milis
+trp_coop_cossack_pistoleers|Kazak Piştovcu
+trp_coop_cossack_pistoleers_pl|Kazak Piştovcu
+trp_coop_lithunian_defenders|Litvanyalı Milis
+trp_coop_lithunian_defenders_pl|Litvanyalı Milis
+trp_coop_crimean_hawkeyes|Kırım Şahingözü
+trp_coop_crimean_hawkeyes_pl|Kırım Şahingözü
+trp_coop_miquelet_musketeers|Mikelet Silahşörü
+trp_coop_miquelet_musketeers_pl|Mikelet Silahşörü

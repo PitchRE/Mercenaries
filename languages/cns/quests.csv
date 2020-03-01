@@ -1,0 +1,259 @@
+qst_deliver_message|送 信 给 {s13}
+qst_deliver_message_text|{s9}要 你 带 封 信 给 {s13}， 当 你 接 受 此 任 务 时 ， {s13}在 {s4}。 
+qst_deliver_message_to_enemy_lord|送 信 给 {s13}
+qst_deliver_message_to_enemy_lord_text|{s9}要 你 带 封 信 给 {s15}的 {s13}。 当 你 接 受 此 任 务 时 ， {s13}在 {s4}。 
+qst_raise_troops|培 养 {reg1}名 {s14}
+qst_raise_troops_text|{s9}要 你 培 养 {reg1}名 {s14}并 把 他 们 带 给 他 。 
+qst_escort_lady|护 送 {s13}去 {s14}
+qst_escort_lady_text|无 
+qst_deal_with_bandits_at_lords_village|解 救 {s15}村 
+qst_deal_with_bandits_at_lords_village_text|{s13}要 你 对 付 盘 踞 在 {s15}村 的 强 盗 ， 然 后 回 去 向 他 报 告 。 
+qst_collect_taxes|到 {s3}收 税 
+qst_collect_taxes_text|{s9}要 你 从 {s3}收 税 ， 他 愿 意 给 你 总 税 款 的 五 分 之 一 作 为 报 酬 。 
+qst_hunt_down_fugitive|抓 捕 {s4}
+qst_hunt_down_fugitive_text|{s9}要 你 追 捕 名 为 {s4}的 逃 亡 者 。 他 最 近 被 确 信 在 {s3}。 
+qst_kill_local_merchant|暗 杀 {s3}的 地 方 商 人 
+qst_kill_local_merchant_text|{s9}要 你 暗 杀 {s3}的 一 名 地 方 商 人 。 
+qst_bring_back_runaway_serfs|追 回 逃 跑 的 农 奴 
+qst_bring_back_runaway_serfs_text|{s9}要 你 找 到 三 拨 逃 跑 的 农 奴 后 将 他 们 带 回 {s2}。 他 说 这 三 拨 都 在 朝 {s3}的 方 向 逃 跑 。 
+qst_follow_spy|跟 踪 准 备 接 头 的 间 谍 
+qst_follow_spy_text|{s11}要 你 跟 踪 将 离 开 {s12}的 间 谍 。 你 必 须 小 心 ， 不 要 在 途 中 被 他 发 现 ， 否 则 他 可 能 会 起 疑 并 折 回 去 。 当 间 谍 和 同 伙 接 头 时 ， 你 得 一 举 将 他 们 两 人 拿 下 ， 然 后 交 给 {s11}。 
+qst_capture_enemy_hero|抓 捕 在 {s13}的 一 个 领 主 
+qst_capture_enemy_hero_text|{s11}要 你 抓 捕 在 {s13}的 一 个 领 主 。 
+qst_lend_companion|把 你 的 同 伴 {s3}借 给 {s9}
+qst_lend_companion_text|{s9}要 你 把 你 的 同 伴 {s3}借 给 他 一 个 星 期 。 
+qst_collect_debt|讨 要 {s3}欠 {s9}的 钱 
+qst_collect_debt_text|{s9}要 你 讨 要 {s3}欠 他 的 {reg4}泰 勒 。 
+qst_incriminate_loyal_commander|控 告 {s13}的 忠 心 指 挥 官 {s16}
+qst_incriminate_loyal_commander_text|无 
+qst_raid_caravan_to_start_war|突 袭 {s13}的 {reg13}支 商 队 
+qst_raid_caravan_to_start_war_text|无 
+qst_meet_spy_in_enemy_town|与 在 {s13}的 密 探 碰 头 
+qst_meet_spy_in_enemy_town_text|无 
+qst_capture_prisoners|抓 捕 {reg1}个 {s3}俘 虏 
+qst_capture_prisoners_text|{s9}要 你 带 给 他 {reg1}个 {s3}俘 虏 。 
+qst_lend_surgeon|把 你 的 外 科 医 生 {s3}借 给 {s1}
+qst_lend_surgeon_text|把 你 的 老 练 的 外 科 医 生 {s3}借 给 {s1}。 
+qst_follow_army|跟 随 {s9}的 部 队 
+qst_follow_army_text|无 
+qst_report_to_army|向 元 帅 {s13}报 告 
+qst_report_to_army_text|无 
+qst_deliver_cattle_to_army|把 {reg3}头 牛 赶 到 {s13}
+qst_deliver_cattle_to_army_text|{s3}的 村 庄 长 老 请 你 带 给 他 们 {reg5}头 牛 。 
+qst_join_siege_with_army|参 加 {s14}的 围 城 战 
+qst_join_siege_with_army_text|无 
+qst_scout_waypoints|侦 察 {s13}、 {s14}和 {s15}
+qst_scout_waypoints_text|无 
+qst_rescue_lord_by_replace|从 {s14}解 救 {s13}
+qst_rescue_lord_by_replace_text|无 
+qst_deliver_message_to_prisoner_lord|送 信 给 {s14}的 {s13}
+qst_deliver_message_to_prisoner_lord_text|无 
+qst_duel_for_lady|与 {s13}决 斗 
+qst_duel_for_lady_text|无 
+qst_move_cattle_herd|赶 牛 到 {s13}
+qst_move_cattle_herd_text|{s10}的 镇 长 要 你 赶 一 群 牛 到 {s13}。 
+qst_escort_merchant_caravan|护 送 商 队 去 {s8}
+qst_escort_merchant_caravan_text|护 送 商 队 去 {s8}
+qst_deliver_wine|捎 带 {reg5}单 位 的 {s6}到 {s4}
+qst_deliver_wine_text|{s3}的 {s9}要 你 在 接 下 来 的 七 天 内 运 送 {reg5}单 位 的 {s6}到 {s4}的 酒 馆 。 
+qst_troublesome_bandits|解 决 难 对 付 的 强 盗 
+qst_troublesome_bandits_text|{s4}的 {s9}要 你 追 捕 城 镇 附 近 地 区 的 难 对 付 的 强 盗 。 
+qst_kidnapped_girl|从 强 盗 手 中 赎 回 女 孩 
+qst_kidnapped_girl_text|{s4}的 镇 长 给 了 你 {reg12}泰 勒 来 向 强 盗 支 付 一 位 被 绑 架 的 女 孩 的 赎 金 。 你 得 在 {s3}附 近 与 强 盗 会 面 并 付 他 们 赎 金 。 在 那 之 后 ， 你 得 带 女 孩 回 {s4}。 
+qst_persuade_lords_to_make_peace|确 保 两 位 领 主 不 反 对 和 平 
+qst_persuade_lords_to_make_peace_text|{s4}的 镇 长 答 应 你 ， 如 果 你 能 确 保 {s12}和 {s13}不 再 干 扰 {s15}和 {s14}签 定 和 平 协 议 ， 他 会 给 你 {reg12}泰 勒 。 你 要 么 说 服 他 们 ， 要 么 俘 虏 他 们 并 保 持 到 和 平 协 议 签 订 完 成 。 
+qst_deal_with_looters|解 决 劫 匪 
+qst_deal_with_looters_text|{s4}的 镇 长 要 你 对 付 几 队 {s4}附 近 的 劫 匪 ， 并 且 带 回 你 追 回 的 任 何 货 物 。 
+qst_deal_with_night_bandits|对 付 夜 间 强 盗 
+qst_deal_with_night_bandits_text|将 要 完 成 ： {s14}的 镇 长 要 你 对 付 {s14}的 夜 间 强 盗 。 
+qst_deliver_grain|筹 集 小 麦 给 {s3}
+qst_deliver_grain_text|{s3}的 村 庄 长 老 要 你 给 他 们 带 {reg5}包 小 麦 。 
+qst_deliver_cattle|筹 集 牛 给 {s3}
+qst_deliver_cattle_text|{s3}的 村 庄 长 老 要 你 带 {reg5}头 牛 。 
+qst_train_peasants_against_bandits|小 训 练 
+qst_train_peasants_against_bandits_text|无 
+qst_eliminate_bandits_infesting_village|{s7}的 强 盗 
+qst_eliminate_bandits_infesting_village_text|一 位 来 自 {s7}的 村 民 恳 请 你 从 开 始 驻 扎 于 他 们 的 村 庄 的 强 盗 手 中 解 救 那 里 。 
+qst_join_faction|向 {s1}宣 誓 效 忠 
+qst_join_faction_text|找 到 {s1}并 向 他 宣 誓 效 忠 。 
+qst_rebel_against_kingdom|支 持 权 力 索 要 者 获 取 统 治 权 
+qst_rebel_against_kingdom_text|无 
+qst_talk_to_zamoshie_elder|与 扎 莫 什 耶 村 长 老 交 谈 
+qst_talk_to_zamoshie_elder_text|克 莱 蒙 提 到 ， 只 要 你 好 好 效 劳 ， 扎 莫 什 耶 村 的 长 老 会 付 你 很 多 钱 的 。 也 许 你 可 以 去 拜 访 下 他 。 
+qst_zamoshie_lower_taxes|农 民 的 税 
+qst_zamoshie_lower_taxes_text|说 服 斯 摩 棱 斯 克 的 统 帅 降 低 扎 莫 什 耶 的 农 民 的 税 金 。 
+qst_deal_with_zamoshie_bandits|扎 莫 什 耶 的 强 盗 
+qst_deal_with_zamoshie_bandits_text|杀 死 扎 莫 什 耶 的 强 盗 
+qst_oim_bring_goods_zamoshie|带 货 物 到 扎 莫 什 耶 
+qst_oim_bring_goods_zamoshie_text|送 盐 给 扎 莫 什 耶 的 瑙 姆 · 瓦 西 里 耶 夫 头 人 
+qst_oim_trakay_icon|躲 避 的 神 父 
+qst_oim_trakay_icon_text|躲 避 的 神 父 
+qst_oim_bring_tatarin_to_sich|带 俘 虏 去 哥 萨 克 总 部 
+qst_oim_bring_tatarin_to_sich_text|带 俘 虏 去 哥 萨 克 总 部 
+qst_oim_bring_tatarin_to_perekop|去 皮 里 柯 普 
+qst_oim_bring_tatarin_to_perekop_text|去 皮 里 柯 普 
+qst_oim_sem_samuraev|光 荣 的 七 
+qst_oim_sem_samuraev_text|光 荣 的 七 
+qst_oim_lendliz|帮 助 顿 河 哥 萨 克 人 
+qst_oim_lendliz_text|帮 助 顿 河 哥 萨 克 人 
+qst_oim_lendliz2|帮 助 顿 河 哥 萨 克 人 
+qst_oim_lendliz2_text|帮 助 顿 河 哥 萨 克 人 
+qst_oim_monfor_shved|招 募 克 莱 蒙 
+qst_oim_monfor_shved_text|招 募 克 莱 蒙 
+qst_oim_monfor_shved_army|皇 家 随 从 
+qst_oim_monfor_shved_army_text|皇 家 随 从 
+qst_mest_i_zakon|法 律 与 复 仇 
+qst_mest_i_zakon_text|法 律 与 复 仇 
+qst_mest_i_zakon2|被 救 的 村 庄 
+qst_mest_i_zakon2_text|法 律 与 复 仇 。 
+qst_mest_i_zakon3|赫 梅 利 尼 茨 基 的 复 仇 
+qst_mest_i_zakon3_text|法 律 与 复 仇 。 
+qst_oim_kidalovo_z_konyem|半 国 一 马 
+qst_oim_kidalovo_z_konyem_text|半 国 一 马 
+qst_oim_invest|隐 藏 处 
+qst_oim_invest_text|隐 藏 处 
+qst_oim_trubeckoy_rekomendation|给 特 鲁 别 茨 科 伊 的 推 荐 信 
+qst_oim_trubeckoy_rekomendation_text|给 特 鲁 别 茨 科 伊 的 推 荐 信 
+qst_oim_tzr_korsar|沙 皇 的 海 盗 
+qst_oim_tzr_korsar_text|沙 皇 的 海 盗 
+qst_oim_potop_main|大 洪 水 
+qst_oim_potop_main_text|大 洪 水 
+qst_oim_potop_find_zagloba|扎 格 沃 巴 上 校 
+qst_oim_potop_find_zagloba_text|扎 格 沃 巴 上 校 
+qst_oim_potop_deliver_letter|给 国 王 的 坏 消 息 
+qst_oim_potop_deliver_letter_text|给 国 王 的 坏 消 息 。 
+qst_oim_potop_deliver_swedish_solders|突 袭 瑞 典 军 队 的 后 方 
+qst_oim_potop_deliver_swedish_solders_text|突 袭 瑞 典 军 队 的 后 方 
+qst_oim_potop_deliver_swedish_troops_reward|领 奖 
+qst_oim_potop_deliver_swedish_troops_reward_text|领 奖 
+qst_oim_potop_defend_church|波 兰 的 圣 物 
+qst_oim_potop_defend_church_text|波 兰 的 圣 物 
+qst_oim_potop_defend_get_back_warshaw|华 沙 
+qst_oim_potop_defend_get_back_warshaw_text|华 沙 
+qst_oim_potop_capture_swedish_lord|新 教 之 道 的 错 误 
+qst_oim_potop_capture_swedish_lord_text|新 教 之 道 的 错 误 
+qst_oim_potop_shtirlic|新 可 汗 
+qst_oim_potop_alias|鞑 靼 盟 友 
+qst_oim_potop_alias_text|鞑 靼 盟 友 
+qst_oim_potop_return|英 雄 归 来 
+qst_oim_potop_return_text|英 雄 归 来 
+qst_oim_potop_kmitic|该 死 的 戈 凡 斯 基 ！ 
+qst_oim_potop_kmitic_text|该 死 的 戈 凡 斯 基 ！ 
+qst_oim_potop_volodievskiy|被 绑 架 的 新 娘 
+qst_oim_potop_volodievskiy_text|被 绑 架 的 新 娘 
+qst_oim_potop_kshetuskiy|马 贼 
+qst_oim_potop_kshetuskiy_text|马 贼 
+qst_oim_potop_marshal|通 往 元 帅 指 挥 杖 的 道 路 
+qst_oim_potop_marshal_text|通 往 元 帅 指 挥 杖 的 道 路 
+qst_oim_potop_marshal_started|元 帅 选 举 
+qst_oim_potop_marshal_started_text|元 帅 选 举 
+qst_oim_potop_mission_impossible|解 放 者 英 雄 
+qst_oim_potop_mission_impossible_text|解 放 者 英 雄 
+qst_oim_potop_capture_tszar|寻 找 沙 皇 
+qst_oim_potop_capture_tszar_text|寻 找 沙 皇 
+qst_oim_potop_king_elections_kings_node|扎 格 沃 巴 的 反 叛 
+qst_oim_potop_king_elections_kings_node_text|扎 格 沃 巴 的 反 叛 
+qst_oim_potop_king_elections_zagloba|未 使 用 的 
+qst_oim_potop_king_elections_zagloba_text|未 使 用 的 
+qst_oim_potop_last_qst|登 基 之 死 
+qst_oim_potop_last_qst_text|登 基 之 死 。 
+qst_oim_potop_zagloba_revoult|扎 格 沃 巴 皇 帝 ！ 
+qst_oim_potop_zagloba_revoult_text|扎 格 沃 巴 皇 帝 ！ 
+qst_oim_potop_invasion_info|日 耳 曼 军 团 
+qst_oim_potop_invasion_info_text|日 耳 曼 军 团 
+qst_oim_potop_destroy_mercs|日 耳 曼 军 团 
+qst_oim_potop_destroy_mercs_text|日 耳 曼 军 团 
+qst_oim_potop_dismiss_king|反 俄 同 盟 
+qst_oim_potop_dismiss_king_text|反 俄 同 盟 
+qst_oim_potop_execute_king|退 位 
+qst_oim_potop_execute_king_text|退 位 
+qst_oim_potop_final_qst|最 后 的 国 界 
+qst_oim_potop_final_qst_text|最 后 的 国 界 
+qst_oim_getman_defend_villages|保 卫 村 庄 
+qst_oim_getman_defend_villages_text|保 卫 村 庄 
+qst_oim_getman_main|黑 杖 的 秘 密 
+qst_oim_getman_main_text|黑 杖 的 秘 密 。 
+qst_oim_getman_kozaks_service|差 事 
+qst_oim_getman_kozaks_service_text|差 事 。 
+qst_oim_getman_za_radzivilla|为 了 大 立 陶 宛 ！ 
+qst_oim_getman_za_radzivilla_text|为 了 大 立 陶 宛 ！ 
+qst_oim_getman_radzivill_rebelion|拉 齐 维 乌 造 反 
+qst_oim_getman_radzivill_rebelion_text|拉 齐 维 乌 造 反 
+qst_oim_getman_radzivill_capture_city|第 一 个 命 令 
+qst_oim_getman_radzivill_capture_city_text|第 一 个 命 令 
+qst_oim_getman_kiev_capture|占 领 基 辅 
+qst_oim_getman_kiev_capture_text|占 领 基 辅 。 
+qst_oim_getman_kiev_burgomistr|基 辅 镇 长 的 报 告 
+qst_oim_getman_kiev_burgomistr_text|基 辅 镇 长 的 报 告 
+qst_oim_getman_kiev_burgomistr_gold|基 辅 传 奇 
+qst_oim_getman_kiev_burgomistr_gold_text|基 辅 传 奇 
+qst_oim_getman_ask_add_info|倔 强 的 拉 齐 维 乌 
+qst_oim_getman_ask_add_info_text|倔 强 的 拉 齐 维 乌 
+qst_oim_getman_capture_tatarin|鞑 靼 米 儿 咱 
+qst_oim_getman_capture_tatarin_text|鞑 靼 米 儿 咱 
+qst_oim_getman_tampliers_archives|圣 殿 骑 士 的 档 案 
+qst_oim_getman_tampliers_archives_text|圣 殿 骑 士 的 档 案 
+qst_oim_getman_nesviz_grobnica_radzivilov|家 族 地 穴 
+qst_oim_getman_nesviz_grobnica_radzivilov_text|家 族 地 穴 
+qst_oim_getman_nesviz_legend|内 斯 维 什 传 奇 
+qst_oim_getman_nesviz_legend_text|内 斯 维 什 传 奇 
+qst_oim_getman_tayna_knyaza|奥 列 格 家 族 的 秘 密 
+qst_oim_getman_tayna_knyaza_text|奥 列 格 家 族 的 秘 密 
+qst_oim_getman_borat_dlg|鲍 里 亚 金 斯 基 亲 王 
+qst_oim_getman_voron_book|乌 鸦 之 书 
+qst_oim_getman_voron_translate|帕 夫 努 季 
+qst_oim_getman_kozak_legend|哥 萨 克 传 奇 
+qst_oim_getman_barabash|巴 拉 巴 什 酋 长 
+qst_oim_getman_nesvizh_pernach|内 斯 维 什 
+qst_oim_getman_kill_radzivill|拉 齐 维 乌 酋 长 
+qst_oim_getman_za_barabasha|为 了 巴 拉 巴 什 ！ 
+qst_oim_getman_caravan|装 有 信 件 的 货 车 
+qst_oim_getman_za_hmelya|为 了 赫 梅 利 ！ 
+qst_oim_na_rech_pospolitu|去 波 兰 ！ 
+qst_oim_getman_hmel_reb|造 反 
+qst_oim_getman_hmel_casus_beli|兵 变 
+qst_oim_getman_hmel_greate_war|双 线 战 争 
+qst_oim_getman_korona_vitovta|维 陶 塔 斯 之 冠 
+qst_oim_getman_last_qst|从 海 到 海 
+qst_oim_na_msk_tsarzd|去 沙 皇 俄 国 ！ 
+qst_oim_getman_barabash_reb|造 反 ！ 
+qst_oim_getman_barabash_casus_beli|兵 变 
+qst_oim_getman_barabash_greate_war|双 线 战 争 
+qst_oim_dmitriy_main|沙 皇 的 秘 密 … … 
+qst_dmitriy_loot_villages|劫 掠 村 庄 
+qst_oim_dmitriy_gerasim|福 音 传 教 士 杰 拉 西 姆 
+qst_oim_dmitriy_elena|艾 丽 诺 
+qst_oim_dmitriy_eleonora|带 艾 丽 诺 见 卡 尔 
+qst_oim_dmitriy_eleonora_home|带 艾 丽 诺 见 亲 王 
+qst_oim_dmitriy_deliver_letter_msk|给 沙 皇 的 信 
+qst_oim_dmitriy_deliver_letter_shwed|给 沙 皇 的 信 
+qst_oim_dmitriy_talk_to_voevoda|与 统 帅 对 话 
+qst_oim_dmitriy_tsar_prison|沙 皇 的 仁 慈 
+qst_oim_dmitriy_razin|斯 捷 潘 · 拉 辛 
+qst_biyars_specnaz|与 贵 族 们 对 话 
+qst_oim_alevtina_hanum|阿 列 夫 京 娜 夫 人 
+qst_oim_black_lord|伪 德 米 特 里 三 世 
+qst_oim_black_lord_text|伪 德 米 特 里 三 世 
+qst_oim_dmitriy_elections|沙 皇 选 举 
+qst_oim_dmitriy_elections_text|沙 皇 选 举 
+qst_oim_duel_wound|决 斗 受 伤 
+qst_oim_duel_wound_text|决 斗 受 伤 
+qst_oim_alcoholic|酗 酒 
+qst_oim_alcoholic_text|酗 酒 
+qst_oim_illness_1|发 烧 
+qst_oim_illness_1_text|发 烧 
+qst_oim_illness_2|痛 风 
+qst_oim_illness_2_text|痛 风 
+qst_oim_illness_3|水 肿 
+qst_oim_illness_3_text|水 肿 
+qst_oim_illness_4|痢 疾 
+qst_oim_illness_4_text|痢 疾 
+qst_oim_illness_5|疥 疮 
+qst_oim_illness_5_text|疥 疮 
+qst_oim_potop_capture_city|占 领 城 市 
+qst_oim_deliver_caravan|运 送 商 队 
+qst_oim_trade_pantent|贸 易 许 可 证 
+qst_oim_hunt_down_thieves|追 捕 盗 贼 
+qst_oim_get_feast_supplies|获 取 盛 宴 用 品 
+qst_oim_invest_2|还 钱 
+qst_quests_end|任 务 完 成 

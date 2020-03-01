@@ -1,0 +1,728 @@
+qstr_Next_Page|下 一 頁 
+qstr_Game_Rules:^|游 戲 規 則 ： ^
+qstr_Show_game_rules|顯 示 游 戲 規 則 
+qstr_Continue...|繼 續 … … 
+qstr_Candidate_#1:_{s1}|一 號 侯 選 者 ： {s1}
+qstr_Candidate_#2:_{s1}|二 號 侯 選 者 ： {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4}的 {s3}希 望 能 夠 選 出 一 個 新 的 元 帥 ， 並 邀 請 了 他 的 封 臣 們 給 他 一 些 建 議 。 {s1}和 {s2}是 可 能 的 候 選 人 。 
+qstr_Who_do_you_wish_to_s|你 想 要 支 持 誰 ？ 
+qstr_{s1}|{s1}
+qstr_{s1}_gives_his_suppo|{s2}得 到 了 {s1}的 支 持 。 
+qstr_Number_of_Supporters|支 持 者 的 數 目 ： {reg0}
+qstr_{s2}_has_heard_his_v|{s2}聽 從 了 他 的 封 臣 們 的 建 議 。 他 選 擇 了 {s1}來 做 {s3}的 元 帥 。 
+qstr_Action|行 動 
+qstr_Attack_Type|武 器 選 擇 
+qstr_Stand_Ground|站 崗 
+qstr_Charge|沖 鋒 
+qstr_Follow_Me|隨 我 來 
+qstr_Hold_This_Position|堅 守 此 地 
+qstr_Spread_Out|散 開 
+qstr_Stand_Closer|聚 攏 
+qstr_Fall_Back|退 後 
+qstr_Advance|前 進 
+qstr_Dismount|下 馬 
+qstr_Mount|上 馬 
+qstr_Fire_At_Will|任 意 射 擊 
+qstr_Use_Blunt_Weapons|使 用 鈍 擊 武 器 
+qstr_Use_Any_Weapon|使 用 任 意 武 器 
+qstr_Ready|准 備 
+qstr_Wounded|受 傷 
+qstr_Dead|陣 亡 
+qstr_Remain_in_retirement|決 定 退 休 。 
+qstr_Go_back_to_the_adven|繼 續 冒 險 。 
+qstr_You_have_retired_at_|你 在 經 過 {reg5}天 的 冒 險 到 達 {reg4}級 的 時 候 決 定 退 休 了 。 
+qstr_Effect_on_Score|得 分 影 響 
+qstr_Settlements_owned_by|你 的 領 地 數 ： {reg0}
+qstr_Friendly_Settlements|友 軍 領 地 數 ： {reg0}
+qstr_Hostile_Settlements:|敵 軍 領 地 數 ： {reg0}
+qstr_Friendly_Lords:_{reg|友 軍 領 主 ： {reg0}
+qstr_Enemy_Lords:_{reg0}|敵 軍 領 主 ： {reg0}
+qstr_Victories:_{reg0}|勝 利 ： {reg0}
+qstr_Defeats:_{reg0}|失 敗 ： {reg0}
+qstr_Quests_Completed:_{r|任 務 完 成 ： {reg0}
+qstr_Companions_Found:_{r|同 伴 加 入 人 數 ： {reg0}
+qstr_Companions_Lost/Depa|同 伴 失 散 人 數 ： {reg0}
+qstr_Wealth:_{reg0}_denar|財 富 ： {reg0}泰 勒 
+qstr_Inventory:_{reg0}_de|物 品 欄 中 的 財 富 ： {reg0}泰 勒 
+qstr_Renown:_{reg0}|聲 望 ： {reg0}
+qstr_Experience:_{reg0}|經 驗 ： {reg0}
+qstr_Days_Passed:_{reg0}|天 數 ： {reg0}
+qstr_Difficulty:_{reg0}%|難 度 ： {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|總 分 數 ： {reg0}
+qstr_{s1}_of_{s3}_was_def|{s3}的 {s1}在 戰 場 上 被 擊 敗 了 ， 但 設 法 逃 離 了 。 
+qstr_DEBUG:_{s1}_no_longe|除 去 故 障 ： {s1}不 再 領 導 一 支 隊 伍 。 
+qstr_DEBUG:_{s1}_is_no_lo|除 去 故 障 ： {s1}不 再 是 一 名 俘 虜 。 
+qstr_DEBUG:_{s1}_is_now_a|除 去 故 障 ： {s1}現 在 是 玩 家 的 俘 虜 。 
+qstr_DEBUG:_{s1}_is_now_a_|除 去 故 障 ： {s1}現 在 是 {s2}的 俘 虜 。 
+qstr_{s54}_is_a_claimant_|{s54}聲 稱 應 由 他 坐 上 {s56}的 王 座 。 
+qstr_nowhere|無 
+qstr_{s57}_and_{s58}|{s57}和 {s58}
+qstr_{s57}_{s58}|{s57}， {s58}
+qstr_{reg3?She:He}|{reg3?她 :他 }
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{s54}是 {s56}的 {reg4?統 治 者 :{s55}的 一 名 臣 子 }。 ^}聲 望 ： {reg5}。 ^{reg3?她 :他 }{reg9?是 {s58}的 {reg3?女 :}主 人 :沒 有 封 地 }。 {s59}
+qstr_The_town_of_{s50}|{s50}鎮 
+qstr_The_village_of_{s50}|{s52}附 近 的 {s50}村 
+qstr_{s51}_belongs_to_{s1|{s51}歸 {s2}的 {s1}所 有 。 ^
+qstr_{s7}_and_{s8}|{s7}和 {s8}
+qstr_{s2}It_has_no_villag|{s2}它 沒 有 下 屬 的 村 莊 。 ^
+qstr_{s2}{reg0?Its_villag|{s2}它 {reg0?的 下 屬 的 村 莊 是 :的 下 屬 的 村 莊 是 }{s8}。 ^
+qstr_{s2}Its_prosperity_i|{s2}它 的 繁 榮 度 為 ： {s50}
+qstr_{s7}_{s8}|{s7}， {s8}
+qstr_noone|無 
+qstr_{s9}_and_{s10}|{s9}和 {s10}
+qstr_{s9}_{s10}|{s9}， {s10}
+qstr_{s11}_and_{s12}|{s11}和 {s12}
+qstr_{s11}_{s12}|{s11}， {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5}被 {s6}統 治 著 。 ^它 占 據 著 {s8}。 ^它 的 臣 子 是 {s10}。 ^他 的 敵 人 是 {s12}。 
+qstr_{s5}_has_been_defeat|{s5}被 擊 敗 了 ！ 
+qstr_{s7}_opened_the_gate|{s7}打 開 大 門 
+qstr_{s7}_closed_the_gate|{s7}關 閉 大 門 
+qstr_+{reg1}_to_party_mor|部 隊 士 氣 增 加 {reg1}
+qstr_Requires_{reg1}_inte|需 要 {reg1}點 智 慧 才 能 讀 
+qstr_Reading_Progress:_{r|閱 讀 進 度 ： {reg1}%
+qstr_wound_treament|療 傷 
+qstr_trainer|教 練 
+qstr_surgery|手 術 
+qstr_+1_to_{s1}_while_in_|置 於 物 品 欄 時 加 一 點 {s1}技 能 
+qstr_{s2}|{s2}
+qstr_Base_damage_radius:_|碎 片 半 徑 ： {reg1}步 。 傷 害 半 徑 ： {reg2}步 。 
+qstr_Move_here|移 動 到 這 裡 
+qstr_View_notes|查 看 記 錄 
+qstr_killed|陣 亡 
+qstr_wounded|受 傷 
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^總 計 ： {reg3}({s2})
+qstr_None|無 
+qstr_^None|^無 
+qstr_nothing|無 
+qstr_{reg0}_village{reg1?|{reg0}村 莊 {reg1?:}
+qstr_{reg0}_castle{reg1?s|{reg0}堡 壘 {reg1?:}
+qstr_{reg0}_castle{reg1?s:|{reg0}堡 壘 {reg1?:}以 及 {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0}城 鎮 {reg1?:}
+qstr_{reg0}_town{reg1?s:}_|{reg0}城 鎮 {reg1?:}以 及 {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0}城 鎮 {reg1?:}， {s0}
+qstr_Your_opponents_are_r|你 的 對 手 已 經 准 備 好 了 。 
+qstr_Try_to_destroy_as_ma|你 需 要 在 兩 分 半 鍾 的 時 間 內 盡 可 能 多 的 摧 毀 目 標 。 
+qstr_Stay_behind_the_line|站 在 線 後 射 擊 目 標 。 盡 量 不 要 浪 費 任 何 一 發 彈 藥 。 
+qstr_Battle_Advantage_=_{|戰 場 優 勢 為 {reg0}。 
+qstr_{s9}_wants_you_to_re|{s9}希 望 你 在 接 到 進 一 步 的 指 令 前 跟 隨 他 的 部 隊 行 動 。 
+qstr_OIM_add__{s3}_prosil|{s3}給 你 的 第 一 個 命 令 就 是 奪 取 一 座 城 市 。 
+qstr__Being_Raided_|（ 被 掠 奪 中 ） 
+qstr__Looted_|（ 已 被 洗 劫 ） 
+qstr__Under_Siege_|（ 陷 入 包 圍 ） 
+qstr_The_village_of_{s1}_|{s1}村 遭 受 了 {s2}的 掠 奪 。 
+qstr_{s3}_is_no_longer_un|{s3}不 再 陷 入 包 圍 了 。 
+qstr_Enemies_spotted_near|在 {s1}附 近 發 現 了 敵 人 。 
+qstr_{s1}_has_been_besieg|{s1}受 到 {s3}的 {s2}包 圍 。 
+qstr_{s1}_is_chosen_as_th|{s1}被 選 為 了 {s2}的 元 帥 。 
+qstr_{s1}_is_the_new_mars|{s1}是 {s2}的 新 元 帥 。 
+qstr_{s1}_decided_to_do_n|{s1}決 定 什 麼 都 不 做 。 
+qstr_{s1}_decided_to_gath|{s1}決 定 召 集 軍 隊 。 
+qstr_{s1}_decided_to_besi|{s1}決 定 圍 攻 {s2}。 
+qstr_{s1}_decided_to_raid|{s1}決 定 突 襲 {s2}。 
+qstr_{s1}_decided_to_atta|{s1}決 定 攻 擊 {s2}。 
+qstr_{s1}_decided_to_attac|{s1}決 定 攻 擊 {s2}附 近 的 敵 人 。 
+qstr_You_gained_{reg12}_r|你 獲 得 了 {reg12}點 聲 望 。 
+qstr_You_lose_{reg12}_ren|你 失 去 了 {reg12}點 聲 望 。 
+qstr_Your_relation_with_{|你 與 {s1}的 關 系 提 升 了 。 
+qstr_Your_relation_with_{s|你 與 {s1}的 關 系 惡 化 了 。 
+qstr_You_gain_honour.|你 獲 得 榮 譽 。 
+qstr_You_lose_honour.|你 失 去 榮 譽 。 
+qstr_{s1}_has_declared_wa|{s1}已 經 向 {s2}宣 戰 。 
+qstr_{s1}_and_{s2}_have_m|{s1}與 {s2}已 經 達 成 了 停 戰 協 議 。 
+qstr_{s2}_{reg3?was:is_cu|{s2}{reg3?曾 :正 }在 {s3}。 
+qstr_{s2}_{reg3?was:is}_t|{s2}{reg3?已 經 :正 在 }趕 去 {s3}， 而 {reg4?她 :他 }{reg3?之 前 :也 許 }在 {s4}{reg3?:附 近 }。 
+qstr_{s2}_{reg3?was:is}_i|{s2}{reg3?:正 }在 野 外 某 地 ， 而 {reg4?她 :他 }{reg3?之 前 :也 許 }在 {s3}{reg3?:附 近 }。 
+qstr_{s2}_{reg3?was:is}_b|{s2}{reg3?曾 :正 }被 囚 禁 在 {s3}。 
+qstr_{s2}_{reg3?was:has_b|{s2}{reg3?已 :已 經 }被 {reg4?她 的 :他 的 }敵 人 俘 虜 。 
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2}的 位 置 不 明 確 :我 不 知 道 {s2}在 哪 裡 }。 
+qstr_{s6}_has_joined_your|{s6}加 入 了 你 的 隊 伍 。 
+qstr_You_now_owe_{reg2}_d|你 欠 {s1}{reg2}泰 勒 。 
+qstr_Renown_value_for_thi|這 場 戰 斗 的 聲 望 評 估 為 {reg8}點 。 
+qstr_You_have_run_into_a_|你 陷 入 了 圈 套 之 中 ！ 
+qstr_You_are_attacked_by_|你 被 一 群 強 盜 打 劫 了 ！ 
+qstr_Holding|堅 守 中 
+qstr_Following|隨 行 中 
+qstr_Charging|沖 鋒 中 
+qstr_Advancing|前 進 中 
+qstr_Falling_Back|後 退 中 
+qstr_Standing_Closer|聚 攏 中 
+qstr_Spreading_Out|散 開 中 
+qstr_Standing|站 立 中 
+qstr_N/A|無 效 
+qstr_Any_Weapon|任 意 武 器 
+qstr_Blunt_Weapons|鈍 擊 武 器 
+qstr_{s1}_Rebels|{s1}叛 軍 
+qstr_Given_by:_{s62}|給 予 人 ： {s62}
+qstr_Given_on:_{s60}|開 始 於 ： {s60}
+qstr_You_have_{reg0}_days|你 還 有 {reg0}天 來 完 成 這 個 任 務 。 
+qstr_This_quest_has_been_|任 務 完 成 。 找 {s59}談 話 來 結 束 這 個 任 務 。 
+qstr_This_quest_has_been_s|任 務 成 功 完 成 。 找 {s59}談 話 來 索 取 你 的 報 酬 。 
+qstr_This_quest_has_faile|任 務 失 敗 。 找 {s59}談 話 來 解 釋 情 況 。 
+qstr_At_the_time_quest_wa|接 受 任 務 時 ： ^{s1}
+qstr_{s1}_is_infested_by_|{s1}正 被 強 盜 攻 擊 。 
+qstr_{s5}_has_a_strength_|{s5}的 軍 隊 共 有 {reg1}人 。 
+qstr_The_last_time_you_sa|上 一 次 你 見 到 {reg1?她 :他 }， {s1}
+qstr_The_last_time_you_he|上 一 次 你 聽 說 到 {reg1?她 :他 }， {s1}
+qstr_{s50}|{s50}
+qstr_Current_garrison_con|駐 軍 有 {reg5}人 。 ^儲 存 的 食 物 可 供 {reg6}天 。 
+qstr_Very_Poor|非 常 貧 窮 
+qstr_Poor|貧 窮 
+qstr_Average|一 般 
+qstr_Rich|富 有 
+qstr_Very_Rich|非 常 富 有 
+qstr_Manor|莊 園 
+qstr_A_manor_lets_you_res|有 了 一 個 莊 園 ， 你 就 可 以 在 村 子 中 休 息 ， 而 且 在 此 期 間 你 只 用 付 相 當 於 平 時 一 半 的 工 資 給 你 的 部 隊 。 
+qstr_Mill|磨 坊 
+qstr_A_mill_increases_vil|有 了 一 個 磨 坊 ， 就 可 以 使 村 子 的 繁 榮 度 提 升 5% 。 
+qstr_Watch_Tower|了 望 塔 
+qstr_A_watch_tower_lets_t|有 了 一 個 了 望 塔 ， 就 可 以 使 村 民 更 早 的 發 出 警 報 ， 並 延 長 敵 人 掠 奪 這 村 子 的 時 間 25% 。 
+qstr_School|學 校 
+qstr_A_shool_increases_th|有 了 一 個 學 校 ， 就 可 以 使 村 民 對 你 的 忠 誠 度 每 月 提 升 1點 。 
+qstr_Messenger_Post|驛 站 
+qstr_A_messenger_post_let|有 了 一 個 驛 站 ， 就 可 以 使 村 民 在 村 子 旁 發 現 敵 軍 時 向 你 匯 報 ， 不 論 你 離 村 子 有 多 遠 。 
+qstr_Prison_Tower|監 獄 
+qstr_A_prison_tower_reduc|有 了 一 個 監 獄 ， 就 可 以 使 被 俘 獲 的 領 主 成 功 逃 跑 的 幾 率 降 低 。 
+qstr_Prosperity_of_{s2}_h|{s2}的 繁 榮 度 從 {s3}變 到 {s4}。 
+qstr_{s4}_looks_upset.|{s4}看 起 來 很 失 落 。 
+qstr_OiM_You_ve_lost_your|你 失 去 了 你 的 馬 。 
+qstr_oim_potop_negative_e|耶 穌 紀 元 1655年 ， 波 蘭 國 王 解 散 了 下 議 院 — — 也 就 是 國 會 — — 並 按 照 莫 斯 科 的 君 主 的 方 式 ， 自 稱 為 沙 皇 。 但 是 叛 逆 的 貴 族 們 不 能 容 忍 此 事 ， 很 快 ， 在 大 波 蘭 與 立 陶 宛 ， 在 盧 森 尼 亞 與 烏 克 蘭 ， 到 處 都 有 人 揭 竿 而 起 。 為 了 鎮 壓 不 斷 上 升 的 造 反 勢 力 ， 國 王 雇 用 了 日 耳 曼 的 國 土 傭 僕 來 當 傭 兵 。 ^不 久 後 ， 整 個 波 蘭 - 立 陶 宛 聯 邦 就 像 干 柴 一 樣 被 戰 火 焚 毀 了 。 而 那 個 自 稱 「 沙 皇 」 的 揚 · 卡 西 米 爾 在 失 去 了 國 民 與 貴 族 的 忠 誠 之 後 ， 退 位 並 逃 走 了 。 陪 著 他 的 是 他 最 新 的 指 揮 官 ， 一 位 名 叫 {playername}的 出 身 低 賤 的 軍 閥 。 在 馬 佐 夫 捨 與 普 魯 士 的 邊 界 ， 他 們 被 一 大 群 強 盜 伏 擊 了 。 在 那 段 歲 月 中 ， 一 群 強 盜 只 是 一 個 普 通 的 危 險 而 已 ， 但 是 國 王 和 他 的 同 伴 們 就 這 樣 被 殺 死 了 ， 並 且 至 今 沒 人 發 現 他 們 的 骸 骨 被 藏 在 哪 裡 。 ^澤 農 · 彼 得 列 茨 基 ， 《 簡 明 波 蘭 共 和 國 史 》 （ 1855 ） 。 
+qstr_your_party|你 的 部 隊 
+qstr_{reg0?One_of_your_pr|{reg0?你 的 一 個 俘 虜 :俘 虜 }{s3}的 {s1}從 監 獄 逃 跑 了 ！ 
+qstr_You_brought_{reg3}_h|你 帶 了 {reg3}頭 牛 去 {s1}。 
+qstr_I_heard_that_there_w|我 聽 說 在 {s62}將 會 舉 辦 一 場 競 技 大 會 。 
+qstr_I_heard_that_one_can|我 聽 說 {s62}在 {s63}賣 得 很 便 宜 。 
+qstr_I_heard_that_they_pa|我 聽 說 {s62}在 {s63}很 是 緊 俏 。 
+qstr_Log_entry_{reg3}:_ty|Logentry{reg3}:type{reg4}
+qstr_Center:_{s4}|中 心 ： {s4}
+qstr_Troop:_{s4}|部 隊 ： {s4}
+qstr_Lord:_{s4}|領 主 ： {s4}
+qstr_Ally_party_is_presen|Allypartyispresent 
+qstr_{s4}_is_present_at_e|{s4}ispresentatevent 
+qstr_Event_#{reg5}_type_{|事 件 #{reg5}， 類 型 {reg6}， 時 間 {reg8}： 玩 家 的 國 家 對 國 家 目 標 的 關 系 ={reg7}
+qstr_Event_#{reg5}_type_{r|事 件 #{reg5}， 類 型 {reg6}， 時 間 {reg8}： 玩 家 的 國 家 對 中 心 目 標 國 家 的 關 系 ={reg7}
+qstr_Event_#{reg5}_type_{re|事 件 #{reg5}， 類 型 {reg6}， 時 間 {reg8}： 玩 家 的 國 家 對 國 家 目 標 的 關 系 ={reg7}
+qstr_Event_#{reg5}_type_{reg|事 件 #{reg5}， 類 型 {reg6}， 時 間 {reg8}。 無 相 關 國 家 關 系 
+qstr_Event_#{reg5}_type_{reg6|事 件 #{reg5}， 類 型 {reg6}， 時 間 {reg8}。 獨 立 的 玩 家 
+qstr_Elapsed_hours:_{reg7|經 過 小 時 數 ： {reg7}
+qstr_Reputation_type:_{s1|聲 譽 類 型 ： {s15}
+qstr_Entries_up_to_#{reg5|進 入 至 #{reg5}跳 過 
+qstr__{reg6}_dinarov_|（ {reg6}泰 勒 ） 
+qstr__{s20}_{s22}_{s5}|{s20}， {s22}{s5}
+qstr_{s0}___{reg1}|{s0}-{reg1}
+qstr__^not_drunk|^^[沒 醉 ]
+qstr__^slightly_drinken|^^【 微 醉 】 
+qstr__^quite_drunk|^^【 醉 】 
+qstr__^cant_say_few_words|^^【 酩 酊 大 醉 】 
+qstr_V_otryade_nachalas_e|你 的 部 下 們 遇 上 了 {s0}。 要 治 好 他 們 ， 你 的 士 兵 們 就 得 在 酒 館 休 息 並 吃 些 好 食 物 。 給 他 們 一 名 醫 生 ， 效 果 也 會 很 好 。 
+qstr_{s0}|{s0}
+qstr_{s50}_i_{s0}|{s50}與 {s0}
+qstr_v_otryade_nachalas_e|你 的 部 下 們 遇 上 了 {s0}。 要 治 好 他 們 ， 你 的 士 兵 們 就 得 在 酒 館 休 息 並 吃 些 好 食 物 。 給 他 們 一 名 醫 生 ， 效 果 也 會 很 好 。 
+qstr_v_otryade_nachalis_e|你 的 部 下 們 遇 上 了 {s50}
+qstr_{s2}_{reg3?was:is}_in|{s2}{reg3?曾 :}在 野 外 ， 但 是 {reg4?她 :他 }{reg3?曾 :此 刻 應 該 }在 {s3}附 近 。 
+qstr_Player:_v_gorode_{s3|玩 家 ： {s31}在 {s30}會 迅 速 被 制 成 。 
+qstr_{s0}_{s2}|{s0}， {s2}
+qstr_V_gorode_{s30}_zaver|{s31}曾 在 {s30}。 
+qstr_Glava|鎮 長 
+qstr_tax:_{reg3}|稅 金 ： {reg3}
+qstr__{s2}_stud:_{reg0}|{s2}畜 群 ： {reg0}
+qstr_depozita|存 款 
+qstr_kredita|貸 款 
+qstr_Zdes_vi_mozhete_zaka|在 這 裡 你 可 以 訂 購 優 質 的 武 器 。 
+qstr_Zdes_vi_mozhete_zakaz|在 這 裡 你 可 以 訂 購 優 質 的 防 具 。 
+qstr_Vash_zakaz_esche_ne_|你 訂 的 貨 還 沒 准 備 好 ， 
+qstr_Vi_esche_ne_zabrali_|你 還 沒 有 收 你 上 一 次 的 訂 貨 ！ 
+qstr_Za_mir_nuzhno_budet_|如 果 你 給 我 們 {s5}的 話 ， 你 就 可 以 准 備 講 和 了 。 
+qstr_Za_mir_nuzhno_budet_o|如 果 你 給 我 {s5}和 {s2}的 話 ， 我 就 可 以 准 備 講 和 了 。 
+qstr_Uchitivaya_silu_vash|我 們 尊 重 你 的 武 力 。 我 們 准 備 講 和 。 
+qstr_Za_mir_vam_nuzhno_bu|只 要 貢 獻 {reg1}泰 勒 ， 我 們 就 准 備 講 和 。 
+qstr_^{s20}_{s21}|^{s20}{s21}
+qstr_gorode|城 市 
+qstr_zamke|堡 壘 
+qstr_sele|村 莊 
+qstr_V_{s22}_hodyat_sluhi|在 {s22}裡 有 流 言 ： {s21}
+qstr_V_etom_{s22}_nichego|{s22}沒 發 生 什 麼 有 意 思 的 事 。 
+qstr_{s3}_{reg1}_|{s3}({reg1})
+qstr_{s4}_{s3}_{reg1}_|{s4}， {s3}({reg1})
+qstr_Party_has_nothing_to|你 的 隊 伍 在 挨 餓 ！ 
+qstr_{s31}|{s31}
+qstr__{s32}|{s32}
+qstr__|
+qstr_Cannot_leave_now.|你 現 在 不 能 離 開 。 
+qstr_You_must_stay_behind|你 必 須 站 在 線 後 ！ 此 次 攻 擊 無 效 。 
+qstr_You_run_away_from_th|你 逃 離 了 戰 場 。 
+qstr_You_came_into_the_wo|你 作 為 一 個 沒 落 貴 族 家 庭 中 的 {reg3?女 兒 :兒 子 }降 生 在 這 個 世 界 上 ， 家 中 只 剩 下 了 一 幢 房 子 還 矗 立 著 ， 記 錄 著 已 經 散 去 的 往 日 榮 光 。 不 過 ， 即 使 生 活 困 苦 ， 家 裡 依 然 給 予 了 你 很 好 的 教 育 ， 並 從 孩 童 時 期 就 對 你 進 行 嚴 格 的 行 為 舉 止 方 面 的 訓 練 。 
+qstr_You_were_born_the_{r|你 生 來 便 是 旅 行 商 人 之 {reg3?女 :子 }， 你 們 總 是 為 了 尋 找 財 富 而 一 個 地 方 又 一 個 地 方 地 遷 移 。 雖 然 你 的 父 母 比 其 余 大 多 數 人 富 有 並 且 盡 其 所 能 地 給 了 你 教 育 ， 但 是 你 極 少 有 機 會 在 路 上 交 到 朋 友 ， 你 幾 乎 生 來 就 是 為 了 以 後 能 幫 你 的 家 庭 賣 東 西 給 別 人 。 
+qstr_As_a_child_your_fami|當 你 還 是 個 孩 子 時 ， 你 的 家 庭 靠 你 父 親 為 當 地 的 領 主 當 衛 兵 的 薪 水 過 著 窮 困 的 生 活 。 生 活 並 不 輕 松 ， 並 且 你 們 太 過 貧 窮 以 至 於 不 能 給 你 多 少 教 育 。 你 在 街 道 上 主 要 學 會 了 如 何 在 手 中 有 武 器 或 無 武 器 時 保 護 你 自 己 。 
+qstr_{reg3?daughter:son}|{reg3?女 兒 :兒 子 }
+qstr_You_were_the_{reg3?d|你 是 一 個 居 住 在 森 林 中 的 家 庭 裡 面 的 {reg3?女 兒 :兒 子 }， 在 這 裡 你 們 過 著 自 給 自 足 的 生 活 。 狩 獵 、 伐 木 、 制 箭 ， 在 窘 迫 時 偶 爾 偷 獵 。 對 於 你 家 裡 來 說 冬 天 並 不 能 稱 之 為 一 個 好 的 季 節 ， 它 帶 走 的 不 僅 是 牲 畜 ， 還 有 人 的 性 命 。 即 使 如 此 ， 你 也 總 能 熬 過 寒 冬 ， 但 你 的 一 些 兄 弟 姐 妹 就 沒 這 麼 幸 運 了 。 
+qstr_You_were_a_child_of_|你 是 一 個 草 原 之 子 ， 生 活 在 一 個 不 斷 遷 徙 著 的 游 牧 部 落 之 中 。 象 部 落 中 其 他 人 一 樣 ， 你 們 將 馬 看 得 比 任 何 事 物 都 重 要 ， 在 你 學 會 走 路 之 前 ， 你 就 已 經 學 會 了 騎 馬 。 
+qstr_As_the_{reg3?daughte|作 為 盜 賊 的 {reg3?女 兒 :兒 子 }， 你 只 受 過 極 少 的 教 育 。 你 從 小 就 在 街 上 乞 討 ， 直 到 學 會 如 何 割 錢 包 ； 之 後 一 直 割 包 ， 直 到 學 會 如 何 開 鎖 ， 整 個 童 年 一 直 如 此 艱 辛 。 盡 管 如 此 ， 這 些 歲 月 教 會 了 你 應 付 艱 辛 的 世 事 ， 洞 曉 城 市 中 的 秘 密 ， 隱 於 陰 暗 的 巷 道 。 
+qstr_As_a_{reg3?girl:boy}|你 被 送 到 本 地 中 的 一 個 貴 族 家 庭 中 寄 養 。 漸 漸 如 同 其 他 {reg3?女 孩 :男 孩 }一 樣 長 大 。 在 那 裡 ， 你 在 等 侯 家 主 和 夫 人 的 過 程 中 ， 學 會 第 一 堂 名 為 「 謙 卑 」 的 課 程 。 此 外 ， 在 和 他 們 的 對 弈 、 閒 談 、 甚 至 是 對 偉 大 功 績 或 高 尚 愛 情 的 詩 贊 中 ， 你 迅 速 地 學 會 了 成 人 世 界 的 爭 斗 和 競 爭 。 你 也 會 從 其 他 孩 子 的 野 蠻 游 戲 中 ， 在 他 們 以 木 棒 代 劍 的 對 打 中 ， 學 會 他 們 大 人 的 用 劍 方 法 。 
+qstr_As_a_{reg3?girl:boy}_|你 作 為 一 名 本 地 工 匠 的 學 徒 學 會 了 如 何 進 行 買 賣 ， 並 漸 漸 像 其 他 {reg3?女 孩 :男 孩 }一 樣 長 大 。 在 數 年 的 努 力 工 作 和 學 習 後 ， 他 升 你 為 正 式 工 匠 ， 付 你 全 薪 直 到 你 決 定 離 開 。 
+qstr_As_a_{reg3?girl:boy}_g|你 的 {reg3?少 女 :少 年 }時 期 ， 是 作 為 一 名 富 有 的 商 人 的 學 徒 渡 過 的 。 經 過 多 年 的 交 易 與 行 商 的 浸 淫 ， 精 於 經 商 之 道 。 你 很 快 就 學 會 了 低 入 高 出 ， 迎 合 哄 騙 顧 客 。 
+qstr_As_a_{reg3?girl:boy}_gr|作 為 一 個 被 遺 棄 在 街 上 的 {reg3?女 孩 :男 孩 }， 少 時 ， 為 了 求 生 你 無 所 不 為 。 你 乞 討 、 偷 竊 、 為 匪 幫 干 活 ， 只 為 換 得 一 塊 面 包 。 你 日 復 一 日 在 這 炎 涼 的 世 間 掙 扎 ， 一 次 次 擦 肩 掠 過 那 些 執 法 者 及 滿 懷 惡 意 之 人 。 
+qstr_As_a_{reg3?girl:boy}_gro|在 和 其 他 {reg3?女 孩 :男 孩 }一 樣 的 成 長 過 程 中 ， 你 曾 在 大 草 原 上 騎 著 自 己 的 馬 匹 ， 學 習 著 從 草 原 或 沙 漠 之 中 尋 找 方 向 。 在 無 痕 的 大 地 上 雖 然 不 時 挨 餓 ， 你 還 是 成 了 一 名 熟 練 的 獵 人 和 探 險 者 ， 你 的 身 體 也 開 始 布 滿 了 結 實 的 肌 肉 — — 這 ， 就 是 作 為 游 牧 之 {reg3?女 :民 }的 生 活 方 式 。 
+qstr_{reg3?daughter:man}|{reg3?女 子 :男 人 }
+qstr_Though_the_distincti|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 自 你 被 任 命 為 一 位 宮 中 貴 胄 的 親 隨 起 ， 你 勤 練 武 藝 ， 學 習 如 何 打 出 重 擊 及 如 何 破 解 。 你 被 教 導 學 習 對 君 主 的 義 務 及 對 日 後 臣 民 的 責 任 。 而 除 了 領 悟 騎 士 精 神 ， 你 還 得 知 了 一 些 不 那 麼 光 彩 的 知 識 — — 從 昔 日 武 士 們 的 故 事 中 了 解 了 無 情 的 強 權 ， 背 叛 與 篡 位 ， 以 及 人 們 為 達 成 目 的 時 同 時 展 現 的 詭 詐 與 勇 毅 。 
+qstr_{reg3?woman:man}|{reg3?女 人 :男 人 }
+qstr_Though_the_distinctio|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 你 走 進 了 上 層 女 性 的 小 圈 子 ， 這 些 名 媛 淑 女 ， 不 論 已 為 人 婦 還 是 待 字 閨 中 ， 皆 雍 容 華 貴 ， 儀 態 萬 方 。 然 而 ， 在 貴 婦 們 濃 妝 艷 飾 ， 爭 紅 斗 艷 地 吸 引 一 切 男 子 的 風 潮 中 ， 你 仍 能 嗅 到 政 治 的 氣 味 。 很 快 ， 你 就 學 會 了 如 何 將 這 情 勢 為 己 所 用 ， 並 明 白 略 施 小 計 便 可 為 自 己 贏 來 巨 大 聲 勢 。 
+qstr_Though_the_distinction|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 你 踽 踽 獨 行 ， 只 有 背 上 的 樂 器 與 自 己 的 歌 喉 相 伴 。 生 活 艱 辛 ， 多 少 夜 晚 你 忍 著 轆 轆 饑 腸 演 奏 卻 得 不 到 一 聲 喝 彩 ， 但 你 最 終 還 是 靠 著 自 己 的 音 樂 熬 了 過 來 。 隨 著 時 光 流 逝 ， 你 漸 漸 習 慣 了 為 酒 館 裡 醉 醺 醺 的 酒 客 們 演 奏 ， 甚 至 可 以 說 服 任 何 人 向 自 己 讓 步 。 
+qstr_Though_the_distinction_|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 作 為 一 個 大 城 市 裡 的 學 生 ， 你 在 大 學 學 習 神 學 、 哲 學 與 醫 藥 。 不 過 並 不 是 所 有 的 知 識 都 源 於 講 堂 。 你 也 許 不 總 和 朋 友 們 在 小 巷 裡 游 蕩 著 滋 事 ， 尋 找 酒 和 女 人 ， 但 你 清 楚 地 知 道 被 打 落 下 巴 是 怎 麼 回 事 ， 以 及 如 何 勸 說 憤 怒 的 市 民 放 下 木 棒 ， 接 受 對 他 砸 爛 的 店 鋪 的 現 金 賠 償 。 
+qstr_Though_the_distinction_f|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 你 走 街 串 巷 ， 買 賣 能 弄 到 的 各 類 商 品 。 日 子 並 不 寬 裕 ， 但 你 成 為 了 討 價 還 價 的 大 師 ， 甚 至 可 以 在 最 吝 嗇 的 老 頭 那 討 得 好 價 錢 。 很 快 ， 你 意 識 到 ， 你 已 有 足 夠 的 能 開 創 自 己 的 商 業 帝 國 了 … … 
+qstr_Though_the_distinction_fe|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 作 為 一 個 鐵 匠 ， 你 追 求 極 致 的 技 藝 ， 將 平 淡 無 奇 的 礦 石 鍛 冶 成 美 觀 實 用 的 器 具 。 隨 著 時 間 推 移 ， 你 成 為 了 行 中 翹 楚 ， 而 精 湛 的 工 藝 也 換 來 了 更 好 的 價 錢 。 飽 餐 過 後 看 著 屋 中 熊 熊 的 爐 火 ， 你 足 以 為 自 己 的 工 作 與 日 益 高 漲 的 名 望 而 自 傲 。 
+qstr_Though_the_distinction_fel|隨 著 時 光 流 逝 ， 你 最 終 成 長 為 {reg3?女 人 :男 人 }。 而 自 這 一 刻 起 ， 似 乎 整 個 世 界 也 隨 之 改 變 。 不 滿 於 像 芸 芸 眾 生 般 為 蠅 頭 小 利 齟 齬 ， 你 潛 入 領 主 的 林 子 ， 享 用 其 饋 贈 ， 去 他 的 法 律 。 你 獵 殺 牡 鹿 、 野 豬 與 鵝 ， 暗 中 出 售 這 些 昂 貴 的 肉 食 。 你 在 守 林 人 的 鼻 子 底 下 砍 伐 林 木 ， 將 其 變 為 木 柴 給 貧 苦 人 家 在 冬 日 帶 來 溫 暖 。 當 然 ， 是 要 收 錢 的 。 
+qstr_Only_you_know_exactl|只 有 你 確 切 知 道 自 己 為 何 放 棄 以 前 的 生 活 ， 來 做 一 個 冒 險 者 。 因 為 心 中 的 熊 熊 燃 燒 的 怒 火 ， 決 定 離 開 並 不 艱 難 。 你 要 復 仇 ， 你 要 審 判 ， 對 你 所 作 的 一 切 都 不 能 饒 恕 ， 所 有 的 債 只 能 用 鮮 血 來 償 還 … … 
+qstr_Only_you_know_exactly|只 有 你 自 己 才 清 楚 你 為 什 麼 放 棄 之 前 的 生 活 成 為 冒 險 者 。 你 能 說 的 只 是 你 不 能 再 忍 受 留 在 原 來 的 地 方 了 ， 對 你 曾 愛 過 的 人 的 記 憶 是 如 此 親 切 又 是 如 此 痛 苦 。 也 許 新 生 活 會 讓 你 忘 卻 過 往 ， 或 是 給 你 羞 於 啟 齒 的 名 字 帶 來 榮 光 … … 
+qstr_Only_you_know_exactly_|只 有 你 確 切 知 道 自 己 為 何 放 棄 以 前 的 生 活 ， 來 做 一 個 冒 險 者 。 你 不 確 定 從 何 時 起 ， 家 園 變 成 了 監 獄 ， 親 人 也 變 得 陌 生 ， 只 有 流 浪 占 據 了 你 的 世 界 。 不 管 是 向 往 遙 遠 的 樂 土 還 是 僅 僅 路 上 的 自 由 ， 你 再 不 願 呆 在 同 樣 的 地 方 ， 只 是 再 不 回 頭 地 走 下 去 … … 
+qstr_Only_you_know_exactly_w|只 有 你 確 切 知 道 自 己 為 何 放 棄 以 前 的 生 活 ， 來 做 一 個 冒 險 者 。 你 知 道 再 也 不 能 回 去 ， 也 沒 有 地 方 可 回 。 曾 經 的 家 園 已 經 煙 消 雲 散 ， 你 必 須 面 對 現 實 ， 在 大 千 世 界 上 ， 沉 浮 全 靠 自 己 一 人 … … 
+qstr_Only_you_know_exactly_wh|只 有 你 自 己 才 清 楚 你 為 什 麼 放 棄 之 前 的 生 活 成 為 冒 險 者 。 對 其 他 人 而 言 ， 很 明 顯 你 是 單 為 錢 財 而 來 。 你 渴 望 變 得 富 有 ， 權 勢 滔 天 ， 受 人 矚 目 ， 被 人 畏 懼 。 你 渴 望 人 們 服 從 於 你 ， 渴 望 自 己 的 名 字 人 盡 皆 知 ， 而 當 它 被 提 起 時 ， 人 人 都 將 顫 栗 。 你 渴 望 得 到 一 切 ， 不 允 許 任 何 人 擋 在 前 方 … … 
+qstr_Back_to_the_beginnin|退 回 開 始 … … 
+qstr_View_next_segment...|查 看 下 節 … … 
+qstr___|-
+qstr__+|+
+qstr_^No_food:___{reg7}|^沒 有 食 物 ： -{reg7}
+qstr_^Wage_debt:___{reg6}|^拖 欠 工 資 ： -{reg6}
+qstr_Current_party_morale|當 前 隊 伍 士 氣 為 {reg5}。 ^當 前 隊 伍 士 氣 修 正 為 ： ^^基 礎 士 氣 ： +50^隊 伍 規 模 ： {s2}{reg1}^統 御 技 能 ： {s3}{reg2}^食 物 品 種 ： {s4}{reg3}{s5}{s6}^最 近 事 件 ： {s7}{reg4}^共 計 ： {reg5}
+qstr_Defending|正 在 防 御 
+qstr_Gathering_army|集 結 軍 隊 
+qstr_Besieging_{s11}|圍 攻 {s11}
+qstr_Raiding_{s11}|突 襲 {s11}
+qstr_Attacking_enemies_ar|攻 擊 {s11}附 近 的 敵 人 
+qstr_No_one|沒 有 人 
+qstr_{s9}{s10}^Current_st|{s9}{s10}^當 前 狀 態 ： {s11}^元 帥 ： {s12}^從 最 近 一 次 的 進 攻 已 過 了 ： {reg1}小 時 ^進 攻 的 最 大 追 隨 者 數 ： {reg2}^^
+qstr_Selected_faction_is:|選 擇 的 集 團 是 ： {s10}^^{s9}
+qstr_You_are_currently_re|你 正 在 閱 讀 {s8}。 
+qstr_You_are_not_reading_|你 沒 有 在 讀 任 何 書 籍 。 
+qstr_none|無 
+qstr_{s5}_and_{s6}|{s5}和 {s6}
+qstr_{s5}_{s6}|{s5}， {s6}
+qstr_Renown:_{reg2}.^Hono|聲 望 ： {reg2}。 ^榮 譽 ： {reg3}。 ^朋 友 ： {s8}。 ^敵 人 ： {s6}。 ^{s9}
+qstr_Your_estates_are:_{s|你 的 封 地 在 ： {s8}。 ^{s9}
+qstr_You_are_a_lord_of_{s|你 是 {s8}的 一 名 貴 族 。 ^{s9}
+qstr_Current_party_size_l|當 前 的 部 隊 上 限 為 {reg5}^當 前 部 隊 上 限 的 修 正 為 ： ^^因 基 礎 人 數 ： + {reg4}^因 玩 家 統 御 ： {s2}{reg1}^因 玩 家 魅 力 ： {s3}{reg2}^因 玩 家 聲 望 ： {s4}{reg3}^總 計 ： {reg5}
+qstr_Loyal|忠 誠 
+qstr_Devoted|忠 誠 
+qstr_Fond|親 切 
+qstr_Gracious|親 切 
+qstr_Friendly|支 持 
+qstr_Supportive|支 持 
+qstr_Favorable|贊 同 
+qstr_Cooperative|贊 同 
+qstr_Accepting|冷 淡 
+qstr_Indifferent|冷 淡 
+qstr_Suspicious|冷 淡 
+qstr_Grumbling|猜 疑 
+qstr_Hostile|猜 疑 
+qstr_Resentful|怨 恨 
+qstr_Angry|怨 恨 
+qstr_Hateful|憎 恨 
+qstr_Revengeful|憎 恨 
+qstr_Vengeful|敵 意 
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}:{reg1}({s3})
+qstr_Your_relation_with_t|你 與 各 國 的 關 系 為 ： ^{s2}
+qstr_V_{s10}_stroitsya_{s|{s11}被 建 在 {s10}。 剩 余 {reg4}={reg5}
+qstr_V_{s10}_postroeno_{s|{s10}的 {s11}被 建 好 了 。 
+qstr_Player_renown_is_inc|玩 家 聲 望 上 升 100 點 。 
+qstr_{reg1}_{s1}_{reg2?ac|{reg1}個 {s1}{reg2?接 受 :接 受 }你 的 提 議 。 
+qstr_No_one_accepts_the_o|沒 人 接 受 你 的 提 議 。 
+qstr_You_start_reading_{s|你 開 始 讀 {s2}。 你 決 定 把 它 帶 在 身 邊 ， 任 何 有 空 的 時 候 就 讀 幾 頁 。 
+qstr_You_flip_through_the|你 翻 著 {s2}， 但 你 發 現 裡 面 的 內 容 很 難 理 解 。 看 了 幾 頁 後 ， 你 感 覺 到 頭 很 痛 ， 然 後 放 棄 閱 讀 了 。 
+qstr_You_paid_{reg3}_of_y|你 支 付 了 你 的 {reg4}泰 勒 中 的 {reg3}泰 勒 給 你 的 部 下 。 你 有 {reg5}泰 勒 余 下 。 
+qstr_Your_debt_to_your_me|你 對 你 部 下 的 欠 債 累 計 至 了 {reg3}泰 勒 ， 然 而 你 只 有 {reg4}泰 勒 。 未 支 付 的 {reg5}泰 勒 被 添 加 為 了 負 債 。 你 的 隊 伍 失 去 士 氣 。 
+qstr_This_week_s_wages:_{|本 周 薪 水 ： {reg6}泰 勒 ^之 前 負 債 ： {reg2}泰 勒 ^總 共 支 付 ： {reg3}泰 勒 ^當 前 財 富 ： {reg4}泰 勒 ^^{s1}
+qstr_Villagers|村 民 們 
+qstr_You_have_encountered|你 遇 到 {s1}了 。 
+qstr_Armiya_protivnika_po|敵 軍 撤 退 至 營 地 。 
+qstr_You_have_engaged_{s1|你 偶 遇 到 了 一 場 戰 斗 。 {s1}正 在 攻 擊 {s3}。 你 決 定 去 幫 助 {s3}。 
+qstr_You_were_caught_by_{|當 你 帶 著 部 下 在 {s3}掠 奪 的 時 候 ， 被 {s1}撞 見 了 。 
+qstr_You_were_victorious!|你 獲 勝 了 ！ 
+qstr_Battle_was_lost._You|戰 斗 失 敗 。 你 的 軍 隊 被 徹 底 毀 滅 。 
+qstr_Your_companions_carr|你 的 同 伴 把 你 從 戰 場 上 運 了 出 來 。 
+qstr_You_have_defeated_th|你 擊 敗 了 敵 人 。 
+qstr_You_have_retreated_f|你 撤 離 了 戰 場 。 
+qstr_^^Ally_Casualties:{s|^^友 軍 傷 亡 ： {s0}
+qstr_{s1}_of_{s3}_managed|{s3}的 {s1}設 法 逃 離 。 
+qstr_{s17}|{s17}
+qstr__V_gorode_ostalos_{r|還 有 {reg0}名 戰 斗 人 員 活 著 ， 他 們 是 你 的 俘 虜 了 。 你 將 如 何 處 置 他 們 ？ 
+qstr__V_gorode_ostalos_{re|還 有 {reg0}名 戰 士 活 著 ， 是 你 救 了 他 們 。 把 他 們 征 入 駐 軍 嗎 ？ 
+qstr_Victory_comment._Pla|勝 利 注 釋 ： 玩 家 單 獨 完 成 的 。 
+qstr_Ordinary_victory_com|普 通 的 勝 利 注 釋 ： 玩 家 出 了 至 少 40%的 兵 力 。 
+qstr_Player_participation|玩 家 參 與 注 釋 ： 敵 人 至 少 有 1000的 初 始 強 度 。 
+qstr_No_victory_comment._|沒 有 勝 利 注 釋 。 戰 斗 很 小 ， 並 且 玩 家 提 供 的 兵 力 不 及 盟 軍 的 兵 力 的 40% 。 
+qstr_Some_of_your_tendons|你 戰 斗 中 傷 到 了 一 些 肌 腱 ， 你 失 去 了 1點 力 量 。 
+qstr_You_took_a_nasty_wou|你 受 了 重 傷 ， 它 將 導 致 你 走 路 有 點 跛 ， 即 使 是 在 它 被 治 好 後 。 你 失 去 了 1點 敏 捷 。 
+qstr_You_have_trouble_thi|就 在 戰 斗 後 ， 你 思 考 變 得 困 難 了 ， 也 許 這 是 因 為 你 的 頭 部 受 了 一 記 特 別 的 打 擊 ， 並 且 現 在 有 頻 繁 的 頭 痛 折 磨 著 你 的 生 活 。 你 的 智 力 下 降 1點 。 
+qstr_Perhaps_I_m_getting_|也 許 我 的 運 氣 在 變 差 … … 
+qstr_Retirement_is_starti|撤 退 聽 起 來 變 得 越 來 越 動 聽 。 
+qstr_No_matter!_I_will_pe|沒 關 系 ！ 我 將 繼 續 堅 持 ！ 
+qstr_What_did_I_do_to_des|我 該 怎 麼 做 才 能 得 到 這 些 ？ 
+qstr_I_suppose_it_ll_make|我 猜 這 些 至 少 可 以 構 造 出 一 個 很 好 的 故 事 … … 
+qstr_Player_retreats_from|玩 家 從 戰 斗 中 撤 退 
+qstr_{s9}_wants_you_to_fo|{s9}希 望 你 能 夠 在 接 到 進 一 步 的 指 令 以 前 跟 著 他 的 部 隊 前 進 。 
+qstr_{s8}_of_{s9}|{s9}的 {s8}
+qstr__Your_own_banner_fli|這 座 堡 壘 現 歸 你 所 有 。 
+qstr__You_see_the_banner_|這 座 堡 壘 現 歸 {s7}所 有 。 
+qstr__This_castle_seems_t|這 個 堡 壘 似 乎 不 屬 於 任 何 人 。 
+qstr__Your_own_banner_flie|你 自 己 的 旗 幟 飄 揚 在 城 鎮 大 門 上 。 
+qstr__You_see_the_banner_o|這 座 城 鎮 現 歸 {s7}所 有 。 
+qstr__The_townsfolk_here_|這 裡 的 市 民 宣 告 了 他 們 的 獨 立 。 
+qstr_Zapasov_edi_v_{reg6?|好 像 {reg6?城 鎮 裡 :城 堡 裡 }倉 庫 中 的 存 糧 能 夠 支 持 {reg3}天 。 
+qstr_Zapasov_edi_v_{reg6?g|{reg6?城 鎮 裡 :城 堡 裡 }倉 庫 中 已 經 沒 有 存 糧 了 ， 守 城 人 員 快 要 餓 死 了 。 
+qstr_Vi_stroite_lestnici_|你 開 始 建 造 攻 城 梯 ， 需 要 {reg9}小 時 完 成 。 
+qstr_Prokladka_podkopa_dl|放 置 爆 炸 物 會 多 花 上 {reg9}小 時 。 
+qstr_Postroika_lestnic_za|准 備 工 作 完 成 了 。 你 隨 時 都 可 以 攻 擊 城 鎮 了 。 
+qstr_Postroika_podkopa_za|准 備 工 作 完 成 了 。 你 隨 時 都 可 以 攻 擊 城 鎮 了 。 
+qstr_As_a_last_defensive_|你 撤 退 到 城 堡 的 大 廳 裡 進 行 最 後 的 防 御 。 你 和 你 手 下 殘 余 的 士 兵 將 准 備 在 這 裡 接 受 一 場 惡 戰 。 如 果 你 戰 敗 了 ， 你 就 無 路 可 退 了 。 
+qstr_You_ve_been_driven_a|你 們 被 敵 人 從 城 牆 上 面 趕 下 去 了 ， 現 在 敵 人 大 量 湧 入 街 道 內 。 如 果 你 能 擊 敗 他 們 ， 你 也 許 能 扭 轉 局 勢 ， 反 敗 為 勝 。 
+qstr_You_ve_breached_the_|你 已 經 突 破 了 城 牆 ， 但 是 那 些 頑 固 的 守 衛 者 繼 續 在 街 道 上 抵 抗 你 的 攻 擊 ！ 你 得 消 滅 他 們 才 能 攻 擊 城 鎮 中 心 的 城 堡 。 
+qstr_The_town_centre_is_y|這 個 城 鎮 的 鎮 廣 場 是 你 的 了 ， 但 是 剩 下 的 守 衛 者 撤 退 到 城 堡 裡 了 。 你 要 完 全 消 滅 他 們 才 能 取 得 完 全 的 勝 利 。 
+qstr_The_remaining_defend|殘 存 的 守 軍 撤 退 到 城 堡 准 備 最 後 一 搏 ， 你 必 須 攻 進 去 掃 除 剩 余 的 抵 抗 力 量 。 
+qstr__kriticheskie|緊 要 的 
+qstr__ogromnie|大 的 
+qstr__visokie|高 的 
+qstr_However_since_you_ar|然 而 ， 自 從 你 放 棄 向 {s9}發 的 誓 言 。 他 是 絕 對 不 會 承 認 你 是 這 個 {reg8?城 鎮 :城 堡 }的 {領 主 /領 主 }。 
+qstr_The_enemy_has_been_f|敵 人 被 迫 撤 退 了 。 進 攻 停 止 了 ， 但 是 圍 城 還 在 繼 續 。 
+qstr__This_village_and_th|這 個 村 子 及 周 圍 的 土 地 現 歸 你 所 有 。 
+qstr__You_remember_that_t|你 記 得 這 個 村 子 及 周 圍 的 土 地 屬 於 {s7}。 
+qstr__These_lands_belong_|這 些 土 地 不 屬 於 任 何 人 。 
+qstr__{s3}__{reg9}_.|{s3}({reg9}) 。 
+qstr__The_village_is_infe|這 個 村 子 受 到 {reg8}個 {s35}侵 擾 。 
+qstr__The_village_has_bee|這 座 村 莊 慘 遭 洗 劫 ， 當 你 經 過 那 些 燒 毀 的 房 屋 時 ， 無 數 冤 魂 四 散 而 去 。 
+qstr__The_village_is_bein|村 莊 已 遭 到 襲 擊 。 
+qstr_No_one_here_seems_to|這 裡 好 像 沒 有 人 想 加 入 你 的 部 隊 。 
+qstr_One_{s3}_volunteers_|1個 {s3}的 志 願 者 跟 隨 你 。 
+qstr_{reg5}_{s3}_voluntee|{reg5}個 {s3}的 志 願 者 跟 隨 你 。 
+qstr_Try_as_you_might_you|盡 管 使 出 了 全 身 解 數 ， 你 還 是 沒 能 擊 敗 這 些 強 盜 。 被 激 怒 的 強 盜 將 村 捨 付 之 一 炬 以 報 復 農 民 ， 而 後 轉 身 離 開 了 這 片 焦 土 。 
+qstr_village|村 子 
+qstr_town|城 鎮 
+qstr_castle|堡 壘 
+qstr_{s18}_{s0}|{s18}， {s0}
+qstr_The_{s17}_has_no_imp|{s17}沒 有 升 級 的 設 施 。 
+qstr_The_{s17}_has_the_fo|{s17}有 如 下 升 級 的 設 施 ： {s18}。 
+qstr_The_assasins_beat_yo|刺 客 把 你 放 倒 ， 而 後 離 去 ， 留 你 躺 在 地 上 等 死 … … 
+qstr_You_have_fallen._The|你 倒 下 了 。 強 盜 們 迅 速 從 你 的 身 上 搜 刮 錢 財 ， 然 後 消 失 在 夜 幕 中 。 你 還 勉 強 活 著 。 
+qstr_Luckily_some_of_your|很 幸 運 的 是 ， 你 的 一 些 同 伴 發 現 你 沒 有 回 來 就 出 來 尋 找 你 ， 發 現 你 躺 在 路 邊 ， 他 們 急 忙 把 你 抬 帶 安 全 的 地 方 並 為 你 包 扎 傷 口 。 
+qstr_Luckily_some_passing|很 幸 運 的 是 ， 一 些 路 過 的 鎮 民 發 現 你 躺 在 路 邊 上 ， 他 們 差 點 就 把 你 當 成 乞 丐 了 ， 他 們 把 你 抬 到 最 近 的 旅 館 裡 並 為 你 包 扎 傷 口 。 
+qstr_You_fail_to_steal_an|你 沒 能 偷 到 一 頭 牛 。 
+qstr_You_drive_away_{reg1|你 從 村 子 的 牛 欄 裡 趕 走 了 {reg17}{reg12?頭 :頭 }牛 。 
+qstr_OiM_Teper_luchshe_{s|你 最 好 別 讓 你 自 己 被 {s9}看 見 。 
+qstr_OiM_Potop_Loshad_tep|馬 被 奪 走 了 。 該 把 它 帶 到 它 該 去 的 地 方 去 了 。 
+qstr_You_are_at_{s2}.|你 在 {s2}。 
+qstr__You_have_successful|你 成 功 潛 入 了 。 
+qstr___{reg1}_denars_per_|（ 每 晚 {reg1}泰 勒 ） 
+qstr_Moreover_you_earn_{r|此 外 ， 你 聰 明 地 往 自 己 身 上 押 注 ， 贏 得 了 {reg8}泰 勒 。 
+qstr_Victory_is_yours!_Yo|你 勝 利 了 ！ 你 贏 得 了 這 場 戰 斗 ， 但 是 現 在 你 必 須 為 下 一 回 合 做 好 准 備 。 
+qstr_You_have_been_bested|你 在 混 戰 中 被 打 敗 了 ， 但 是 競 技 場 老 板 相 當 認 可 你 的 技 能 和 勇 氣 ， 允 許 你 進 入 下 一 輪 比 賽 。 
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|你 被 擊 敗 了 。 農 民 們 因 為 他 們 的 成 功 而 受 鼓 舞 ， 但 是 你 想 教 給 他 們 的 課 程 可 能 並 沒 有 被 他 們 掌 握 … … 
+qstr_After_beating_your_l|在 擊 敗 你 的 剛 才 的 對 手 後 ， 你 向 農 民 們 講 解 他 們 該 如 何 更 好 地 防 御 如 此 的 一 擊 。 但 願 他 們 能 學 到 這 一 經 驗 ， 並 在 下 次 打 得 更 認 真 。 
+qstr_The_bandits_are_brok|這 些 強 盜 被 打 敗 了 ！ 那 些 還 活 著 的 和 意 識 還 清 醒 的 都 夾 著 尾 巴 逃 跑 了 ， 他 們 懼 怕 這 些 農 民 和 他 們 的 新 教 官 。 
+qstr_{s1}_s_Ship|{s1}的 船 
+qstr_^{s3}_=_{reg1}{s1}|^{s3}={reg1}{s1}
+qstr_^{s3}_=_{reg1}{s2}|^{s3}={reg1}{s2}
+qstr_However_{reg3?You_ar|不 過 ， {reg3?你 :{s1}}不 能 找 到 任 何 能 夠 給 你 帶 來 利 潤 的 商 品 。 
+qstr_^Buying_{s4}_here_an|^在 這 裡 購 買 {s4}然 後 賣 到 {s5}去 ， 將 會 獲 得 每 件 商 品 {reg6}泰 勒 的 利 潤 。 {s3}
+qstr_{reg3?You_find:{s1}_|{reg3?你 :{s1}}找 到 下 列 物 品 ： ^{s3}
+qstr__Continue....|繼 續 … … 
+qstr__Ne_hvataet_money_nu|錢 不 夠 。 要 求 有 {reg8}泰 勒 。 
+qstr__Back|繼 續 … … 
+qstr__Stoimost_{reg8}_din|花 費 ： {reg9}泰 勒 。 
+qstr__Continue|繼 續 … … 
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1}個 {s1}獲 得 {reg0}點 經 驗 。 
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1}獲 得 了 {reg0}點 額 外 的 經 驗 。 
+qstr_^You_earned_{reg0}_e|^你 獲 得 了 {reg0}點 經 驗 。 {s2}
+qstr_The_training_didn_t_|訓 練 進 行 得 很 糟 糕 。 
+qstr_The_training_didn_t_g|訓 練 進 行 得 不 太 好 。 
+qstr_The_training_went_qu|訓 練 進 行 得 不 錯 。 
+qstr_The_training_went_ve|訓 練 進 行 得 非 常 好 。 
+qstr_The_training_went_pe|訓 練 進 行 得 很 完 美 。 
+qstr_{s13}_asked_you_to_r|{s13}要 你 帶 著 至 少 {reg13}人 去 向 他 報 告 。 
+qstr_{s13}_ordered_you_to|{s13}命 令 你 參 加 對 {s14}的 攻 擊 。 
+qstr_Find_and_speak_with_|找 到 {s4}的 {s3}並 向 他 立 下 效 忠 的 誓 言 。 
+qstr_you|你 
+qstr_OiM_You_ve_failed_to|你 保 衛 村 莊 失 敗 。 
+qstr_OiM_You_ve_protected|你 擊 敗 了 敵 人 。 你 可 以 繼 續 上 路 了 。 
+qstr_OiM_You_ve_failed_to_|你 送 馬 失 敗 。 
+qstr_OiM_You_ve_protected_|你 設 法 勝 過 了 追 趕 你 的 人 。 你 必 須 盡 快 運 送 馬 匹 ， 在 別 人 決 定 搶 走 它 之 前 ， 把 它 送 到 。 
+qstr_OiM_Da_takoe_bivaet_|好 機 會 來 了 ， 但 是 一 生 只 有 這 一 次 機 會 。 
+qstr_OiM_Potop_Pani_osvob|這 位 女 士 自 由 了 。 該 回 去 了 。 
+qstr_OiM_Potop_kshetuskiy|你 需 要 潛 入 馬 廄 。 
+qstr_OiM_You_ve_failed_to_w|你 未 能 打 敗 敵 人 的 反 抗 ； 你 戰 敗 了 。 
+qstr_OiM_You_ve_got_the_h|你 設 法 勝 過 了 追 趕 你 的 人 。 你 必 須 盡 快 把 馬 送 給 斯 克 熱 杜 斯 基 。 
+qstr_Kozaki_podnyali_na_n|哥 薩 克 人 向 衛 兵 告 急 了 ！ 
+qstr_OIM_getman_heroe_can|匈 牙 利 貝 格 霍 夫 市 的 訓 誡 師 給 領 導 人 的 報 告 。 ^^您 好 ， 先 生 ！ 我 獲 悉 到 那 柄 傳 說 中 的 黑 杖 是 俄 羅 斯 的 最 高 統 治 者 家 族 的 某 一 員 的 遺 物 。 根 據 奧 列 格 家 族 的 家 族 傳 說 ， 在 公 元 十 二 世 紀 中 葉 ， 他 們 的 祖 先 與 異 教 徒 的 祭 司 ， 亦 即 占 卜 者 們 ， 制 定 了 一 份 秘 密 契 約 。 那 些 占 卜 者 們 支 配 著 普 通 人 們 ， 親 王 們 正 是 通 過 他 們 的 影 響 而 篡 奪 權 力 。 ^就 在 這 個 時 期 ， 占 卜 者 們 交 給 了 奧 列 格 家 族 的 親 王 們 黑 杖 — — 一 柄 有 著 令 人 難 以 置 信 的 力 量 的 手 杖 。 在 基 輔 附 近 ， 這 些 親 王 們 建 立 了 基 裡 洛 夫 斯 基 修 道 院 。 顯 然 ， 那 柄 手 杖 就 被 保 存 在 那 裡 。 ^^在 薩 莫 吉 希 亞 的 顯 赫 家 族 拉 齊 維 烏 氏 中 ， 也 流 傳 著 類 似 的 傳 說 。 最 終 我 發 現 ， 回 溯 到 留 裡 克 家 族 的 統 治 時 期 ， 拉 齊 維 烏 氏 的 祖 先 在 當 時 擔 任 的 是 祭 司 。 
+qstr_OIM_getman_heroe_nee|這 本 書 是 以 古 代 語 言 寫 的 ， 你 無 法 理 解 。 你 需 要 某 人 來 翻 譯 它 。 
+qstr_OIM_add__pora_nayti_|在 檔 案 堆 裡 花 了 許 多 小 時 之 後 ， 你 發 現 ， 那 柄 手 杖 一 定 在 拉 齊 維 烏 家 族 的 墓 穴 中 。 
+qstr_OiM_You_ve_failed_to_wi|你 戰 敗 了 。 衛 兵 把 你 綁 了 起 來 並 把 你 扔 進 了 監 獄 。 
+qstr_OiM_You_ve_wing_the_|國 王 被 廢 黜 了 。 
+qstr_OIM_add_getman__Da_z|拉 齊 維 烏 之 所 以 要 為 那 根 手 杖 而 斗 爭 ， 當 然 事 出 有 因 。 無 論 誰 握 住 了 它 ， 他 都 會 像 獲 得 了 所 有 的 古 代 家 族 的 支 持 一 樣 。 你 必 須 找 到 這 件 古 物 … … 
+qstr_OIM_add_getman__Knig|沒 有 翻 譯 人 員 ， 就 讀 不 了 這 本 書 。 
+qstr_OIM_add_getman__Prik|該 向 敵 人 展 示 真 正 的 哥 薩 克 人 是 如 何 戰 斗 的 了 。 
+qstr_OIM_add_getman__Nuzh|酋 長 有 新 任 務 給 你 。 你 應 該 與 他 晤 面 。 
+qstr_OiM_dmitriy_Teper_ko|現 在 ， 監 獄 守 衛 已 死 ， 只 有 沙 皇 才 知 道 你 的 容 貌 。 你 需 要 找 到 一 位 強 大 的 庇 護 人 來 保 護 你 。 
+qstr_OIM_add_getman__Prika|巴 拉 巴 什 命 令 你 征 服 沙 皇 俄 國 。 
+qstr_OIM_add_getman__Bunt|起 義 受 到 了 血 腥 鎮 壓 。 巴 拉 巴 什 想 要 見 你 。 
+qstr_you_we_lost_the_figh|你 戰 敗 了 。 更 糟 的 是 ， 你 必 須 支 付 敵 人 {reg0}泰 勒 。 
+qstr_you_won_the_fight._A|你 贏 了 {reg0}泰 勒 。 你 也 學 到 了 一 些 新 的 戰 斗 技 術 。 
+qstr_you_we_lost_the_fight|你 被 打 敗 了 。 幸 運 的 是 ， 這 只 是 個 皮 肉 傷 而 已 。 
+qstr_you_won_the_fight._An|你 贏 得 了 戰 斗 並 學 到 了 一 些 新 的 招 數 。 
+qstr_You_ve_got_wound.._I|你 受 傷 了 。 最 好 休 息 一 下 再 振 作 起 來 。 
+qstr_oim_the_duel_is_over|戰 斗 結 果 是 平 手 。 
+qstr_oim_the_duel_is_over.|你 輸 了 。 你 應 該 練 習 你 的 射 擊 技 能 。 
+qstr_oim_the_duel_is_over._|你 長 時 間 地 練 習 火 槍 ， 看 來 這 是 有 用 的 。 你 贏 了 ！ 
+qstr_You_sought_that_the_|當 你 在 酒 館 就 餐 時 ， 你 注 意 到 了 一 名 富 有 的 市 民 。 你 看 見 他 有 點 醉 ， 看 來 讓 他 那 沉 重 的 錢 包 變 輕 一 點 並 不 是 什 麼 巨 大 挑 戰 … … 
+qstr_There_is_gourds._It_|在 酒 館 休 息 與 吃 飯 之 後 ， 你 決 定 繼 續 你 的 旅 程 。 
+qstr_You_lost_the_fight._|你 輸 了 。 衛 兵 們 聽 到 了 哄 鬧 聲 ， 並 拿 下 了 你 … … 
+qstr_The_man_is_dead..._Y|你 殺 了 你 的 對 手 。 你 拿 走 了 他 的 武 器 ， 還 從 他 的 錢 包 拿 了 些 錢 。 
+qstr_you_were_killed_as_c|法 庭 的 裁 決 確 實 嚴 厲 — — 殺 人 犯 與 搶 劫 犯 {playername}被 宣 判 絞 死 。 
+qstr_Nu_vow_vostaniye_zak|造 反 結 束 。 該 和 拉 辛 說 話 了 。 
+qstr_Razin_now_is_the_mar|拉 辛 現 在 是 元 帥 。 
+qstr_OiM_text_for_main_qs|信 使 說 ， 國 王 本 人 想 見 你 … … 
+qstr_Viberite_nuzhnuyu_va|選 擇 所 需 的 服 務 
+qstr_Na_daniy_moment_eto_|這 個 定 居 地 的 中 心 是 空 的 ， 在 空 曠 的 街 道 上 只 有 風 嘯 而 已 。 
+qstr_V_vashem_otryade_net|你 沒 有 同 伴 。 
+qstr_V_vashem_otryade_ime|這 裡 可 以 訓 練 你 隊 伍 裡 的 同 伴 。 
+qstr_Prosmotret_spisok_go|查 看 你 派 有 副 官 且 未 被 圍 攻 城 鎮 列 表 。 
+qstr_U_vas_net_gorodov_gd|迄 今 為 止 ， 你 沒 給 任 何 地 方 派 遣 副 官 。 
+qstr_Vam_nuzhno_poslat_go|你 的 首 都 被 占 領 了 。 你 必 須 選 擇 一 座 臨 時 首 都 。 
+qstr_Vibor_stolici_proshe|現 在 你 有 了 一 座 新 首 都 。 
+qstr_Vam_nuzhno_vibrat_di|你 沒 有 首 都 ， 也 沒 有 城 市 可 被 立 為 首 都 。 
+qstr_{s5}|{s5}
+qstr_{s6}_^{s5}|{s6}^{s5}
+qstr_{s7}|{s7}
+qstr_{s8}_^{s7}|{s8}^{s7}
+qstr_Breaking_camp...|終 止 宿 營 … … 
+qstr_{s65}|{s65}
+qstr_Current_wealth:_{reg|當 前 財 富 ： {reg1}
+qstr_Your_party_is_spotte|你 的 部 隊 被 {s1}發 現 了 。 
+qstr_{reg1}_{s1}_{reg2?ha|{reg1}個 {s1}{reg2?已 :已 }趁 著 夜 色 逃 離 了 你 的 隊 伍 。 
+qstr_{s1}_of_{s3}_has_bee|{s3}的 {s1}已 經 從 監 獄 裡 釋 放 出 來 了 。 
+qstr_Building_of_{s0}_in_|{s4}的 建 築 物 {s0}已 經 完 工 了 。 
+qstr_{s1}_is_no_longer_in|{s1}不 再 受 到 夜 間 的 強 盜 侵 擾 。 
+qstr_You_pay_for_accommod|你 支 付 了 宿 金 。 
+qstr__Your_tactics_skill_|你 的 戰 術 技 能 提 高 1級 。 
+qstr__Your_persuasion_ski|你 的 說 服 力 技 能 提 高 1級 。 
+qstr__Your_leadership_ski|你 的 統 御 技 能 提 高 1級 。 
+qstr__Your_intelligence_h|你 的 智 力 提 高 1點 。 
+qstr__Your_trade_skill_ha|你 的 交 易 技 能 提 高 1級 。 
+qstr__Your_weapon_master_|你 的 武 器 掌 握 技 能 提 高 1級 。 
+qstr__Your_engineer_skill|你 的 工 程 學 技 能 提 高 1級 。 
+qstr_You_have_finished_re|你 已 經 讀 完 了 {s1}。 {s2}
+qstr_Book_Read|讀 書 
+qstr_You_must_follow_{s1}|你 必 須 跟 隨 {s1}！ 
+qstr_You_must_follow_{s1}!|你 必 須 跟 隨 {s1}！ 這 是 對 你 的 最 後 一 次 警 告 ！ 
+qstr_{s1}_is_scouted.|{s1}已 經 偵 察 過 了 。 
+qstr_{s1}_has_switched_fr|{s1}由 {s2}轉 到 {s3}。 
+qstr_{s4}_is_in_{s5}|{s4}在 {s5}
+qstr_OiM_Ne_uspeli_otoyti|在 你 可 以 從 哥 薩 克 人 處 離 開 之 前 ， 那 名 俘 虜 試 圖 找 你 說 話 。 
+qstr_OiM_add_{s2}_joined_|{s2}加 入 了 扎 格 沃 巴 的 起 義 ！ 
+qstr_{s5}^_{s1}|{s5}^{s1}
+qstr_You_promised_to_help|你 答 應 幫 助 {s13}取 得 {s14}的 統 治 權 。 
+qstr_{s6}_has_joined_your_|{s6}加 入 了 你 的 隊 伍 。 
+qstr_{reg65?my_Lady:my_Lo|{reg65?尊 敬 的 女 士 :我 的 大 人 }
+qstr_{reg65?My_Lady:My_Lo|{reg65?尊 敬 的 女 士 :我 的 大 人 }
+qstr_{reg65?madame:sir}|{reg65?夫 人 :先 生 }
+qstr_{reg65?Madame:Sir}|{reg65?夫 人 :先 生 }
+qstr_Viberite_variant.|這 就 是 我 能 為 你 提 供 的 ： 
+qstr_Seychas_vse_dostupni|現 在 ， 所 有 的 能 干 的 軍 官 們 都 正 忙 著 訓 練 新 兵 。 
+qstr_U_vas_nedostatochno_|你 錢 包 的 錢 太 少 了 ， 你 甚 至 連 個 民 兵 都 雇 不 了 ！ 
+qstr_Vot_vse_chto_dostupn|我 能 提 供 的 就 是 這 個 。 
+qstr_Vot_chto_vam_seychas|現 在 可 得 的 ： 
+qstr_Na_daniy_moment_net_|沒 有 可 得 的 選 項 。 
+qstr_Ya_seychas_zaynuat_p|請 原 諒 ， 我 正 在 忙 著 執 行 你 關 於 {s1}的 命 令 。 我 會 在 {reg2}{reg1?天 :小 時 }後 有 空 。 
+qstr_Viberite_zhelayumiy_|你 想 知 道 什 麼 ？ 
+qstr_Zdes_esche_net_{s1}.|此 地 仍 然 缺 少 {s1}
+qstr_Zdes_uzhe_est_{s1}.|此 地 已 有 {s1}
+qstr_{reg0?Naynyat:Postro|{reg0?雇 用 :建 造 }。 
+qstr_U_vas_zdes_uzhe_post|你 已 經 建 造 了 以 下 建 築 ： ^
+qstr_Zdes_k_tebe_loyalni_|你 已 經 指 派 了 人 負 責 本 市 的 以 下 職 務 ： ^
+qstr_U_vas_nichego_esche_|到 目 前 為 止 ， 還 沒 有 在 這 方 面 取 得 成 功 。 
+qstr_It_s_your_money_or_y|要 錢 還 是 要 命 ， {閣 下 /女 士 }？ 不 許 動 ， 否 則 我 們 一 槍 射 穿 你 。 
+qstr_Lucky_for_you_you_ca|你 很 走 運 ， 剛 好 碰 到 我 今 天 心 情 特 別 好 。 交 出 你 所 有 的 錢 ， 我 就 讓 你 活 著 離 開 。 
+qstr_This_a_robbery_eh?_I|先 生 ， 這 是 一 次 搶 劫 ， 明 白 不 ？ 我 給 你 個 機 會 交 出 你 所 有 的 東 西 。 我 兄 弟 們 的 的 刀 子 可 利 著 呢 ， 明 白 不 ？ 
+qstr_we_have_made_very_li|到 目 前 為 止 ， 我 們 基 本 沒 有 什 麼 進 展 。 
+qstr_we_have_suceeded_in_|我 們 成 功 占 領 了 一 些 土 地 ， 但 是 我 們 還 有 很 長 的 路 要 走 。 
+qstr_we_have_become_a_sig|我 們 現 在 已 成 為 一 股 不 可 小 覷 的 勢 力 ， 也 許 我 們 能 贏 得 勝 利 。 
+qstr_we_are_winning_the_w|我 們 正 在 贏 得 戰 爭 ， 但 我 們 的 敵 人 仍 在 頑 抗 。 
+qstr_we_are_on_the_verge_|我 們 已 窺 見 了 勝 利 的 曙 光 。 敵 人 殘 部 已 不 足 為 患 ， 但 我 們 仍 須 將 其 趕 盡 殺 絕 。 
+qstr_Yes_{s5}?|嗯 ， {s5}？ 
+qstr__no_fiefs_|（ 無 封 地 ） 
+qstr__fiefs:_{s0}_|（ 封 地 ： {s0}） 
+qstr_{playername}_when_we|{playername}， 當 我 們 開 始 我 們 漫 長 的 征 程 時 ， 幾 乎 沒 有 人 有 勇 氣 支 持 我 。 有 少 數 人 為 了 我 的 事 業 甘 冒 性 命 之 險 。 但 是 你 對 於 投 身 去 對 付 我 的 敵 人 ， 沒 有 猶 豫 過 片 刻 。 我 們 在 一 起 經 歷 了 許 多 ， 並 且 有 幾 次 我 快 要 徹 底 喪 失 希 望 了 。 但 是 憑 借 著 神 明 的 幫 助 ， 我 們 勝 利 了 。 現 在 ， 該 是 我 離 開 你 的 隊 伍 去 取 得 屬 於 我 的 東 西 的 時 候 了 。 從 現 在 起 ， 我 會 實 現 統 治 {s3}的 偉 大 職 責 。 前 方 仍 然 有 許 多 挑 戰 並 且 我 指 望 著 你 會 幫 助 我 戰 勝 這 些 。 並 且 ， 當 然 ， 你 將 一 直 是 我 最 重 要 的 部 下 。 
+qstr_I_am_{s4}_the_ruler_|我 是 {s4}， {s6}的 統 治 者 。 
+qstr_I_am_{s4}_a_vassal_o|我 是 {s4}， {s6}的 一 個 封 臣 。 
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?而 且 是 {s8}的 領 主 。 : 。 }
+qstr_Your_mission_is_comp|你 的 任 務 完 成 了 ， {s9}想 要 你 繼 續 跟 隨 他 的 軍 隊 直 到 有 進 一 步 的 通 知 。 
+qstr_{s13}_asked_you_to_g|{s13}要 你 收 集 {reg3}頭 牛 ， 並 給 他 送 去 。 
+qstr_{s9}_asked_you_to_sc|{s9}要 你 偵 察 {s13}， {s14}和 {s15}， 然 後 回 去 向 他 匯 報 。 
+qstr_{s16}_and_{s17}|{s16}和 {s17}
+qstr_{s16}_{s17}|{s16}， {s17}
+qstr_Very_well_I_will_acc|很 好 ， 如 果 你 再 次 莊 嚴 地 向 我 宣 誓 ， 我 可 以 接 受 你 回 到 我 這 邊 來 。 
+qstr_A_pardon_will_only_b|我 不 會 寬 恕 你 的 ， 除 非 你 把 {s17}割 讓 給 我 。 你 同 意 我 開 出 的 條 件 嗎 ？ 
+qstr_No._There_is_no_chan|不 ， 我 們 之 間 沒 有 機 會 保 持 和 平 ， 我 對 這 個 不 感 興 趣 。 
+qstr_We_are_not_at_war_wi|我 們 沒 有 與 任 何 人 交 戰 。 
+qstr_We_are_at_war_with_{|我 們 正 在 與 {s12}交 戰 。 
+qstr_{s9}_asked_you_to_ta|{s9}要 你 帶 一 個 口 信 給 {s13}。 在 你 接 受 這 個 任 務 的 時 候 ， {s13}確 信 在 {s4}。 
+qstr_{s9}_asked_you_to_tak|{s9}要 你 帶 一 個 從 {s15}那 裡 得 到 口 信 給 {s13}。 在 你 接 受 這 個 任 務 的 時 候 ， {s13}確 信 在 {s4}。 
+qstr_{s11}_asked_you_to_e|{s11}要 你 護 送 他 的 {s17}{s13}到 {s14}。 
+qstr_{s13}_asked_you_to_d|{s13}要 你 消 滅 盤 踞 在 {s15}村 的 強 盜 ， 而 後 返 回 向 其 匯 報 。 
+qstr_{s9}_asked_you_to_ra|{s9}要 求 幫 他 培 養 {reg1}名 {s14}， 並 給 他 送 去 。 
+qstr_{s9}_asked_you_to_co|{s9}要 你 去 {s3}征 稅 。 他 許 諾 所 得 稅 款 的 五 分 之 一 歸 你 所 有 。 
+qstr_{s9}_asked_you_to_hu|{s9}要 你 追 捕 一 個 名 為 {s4}的 逃 犯 ， 據 信 ， 他 現 藏 匿 於 {s3}。 
+qstr_{s9}_asked_you_to_as|{s9}要 你 刺 殺 一 個 {s3}的 地 方 商 人 。 
+qstr_{s9}_has_asked_you_t|{s9}要 你 到 {s13}見 一 個 間 諜 。 
+qstr_{s9}_asked_you_to_ca|{s9}要 你 捕 獲 並 劫 掠 個 {reg13}商 隊 ， 來 挑 起 與 {s13}的 戰 爭 。 
+qstr_{s9}_asked_you_to_cat|{s9}要 你 追 回 三 隊 逃 跑 的 農 奴 ， 並 將 其 活 著 帶 回 {s4}， 他 說 所 有 這 三 隊 都 是 逃 向 {s3}的 。 
+qstr_{s11}_asked_you_to_f|{s11}要 你 尾 隨 將 要 離 開 {s12}的 密 探 。 你 必 須 小 心 ， 不 要 讓 密 探 在 路 上 看 見 你 ， 否 則 他 可 能 會 起 疑 並 折 回 去 。 當 密 探 和 他 的 同 謀 碰 頭 時 ， 你 得 捕 獲 他 們 並 把 他 們 帶 回 給 {s11}。 
+qstr_{s11}_asked_you_to_c|{s11}要 你 捉 捕 一 位 {s13}的 貴 人 ， 任 何 貴 人 都 行 ， 並 且 之 後 你 要 押 送 你 的 受 害 人 回 到 {s11}那 裡 以 對 他 嚴 加 看 管 。 
+qstr_{s9}_asked_you_to_le|{s9}要 你 把 你 的 同 伴 {s3}借 給 他 用 一 個 星 期 。 
+qstr_{s9}_asked_you_to_col|{s9}要 你 討 回 {s3}欠 他 的 {reg4}泰 勒 。 在 你 接 受 此 任 務 時 ， {s3}在 {s4}。 
+qstr_{s11}_gave_you_a_fak|{s11}交 給 你 一 封 偽 造 的 信 函 以 騙 {s13}流 放 他 手 下 的 貴 族 {s16}。 你 需 要 接 近 {s14}， 將 信 交 給 你 手 下 一 名 {s15}， 令 其 相 信 他 堅 信 自 己 所 受 命 令 的 真 實 性 ， 而 後 派 他 進 城 送 信 。 
+qstr_{s9}_has_requested_y|{s9}要 你 幫 他 抓 捕 {reg1}個 {s3}俘 虜 。 
+qstr_Lend_your_experience|把 你 的 老 練 的 外 科 醫 生 {s3}借 給 {s1}。 
+qstr_Then_take_it_with_my|收 下 這 些 ， 這 些 代 表 我 永 恆 的 謝 意 。 你 是 一 個 高 尚 的 人 。 我 永 遠 都 不 會 忘 記 你 在 我 最 需 要 的 時 候 幫 助 了 我 。 
+qstr_Forgive_me_{playerna|請 原 諒 ， {playername}， 但 我 堅 持 要 你 接 受 。 這 點 錢 對 我 不 算 什 麼 ， 我 欠 你 的 太 多 了 。 給 ， 拿 去 ， 我 們 不 要 再 說 這 個 了 。 
+qstr_{playername}_what_a_|{playername}， 你 是 一 個 多 麼 可 愛 的 {人 /人 }， 但 是 我 不 允 許 你 拒 絕 這 個 ， 我 欠 你 的 比 我 說 的 還 多 ， 我 相 信 你 將 把 這 些 錢 比 我 用 在 更 好 的 方 面 。 
+qstr_{s11}_asked_you_to_r|{s11}要 你 從 {s14}營 救 她 的 {s17}， {s13}。 你 得 跟 他 交 換 衣 服 並 代 替 他 呆 在 監 獄 裡 。 
+qstr_{s11}_asked_you_to_d|{s11}要 你 送 信 給 被 囚 禁 在 {s14}的 {s13}。 
+qstr_You_agreed_to_challe|你 同 意 與 {s13}決 斗 以 捍 衛 {s11}的 名 譽 。 
+qstr_{s5}__Persuasion_str|{s5}（ 你 的 說 服 技 巧 為 你 省 下 了 {reg5}泰 勒 ） 
+qstr_Persuasion_Attempt|嘗 試 說 服 
+qstr_A_villager_from_{s7}|一 個 來 自 {s7}的 村 民 懇 求 你 將 他 們 從 盤 踞 在 那 的 強 盜 手 中 解 放 出 來 。 
+qstr_You_chose_well_{sir/|選 我 們 就 對 了 ， {先 生 /夫 人 }。 我 的 伙 計 們 知 道 怎 麼 工 作 才 對 得 起 你 付 給 他 們 的 工 資 。 
+qstr_Well_done_{sir/madam|好 的 ， {先 生 /夫 人 }。 繼 續 帶 給 我 們 金 錢 和 美 酒 ， 你 將 不 必 害 怕 遇 到 敵 人 。 
+qstr_We_are_at_your_servi|願 為 您 效 勞 ， {先 生 /夫 人 }。 您 只 需 指 出 需 要 收 拾 的 家 伙 在 哪 ， 剩 下 就 交 給 我 們 把 吧 
+qstr_You_will_not_be_diss|您 不 會 失 望 的 ， {閣 下 /女 士 }。 就 算 你 騎 馬 跑 上 五 百 裡 ， 你 也 找 不 到 比 這 些 更 好 的 勇 士 。 
+qstr_The_Guildmaster_of_{|{s13}的 鎮 長 叫 你 對 付 騷 擾 附 近 鄉 間 的 掠 奪 者 。 
+qstr_{s9}_of_{s3}_asked_y|{s3}的 {s9}請 你 在 7天 內 帶 {reg5}單 位 的 {s6}到 {s4}的 酒 館 。 
+qstr_Escort_the_merchant_|護 送 商 人 的 商 隊 去 {s8}鎮 。 
+qstr_Merchant_{s9}_of_{s4|{s4}的 {s9}要 你 消 滅 在 鎮 子 附 近 的 難 對 付 的 強 盜 。 
+qstr_Guildmaster_of_{s4}_|{s4}的 鎮 長 給 你 {reg12}泰 勒 ， 作 為 女 孩 的 贖 金 。 你 要 在 {s3}附 近 和 強 盜 會 面 ， 贖 回 女 孩 並 帶 回 {s4}。 
+qstr_Guildmaster_of_{s4}_p|{s4}的 鎮 長 答 應 你 ， 如 果 你 能 確 保 {s12}和 {s13}不 再 干 擾 {s15}和 {s14}簽 訂 和 平 協 議 ， 他 會 給 你 {reg12}泰 勒 。 為 了 做 到 這 個 ， 你 要 麼 說 服 他 們 ， 要 麼 俘 虜 他 們 並 保 持 到 和 平 協 議 簽 訂 完 成 。 
+qstr_The_Guildmaster_of_{s|{s14}的 鎮 長 要 你 解 決 一 群 游 蕩 在 {s14}街 道 上 的 強 盜 。 他 們 只 在 晚 上 出 來 ， 並 且 襲 擊 街 上 單 身 的 旅 行 者 。 
+qstr_Guildmaster_of_{s10}|{s10}的 鎮 長 要 你 把 一 群 牛 趕 到 {s13}去 。 你 將 會 掙 得 {reg8}泰 勒 的 報 酬 。 
+qstr_He_is_not_commanding|他 現 在 什 麼 人 也 沒 有 指 揮 。 
+qstr_He_currently_command|他 現 在 指 揮 了 {reg0}人 。 {reg1?其 中 {reg1}人 負 傷 。 :}
+qstr_The_elder_of_the_vil|{s3}村 的 長 老 請 你 帶 給 他 們 {reg5}袋 小 麥 。 
+qstr_The_elder_of_the_vill|{s13}村 的 長 老 請 你 訓 練 {reg5}個 農 民 來 抵 御 當 地 強 盜 。 
+qstr_The_elder_of_the_villa|{s3}村 莊 長 老 請 你 帶 給 他 們 {reg5}頭 牛 。 
+qstr_As_{s9}_said_it_woun|{s9}建 議 拜 訪 {s10}。 當 地 的 長 老 正 在 尋 找 勇 者 來 處 理 各 種 難 題 。 
+qstr_OiM_The_elder_{s9}_a|長 老 請 求 你 對 付 盤 踞 在 扎 莫 什 耶 村 附 近 森 林 中 的 強 盜 。 
+qstr_OiM_The_elder_{s9}_as|{s9}請 求 你 說 服 {s10}減 稅 。 
+qstr_OiM_The_elder_{s9}_ask|{s9}請 求 你 帶 三 包 {s10}給 他 。 
+qstr_OiM_The__De_la_Gardi|新 的 線 索 指 向 了 {s10}。 也 許 鎮 民 們 知 道 些 什 麼 … … 
+qstr_OiM_getman_No_skazal|盡 管 你 未 能 成 功 完 成 任 務 ， 長 老 還 是 提 到 了 那 個 福 音 派 教 徒 在 {s4}。 
+qstr_OiM_The__{s9}_asked_|{s9}請 求 你 將 {s10}送 到 謝 契 。 
+qstr_OiM_nu_vot_so_shmato|由 於 嘴 巴 裡 有 一 塊 豬 油 ， 那 個 韃 靼 人 幾 乎 不 能 說 話 了 。 
+qstr_OiM_Kozaki_zametii_4|哥 薩 克 人 已 經 發 現 了 你 的 背 叛 … … 
+qstr_OiM_The_{s9}_asked_y|{s9}請 求 你 送 他 到 {s10}去 。 
+qstr_OiM_Kozaki_zametili_|哥 薩 克 人 發 現 了 你 背 叛 了 他 們 … … 
+qstr_OiM_teper_mozhno_dal|現 在 你 可 以 繼 續 你 的 旅 程 了 。 
+qstr_OiM_Ischi_teper_yego|對 於 頭 人 ， 它 是 … … 
+qstr_OiM_The_{s9}_need_to|{s9}說 你 必 須 給 {s10}帶 去 {reg0}個 或 {reg0}個 以 上 的 士 兵 。 
+qstr_OiM_Ne_uspeli_s_cona|在 你 有 機 會 下 馬 之 前 ， 哥 薩 克 人 就 已 經 到 達 了 村 莊 … … 
+qstr_OiM_Jaz_budet_jarko|似 乎 ， 此 戰 不 可 被 避 免 。 你 現 在 要 讓 你 自 己 看 看 ， 哥 薩 克 人 在 戰 斗 中 有 怎 樣 的 價 值 … … 
+qstr_OiM_{s9}_asked_you_v|{s9}請 求 你 前 往 莫 斯 科 ， 把 貨 物 運 送 給 頓 河 哥 薩 克 人 。 
+qstr_OiM_Potop_nuzhno_per|貨 物 已 被 收 到 。 現 在 你 應 該 把 它 帶 到 {s6}去 。 
+qstr_OiM_{s9}_asked_you_t|{s9}命 令 你 截 擊 一 列 裝 滿 了 武 器 的 貨 車 隊 。 根 據 他 的 報 告 這 列 車 隊 已 從 {s10}駛 往 {s11}了 。 
+qstr_OiM_{s9}_asked_you_to|{s9}請 求 你 帶 克 萊 蒙 去 見 國 王 。 
+qstr_OiM_{s9}_asked_you_to_|如 果 你 帶 著 十 個 或 十 個 以 上 的 士 兵 的 話 ， {s9}就 會 跟 你 走 。 
+qstr_OiM_{s9}_asked_you_to_b|{s9}叫 你 掠 奪 {s10}。 
+qstr_OiM_{s9}_skazal_chto|{s9}說 他 會 為 了 你 而 去 和 酋 長 談 話 。 
+qstr_OiM_{s9}_asked_to_br|{s9}請 求 你 帶 馬 匹 給 {s10}。 
+qstr_As_{s9}_said_to_get_|{s9}請 求 你 從 {s10}收 錢 並 把 它 們 帶 給 赫 麥 利 尼 茨 基 。 
+qstr_As_{s9}_give_you_a_r|{s9}給 了 你 一 封 給 {s10}的 推 薦 信 。 
+qstr_OiM_{s9}_asked_to_lo|{s9}叫 你 掠 奪 三 座 波 蘭 共 和 國 的 村 莊 。 
+qstr_OIM_add_{s9}_asked_y|{s9}建 議 找 到 扎 格 沃 巴 上 校 。 那 個 波 蘭 老 軍 官 很 可 能 正 在 波 蘭 人 的 某 個 地 方 的 某 家 酒 館 大 吃 大 喝 。 
+qstr_OIM_add_{s9}_asked_yo|{s9}叫 你 帶 封 信 給 {s11}。 
+qstr_OIM_add_{s9}_deliver|{s9}命 令 你 給 他 送 來 一 名 被 俘 的 瑞 典 士 兵 。 
+qstr_OIM_add_You_were_ask|有 座 神 聖 的 波 蘭 修 道 院 正 處 於 危 險 中 ！ 揚 · 卡 西 米 爾 國 王 命 令 你 到 {s10}去 擊 退 那 些 正 在 襲 擊 那 個 勝 地 的 瑞 典 異 教 徒 。 
+qstr_OIM_add_Wam_nuzhno_o|波 蘭 首 都 陷 入 了 瑞 典 人 的 手 中 。 你 必 須 不 計 任 何 代 價 地 將 {s10}奪 回 來 。 不 僅 是 你 自 己 的 命 運 關 系 於 此 ， 而 且 波 蘭 共 和 國 的 未 來 也 正 懸 而 未 決 。 
+qstr_OIM_add_{s9}_asked_you|{s9}叫 你 抓 捕 一 名 瑞 典 軍 官 。 
+qstr_OIM_add_{s9}_asked_you_|{s9}給 了 你 一 項 艱 難 的 任 務 。 你 得 保 證 波 蘭 共 和 國 和 克 裡 米 亞 汗 國 簽 訂 和 平 條 約 。 要 完 成 這 個 ， 你 必 須 停 止 對 揚 · 卡 西 米 爾 的 效 勞 ， 找 到 {s10}並 支 持 他 為 奪 取 統 治 權 而 斗 爭 。 作 為 回 報 ， 你 要 讓 他 答 應 ， 當 他 成 為 了 可 汗 後 ， 他 會 與 波 蘭 共 和 國 講 和 。 但 是 要 把 一 位 權 力 索 要 者 推 上 權 力 寶 座 並 不 是 輕 松 的 任 務 。 你 將 不 得 不 把 所 有 的 韃 靼 米 兒 咱 拉 到 你 這 一 邊 ， 並 且 俘 虜 所 有 的 持 異 議 者 。 你 還 將 不 得 不 奪 取 克 裡 米 亞 汗 國 的 所 有 城 鎮 與 堡 壘 。 
+qstr_OIM_add_{s9}_asked_you_t|作 為 與 他 合 作 的 回 報 ， {s9}叫 你 征 服 兩 座 沙 皇 俄 國 的 城 市 。 
+qstr_OiM_Potop_Pora_pogov|你 完 成 了 國 王 的 命 令 。 該 和 他 對 話 了 。 
+qstr_OIM_add_As_{s9}_said|{s9}答 應 恢 復 你 對 他 的 侍 奉 ， 並 且 如 果 你 再 次 得 到 了 貴 族 們 的 支 持 的 話 ， 他 還 會 把 你 的 頭 銜 還 給 你 。 你 將 不 得 不 與 扎 格 沃 巴 上 校 對 話 ， 並 試 圖 將 至 少 一 半 的 貴 族 拉 到 你 這 一 邊 … … 在 進 行 下 議 院 的 會 議 時 ， 你 一 定 不 想 聽 見 有 任 何 人 高 叫 ： 「 我 反 對 ！ 」 
+qstr_OiM_Potop_{s3}_prosi|{s3}吩 咐 你 帶 {s4}名 俘 虜 。 
+qstr_OiM_Potop_Shveda_slo|搜 尋 一 名 瑞 典 俘 虜 。 
+qstr_OiM_Potop_Borzobagat|你 獲 悉 到 波 佐 波 加 塔 婭 在 {s5}。 
+qstr_{s4}_{s2}|{s4}， {s2}
+qstr_{s5}_{s2}|{s5}， {s2}
+qstr_OIM_add_Nu_polkiy_se|下 議 院 正 在 開 會 。 現 在 你 只 需 要 等 結 果 就 是 。 
+qstr_OIM_add_Nu_vot_teper|現 在 {s7}想 要 你 奪 取 {s3}、 {s4}、 {s5}， 以 及 {s6}。 
+qstr_OIM_add__{s2}_hochet|國 王 想 要 你 捉 住 {s3}。 
+qstr_OIM_add__Teper_pora_|該 是 時 候 集 結 一 支 義 勇 軍 來 反 抗 國 王 以 最 終 將 一 位 值 得 的 人 推 上 王 座 了 。 作 為 開 始 ， 你 將 不 得 不 確 保 得 到 貴 族 們 的 支 持 … … 
+qstr_OIM_add__Teper_kogda|揚 · 卡 西 米 爾 召 集 了 一 些 自 由 騎 士 到 他 的 國 土 上 。 一 定 要 阻 止 他 們 ， 連 一 座 波 蘭 共 和 國 的 孤 城 都 不 能 讓 他 們 掠 奪 。 
+qstr_{s4}.|{s4}。 
+qstr_OiMP2_str_qst_potop_|對 於 波 蘭 共 和 國 來 說 ， 這 是 危 險 的 時 期 。 敵 人 從 各 路 夾 攻 而 來 — — 瑞 典 人 、 俄 國 人 ， 還 有 哥 薩 克 人 … … 波 蘭 需 要 一 位 英 雄 來 阻 止 瑞 典 人 的 大 洪 水 般 的 猛 烈 進 攻 ， 並 讓 那 些 任 性 的 貴 族 們 重 新 考 慮 他 們 的 意 願 並 團 結 如 一 地 對 抗 敵 人 … … 
+qstr_OIM_add_getman__{s4}|{s4}想 要 你 保 護 {s3}不 受 攻 擊 。 
+qstr_OIM_add_getman__star|唉 ， 那 位 老 人 沒 能 把 所 有 東 西 都 告 訴 你 。 但 是 也 許 還 有 別 的 某 人 知 道 黑 杖 的 事 … … 
+qstr_OiM_add_Nu_teper_por|你 找 到 了 一 條 線 索 。 也 許 德 · 克 萊 蒙 對 黑 杖 有 些 了 解 。 
+qstr_OIM_add_getman__{s5}|克 萊 蒙 說 ， 他 在 {s5}聽 說 過 黑 杖 。 
+qstr_OIM_add__chtobi_uzna|你 發 現 {s3}也 許 知 道 黑 杖 的 秘 密 。 你 不 得 不 開 始 對 {s4}造 反 來 幫 助 {s3}奪 取 統 治 權 。 
+qstr_OIM_add__{s3}_prosil_|{s3}吩 咐 你 去 和 基 輔 鎮 長 談 話 。 
+qstr_OIM_add_Kiev_{s3}_pr|你 必 須 回 到 基 輔 去 幫 助 {s3}。 
+qstr_OIM_add__Net_zolota_|也 許 基 輔 鎮 長 知 道 一 些 事 。 不 過 沒 有 銀 幣 ， 一 個 人 幾 乎 無 法 期 待 收 集 到 信 息 。 
+qstr_OIM_add__Nu_chto_zhe|哥 薩 克 人 是 對 的 ！ 拉 齊 維 烏 與 黑 杖 的 故 事 有 關 。 該 時 候 問 親 王 一 些 問 題 了 … … 
+qstr_OIM_add__{s3}_hochet|{s3}一 個 問 題 也 沒 回 答 ， 而 是 要 求 你 帶 一 名 韃 靼 米 兒 咱 俘 虜 。 
+qstr_OIM_add__pora_iskat_|你 找 到 了 一 封 由 那 位 米 兒 咱 寫 的 信 。 這 封 信 聲 稱 ， 聖 殿 騎 士 的 檔 案 中 包 含 有 關 於 黑 杖 的 信 息 。 去 {s20}查 查 那 些 檔 案 ， 這 將 是 聰 明 的 決 定 。 
+qstr_OIM_add_Kyazya_Olgov|花 了 許 多 時 間 讀 檔 案 之 後 ， 你 發 現 ， 奧 列 格 家 族 的 親 王 們 與 黑 杖 的 故 事 直 接 有 關 。 
+qstr_OIM_add__nuzhno_vitr|那 家 伙 並 非 是 一 個 會 輕 易 開 口 的 人 。 你 將 用 某 種 方 法 來 讓 他 說 話 。 
+qstr_OIM_add_getman__Pora|另 一 條 線 索 ， 另 一 個 謎 — — 《 鴉 之 書 》 ！ 
+qstr_OiM_getman_Knigu_moz|這 本 書 並 不 容 易 被 看 懂 。 你 需 要 找 到 一 名 學 者 ， {s6}的 聖 帕 夫 努 季 。 
+qstr_OiM_getman_Nuzhno_pe|帕 夫 努 季 同 意 翻 譯 這 本 書 ， 但 是 他 要 求 進 入 {s3}的 檔 案 館 。 
+qstr_OiM_getman_Kniga_na_|你 帶 帕 夫 努 季 到 了 檔 案 館 。 現 在 你 必 須 一 直 等 著 他 翻 譯 好 這 本 書 … … 
+qstr_OIM_add_getman__Koza|人 們 說 ， 哥 薩 克 人 馬 麥 知 道 許 多 故 事 。 也 許 你 應 該 和 他 對 話 … … 
+qstr_OIM_add_getman__Bara|你 了 解 到 ， 結 果 巴 拉 巴 什 酋 長 還 活 著 。 他 會 很 有 用 的 … … 
+qstr_OIM_add_getman__Nu_c|你 策 劃 了 一 個 計 劃 — — 偽 裝 成 雇 傭 兵 來 讓 你 親 自 接 近 拉 齊 維 烏 並 試 圖 殺 了 他 … … 
+qstr_{s1}_s_tomb|{s1}躺 在 這 裡 
+qstr_OIM_add_getman__Chto|你 加 入 了 巴 拉 巴 什 一 方 ， 而 現 在 ， 你 必 須 把 至 少 一 半 的 哥 薩 克 上 校 拉 到 你 這 一 邊 ， 才 能 獲 得 影 響 力 並 為 巴 拉 巴 什 贏 得 酋 長 手 杖 。 
+qstr_OIM_add_getman__tepe|現 在 你 加 入 了 哥 薩 克 人 ， 馬 麥 會 試 圖 說 服 赫 麥 利 尼 茨 基 授 予 你 元 帥 頭 銜 。 你 只 需 等 著 這 事 被 決 定 即 可 。 
+qstr_OIM_add_getman__{s5}_|{s5}說 那 些 貨 車 離 開 了 {s3}並 駛 往 了 {s4}。 也 許 赫 麥 利 尼 茨 基 是 對 的 。 
+qstr_OIM_add_getman_Bilo_|你 決 定 在 外 交 上 保 持 坦 率 ， 並 派 了 一 名 傳 令 官 去 解 釋 你 的 意 圖 … … 
+qstr_Velikoye_Knyazestvo_|羅 斯 大 公 國 
+qstr_OIM_add_getman_Koron|先 是 黑 杖 ， 現 在 又 是 維 陶 塔 斯 之 冠 … … 一 天 一 個 謎 。 
+qstr_Mamay|馬 麥 
+qstr_Nu_chto_zhe_budem_tr|王 冠 顯 然 在 {s3}。 你 將 不 得 不 潛 入 修 道 院 的 主 樓 ， 才 能 取 得 它 … … 
+qstr_OIM_add_getman_od_mo|從 海 到 海 — — 這 是 新 大 公 的 意 願 … … 
+qstr_OIM_add_getman__Nu_ch|通 往 王 座 之 路 是 一 條 危 險 之 路 ， 路 上 有 著 重 重 障 礙 。 一 名 決 定 要 打 倒 沙 皇 陛 下 並 奪 取 他 的 位 置 的 勇 者 ， 需 要 有 精 明 靈 巧 的 頭 腦 和 首 屈 一 指 勇 氣 。 他 必 須 足 夠 勇 敢 ， 敢 於 參 加 可 怕 的 戰 斗 ， 而 且 他 必 須 願 意 讓 無 辜 者 流 血 犧 牲 。 
+qstr_OiM_dmitriy_Teper_kog|由 於 你 拒 絕 幫 助 ， {s4}對 此 忿 忿 不 平 。 現 在 ， 讓 他 跟 你 說 「 空 位 時 期 」 的 歷 史 ， 幾 乎 沒 希 望 了 。 
+qstr_OIM_add_getman__Nuzhn|你 發 現 那 個 福 音 派 教 徒 傑 拉 西 姆 能 告 訴 你 許 多 關 於 偽 德 米 特 裡 的 事 。 你 可 以 在 {s3}尋 找 傑 拉 西 姆 。 
+qstr_OiM_The_elder_{s9}_s|{s9}說 那 個 神 父 在 {s10}。 試 著 和 鎮 民 對 話 — — 也 許 他 們 見 過 他 。 
+qstr_OiM_getman_Yavangeli|你 發 現 那 個 福 音 派 教 徒 在 {s4}。 
+qstr_OIM_add_getman__Nuzhno|在 咽 氣 之 前 ， 傑 拉 西 姆 吩 咐 你 找 {s3}說 話 。 
+qstr_OiM_The_{s9}_prosil_|{s9}叫 你 從 {s10}帶 艾 麗 諾 到 {s11}去 。 
+qstr_OiM_The_{s9}_prosilf|{s9}請 求 你 帶 他 去 {s11}。 
+qstr_OiM_The_{s9}_prosilf_|{s9}叫 你 帶 一 封 信 給 {s11}。 
+qstr_OiM_The_{s9}_prosil_v|{s9}叫 你 帶 一 封 信 給 {s11}。 
+qstr_OiM_The_{s11}_dobriy|{s11}是 個 嚴 肅 的 人 ， 他 對 你 的 解 釋 不 感 興 趣 並 立 即 送 你 去 接 受 審 問 。 
+qstr_OiM_The_Nu_chto_zhe_|現 在 你 失 去 了 你 的 庇 護 人 ， 你 別 無 選 擇 ， 只 有 去 {s11}。 
+qstr_OiM_Alevtina_v_Kafe_|阿 列 夫 京 娜 被 束 縛 在 卡 法 。 
+qstr_OiM_pohozhe_alevtinu|似 乎 米 兒 咱 不 會 輕 易 地 允 許 阿 列 夫 京 娜 離 開 。 你 也 許 不 得 不 使 用 武 力 … … 
+qstr_OiM_getman_Pohozhe_b|似 乎 對 於 新 沙 皇 ， 拉 辛 並 沒 有 開 玩 笑 … … 很 好 — — 就 這 樣 。 
+qstr_OiM_Teper_kogda_ya_p|現 在 你 成 了 一 名 統 治 權 索 要 者 ， 你 必 須 說 服 貴 族 們 相 信 你 有 權 統 治 。 
+qstr_{s5}.|{s5}。 
+qstr_{s3}|{s3}
+qstr_{s2}_{s3}|{s2}， {s3}
+qstr_I_can_smell_a_fat_pu|我 在 一 英 裡 外 就 嗅 到 了 一 個 鼓 鼓 的 錢 包 。 我 想 你 想 讓 它 變 輕 些 ， 不 是 嗎 ？ 
+qstr_Why_it_be_another_tr|啊 ！ 又 一 個 旅 行 者 ， 讓 我 給 撞 上 了 。 我 應 該 警 告 你 ， 這 裡 的 郊 外 對 於 像 你 這 樣 的 一 個 好 人 是 有 點 危 險 的 。 但 是 你 要 是 給 我 們 一 點 錢 ， 我 和 我 的 兄 弟 們 就 會 保 證 你 安 全 到 達 你 的 目 的 地 ， 怎 麼 樣 ？ 
+qstr_Well_well_look_at_th|來 來 來 ， 看 看 這 個 ！ 你 的 錢 包 看 起 來 沉 甸 甸 的 。 交 出 些 漂 亮 的 銀 幣 我 們 就 放 你 走 ， 明 白 ？ 
+qstr_There_s_a_toll_for_p|從 這 過 要 交 買 路 錢 ， 交 給 我 們 。 如 果 你 不 介 意 的 話 ， 拿 出 錢 來 吧 ， 要 不 我 們 就 自 己 動 手 拿 走 我 們 應 得 的 那 份 … … 
+qstr_Another_fool_come_to|又 一 個 傻 瓜 拿 {他 /她 }的 身 子 往 我 刀 尖 上 撞 ， 嗯 ？ 那 好 ， 動 手 吧 ！ 
+qstr_We_re_not_afraid_of_|我 們 不 怕 你 ， {小 子 /小 妞 }。 是 時 候 打 暴 某 些 人 的 頭 了 ！ 
+qstr_That_was_a_mistake._|那 是 一 個 錯 誤 。 現 在 我 將 慢 慢 把 你 折 磨 到 死 。 
+qstr_Brave_words._Let_s_s|豪 言 壯 語 ， 看 你 怎 麼 把 它 們 咽 回 去 ， 狗 東 西 ！ 
+qstr_A_{s5}?_Well..._Yes_|{s5}？ 呃 … … 是 的 ， 我 想 是 這 樣 。 問 了 一 個 多 麼 奇 怪 的 問 題 啊 。 
+qstr_Eh?_No_it_most_certa|是 嗎 ？ 基 本 可 以 肯 定 那 不 是 一 個 {s5}。 如 果 我 是 你 的 話 ， 我 就 開 始 懷 疑 自 己 的 視 力 是 否 有 問 題 。 
+qstr_This_is_the_{reg4?to|這 裡 是 {s5}{reg4?鎮 :村 }， {先 生 /夫 人 }。 
+qstr_{s6}_Our_{reg4?town:|{s6}我 們 {reg4?鎮 :村 }及 周 圍 的 土 地 屬 於 你 ， 我 的 {大 人 /夫 人 }。 
+qstr_{s6}_Our_{reg4?town:v|{s6}我 們 {reg4?鎮 :村 }及 周 圍 的 土 地 屬 於 {s8}的 {s7}。 
+qstr_{s3}_and_{s5}|{s3}和 {s5}
+qstr_{s3}_{s5}|{s3}， {s5}
+qstr_{reg20?We_mostly_pro|我 們 這 {reg20?裡 盛 產 {s5}:些 日 子 裡 沒 出 產 什 麼 }。 如 果 你 想 了 解 更 多 ， 你 可 以 找 我 們 的 {reg4?鎮 長 :村 莊 長 老 }說 話 。 他 就 在 附 近 ， 就 在 那 邊 。 
+qstr__U_Vas_maximalnovozm|似 乎 你 現 在 人 員 滿 了 ， 閣 下 。 還 有 什 麼 別 的 事 嗎 ？ 
+qstr__U_Vas_ne_hvataet_de|你 沒 有 足 夠 的 錢 幣 來 支 付 這 些 傭 兵 ， 閣 下 。 還 有 什 麼 別 的 事 嗎 ？ 
+qstr___Skolko_naemnikov_n|你 需 要 多 少 人 ？ 
+qstr__U_vas_netu_etogo_ti|你 沒 有 人 可 重 新 裝 備 ， 閣 下 。 還 有 什 麼 別 的 事 嗎 ？ 
+qstr__Viberite_razdel|嗯 ， 那 麼 ， 請 選 擇 吧 ， 閣 下 。 你 的 小 伙 子 們 需 要 什 麼 ？ 

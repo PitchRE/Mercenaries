@@ -1,0 +1,84 @@
+skl_trade|Obchod
+skl_trade_desc|S každou další úrovní této schopnosti se snižuje tvůj postih při obchodování o 5 %%. (schopnost družiny)
+skl_leadership|Velitelství
+skl_leadership_desc|S každou další úrovní této schopnosti se o 5 zvyšuje maximální počet jednotek, kterým můžeš velet, zvyšuje se morálka družiny a náklady na žold armády se snižují o  5 %%.
+skl_prisoner_management|Správa vězňů
+skl_prisoner_management_desc|S každou úrovní této schopnosti se zvyšuje maximální počet zajatců, které můžeš mít, o %d.
+skl_reserved_1|Rezervovaná schopnost 1
+skl_reserved_1_desc|Tato schopnost je rezervovaná.
+skl_reserved_2|Rezervovaná schopnost 2
+skl_reserved_2_desc|Tato schopnost je rezervovaná.
+skl_reserved_3|Rezervovaná schopnost 3
+skl_reserved_3_desc|Tato schopnost je rezervovaná.
+skl_reserved_4|Rezervovaná schopnost 4
+skl_reserved_4_desc|Tato schopnost je rezervovaná.
+skl_persuasion|Přesvědčování
+skl_persuasion_desc|Tato schopnost ti pomáhá přesvědčovat ostatní a získávat je na svou stranu.
+skl_engineer|Stavitelství
+skl_engineer_desc|Tato schopnost ti umožňuje stavět účinnější obléhací stroje a úspěšněji rozvíjet vlastní sídla. (schopnost družiny)
+skl_first_aid|První pomoc
+skl_first_aid_desc|S každou další úrovní této schopnosti hrdinové získávají zpět 5 %% zdraví ztraceného při plnění úkolu. (schopnost družiny)
+skl_surgery|Chirurgie
+skl_surgery_desc|S každou další úrovní této schopnosti má každý smrtelně raněný člen družiny šanci 4 %%, že přežije. (schopnost družiny)
+skl_wound_treatment|Ošetřování ran
+skl_wound_treatment_desc|S každou další úrovní této schopnosti se rychlost léčení družiny zvyšuje o 20 %%. (schopnost družiny)
+skl_inventory_management|Balení zásob
+skl_inventory_management_desc|S každou další úrovní této schopnosti se zvyšuje velikost tvého inventáře o 6 pozic. (schopnost velitele družiny)
+skl_spotting|Pozorování
+skl_spotting_desc|S každou další úrovní této schopnosti se zvyšuje rozhled družiny o 10 %%. (schopnost družiny)
+skl_pathfinding|Hledání cesty
+skl_pathfinding_desc|S každou další úrovní této schopnosti se zvyšuje rychlost cestování družiny po mapě o 3 %%. (schopnost družiny)
+skl_tactics|Taktika
+skl_tactics_desc|S každou sudou úrovní této schopnosti se o 1 zvyšuje počáteční výhoda družiny v bitvě. (schopnost družiny)
+skl_tracking|Stopování
+skl_tracking_desc|Ze stop lze vyčíst více informací. (schopnost družiny)
+skl_trainer|Cvičitel
+skl_trainer_desc|Jednou denně přidává každý hrdina určitý počet zkušeností všem členům družiny, kteří mají nižší úroveň než on. Počet přidaných zkušeností se zvyšuje v pořadí: 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80. 
+skl_reserved_5|Rezervovaná schopnost 5
+skl_reserved_5_desc|Tato schopnost je rezervovaná.
+skl_reserved_6|Rezervovaná schopnost 6
+skl_reserved_6_desc|Tato schopnost je rezervovaná.
+skl_reserved_7|Rezervovaná schopnost 7
+skl_reserved_7_desc|Tato schopnost je rezervovaná.
+skl_reserved_8|Rezervovaná schopnost 8
+skl_reserved_8_desc|Tato schopnost je rezervovaná.
+skl_looting|Kořistnictví
+skl_looting_desc|S každou další úrovní této schopnosti se množství získané kořisti zvyšuje o 10 %%. (schopnost družiny)
+skl_horse_archery|Jízdní střelba
+skl_horse_archery_desc|Umožňuje ti přesnější střelbu a zvyšuje větší zranění při střelbě nebo hodu ze sedla.
+skl_riding|Jezdectví
+skl_riding_desc|Umožňuje jezdit na ušlechtilejších koních a zvyšuje rychlost jízdy a ovladatelnost koně.
+skl_athletics|Atletika
+skl_athletics_desc|Zvyšuje rychlost pohybu.
+skl_shield|Štít
+skl_shield_desc|Snižuje poškození štítu (o celých 8 %% za každou další úroveň této schopnosti) a zvyšuje rychlost štítu a zónu jeho pokrytí.
+skl_weapon_master|Mistrovství zbraně
+skl_weapon_master_desc|Usnadňuje výcvik a zvyšuje limit pro dokonalé ovládnutí zbraně. Limit se stupňuje takto: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420.
+skl_reserved_9|Rezervovaná schopnost 9
+skl_reserved_9_desc|Tato schopnost je rezervovaná.
+skl_reserved_10|Rezervovaná schopnost 10
+skl_reserved_10_desc|Tato schopnost je rezervovaná.
+skl_reserved_11|Rezervovaná schopnost 11
+skl_reserved_11_desc|Tato schopnost je rezervovaná.
+skl_reserved_12|Rezervovaná schopnost 12
+skl_reserved_12_desc|Tato schopnost je rezervovaná.
+skl_reserved_13|Rezervovaná schopnost 13
+skl_reserved_13_desc|Tato schopnost je rezervovaná.
+skl_power_draw|Mocný výstřel
+skl_power_draw_desc|Umožňuje postavě používat silnější střelné zbraně. S každou další úrovní této schopnosti (maximum = 4 + potřebná napínací síla pro mocný výstřel z dané zbraně) se způsobené zranění zvyšuje o celých 14 %%. 
+skl_power_throw|Silný hod
+skl_power_throw_desc|S každou další úrovní této schopnosti se zvyšuje zranění způsobené vrhacími zbraněmi o 10 %%. Dále se zvyšuje poloměr zasažené oblasti o 1 krok za každé dvě úrovně.
+skl_power_strike|Mocný úder
+skl_power_strike_desc|S každou další úrovní této schopnosti se zvyšuje zranění způsobené zbraní pro boj zblízka o 8 %%. 
+skl_ironflesh|Železné svaly
+skl_ironflesh_desc|S každou další úrovní této schopnosti se zvyšuje zdraví postavy o 2.
+skl_reserved_14|Rezervovaná schopnost 14
+skl_reserved_14_desc|Tato schopnost je rezervovaná.
+skl_reserved_15|Rezervovaná schopnost 15
+skl_reserved_15_desc|Tato schopnost je rezervovaná.
+skl_reserved_16|Rezervovaná schopnost 16
+skl_reserved_16_desc|Tato schopnost je rezervovaná.
+skl_reserved_17|Rezervovaná schopnost 17
+skl_reserved_17_desc|Tato schopnost je rezervovaná.
+skl_reserved_18|Rezervovaná schopnost 18
+skl_reserved_18_desc|Tato schopnost je rezervovaná.

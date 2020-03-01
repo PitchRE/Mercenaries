@@ -1,0 +1,48 @@
+skl_trade|Handel
+skl_trade_desc|Reduziert Eure Handelsabzüge um 5 %% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_leadership|Führungskraft
+skl_leadership_desc|Jeder Punkt erhöht die maximale Anzahl der Soldaten, die Ihr befehligen könnt, um 5, steigert Eure Trupp-Moral und reduziert den Sold um 5%%.
+skl_prisoner_management|Gefangenenverwaltung
+skl_prisoner_management_desc|Jede Stufe dieser Fertigkeit erhöht die maximale Anzahl der Gefangenen um %d.
+skl_persuasion|Überzeugungskraft
+skl_persuasion_desc|Diese Fertigkeit hilft Euch, andere Leute von Eurem Standpunkt zu überzeugen.
+skl_engineer|Konstrukteur
+skl_engineer_desc|Gestattet Euch den Bau von Belagerungsausrüstung und den Ausbau von Lehen. (Trupp-Fertigkeit)
+skl_first_aid|Erste Hilfe
+skl_first_aid_desc|Wiederherstellung von 5 %% der Trefferpunkte, die bei Missionen verlorengegangen sind, je Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_surgery|Chirurgie
+skl_surgery_desc|Erhöhung der Chance, dass ein tödlich getroffenes Truppmitglied verwundet überlebt, um 4 %% pro Punkt. (Trupp-Fertigkeit)
+skl_wound_treatment|Wundbehandlung
+skl_wound_treatment_desc|Erhöht das Heilungstempo des Trupps um 20 %% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_inventory_management|Inventarverwaltung
+skl_inventory_management_desc|Erhöht die Inventarkapazität um 6 pro Fertigkeitsstufe.
+skl_spotting|Spähen
+skl_spotting_desc|Erhöht die Sichtweite des Trupps um 10 %% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_pathfinding|Pfadfinden
+skl_pathfinding_desc|Erhöht das Tempo des Trupps auf der Karte um 3 %% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_tactics|Taktik
+skl_tactics_desc|Erhöht den Anfangsvorteil bei Schlachten alle zwei Fertigkeitsstufen um 1. (Trupp-Fertigkeit)
+skl_tracking|Spurenlesen
+skl_tracking_desc|Macht Spuren aufschlussreicher. (Trupp-Fertigkeit)
+skl_trainer|Lehren
+skl_trainer_desc|Ein Held mit dieser Fertigkeit verschafft Truppmitgliedern geringerer Stufen täglich etwas Erfahrung. Der Erfahrungszuwachs verläuft wie folgt: 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80.
+skl_looting|Plündern
+skl_looting_desc|Erhöht die Beutemenge bei Plünderungen um 10 % pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_horse_archery|Schießen beim Reiten
+skl_horse_archery_desc|Reduziert Abzüge in Schaden und Genauigkeit beim Schießen und Werfen vom Pferderücken aus; Stürze vom Pferd werden seltener.
+skl_riding|Reiten
+skl_riding_desc|Erlaubt Euch, Pferde höherer Schwierigkeitsstufen zu reiten; erhöht Reittempo sowie Wendigkeit.
+skl_athletics|Athletik
+skl_athletics_desc|Erhöht Euer Tempo, wenn Ihr rennt.
+skl_shield|Schild
+skl_shield_desc|Reduziert den Schaden an Schilden (um 8%% pro Fertigkeitsstufe); erhöht Deckungstempo und -fläche des Schilds.
+skl_weapon_master|Waffenmeister
+skl_weapon_master_desc|Erleichtert das Erlernen von Waffenfertigkeiten und erhöht deren Grenzen. Die Grenzen sind wie folgt: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420.
+skl_power_draw|Bogenzugkraft
+skl_power_draw_desc|Erlaubt den Einsatz stärkerer Bögen. Erhöht den Bogenschaden um 14%% je Fertigkeitspunkt (maximal vier plus Zugkraft-Anforderung des Bogens).
+skl_power_throw|Granatenwurf
+skl_power_throw_desc|Erhöht Euren Wurfschaden um 10%% pro Fertigkeitspunkt. Erhöht außerdem den Schadensradius alle 2 Stufen um 1 Schritt.
+skl_power_strike|Schlagkraft
+skl_power_strike_desc|Erhöht Euren Nahkampfschaden um 8%% pro Fertigkeitspunkt.
+skl_ironflesh|Eisenschwarte
+skl_ironflesh_desc|Erhöht Eure Trefferpunkte um 2 pro Fertigkeitspunkt.

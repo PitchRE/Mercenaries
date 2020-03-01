@@ -1,0 +1,259 @@
+qst_deliver_message|{s13}'{.e} Mesaj İlet.
+qst_deliver_message_text|{s9} senden {s13}'{.e} bir mesaj götürmeni istedi. Bu görevi aldığında {s13} {s4}'{.de} idi.
+qst_deliver_message_to_enemy_lord|{s13}'{.e} Mesaj Götür.
+qst_deliver_message_to_enemy_lord_text|{s9} senden {s15}'{.den} {s13}'{.e} bir mesaj götürmeni istedi. Bu görevi aldığında {s13} {s4}'{.de} idi.
+qst_raise_troops| {reg1} {s14} Eğit.
+qst_raise_troops_text|{s9} senden {reg1} {s14} yetiştirip kendisine getirmeni istedi.
+qst_escort_lady|{s13}'{.e} {s14} Yolunda Refakat Et.
+qst_escort_lady_text|None
+qst_deal_with_bandits_at_lords_village|{s15} Köyünü Kurtar.
+qst_deal_with_bandits_at_lords_village_text|{s13} senden {s15}'{.i} yağmacı haydutlardan kurtarıp, sonrasında kendisine rapor vermeni istedi.
+qst_collect_taxes|{s3} Vergilerini Topla.
+qst_collect_taxes_text|{s9} senden {s3} vergilerini toplamanı istedi. Karşılığında sana toplayacağın paranın beşte birini teklif etti.
+qst_hunt_down_fugitive|{s4}'{.i} Yakala
+qst_hunt_down_fugitive_text|{s9} senden {s4} isimli kaçağı yakalamanı istedi. Kendisinin şu anda {s3}'{.de} olduğu sanılıyor.
+qst_kill_local_merchant|{s3}'{.de} Bulunan Yerel Tüccara Suikast Düzenle.
+qst_kill_local_merchant_text|{s9} senden {s3}'{.de} bulunan yerel tüccara suikast düzenlemeni istedi.
+qst_bring_back_runaway_serfs|Kaçak Köleleri Geri Getir.
+qst_bring_back_runaway_serfs_text|{s9} senden üç kaçak köle grubunu yakalayıp {s2}'{.e} getirmeni istedi. Söylediğine göre üç grup da {s3} yönüne doğru kaçıyorlarmış.
+qst_follow_spy|Casusu Toplantı Yerine Kadar Takip Et.
+qst_follow_spy_text|{s11} senden {s12}'{.den} yola koyulan casusu takip etmeni istedi. Takip boyunca çok dikkatli olmalısın. Casus tarafından fark edilirsen şüphelenip geri dönebilir. Casus yardakçısıyla buluştuğunda onları tuzağa düşürüp, yakalayıp, ikisini de {s11}'{.e} götürmelisin.
+qst_capture_enemy_hero|{s13}'{.den} Bir Lord Esir Al.
+qst_capture_enemy_hero_text|TODO: {s11} senden {s13}'{.den} bir lordu esir almanı istedi.
+qst_lend_companion|{s9}'{.e} Yardımcın {s3}'{.i} Ödünç Ver.
+qst_lend_companion_text|{s9}, yardımcın {s3}'{.i} bir haftalığına ödünç vermeni istedi.
+qst_collect_debt|{s3}'{.nin} {s9}'{.e} Olan Borcunu Tahsil Et.
+qst_collect_debt_text|{s9} senden {s3}'{.nin} kendisine olan borcunu tahsil etmeni istedi.
+qst_incriminate_loyal_commander|Sadık {s13} Komutanı {s16}'{.e} İftira At.
+qst_incriminate_loyal_commander_text|None
+qst_raid_caravan_to_start_war|{reg13} {s13} Karavanına Saldır.
+qst_raid_caravan_to_start_war_text|None
+qst_meet_spy_in_enemy_town|{s13}'{.de} Casusla Buluş
+qst_meet_spy_in_enemy_town_text|None
+qst_capture_prisoners|{s3}'{.den} {reg1} Esir Yakala.
+qst_capture_prisoners_text|{s9} {s3}'{.den} {reg1} esir yakalayıp kendisine getirmeni istedi.
+qst_lend_surgeon|Cerrahını {s1}'{.e} Ödünç Ver.
+qst_lend_surgeon_text|{s1} cerrahın {s3}'{.i} kendisine ödünç vermeni istedi.
+qst_follow_army|{s9}'{.nin} Ordusunu Takip Et.
+qst_follow_army_text|None
+qst_report_to_army|Mareşale ({s13}) Rapor Ver.
+qst_report_to_army_text|None
+qst_deliver_cattle_to_army|{s13} için {reg3} Baş Sığır Götür.
+qst_deliver_cattle_to_army_text|None
+qst_join_siege_with_army|{s14} Kuşatmasına Katıl.
+qst_join_siege_with_army_text|None
+qst_scout_waypoints|{s13}, {s14} ve {s15}'{.i} Gözle.
+qst_scout_waypoints_text|None
+qst_rescue_lord_by_replace|{s13}'{.i} {s14}'{.den} Kurtar.
+qst_rescue_lord_by_replace_text|None
+qst_deliver_message_to_prisoner_lord|{s14} Bölgesindeki {s13}'{.e} Mesaj İlet.
+qst_deliver_message_to_prisoner_lord_text|None
+qst_duel_for_lady|{s13}'{.i} Düelloya Davet Et.
+qst_duel_for_lady_text|None
+qst_move_cattle_herd|Sığır Sürüsünü {s13}'{.e} Sür.
+qst_move_cattle_herd_text|{s10} valisi senden sığır sürüsünü {s13}'{.e} sürmeni istedi.
+qst_escort_merchant_caravan|Kervana {s8}'{.e} kadar refakat et.
+qst_escort_merchant_caravan_text|Kervana {s8}'{.e} kadar refakat et.
+qst_deliver_wine|{s4}'{.e} {reg5} Adet {s6} Götür.
+qst_deliver_wine_text|{s9} senden 7 gün içinde {s4} hanına {reg5} adet {s6} götürmeni istedi.
+qst_troublesome_bandits|Belalı Haydutları Yok Et
+qst_troublesome_bandits_text|{s4}'{.den} {s9} senden belalı haydutları yok etmeni istedi.
+qst_kidnapped_girl|Kızın Fidyesini Götür
+qst_kidnapped_girl_text|{s4} valisi sana haydutlar tarafından kaçırılan kızın fidyesini ödemen için {reg12} taler verdi. Haydutlarla {s3}'{.nin} yanında buluşup fidyeyi öde. Kızı alıp {s4}'{.e} getir.
+qst_persuade_lords_to_make_peace|İki Lordun da Barışa Karşı Gelmeyeceklerine Emin Ol
+qst_persuade_lords_to_make_peace_text|{s4} valisi, hem {s12}'{.nin} hem de {s13}'{.nin} {s15} ve {s14} arasındaki barış anlaşmasına bir tehdit oluşturmamasını kesin olarak sağlaman durumda sana {reg12} taler ödeyeceğine söz verdi. Bunun için ya her ikisini de ikna etmelisin, ya da bir şekilde esir düşüp, anlaşma tamamlanana kadar da öyle kaldıklarına emin olmalısın.
+qst_deal_with_looters|Yağmacıları Hallet
+qst_deal_with_looters_text|{s4} valisi senden bölgedeki yağmacılarla ilgilenip {s4}, kurtarabildiğin tüm malları geri getirmeni istedi.
+qst_deal_with_night_bandits|Gece haydutlarıyla ilgilen
+qst_deal_with_night_bandits_text|GÖREV: {s14} yöneticileri senden {s14} yakınındaki haydutları temizlemeni istedi.
+qst_deliver_grain|{s3}'{.e} Buğday Getir.
+qst_deliver_grain_text|{s3} köyü muhtarı senden {reg5} çuval buğday getirmeni istedi.
+qst_deliver_cattle|{s3} İçin Sığır
+qst_deliver_cattle_text|{s3} köyü muhtarı senden {reg5} baş sığır getirmeni istedi.
+qst_train_peasants_against_bandits|Biraz Talim
+qst_train_peasants_against_bandits_text|None
+qst_eliminate_bandits_infesting_village|{s7} Haydutları
+qst_eliminate_bandits_infesting_village_text|{s7}'{.den} bir köylü sana haydutlar tarafından istila edilen köyünü kurtarman için yalvardı.
+qst_join_faction|{s1}'{.e} Bağlılık Yemini 
+qst_join_faction_text|{s1}'{.i} bul ve ona bağlılık yemini et.
+qst_rebel_against_kingdom|Tahtta Hak İddia Eden Birini Destekle
+qst_rebel_against_kingdom_text|None
+qst_talk_to_zamoshie_elder|Zamoshye Köyü Muhtarıyla Konuş.
+qst_talk_to_zamoshie_elder_text|Clermont Zamoshye köyü muhtarının hizmetlerin karşılığında iyi ödeme yapabileceğini söyledi. Belki de onu bir ziyaret etmelisin.
+qst_zamoshie_lower_taxes|İşçi vergileri
+qst_zamoshie_lower_taxes_text|Smolensk kumandanını Zamoshye köylülerinin vergilerini düşürmeye ikna et.
+qst_deal_with_zamoshie_bandits|Zamoshye Haydutları
+qst_deal_with_zamoshie_bandits_text|Zamoshye haydutlarını öldür.
+qst_oim_bring_goods_zamoshie|Zamoshye'ye Mal Getir
+qst_oim_bring_goods_zamoshie_text|Zamoshye'deki Ataman Naum Vasiliev'e Tuz Getir.
+qst_oim_trakay_icon|Kaypak Papaz
+qst_oim_trakay_icon_text|Kaypak Papaz
+qst_oim_bring_tatarin_to_sich|Bir Mahkumla Sich'e
+qst_oim_bring_tatarin_to_sich_text|Bir Mahkumla Sich'e
+qst_oim_bring_tatarin_to_perekop|Perekop'a
+qst_oim_bring_tatarin_to_perekop_text|Perekop'a
+qst_oim_sem_samuraev|Müthiş Yedili
+qst_oim_sem_samuraev_text|Müthiş Yedili
+qst_oim_lendliz|Don Cossacks'a Yardım Et
+qst_oim_lendliz_text|Don Cossacks'a Yardım Et
+qst_oim_lendliz2|Don Cossacks'a Yardım Et
+qst_oim_lendliz2_text|Don Cossacks'a Yardım Et
+qst_oim_monfor_shved|Clermont'u Yanına Al
+qst_oim_monfor_shved_text|Clermont'u Yanına Al
+qst_oim_monfor_shved_army|Kraliyet Korteji
+qst_oim_monfor_shved_army_text|Kraliyet Korteji
+qst_mest_i_zakon|Kanun ve İntikam
+qst_mest_i_zakon_text|Kanun ve İntikam
+qst_mest_i_zakon2|Kurtarılan Köy
+qst_mest_i_zakon2_text|Kanun ve İntikam
+qst_mest_i_zakon3|Hmelnitski'nin İntikamı
+qst_mest_i_zakon3_text|Kanun ve İntikam
+qst_oim_kidalovo_z_konyem|Bir At Karşılığı Krallığın Yarısı
+qst_oim_kidalovo_z_konyem_text|Bir At Karşılığı Krallığın Yarısı
+qst_oim_invest|Gizli Zula
+qst_oim_invest_text|Gizli Zula
+qst_oim_trubeckoy_rekomendation|Trubetskoy'a Tavsiye
+qst_oim_trubeckoy_rekomendation_text|Trubetskoy'a Tavsiye
+qst_oim_tzr_korsar|Çar'ın Korsanı
+qst_oim_tzr_korsar_text|Çar'ın Korsanı
+qst_oim_potop_main|Sel
+qst_oim_potop_main_text|Sel
+qst_oim_potop_find_zagloba|Albay Zagloba
+qst_oim_potop_find_zagloba_text|Albay Zagloba
+qst_oim_potop_deliver_letter|Krala Kötü Haber
+qst_oim_potop_deliver_letter_text|Krala Kötü Haber
+qst_oim_potop_deliver_swedish_solders|İsveç Gerilerine Akın
+qst_oim_potop_deliver_swedish_solders_text|İsveç Gerilerine Akın
+qst_oim_potop_deliver_swedish_troops_reward|Ödülü Al
+qst_oim_potop_deliver_swedish_troops_reward_text|Ödülü Al
+qst_oim_potop_defend_church|Leh Kutsal Emaneti
+qst_oim_potop_defend_church_text|Leh Kutsal Emaneti
+qst_oim_potop_defend_get_back_warshaw|Varşova
+qst_oim_potop_defend_get_back_warshaw_text|Varşova
+qst_oim_potop_capture_swedish_lord|Protestanların Yanlışı
+qst_oim_potop_capture_swedish_lord_text|Protestanların Yanlışı
+qst_oim_potop_shtirlic|Yani Han
+qst_oim_potop_alias|Tatar Müttefik
+qst_oim_potop_alias_text|Tatar Müttefik
+qst_oim_potop_return|Kahramanın Dönüşü
+qst_oim_potop_return_text|Kahramanın Dönüşü
+qst_oim_potop_kmitic|Lanet Khovansky!
+qst_oim_potop_kmitic_text|Lanet Khovansky!
+qst_oim_potop_volodievskiy|Kaçırılan Gelin
+qst_oim_potop_volodievskiy_text|At Hırsızı
+qst_oim_potop_kshetuskiy|At Hırsızı
+qst_oim_potop_kshetuskiy_text|Kaçırılan Gelin
+qst_oim_potop_marshal|Mareşal Asası ile Knapsack
+qst_oim_potop_marshal_text|Mareşal Asası ile Knapsack
+qst_oim_potop_marshal_started|Mareşal Seçimleri
+qst_oim_potop_marshal_started_text|Mareşal Seçimleri
+qst_oim_potop_mission_impossible|Kurtarıcı Kahraman
+qst_oim_potop_mission_impossible_text|Kurtarıcı Kahraman
+qst_oim_potop_capture_tszar|Çar Avı
+qst_oim_potop_capture_tszar_text|Çar Avı
+qst_oim_potop_king_elections_kings_node|Zagloba'nın İsyanı
+qst_oim_potop_king_elections_kings_node_text|Zagloba'nın İsyanı
+qst_oim_potop_king_elections_zagloba|Unused
+qst_oim_potop_king_elections_zagloba_text|Unused
+qst_oim_potop_last_qst|Yükselişteki Ölüm
+qst_oim_potop_last_qst_text|Yükselişteki Ölüm
+qst_oim_potop_zagloba_revoult|İmparator Zagloba!
+qst_oim_potop_zagloba_revoult_text|İmparator Zagloba!
+qst_oim_potop_invasion_info|Cermen Alayları
+qst_oim_potop_invasion_info_text|Cermen Alayları
+qst_oim_potop_destroy_mercs|Cermen Alayları
+qst_oim_potop_destroy_mercs_text|Cermen Alayları
+qst_oim_potop_dismiss_king|Çar Karşıtı Koalisyon
+qst_oim_potop_dismiss_king_text|Çar Karşıtı Koalisyon
+qst_oim_potop_execute_king|Kralın Tahttan Çekilmesi
+qst_oim_potop_execute_king_text|Kralın Tahttan Çekilmesi
+qst_oim_potop_final_qst|Son Sınır
+qst_oim_potop_final_qst_text|Son Sınır
+qst_oim_getman_defend_villages|Köyleri Koru
+qst_oim_getman_defend_villages_text|Köyleri Koru
+qst_oim_getman_main|Kara Gürz'ün Sırrı
+qst_oim_getman_main_text|Kara Gürz'ün Sırrı
+qst_oim_getman_kozaks_service|Ayak İşleri
+qst_oim_getman_kozaks_service_text|Ayak İşleri
+qst_oim_getman_za_radzivilla|Büyük Litvanya İçin!
+qst_oim_getman_za_radzivilla_text|Büyük Litvanya İçin!
+qst_oim_getman_radzivill_rebelion|Radziwill İsyanı
+qst_oim_getman_radzivill_rebelion_text|Radziwill İsyanı
+qst_oim_getman_radzivill_capture_city|İlk Emir
+qst_oim_getman_radzivill_capture_city_text|İlk Emir
+qst_oim_getman_kiev_capture|Kiev'in Zaptı
+qst_oim_getman_kiev_capture_text|Kiev'in Zaptı
+qst_oim_getman_kiev_burgomistr|Kiev Valisinin Raporu
+qst_oim_getman_kiev_burgomistr_text|Kiev Valisinin Raporu
+qst_oim_getman_kiev_burgomistr_gold|Kiev Efsanesi
+qst_oim_getman_kiev_burgomistr_gold_text|Kiev Efsanesi
+qst_oim_getman_ask_add_info|Dik Kafalı Radziwill
+qst_oim_getman_ask_add_info_text|Dik Kafalı Radziwill
+qst_oim_getman_capture_tatarin|Tatar Mirza
+qst_oim_getman_capture_tatarin_text|Tatar Mirza
+qst_oim_getman_tampliers_archives|Templar Arşivi
+qst_oim_getman_tampliers_archives_text|Templar Arşivi
+qst_oim_getman_nesviz_grobnica_radzivilov|Aile Kabri
+qst_oim_getman_nesviz_grobnica_radzivilov_text|Aile Kabri
+qst_oim_getman_nesviz_legend|Nesvizh Efsanesi
+qst_oim_getman_nesviz_legend_text|Nesvizh Efsanesi
+qst_oim_getman_tayna_knyaza|Oleg Hanesinin Sırrı
+qst_oim_getman_tayna_knyaza_text|Oleg Hanesinin Sırrı
+qst_oim_getman_borat_dlg|Prens Boryatinsky
+qst_oim_getman_voron_book|Karga Kitabı
+qst_oim_getman_voron_translate|Pafnuty
+qst_oim_getman_kozak_legend|Kazak Efsaneleri
+qst_oim_getman_barabash|Ataman Barabash
+qst_oim_getman_nesvizh_pernach|Nesvizh
+qst_oim_getman_kill_radzivill|Ataman Radziwill
+qst_oim_getman_za_barabasha|Barabash İçin!
+qst_oim_getman_caravan|Kervandaki Mektup
+qst_oim_getman_za_hmelya|Hmel İçin!
+qst_oim_na_rech_pospolitu|Lehistan'a!
+qst_oim_getman_hmel_reb|İsyan
+qst_oim_getman_hmel_casus_beli|Ordu Hadisesi
+qst_oim_getman_hmel_greate_war|İki Cephede Savaş
+qst_oim_getman_korona_vitovta|Vytautas'ın Tacı
+qst_oim_getman_last_qst|Denizden Denize
+qst_oim_na_msk_tsarzd|Moskova Çarlığı'na!
+qst_oim_getman_barabash_reb|İsyan!
+qst_oim_getman_barabash_casus_beli|Ordu Hadisesi
+qst_oim_getman_barabash_greate_war|İki Cephede Savaş
+qst_oim_dmitriy_main|Çar Sırları...
+qst_dmitriy_loot_villages|Köyleri Harap Et
+qst_oim_dmitriy_gerasim|Gerasim Evangelic
+qst_oim_dmitriy_elena|Eleanor
+qst_oim_dmitriy_eleonora|Eleanor'u Carl'a Getir
+qst_oim_dmitriy_eleonora_home|Eleanor'u Prense Getir
+qst_oim_dmitriy_deliver_letter_msk|Çar'a Mektup
+qst_oim_dmitriy_deliver_letter_shwed|Çar'a Mektup
+qst_oim_dmitriy_talk_to_voevoda|Kumandanla Konuş
+qst_oim_dmitriy_tsar_prison|Çar'ın Gündemi
+qst_oim_dmitriy_razin|Stepan Razin
+qst_biyars_specnaz|Boyar'larla Konuşma
+qst_oim_alevtina_hanum|Alevtina-hanum
+qst_oim_black_lord|Sahte Üçüncü Dmitry 
+qst_oim_black_lord_text|Sahte Üçüncü Dmitry 
+qst_oim_dmitriy_elections|Çar'ın Seçimleri
+qst_oim_dmitriy_elections_text|Çar'ın Seçimleri
+qst_oim_duel_wound|Düelloda Yaralanan
+qst_oim_duel_wound_text|Düelloda Yaralanan
+qst_oim_alcoholic|Alkolizm
+qst_oim_alcoholic_text|Alkolizm
+qst_oim_illness_1|Ateş
+qst_oim_illness_1_text|Ateş
+qst_oim_illness_2|Gut
+qst_oim_illness_2_text|Gut
+qst_oim_illness_3|Ödem
+qst_oim_illness_3_text|Ödem
+qst_oim_illness_4|Dizanteri
+qst_oim_illness_4_text|Dizanteri
+qst_oim_illness_5|Uyuz
+qst_oim_illness_5_text|Uyuz
+qst_oim_potop_capture_city|Şehri Ele Geçir
+qst_oim_deliver_caravan|Kervanı Götür
+qst_oim_trade_pantent|Ticari İmtiyaz
+qst_oim_hunt_down_thieves|Sığır Hırsızlarını Yakala
+qst_oim_get_feast_supplies|Şölen için Malzeme Bul
+qst_oim_invest_2|Parayı İade Et
+qst_quests_end|Görev Tamamlandı

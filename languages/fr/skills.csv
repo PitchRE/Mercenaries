@@ -1,0 +1,48 @@
+skl_trade|Commerce
+skl_trade_desc|Chaque niveau de cette compétence réduit votre pénalité de commerce de 5%%. (Compétence de groupe)
+skl_leadership|Sens du commandement
+skl_leadership_desc|Chaque point augmente le nombre maximum de troupes que vous pouvez commander de 5, ainsi que le moral de votre groupe. Chaque point réduit également la solde des troupes de 5%%.
+skl_prisoner_management|Gestion des prisonniers
+skl_prisoner_management_desc|Chaque niveau de cette compétence augmente le nombre maximum de prisonniers de %d.
+skl_persuasion|Persuasion
+skl_persuasion_desc|Cette compétence permet d'imposer votre point de vue à d'autres personnes.
+skl_engineer|Ingénierie
+skl_engineer_desc|Cette compétence vous permet de construire des équipements de siège et d'aménager votre fief.  (Compétence de groupe)
+skl_first_aid|Premiers secours
+skl_first_aid_desc|Les héros regagnent 5%% de leurs points de santé perdus pendant une mission par niveau de compétence. (Compétence de groupe)
+skl_surgery|Chirurgie
+skl_surgery_desc|Chaque point investi dans cette compétence octroie 4%% de chances qu'un membre du groupe mortellement touché soit blessé au lieu de mourir. (Compétence de groupe)
+skl_wound_treatment|Soins des blessures
+skl_wound_treatment_desc|La vitesse de guérison du groupe est augmentée de 20%% par niveau de compétence. (Compétence de groupe)
+skl_inventory_management|Organisation de l'inventaire
+skl_inventory_management_desc|Augmente la capacité de l'inventaire de 6 par niveau de compétence.
+skl_spotting|Repérage
+skl_spotting_desc|Le champ de vision du groupe est augmenté de 10%% par niveau de compétence. (Compétence de groupe)
+skl_pathfinding|Connaissance du terrain
+skl_pathfinding_desc|La vitesse de voyage sur la carte est augmentée de 3%% par niveau de compétence. (Compétence de groupe)
+skl_tactics|Tactiques
+skl_tactics_desc|Tous les deux niveaux de compétence, Tactiques augmente votre avantage de combat de 1. (Compétence de groupe)
+skl_tracking|Pistage
+skl_tracking_desc|Les empreintes révèlent plus d'informations. (Compétence de groupe)
+skl_trainer|Mentor
+skl_trainer_desc|Chaque jour, tous les héros possédant cette compétence donnent de l'expérience à tous les autres membres du groupe dont le niveau est inférieur au leur. L'expérience gagnée augmente ainsi : 0, 4, 10, 16, 23, 30, 38, 46, 55, 65, 80.
+skl_looting|Pillage
+skl_looting_desc|Cette compétence augmente le montant du butin obtenu de 10%% par niveau de compétence. (Compétence de groupe)
+skl_horse_archery|Archerie montée
+skl_horse_archery_desc|Réduit les pénalités de dégâts et de précision lors de l'utilisation d'une arme à feu ou de jet à cheval. Vous tomberez moins souvent de votre selle.
+skl_riding|Équitation
+skl_riding_desc|Vous permet de monter des chevaux de niveaux de difficulté plus élevés et augmente la vitesse et la maniabilité de votre monture.
+skl_athletics|Athlétisme
+skl_athletics_desc|Améliore votre vitesse de course.
+skl_shield|Bouclier
+skl_shield_desc|Réduit les dégâts infligés aux boucliers (de 8%% par niveau de compétence) et améliore la surface couverte par le bouclier ainsi que sa vitesse.
+skl_weapon_master|Maître d'armes
+skl_weapon_master_desc|Rend l'apprentissage des maîtrises d'armes plus facile et en augmente les limites. Les limites augmentent ainsi : 60, 100, 140, 180, 220, 260, 300, 340, 380, 420.
+skl_power_draw|Puissance de tension
+skl_power_draw_desc|Vous permet d'utiliser des arcs plus puissants. Chaque point investi dans cette compétence (jusqu'à 4 en plus du prérequis en puissance de tension de l'arc) augmente les dégâts infligés avec les arcs de 14%%.
+skl_power_throw|Lancer de grenades
+skl_power_throw_desc|Chaque point investi dans cette compétence augmente les dégâts des armes de jet de 10%%. De plus, le rayon des dégâts augmente d'un pas tous les deux niveaux.
+skl_power_strike|Puissance de frappe
+skl_power_strike_desc|Chaque point investi dans cette compétence augmente les dégâts au corps-à-corps de 8%%.
+skl_ironflesh|Santé de fer
+skl_ironflesh_desc|Chaque point investi dans cette compétence augmente les points de santé de 2.

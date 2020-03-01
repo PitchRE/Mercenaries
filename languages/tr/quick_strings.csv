@@ -1,0 +1,728 @@
+qstr_Next_Page|Sonraki sayfa
+qstr_Game_Rules:^|Oyun Kuralları:^
+qstr_Show_game_rules|Oyun Kurallarını Göster
+qstr_Continue...|Devam et...
+qstr_Candidate_#1:_{s1}|Aday #1: {s1}
+qstr_Candidate_#2:_{s1}|Aday #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s4} {s3}'{.i} yeni bir mareşal seçmek istiyor ve derebeylerini tavsiye almak için çağırıyor. {s1} ve {s2} olası adaylar.
+qstr_Who_do_you_wish_to_s|Kimi desteklemek istiyorsun?
+qstr_{s1}|{s1} 
+qstr_{s1}_gives_his_suppo|{s2} {s1}'{.den} destek buldu.
+qstr_Number_of_Supporters|Destekçi sayısı: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} derebeylerinin görüşlerini aldı ve {s3}'{.nin} mareşalı olarak {s1}'{.i} seçti.
+qstr_Action|Eylem
+qstr_Attack_Type|Saldırı Türü
+qstr_Stand_Ground|Pozisyonunuzu Savunun
+qstr_Charge|Hücum
+qstr_Follow_Me|Beni Takip Edin
+qstr_Hold_This_Position|Burada Durun
+qstr_Spread_Out|Yayılın
+qstr_Stand_Closer|Yakın durun
+qstr_Fall_Back|Geri çekilin
+qstr_Advance|İleri
+qstr_Dismount|Attan İnin
+qstr_Mount|Ata Bin
+qstr_Fire_At_Will|Atış Serbest
+qstr_Use_Blunt_Weapons|Bayıltıcı Silah Kullanın
+qstr_Use_Any_Weapon|Silah Serbest
+qstr_Ready|Hazır
+qstr_Wounded|Yaralı
+qstr_Dead|Ölü
+qstr_Remain_in_retirement|Emekliliğe devam et
+qstr_Go_back_to_the_adven|Maceraya geri dön.
+qstr_You_have_retired_at_|{reg5} günlük maceradan sonra {reg4}. seviyede emekli oldun.
+qstr_Effect_on_Score|Skora etki
+qstr_Settlements_owned_by|Sahip olduğun yerleşimler: {reg0}
+qstr_Friendly_Settlements|Dost yerleşimler: {reg0}
+qstr_Hostile_Settlements:|Düşman yerleşimler: {reg0}
+qstr_Friendly_Lords:_{reg|Dost Lordlar: {reg0}
+qstr_Enemy_Lords:_{reg0}|Düşman Lordlar: {reg0}
+qstr_Victories:_{reg0}|Galibiyetler: {reg0}
+qstr_Defeats:_{reg0}|Mağlubiyetler: {reg0}
+qstr_Quests_Completed:_{r|Tamamlanan Görevler: {reg0}
+qstr_Companions_Found:_{r|Bulunan Yoldaşlar: {reg0}
+qstr_Companions_Lost/Depa|Ayrılan/Kaybedilen Yoldaşlar: {reg0}
+qstr_Wealth:_{reg0}_denar|Servet: {reg0} taler
+qstr_Inventory:_{reg0}_de|Envanter: {reg0} taler
+qstr_Renown:_{reg0}|Nam: {reg0}
+qstr_Experience:_{reg0}|Tecrübe: {reg0}
+qstr_Days_Passed:_{reg0}|Geçen gün sayısı: {reg0}
+qstr_Difficulty:_{reg0}%|Zorluk: %{reg0}
+qstr_TOTAL_SCORE:_{reg0}|TOPLAM PUAN: {reg0}
+qstr_{s1}_of_{s3}_was_def|{s3}'{.den} {s1} yenildi ama kaçmayı başardı. 
+qstr_DEBUG:_{s1}_no_longe|DEBUG: {s1} artık bir grubun başında değil.
+qstr_DEBUG:_{s1}_is_no_lo|DEBUG: {s1} artık mahkum değil.
+qstr_DEBUG:_{s1}_is_now_a|DEBUG: {s1} artık oyuncunun esiri.
+qstr_DEBUG:_{s1}_is_now_a_|DEBUG: {s1} artık {s2}'{.nin} esiri.
+qstr_{s54}_is_a_claimant_|{s54} {s56} tahtına talip.
+qstr_nowhere|Hiçbir yer
+qstr_{s57}_and_{s58}|{s57} ve {s58}
+qstr_{s57}_{s58}|{s57}, {s58}
+qstr_{reg3?She:He}|{reg3?O:O}
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{reg4?{s54} {s56}'{.nin} hükümdarıdır.^:{s54}'{.den} {s55}'{.nin} vasalıdır.^}}Nam: {reg5}.^{reg9?{reg3?O:} {s58}'{.nin} {reg3?leydisidir:lordudur}.:{reg3?Onun:} hiç mülkü yoktur.}{s59}
+qstr_The_town_of_{s50}|{s50} şehri
+qstr_The_village_of_{s50}|{s52} yakınlarındaki {s50}
+qstr_{s51}_belongs_to_{s1|{s51} {s2}{.den} {s1}'{.e} ait.^
+qstr_{s7}_and_{s8}|{s7} ve {s8}
+qstr_{s2}It_has_no_villag|{s2}Hiç köyü yok.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Bağlı köyleri:Bağlı köyü} {s8}.^
+qstr_{s2}Its_prosperity_i|{s2}Refah durumu: {s50}
+qstr_{s7}_{s8}|{s7}, {s8}
+qstr_noone|hiçkimse
+qstr_{s9}_and_{s10}|{s9} ve {s10}
+qstr_{s9}_{s10}|{s9}, {s10}
+qstr_{s11}_and_{s12}|{s11} ve {s12}
+qstr_{s11}_{s12}|{s11}, {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5} {s6} tarafından yönetiliyor.^{s8} onun kontrolünde.^Vasalları {s10}.^Düşmanları {s12}.
+qstr_{s5}_has_been_defeat|{s5} yenildi!
+qstr_{s7}_opened_the_gate|{s7} kapıları açtı
+qstr_{s7}_closed_the_gate|{s7} kapıları kapattı
+qstr_+{reg1}_to_party_mor|Grup moraline +{reg1}
+qstr_Requires_{reg1}_inte|Okumak için {reg1} zekâ gerekir.
+qstr_Reading_Progress:_{r|Okuma süreci: %{reg1}
+qstr_wound_treament|yara bakımı
+qstr_trainer|talimci
+qstr_surgery|cerrahlık
+qstr_+1_to_{s1}_while_in_|Envanterdeyken {s1} becerisine +1
+qstr_{s2}|{s2}
+qstr_Base_damage_radius:_|Şarapnel alanı: {reg1} adım. Hasar alanı: {reg2} adım.
+qstr_Move_here|Buraya hareket et.
+qstr_View_notes|Notlara bak.
+qstr_killed|Ölü
+qstr_wounded|Yaralı
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^TOPLAM: {reg3} ({s2})
+qstr_None|N/A
+qstr_^None|^Hiç
+qstr_nothing|hiç
+qstr_{reg0}_village{reg1?|{reg0} köy{reg1?s:}
+qstr_{reg0}_castle{reg1?s|{reg0} kale{reg1?s:}
+qstr_{reg0}_castle{reg1?s:|{reg0} kale{reg1?s:} ve {s0}
+qstr_{reg0}_town{reg1?s:}|{reg0} şehir{reg1?s:}
+qstr_{reg0}_town{reg1?s:}_|{reg0} şehir{reg1?s:} ve {s0}
+qstr_{reg0}_town{reg1?s:}_{|{reg0} şehir{reg1?s:}, {s0}
+qstr_Your_opponents_are_r|Rakiplerin dövüşe hazır.
+qstr_Try_to_destroy_as_ma|Olabildiğince fazla hedefi yok etmeye çalış. Pisti tamamlamak için iki buçuk dakikan var.
+qstr_Stay_behind_the_line|Çizginin arkasında durup hedefleri vur. Boşa sallamamaya çalış.
+qstr_Battle_Advantage_=_{|Savaş Avantajı = {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} sonraki emre kadar ordusunu takip etmeni istiyor.
+qstr_OIM_add__{s3}_prosil|{s3}'{.den} ilk emrin bir sehri ele geçirmek.
+qstr__Being_Raided_|(Saldırı altında)
+qstr__Looted_|(Yağmalandı)
+qstr__Under_Siege_|(Kuşatma Altında)
+qstr_The_village_of_{s1}_|{s1} {s2} tarafından yağmalandı.
+qstr_{s3}_is_no_longer_un|{s3} artık kuşatma altında değil.
+qstr_Enemies_spotted_near|{s1} yakınlarında bir düşman grubu tespit edildi.
+qstr_{s1}_has_been_besieg|{s1} {s3}'{.den} {s2} tarafından kuşatıldı.
+qstr_{s1}_is_chosen_as_th|{s1}, {s2}'nın mareşali olarak seçildi. 
+qstr_{s1}_is_the_new_mars|{s1}'nın yeni mareşali {s2}.
+qstr_{s1}_decided_to_do_n|{s1} hiçbir şey yapmamaya karar verdi.
+qstr_{s1}_decided_to_gath|{s1} bir ordu toplamaya karar verdi.
+qstr_{s1}_decided_to_besi|{s1} {s2}'{.i} kuşatmaya karar verdi.
+qstr_{s1}_decided_to_raid|{s1} {s2}'{.e} taarruz etmeye karar verdi.
+qstr_{s1}_decided_to_atta|{s1} {s2}'{.e} saldırmaya karar verdi.
+qstr_{s1}_decided_to_attac|{s1} {s2} civarındaki tüm düşmanlara saldırmaya karar verdi.
+qstr_You_gained_{reg12}_r|{reg12} nam kazandın.
+qstr_You_lose_{reg12}_ren|{reg12} nam kaybettin.
+qstr_Your_relation_with_{|{s1} ile ilişkin ilerledi.
+qstr_Your_relation_with_{s|{s1} ile ilişkin geriledi.
+qstr_You_gain_honour.|Onur kazandın.
+qstr_You_lose_honour.|Onur kaybettin.
+qstr_{s1}_has_declared_wa|{s1}, {s2}{.e} savaş açtı.
+qstr_{s1}_and_{s2}_have_m|{s1} ve {s2} barış anlaşması imzaladılar.
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?{s3} topraklarındaydı:şu anda {s3} topraklarında}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {s3} topraklarına doğru {reg3?gidiyordu:gidiyor} ve {reg3?:şu sıralar} {s4} yakınlarında {reg3?idi:olmalı}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?kırdaydı:kırda} ve {reg3?: şu sıralar} {s3} {reg3?yakınlarındaydı:yakınlarında olmalı}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {s3} zindanında {reg3?hapsedilmişti:tutuluyor}.
+qstr_{s2}_{reg3?was:has_b|{s2} düşmanları tarafından esir {reg3?alınmıştı:tutuluyor}. 
+qstr_{reg3?{s2}_s_locatio|{reg3?{s2} nerede bilinmiyordu:{s2} nerede bilmiyorum}.
+qstr_{s6}_has_joined_your|{s6} grubuna katıldı
+qstr_You_now_owe_{reg2}_d|{s1}'{.e} {reg2} taler borçlusun.
+qstr_Renown_value_for_thi|Bu savaşın nam değeri {reg8}.
+qstr_You_have_run_into_a_|Bir tuzağa düştün!
+qstr_You_are_attacked_by_|Bir grup haydut tarafından saldırıya uğradın!
+qstr_Holding|Duruyor
+qstr_Following|İzliyor
+qstr_Charging|Hücum ediyor
+qstr_Advancing|İlerliyor
+qstr_Falling_Back|Geri Çekiliyor
+qstr_Standing_Closer|Birbirine yaklaşıyor
+qstr_Spreading_Out|Birbirinden uzaklaşıyor
+qstr_Standing|Duruyor
+qstr_N/A|N/A
+qstr_Any_Weapon|Silah serbest
+qstr_Blunt_Weapons|Bayıltıcı Silahlar
+qstr_{s1}_Rebels|{s1} Asileri
+qstr_Given_by:_{s62}|{s62} tarafından verildi.
+qstr_Given_on:_{s60}|{s60} tarihinde verildi.
+qstr_You_have_{reg0}_days|Bu görevi bitirmek için {reg0} günün var.
+qstr_This_quest_has_been_|Bu görev sonlandı. Bitirmek için {s59} ile konuş.
+qstr_This_quest_has_been_s|Bu görev başarıyla tamamlandı. {s59} ile konuşup ödülünü al.
+qstr_This_quest_has_faile|Bu görev başarısız oldu. {s59} ile konuşup durumu açıkla.
+qstr_At_the_time_quest_wa|Görev verildiğinde:^{s1}
+qstr_{s1}_is_infested_by_|{s1} haydut saldırısı altında.
+qstr_{s5}_has_a_strength_|{s5} gücü : {reg1} asker
+qstr_The_last_time_you_sa|Onu son gördüğün yer {s1}.
+qstr_The_last_time_you_he|Onun hakkında son haber aldığın zaman {s1}.
+qstr_{s50}|{s50}
+qstr_Current_garrison_con|Garnizonda {reg5} asker bulunuyor.{reg4?^{reg6} gün yetecek yiyecek stoğu var.:}
+qstr_Very_Poor|Çok Fakir
+qstr_Poor|Fakir
+qstr_Average|Ortalama
+qstr_Rich|Zengin
+qstr_Very_Rich|Çok Zengin
+qstr_Manor|Malikane
+qstr_A_manor_lets_you_res|Malikane köyde kalmanı sağlar ve  burada kalırken askerlerin maaşını yarıya düşürür.
+qstr_Mill|Değirmen
+qstr_A_mill_increases_vil|Değirmen köyün refah seviyesini %5 artırır.
+qstr_Watch_Tower|Gözcü Kulesi
+qstr_A_watch_tower_lets_t|Gözcü kulesi köylülerin daha erken alarm vermelerini sağlar. Düşmanların köyü yağmalaması için gereken zamanı %25 artırır.
+qstr_School|Okul
+qstr_A_shool_increases_th|Okul köylülerin sadakatini her ay +1 artırır.
+qstr_Messenger_Post|Ulak Karakolu
+qstr_A_messenger_post_let|Ulak karakolu, yakında düşman olduğu zamanlarda çok uzakta olsan da köylülerin sana mesaj yollamasına olanak tanır.
+qstr_Prison_Tower|Hapishane Kulesi
+qstr_A_prison_tower_reduc|Hapishane Kulesi burada tutulan mahkumların başarıyla kaçma şansını düşürür.
+qstr_Prosperity_of_{s2}_h|{s2}{.de} refah seviyesi {s3} durumudan {s4} durumuna geçti.
+qstr_{s4}_looks_upset.|{s4} sinirli görünüyor.
+qstr_OiM_You_ve_lost_your|Atını kaybettin.
+qstr_oim_potop_negative_e|1655 yılında Lehistan kralı, Sejm'i, yani parlementoyu dağıtıp, kendini aynı Moskova hükümranlığındaki gibi Çar ilan etti.  Ama hain üst tabaka bunun sürmesine izin veremezdi. Haliyle kısa sürede tüm Lehistan, Litvanya, Rusyn ve Ukrayna topraklarına yayılan bir isyan çıktı. Büyüyen isyanı bastırmak için kral, Cermen Landsknechtleri olarak bilinen paralı askerleri tuttu.  ^Göz açıp kapamadan tüm Lehistan-Litvanya bölgesi savaşın ateşiyle kuru çıra gibi yanıp tükenmişti. Sözde Çar Jan Kasimir'e gelince; hem halkın hem de soyluların desteğini kaybedince tahtından feragat edip kaçtı. Yanında sadece avam tabakadan gelme kumandanı {playername} kalmıştı. Masovia-Prussia sınırında, oralarda cirit atan büyük bir haydut grubu tarafından pusuya düşürüldüler. Kral ve tüm yoldaşları öldürüldü. Cesetleri de asla bulunamadı. ^Zenon Petretsky, "Lehistan'ın Kısa Tarihi" (1855).
+qstr_your_party|grubun
+qstr_{reg0?One_of_your_pr|{reg0?Senin mahkumun olan, :}{s3}{.den} {s1} tutsaklıktan kaçtı!
+qstr_You_brought_{reg3}_h|{s1} için {reg3} baş sığır götürdün.
+qstr_I_heard_that_there_w|Yakında {s62} içinde bir turnuva olacağını duydum.
+qstr_I_heard_that_one_can|{s63}{.de} çok ucuza {s62} bulunduğunu duydum.
+qstr_I_heard_that_they_pa|{s63}{.de} {s62} için çok yüksek fiyatlar ödendiğini duydum.
+qstr_Log_entry_{reg3}:_ty|Günlük kaydı {reg3}: çeşit {reg4}
+qstr_Center:_{s4}|Merkez: {s4}
+qstr_Troop:_{s4}|Asker: {s4}
+qstr_Lord:_{s4}|Lord: {s4}
+qstr_Ally_party_is_presen|Müttefik grup mevcut
+qstr_{s4}_is_present_at_e|{s4} vakada yerini alıyor
+qstr_Event_#{reg5}_type_{|Event #{reg5}, type {reg6}, time {reg8}: player's nation's relation to troop object = {reg7}
+qstr_Event_#{reg5}_type_{r|Event #{reg5}, type {reg6}, time {reg8}: player's nation's relation to center object nation = {reg7}
+qstr_Event_#{reg5}_type_{re|Event #{reg5}, type {reg6}, time {reg8}: player's nation's relation to nation object = {reg7}
+qstr_Event_#{reg5}_type_{reg|Event #{reg5}, type {reg6}, time {reg8}. No relevant nation relation
+qstr_Event_#{reg5}_type_{reg6|Event #{reg5}, type {reg6}, time {reg8}. Player unaffiliated
+qstr_Elapsed_hours:_{reg7|Geçen süre: {reg7}
+qstr_Reputation_type:_{s1|Şöhret cinsi: {s15}
+qstr_Entries_up_to_#{reg5|Entries up to #{reg5} skipped
+qstr__{reg6}_dinarov_|({reg6} taler)
+qstr__{s20}_{s22}_{s5}| {s20}, {s22} {s5}
+qstr_{s0}___{reg1}|{s0} - {reg1}
+qstr__^not_drunk|^^[Ayık]
+qstr__^slightly_drinken|^^[Çakırkeyif]
+qstr__^quite_drunk|^^[Sarhoş]
+qstr__^cant_say_few_words|^^[Kör Kütük Sarhoş]
+qstr_V_otryade_nachalas_e|{s0} adamlarını hasta ediyor. Tedavi için askerlerini bir handa dinlendirip, iyi yemek yemelerini sağlamalısın. Aynı zamanda bir doktora göstersen de iyi edersin. 
+qstr_{s0}|{s0}
+qstr_{s50}_i_{s0}|{s50} ve {s0}
+qstr_v_otryade_nachalas_e|{s0} adamlarını hasta ediyor. Tedavi için askerlerini bir handa dinlendirip, iyi yemek yemelerini sağlamalısın. Aynı zamanda bir doktora göstersen de iyi edersin. 
+qstr_v_otryade_nachalis_e|{s50} adamlarını hasta ediyor
+qstr_{s2}_{reg3?was:is}_in|{s2} {reg3?kırdaydı:kırda} ve şu anda {s3} yakınlarında olmalı. 
+qstr_Player:_v_gorode_{s3|Oyuncu: {s31} yakında {s30}'{.de} tamamlanacak.
+qstr_{s0}_{s2}|{s0}, {s2}
+qstr_V_gorode_{s30}_zaver|{s31} {s30}'{.de} idi.
+qstr_Glava|Vali
+qstr_tax:_{reg3}|vergiler: {reg3}
+qstr__{s2}_stud:_{reg0}| {s2} stud: {reg0}
+qstr_depozita|Yatırılan para
+qstr_kredita|Alınan borç
+qstr_Zdes_vi_mozhete_zaka|Buradan kendine mükemmel silahlar sipariş edebilirsin.
+qstr_Zdes_vi_mozhete_zakaz|Buradan kendine mükemmel zırhlar sipariş edebilirsin.
+qstr_Vash_zakaz_esche_ne_|Siparişin henüz hazır değil.
+qstr_Vi_esche_ne_zabrali_|Daha bir önceki siparişini almadın!
+qstr_Za_mir_nuzhno_budet_|Bize {s5}'{.i} verirsen barış yapmaya hazırız.
+qstr_Za_mir_nuzhno_budet_o|{s5} ve {s2}'{.i} bana verirsen barış yapmaya hazırım.
+qstr_Uchitivaya_silu_vash|Kuvvetlerinin kudretine saygı duyuyoruz. Barış yapmaya hazırız.  
+qstr_Za_mir_vam_nuzhno_bu|{reg1} talerlik küçük bir bağış karşılığı barış yapmaya hazırız.
+qstr_^{s20}_{s21}|^{s20} {s21}
+qstr_gorode|Şehir
+qstr_zamke|Kale
+qstr_sele|Köylüler
+qstr_V_{s22}_hodyat_sluhi|{s22}de dolaşan söylentiler:{s21}
+qstr_V_etom_{s22}_nichego|{s22}'{.de} ilgi çekici herhangi bir şey olmamış.
+qstr_{s3}_{reg1}_|{s3}({reg1})
+qstr_{s4}_{s3}_{reg1}_|{s4}, {s3}({reg1})
+qstr_Party_has_nothing_to|Grubun açlıktan kıvranıyor!
+qstr_{s31}|{s31}
+qstr__{s32}| {s32}
+qstr__| 
+qstr_Cannot_leave_now.|Şu anda ayrılamazsın.
+qstr_You_must_stay_behind|Yerdeki çizginin ardında durmalısın! Puan sayılmadı.
+qstr_You_run_away_from_th|Savaş alanından kaçtın.
+qstr_You_came_into_the_wo|Dünyaya, sadece yaşadıkları eve sahip, çökmekte olan asillerin {reg3?kızı:oğlu} olarak geldin. Ne var ki, ailenin zorluklarına rağmen, sana iyi bir eğitim verdiler ve saray yaşamı ve aristokrasinin engelleri üstüne seni eğittiler.
+qstr_You_were_born_the_{r|Kâr peşinde oradan oraya giden gezgin tüccarların {reg3?kızı:oğlu} olarak dünyaya geldin. Ailen çoğundan daha zengin olsa ve seni olabildiğince eğitseler de, yolda arkadaş edinecek pek az zamanın oldu ve zamanın çoğunu birilerine bir şeyler satarak geçirdin.
+qstr_As_a_child_your_fami|Çocukken, yerel lordun koruması olan babanın maaşıyla fakir bir hayattan tırmandınız. Kolay değildi ve eğitim almak için çok fakirdiniz. Genelde sokaklarda kendini korumayı öğrendin, silahla veya silahsız.
+qstr_{reg3?daughter:son}|{reg3?kız:oğlan}
+qstr_You_were_the_{reg3?d|Ormanda yaşayan, ihtiyaçlarını karşılamak için ne gerekirse yapan bir ailenin {reg3?kızıydın:oğluydun}. Avcılık, odunculuk, ok yapımı, hatta işler sıkınca kaçak avlanma. Kış, hem insanları hem de hayvanları götürdüğünden, sen ve ailen için hiçbir zaman iyi bir dönem olmadı, ama sen sonraki şafağı görmek için yaşadın; kardeşlerin senin kadar şanslı olamamış olsalar da.
+qstr_You_were_a_child_of_|Sen kuru topraklardaki büyük kamplarda yaşayan bir gezgin göçmen kabilesinde doğan bir bozkır çocuğuydun. Kabiledeki diğerleri gibi, ailen atları her şeyin üstünde tutardı, ve neredeyse daha yürümeyi öğrenmeden sana ata binmeyi öğretmişlerdi.
+qstr_As_the_{reg3?daughte|Bir hırsızın {reg3?kızı:oğlu} olarak, çok az 'resmi' bir eğitim aldın. Bunun yerine sokaklarda cüzdan çalmayı öğrenene kadar dilendin, maymuncuk kullanmayı öğrenene kadar cüzdan çaldın ve tüm çocukluk hayatın böyle geçti. Yine de, bu uzun yıllar seni sokakların üstadı yaptı, şehirlerde ve gölgelerde yatan sırları herkesten iyi farkedebildin.
+qstr_As_a_{reg3?girl:boy}|Çocukluktan çıkan bir {reg3?kız:oğlan} olarak, bölgenin asillerinden birinin sarayında yaşamaya yollandın. Orada ilk dersin, evin lord ve hanımlarını beklerken göstereceğin tevazuydu. Ama onların satranç oyunlarından, dedikodularından ve hatta büyük işler ve saray aşkları üzerine şiirlerden, yetişkinlerin çatışma ve yarışma dünyaları hakkında çok şey öğrendin. Ayrıca diğer çocukların, büyüklerini taklit edercesine birbirlerine sopa salladıkları kaba oyunlarını öğrendin.
+qstr_As_a_{reg3?girl:boy}_|Çocukluktan çıkan bir {reg3?kız:oğlan} olarak, yerel bir zanaatkarın yanına iş öğrenmek için çırak olarak girdin. Ustanın yanında yıllar süren boyu sıkı çalışma ve öğrenme sonucunda seni kalfalığa terfi etti ve kalmak istediğin sürece tam ödeme yapmak üzere işe aldı.
+qstr_As_a_{reg3?girl:boy}_g|Çocukluktan çıkan bir {reg3?kız:oğlan} olarak, zengin bir tüccarın çırağı oldun ve yıllar boyunca dükkanlar ve kervanlarda ticaretle uğraştın. Kısa süre sonra ucuza alıp yükseğe satarak,  müşteriyi yine de iyi bir anlaşma yaptığına inandırma sanatında ustalaştın.
+qstr_As_a_{reg3?girl:boy}_gr|Çocukluktan çıkan bir {reg3?kız:oğlan} olarak, sokaklarda, hayatta kalmak için ne gerekirse yaparak yaşadın. Dilenip, hırsızlık yapıp ve çeteler için çalışıp ekmeğini kazanmaya çalışırken, bu şiddet dünyasında, kanunun ve kötülüğünü isteyenlerin bir adım önünde varolarak yaşamını sürdürdün.
+qstr_As_a_{reg3?girl:boy}_gro|Çocukluktan çıkan bir {reg3?kız:oğlan} olarak, kendi atında geniş bozkırlarda gezip çölün ve otun yollarını öğrendin. Bazen aç kaldıysan da, bu ıssız dünyada usta bir avcı ve izci oldun. Bir göçebenin hayatını yaşadığın bu sürede vücudun da sertleşip kaslarla güçlenmeye başladı.
+qstr_{reg3?daughter:man}|{reg3?kadını:adamı}
+qstr_Though_the_distincti|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Sarayda silahtar ünvanı aldığında, silahlarla uzun zaman harcamış ve sert vurup, o vuruşları karşılamayı da öğrenmiştin. Lorduna, ve bir gün senin altında olabilecek kişilere karşı olan görevlerin anlatıldı. Şövalyelik ideallerinin yanısıra, işin o kadar neşelendirici olmayan tarafı konusunda da bilgilendin - eski savaşçıların, acımasız güç politikaları, ihanet ve gasplar üzerine anlattıkları hikayelerden, insanların amaçlarına ulaşmak için kahramanlık kadar adiliği de nasıl kullandığını öğrendin.
+qstr_{reg3?woman:man}|{reg3?yetişkin:yetişkin}
+qstr_Though_the_distinctio|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Saraydaki sıkı bir oluşuma sahip, sürekli hanım hanım işler yapan hanımlardan oluşan gruba girdin; asillerin karıları, metresleri yanında daha bir koca bulamamış bakirelerin de içinde olduğu bir gruptu bu. Ancak burada bile politikanın işlediğini, hanımların sarayda evlenmemiş uygun erkeklerin dikkatini çekmek için birbirleri arkasından nasıl iş çevirdiklerini ve nasıl birbirleriyle uğraştıklarını gördün. Kısa zamanda bu durumları kendi avantajına çevirmeyi öğrendin. Bununla birlikte biraz incelikle dünyada büyük bir etkiye sahip olabileceğini fark ettin.
+qstr_Though_the_distinction|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Sesin ve sırtına astığın enstrümanın hariç bir şeyin olmaksızın kendini yollara vurdun. Fakir bir hayattı, pek çok akşam aç kaldığın yetmezmiş gibi sanatı anlayan biri bile çıkmazdı, ancak müziğinle hayatta kalmayı başardın. Yıllar geçtikçe sarhoş kalabalıklara çalmakta ve herhangi birinden istediğin herhangi bir şeyi konuşarak elde etmekte ustalaştın.
+qstr_Though_the_distinction_|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Kendini en büyük şehirlerin birinde teoloji, felsefe ve tıp üstüne çalışan bir üniversite öğrencisi olarak buldun. Ama tüm derslerin konferans salonlarında geçmedi. Arkadaşların şarap, kadın veya iyi bir kavga için ara sokaklara girerken onlara her zaman katılmamış olabilirsin. Ne var ki, kırık bir çene nasıl düzeltilir ya da öfkeli bir kasabalıyı silahını indirmeye yanaştırıp dükkanındaki hasarı parayla ödemeyi kabul etmesi için nasıl ikna edilir, bu süre boyunca gözlemleyip öğrendin.
+qstr_Though_the_distinction_f|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Açık yolların çağrısına uyarak, köyden köye dolaşıp bulduğun her şeyi alıp sattın. Zengin bir varoluş değildi, ama pazarlık konusuna gelince en cimri ihtiyarlardan bile iyi fiyat alacak kadar ustalaştın. Yakında, biliyordun ki, kendi ticaret imparatorluğunu kuracak noktaya gelecektin...
+qstr_Though_the_distinction_fe|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Bir demirci olarak, basit metallerden yararlı ve güzel eşyalar üreterek kariyerine başladın. Zaman geçtikçe işinin erbabı oldun ve iyi işlerden iyi paralar kazanmaya başladın. Karnında aşın, şöminende ateşin; işin ve yükselen saygınlığından gurur duyabileceğin bir hale geldin.
+qstr_Though_the_distinction_fel|Sana birden olmuş gibi gelse de, geçen zamanın sonunda bir yetişkin oldun ve dünya gözüne farklı görünmeye başladı. Sıradan insanların para için çabalamasından hoşnutsuz bir halde, kuralları bir kenara atıp, yerel lordun şahsi ormanında avlanmaya başladın. Geyikler, domuzlar ve kazları avladın ve tezgah arkasından değerli etleri sattın. Nöbetçilerinin burnunun dibinde ağaçları kestin ve pek çok evi bu odunlarla, tabii ki bir kaç gümüş karşılığı, ısıttın.
+qstr_Only_you_know_exactl|Eski hayatını bitirip maceracı olmaya niye karar verdiğini tam olarak sadece sen biliyorsun. Yine de, öfken yüreğini kavururken, ayrılmak zor bir seçim olmadı. İntikam istiyorsun. Adalet istiyorsun. Sana yapılmış olanlar geri alınamaz ve bu borçlar sadece kanla ödenebilir...
+qstr_Only_you_know_exactly|Eski hayatını bitirip maceracı olmaya niye karar verdiğini tam olarak sadece sen biliyorsun. Aklında tek şey var, o da artık burada kalamayacağın. Öylesine sevdiğin birinin anıları bu kadar acı dolu ve bu kadar yakınındayken artık olmaz. Belki de yeni bir hayat sana, ismini ağzına almaktan çekindiğin o kişinin adını onurlandırmanı ya da unutmanı sağlayabilir...
+qstr_Only_you_know_exactly_|Eski hayatını bitirip maceracı olmaya niye karar verdiğini tam olarak sadece sen biliyorsun. Tanıdık olan şeyler sıkıcı olup da gezip görme hayallerin hayatını ele geçirdiğinde, evin ne ara senin için adeta bir hapishaneye dönmüştü emin bile değilsin. Belki uzak bir yere dair özlemin vardı, belki de sadece uçsuz bucaksız arazilere ve gönlünce yolculuk yapma özgürlüğüne; ama burada kalamayacağın artık kesindi. Sadece gittin ve asla arkana bakmadın...
+qstr_Only_you_know_exactly_w|Eski hayatını bitirip maceracı olmaya niye karar verdiğini tam olarak sadece sen biliyorsun. Ne var ki, geri dönemeyeceğini biliyorsun. Geri dönecek bir yer kalmadı. Evin diye bildiğin yer artık yok ve geniş mi geniş bu dünyada bir başına kaldığın gerçeğiyle yüzleşmelisin. Ya batacaksın, ya çıkacaksın...
+qstr_Only_you_know_exactly_wh|Eski hayatını bitirip maceracı olmaya niye karar verdiğini tam olarak sadece sen biliyorsun. Diğerlerine göre, açıkça ve tamamen kişisel kazanç peşindesin. Zengin, güçlü, saygıdeğer ve korkulan biri olmak istiyorsun. Diğerlerinin sözüne uymak için koşuşturduğu kişi olmak istiyorsun. İnsanların adını bilmesini ve adının konuşulduğu yerde titremelerini istiyorsun. Her şeyi istiyorsun, ve kimsenin seni alıkoymasına izin verecek değilsin...
+qstr_Back_to_the_beginnin|Başa dön...
+qstr_View_next_segment...|Sonraki kısma geç...
+qstr___| -
+qstr__+| +
+qstr_^No_food:___{reg7}|^Yiyecek yok:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Maaş borcu:  -{reg6}
+qstr_Current_party_morale|Grubunun şu anki morali {reg5}.^^Parti moralini etkileyen faktörler:^^Temel Moral:  +50^Grup Büyüklüğü: {s2}{reg1}^Liderlik: {s3}{reg2}^Yiyecek Çeşitliliği: {s4}{reg3}{s5}{s6}^Son Olaylar: {s7}{reg4}^TOPLAM:  {reg5}
+qstr_Defending|Savunma yapıyor.
+qstr_Gathering_army|Ordu topluyor.
+qstr_Besieging_{s11}|{s11} kuşatmasında.
+qstr_Raiding_{s11}|{s11} saldırısında.
+qstr_Attacking_enemies_ar|{s11} yakınlarındaki düşmanlara saldırıyor. 
+qstr_No_one|Hiç kimse
+qstr_{s9}{s10}^Current_st|{s9}{s10}^Current state: {s11}^Marshal: {s12}^Since the last offensive: {reg1} hours^Offensive maximum followers: {reg2}^^
+qstr_Selected_faction_is:|Seçili taraf: {s10}^^{s9}
+qstr_You_are_currently_re|Bu aralar şu kitabı okuyorsun: {s8}.
+qstr_You_are_not_reading_|Şimdilik herhangi bir kitabı okumuyorsun.
+qstr_none|hiçbiri
+qstr_{s5}_and_{s6}|{s5} ve {s6}
+qstr_{s5}_{s6}|{s5}, {s6}
+qstr_Renown:_{reg2}.^Hono|Nam: {reg2}.^Onur: {reg3}.^Dostlar: {s8}.^Düşmanlar: {s6}.^{s9}
+qstr_Your_estates_are:_{s|Mülklerin: {s8}.^{s9}
+qstr_You_are_a_lord_of_{s|{s8}.^{s9} soylususun.
+qstr_Current_party_size_l|Grup büyüklüğü limiti {reg5}.^Grup büyüklüğü bileşenleri:^^Temel büyüklük:  +{reg4}^Liderlik: {s2}{reg1}^Karizma: {s3}{reg2}^Nam: {s4}{reg3}^TOPLAM:  {reg5}
+qstr_Loyal|Adanmış
+qstr_Devoted|Adanmış
+qstr_Fond|Dostça
+qstr_Gracious|Dostça
+qstr_Friendly|Destekleyici
+qstr_Supportive|Destekleyici
+qstr_Favorable|Olumlu
+qstr_Cooperative|Olumlu
+qstr_Accepting|Kayıtsız
+qstr_Indifferent|Kayıtsız
+qstr_Suspicious|Kayıtsız
+qstr_Grumbling|Şüpheci
+qstr_Hostile|Şüpheci
+qstr_Resentful|Hınçlı
+qstr_Angry|Hınçlı
+qstr_Hateful|Nefret dolu
+qstr_Revengeful|Nefret dolu
+qstr_Vengeful|Düşmanca
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}: {reg1} ({s3})
+qstr_Your_relation_with_t|Ülkelerle ilişkin:^{s2}
+qstr_V_{s10}_stroitsya_{s|{s11} is constructed in {s10}. Remaining {reg4} = {reg5}
+qstr_V_{s10}_postroeno_{s|{s10}'{.de} {s11} inşaatı tamamlandı.
+qstr_Player_renown_is_inc|Oyuncunun namı 100 arttı. 
+qstr_{reg1}_{s1}_{reg2?ac|{reg1} {s1} teklifi kabul ediyor.
+qstr_No_one_accepts_the_o|Kimse teklifi kabul etmiyor.
+qstr_You_start_reading_{s|{s2} isimli kitabı okumaya başlıyorsun. Bir kaç sayfa sonra, bu kitaptan öğreneceğin çok şey olduğunu hissediyorsun. Kitabı yanında tutup uygun her fırsatta okumaya karar veriyorsun.
+qstr_You_flip_through_the|{s2} kitabının sayfalarını karıştırıyorsun, ama takibi zor geliyor. Deneyip zorlasan da, birazdan başın ağrımaya başlıyor ve bırakman gerekiyor.
+qstr_You_paid_{reg3}_of_y|{reg4} talerinden adamlarına {reg3} ödeme yaptın. Toplam {reg5} talerin kaldı.
+qstr_Your_debt_to_your_me|Adamlarına {reg3} taler ödeme yapman lazım. Ancak sadece {reg4} talerin vardı. Ödeyemediğin {reg5} taler borcuna eklendi ve grubun moral kaybetti.
+qstr_This_week_s_wages:_{|Bu haftanın maaşları: {reg6} taler^Önceki borçların: {reg2} taler^Toplam Ödeme: {reg3} taler^Mevcut varlığın: {reg4} taler^^{s1}
+qstr_Villagers|Köylüler
+qstr_You_have_encountered|{s1} ile karşılaştın.
+qstr_Armiya_protivnika_po|Düşman kuvvetleri kampa geri çekildi.
+qstr_You_have_engaged_{s1|{s3} {s1} tarafından yağmalanıyorken, {s1} ile çarpışmaya girdin.
+qstr_You_were_caught_by_{|{s3} askerlerin tarafından yağmalanırken {s1} tarafından yakalandın.
+qstr_You_were_victorious!|Zafer kazandın!
+qstr_Battle_was_lost._You|Savaş kaybedildi. Güçlerin feci bir şekilde ezildi.
+qstr_Your_companions_carr|Arkadaşların seni savaş alanından uzaklaştırıyor.
+qstr_You_have_defeated_th|Düşmanı yendin.
+qstr_You_have_retreated_f|Savaştan geri çekildin.
+qstr_^^Ally_Casualties:{s|^^Müttefik Kayıpları:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} kaçmayı başardı.
+qstr_{s17}|{s17}
+qstr__V_gorode_ostalos_{r|Esir aldığın {reg0} savaşçı var. Onlarla ne yapacaksın?
+qstr__V_gorode_ostalos_{re|Tutsaklıktan kurtardığın {reg0} savaşçı var. Garnizona kayıtlarını alacak mısın? 
+qstr_Victory_comment._Pla|Savaş yorumu. Oyuncu yalnızdı.
+qstr_Ordinary_victory_com|Sıradan zafer yorumu. Oyuncu toplam kuvvetin en az yüzde kırkını sağladı. 
+qstr_Player_participation|Oyuncu katılım yorumu. Düşmanın başlangıçta en az 1k gücü vardı.  
+qstr_No_victory_comment._|Zafer yorumu yok. Savaş küçüktü ve oyuncu toplam kuvvetin yüzde kırkından azını sağladı.
+qstr_Some_of_your_tendons|Tendonların savaşta kısmen hasar almış. 1 Güç kaybettin.
+qstr_You_took_a_nasty_wou|İyileştikten sonra bile topallamana sebep olan sağlam bir yara aldın. 1 Çeviklik kaybettin.
+qstr_You_have_trouble_thi|Savaştan sonra düşünürken zorlanmaya başlıyorsun, muhtemelen başına aldığın sert bir darbeden, ve sürekli başağrıları musallat oluyor. Zekan 1 düştü.
+qstr_Perhaps_I_m_getting_|Belki de şansım azalıyordur...
+qstr_Retirement_is_starti|Emeklilik gittikçe kulağa daha iyi geliyor.
+qstr_No_matter!_I_will_pe|Neyse ne! Dayanacağım!
+qstr_What_did_I_do_to_des|Bunu haketmek için ne yaptım?
+qstr_I_suppose_it_ll_make|En azından iyi bir hikaye çıkar, sanırım.
+qstr_Player_retreats_from|Oyuncu savaştan çekiliyor.
+qstr_{s9}_wants_you_to_fo|{s9} ordusunu sonraki emre kadar takip etmeni istiyor.
+qstr_{s8}_of_{s9}|{s9}'{.n}{.den} {s8}
+qstr__Your_own_banner_fli| Sancağın kale girişinde dalgalanıyor.
+qstr__You_see_the_banner_| Kale kapısının üzerinde {s7}'{.nin} sancağının dalgalandığını farkediyorsun.
+qstr__This_castle_seems_t| Bu kale kimseye ait gözükmüyor.
+qstr__Your_own_banner_flie| Sancağın şehir girişinde dalgalanıyor.
+qstr__You_see_the_banner_o| Şehir kapılarının üzerinde {s7}'{.nin} sancağının dalgalandığını farkediyorsun.
+qstr__The_townsfolk_here_| Bu şehrin halkı bağımsızlığını ilan etmiş.
+qstr_Zapasov_edi_v_{reg6?|{reg6?Kentin:Kalenin} yiyecek stokları {reg3} gün daha dayanabilir.
+qstr_Zapasov_edi_v_{reg6?g|{reg6?Kentin:Kalenin} yiyecek stokları tükendi ve müdafaadakiler açlık çekiyor.
+qstr_Vi_stroite_lestnici_|Duvarlara saldırmaya hazırlanıyorsunuz. Hazırlıklar {reg9} saate kadar bitecek.
+qstr_Prokladka_podkopa_dl|Patlayıcıları yerleştirmek {reg9} saat daha sürecek.
+qstr_Postroika_lestnic_za|Hazırlıklar tamamlandı, istediğin zaman saldırıyı başlatabilirsin.
+qstr_Postroika_podkopa_za|Hazırlıklar tamamlandı, istediğin zaman saldırıyı başlatabilirsin.
+qstr_As_a_last_defensive_|Son bir savunma şansı için kalenin ana salonuna çekiliyorsun. Kalan adamlarınla burada çaresiz bir savaşa girişiyorsun. Eğer yenilirseniz, geri çekilecek bir yer kalmayacak.
+qstr_You_ve_been_driven_a|Duvarlardan sürüldünüz. Saldırganlar sokaklara akmaya başladı. Eğer onları yenebilirseniz, belki işin akışını çevirip günü kurtarabilirsiniz.
+qstr_You_ve_breached_the_|Şehir duvarlarından girdin. Ama inatçı müdafiler dirençlerine sokaklarda devam ediyorlar! Şehrin kalbindeki kaleye saldırmadan önce onları halletmen lazım.
+qstr_The_town_centre_is_y|Şehir merkezi senin, ama geri kalan saldırganlar kaleye çekildiler. Galibiyetini tamamlamak için kalenin düşmesi şart.
+qstr_The_remaining_defend|Savunmada kalanlar son savunma için kaleye çekildiler. Girip kalan direnci de kırmalısınız.
+qstr__kriticheskie|kritik
+qstr__ogromnie|büyük
+qstr__visokie|yüksek
+qstr_However_since_you_ar|Ne var ki, {s9}'{.nin} yeminli bir {adamı/takipçisi} olmadığından,  seni bu {reg8?şehrin:kalenin} {lordu/hanımı} olarak tanımasına imkan yok.
+qstr_The_enemy_has_been_f|Düşman çekilmeye zorlandı. Saldırı sona erdi, ama kuşatma devam ediyor.
+qstr__This_village_and_th| Bu köy ve onu çevreleyen alan sana ait.
+qstr__You_remember_that_t| Bu köyün ve civardaki toprakların sahibinin {s7} olduğunu hatırlıyorsun.
+qstr__These_lands_belong_| Bu topraklar kimseye ait değil.
+qstr__{s3}__{reg9}_.| {s3} ({reg9}).
+qstr__The_village_is_infe| Köy {reg8} {s35} tarafından istila edildi.
+qstr__The_village_has_bee| Köy yağmalandı. Yanmış evlerin arasından geçerken birkaç köylünün kaçıştığını görüyorsun.
+qstr__The_village_is_bein| Köy yağmalanıyor.
+qstr_No_one_here_seems_to|Burada kimse birliğine katılmaya istekli görünmüyor.
+qstr_One_{s3}_volunteers_|Bir {s3} seni izlemek için gönüllü oluyor.
+qstr_{reg5}_{s3}_voluntee|{reg5} {s3} seni izlemek için gönüllü oluyor.
+qstr_Try_as_you_might_you|Elinizden geleni yapsanız da, haydutları yenemiyorsunuz. Öfkeden kudurmuş bir şekilde, köylüleri cezalandırmak için köyü yerle bir ediyorlar ve yanmakta olan yıkıntıların arasından buradan ayrılıyorlar.
+qstr_village|köy
+qstr_town|kasaba
+qstr_castle|kale
+qstr_{s18}_{s0}|{s18}, {s0}
+qstr_The_{s17}_has_no_imp|{s17} için hiçbir gelişme yapılmamış.
+qstr_The_{s17}_has_the_fo|{s17} için yapılan gelişmeler:{s18}.
+qstr_The_assasins_beat_yo|Suikastçiler seni dövüp ölüme terkediyorlar.
+qstr_You_have_fallen._The|Düştün. Haydutlar hızlıca vücudunu arayıp bulabildikleri tüm parayı kapıp gecenin karanlığına karışıyorlar. Seni canlı bıraktılar, neredeyse.
+qstr_Luckily_some_of_your|Neyse ki dönmeyince bazı yandaşların seni aramaya geliyorlar ve yolun kenarında yatarken buluyorlar. Seni güvenli bir yere götürüp yaralarını sarıyorlar.
+qstr_Luckily_some_passing|Neyse ki yoldan geçen bazı kasabalılar seni yolun kenarında buluyorlar ve bir dilenciden fazlası olduğunu farkediyorlar. Seni en yakın hana taşıyıp yaralarını sarıyorlar.
+qstr_You_fail_to_steal_an|Hiçbir sığırı kaçırmayı başaramadınız.
+qstr_You_drive_away_{reg1|Köyün sürüsünden {reg17} baş sığır kaçırıyorsunuz.
+qstr_OiM_Teper_luchshe_{s|{s9} tarafından görülmesen iyi olur.
+qstr_OiM_Potop_Loshad_tep|At zapteldildi. Artık onu ait olduğu yere götürme zamanı.
+qstr_You_are_at_{s2}.|{s2}'{.e} geldin.
+qstr__You_have_successful| Başarıyla içeri sızdın.
+qstr___{reg1}_denars_per_| (Geceliği {reg1} taler)
+qstr_Moreover_you_earn_{r|Üstüne bir de, kendi üstüne oynadığın zekice bahislerden {reg8} taler kazandın...
+qstr_Victory_is_yours!_Yo|Galibiyet senin! Bu turu kazandın ama şimdi sonraki tura hazırlanman gerekiyor.
+qstr_You_have_been_bested|Bu kavgada yenildin, ama turnuva hakemi yetenek ve cesaretini alkışlayıp sonraki turda savaşmana izin veriyor.
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|Yenildin. Köylüler başarılarından dolayı yüreklendiler, ancak almalarını istediğin dersi muhtemelen kapamadılar.
+qstr_After_beating_your_l|Son rakibini de yendikten sonra, köylülere bu tip saldırılara karşı kendilerini nasıl korumaları gerektiğini anlatıyorsun. Bir dahaki sefere bu deneyimlerini kullanarak daha hazırlıklı olabileceklerini umut ediyorsun.
+qstr_The_bandits_are_brok|Haydutlar dağıldı! Hayatta kalıp bilinci yerinde olanlar da kuyruklarını bacaklarının arasına sıkıştırıp, köylüler ve yeni müdafilerinden dehşete düşmüş bir şekilde kaçıyorlar.
+qstr_{s1}_s_Ship|{s1}'in Gemisi
+qstr_^{s3}_=_{reg1}{s1}|^{s3} = {reg1}{s1}
+qstr_^{s3}_=_{reg1}{s2}|^{s3} = {reg1}{s2}
+qstr_However_{reg3?You_ar|Ne yazık ki,{reg3? :{s1} }kâr edecek mallar {reg3?bulamıyorsun:bulamıyor.}
+qstr_^Buying_{s4}_here_an|^Buradan {s4} alıp {s5}{.de} satmak, mal başına {reg6} taler kâr getirecektir.{s3}
+qstr_{reg3?You_find:{s1}_|{reg3?Şunları buluyorsun:{s1} şunları buluyor}:^{s3}
+qstr__Continue....|Devam et...
+qstr__Ne_hvataet_money_nu|Yeterli paran yok. {reg8} taler gerekiyor.
+qstr__Back|Devam et...
+qstr__Stoimost_{reg8}_din|Fiyat: {reg9} taler.
+qstr__Continue|Devam et...
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1}, {reg0} tecrübe kazandı.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1}, ek olarak {reg0} tecrübe kazandı.
+qstr_^You_earned_{reg0}_e|^{reg0} tecrübe kazandın.{s2}
+qstr_The_training_didn_t_|Talim hiç de iyi geçmedi.
+qstr_The_training_didn_t_g|Talim pek iyi geçmedi.
+qstr_The_training_went_qu|Talim fena geçmedi.
+qstr_The_training_went_ve|Talim oldukça iyi geçti.
+qstr_The_training_went_pe|Talim mükemmel geçti.
+qstr_{s13}_asked_you_to_r|{s13}, en az {reg13} askerle ona rapor vermeni emretti.
+qstr_{s13}_ordered_you_to|{s13}, {s14}{.e} yapılan saldırıya katılmanı emretti.
+qstr_Find_and_speak_with_|{s4}{.den} {s3} ile konuşup ona bağlılık yeminini sunmalısın.
+qstr_you|sen
+qstr_OiM_You_ve_failed_to|Köyü korumakta başarısız oldun.
+qstr_OiM_You_ve_protected|Düşmanı bozguna uğrattın. Yoluna devam edebilirsin.
+qstr_OiM_You_ve_failed_to_|Atı teslim edemedin.
+qstr_OiM_You_ve_protected_|Seni takip edenleri atlatmayı başardın. Şimdi bir başkası da atı sahiplenmeye kalkmadan, bir an önce atı teslim etmelisin. 
+qstr_OiM_Da_takoe_bivaet_|Böyle fırsat insanın önüne bir kere çıkar.
+qstr_OiM_Potop_Pani_osvob|Pani serbest. Geri dönme zamanı.
+qstr_OiM_Potop_kshetuskiy|Ahıra gizlice girmelisin.
+qstr_OiM_You_ve_failed_to_w|Düşmanın savunmasını aşamadın; savaş kaybedildi.
+qstr_OiM_You_ve_got_the_h|Seni takip edenleri atlatmayı başardın. Şimdi bir an önce atı Skrzetuski'ye teslim etmelisin. 
+qstr_Kozaki_podnyali_na_n|Kazaklar nöbetçileri alarma geçirdi!
+qstr_OIM_getman_heroe_can|Macar Şehri Berghoff hocasından büyük üstada bir rapor. ^^Selamlar, Mösyö! Öğrendiğime göre efsanevi “Kara Gürz”, Rusya'nın en önde gelen ailelerinden birine ait bir yadigarmış. Oleg hanesi efsanesine göre, milattan sonra 12. yüzyılın ortalarında ataları, kahinler diye bilinen pagan rahiplerle gizli bir anlaşma yapmışlar. Kahinlerin halk üzerinde derin bir etkisi varmış ve söylenen o ki prensler de gücü ele geçirmek için bu etkinin peşindelermiş. ^İşte bu da,  kahinlerin Oleg hanesinin prenslerine Kara Gürz'ü, inanılmaz güçleri olan bu silahı verdikleri zaman oluyor. Prensler gürzün saklanması için Kiev yakınlarındaki Kirillovskiy Manastırı'nı inşa ettirmişler. ^^Benzer bir efsane de Zhmuda'nın önde gelen ailelerinden Radzivill'ler için anlatılıyor. Görünen o ki Radzivill ailesinin rahip olan atalarının varlığı, ta Rurik hanesi zamanlarına kadar uzanıyor.
+qstr_OIM_getman_heroe_nee|Kitap anlayamadığın eski bir dilde yazılmış. Birinin senin için kitabı çevirmesi lazım.
+qstr_OIM_add__pora_nayti_|Arşivlerde uzun saatler geçirdikten sonra, gürzün Radziwill aile kabrinde olması gerektiğini keşfediyorsun. 
+qstr_OiM_You_ve_failed_to_wi|Savaşı kaybettin. Muhafızlar seni bağlayıp, zindana attı. 
+qstr_OiM_You_ve_wing_the_|Kral tahttan indirildi. 
+qstr_OIM_add_getman__Da_z|Radziwill'in gürz için çabalamasının bir sebebi vardı. Gürzü elinde bulunduran büyük ihtimalle tüm kadim ailelerin de desteğini kazanaktı. Bu antik yadigarı bulmayı denemelisin... 
+qstr_OIM_add_getman__Knig|Bu kitap bir çevirmen olmadan okunamaz.
+qstr_OIM_add_getman__Prik|Düşmana gerçek Kazak'ların nasıl savaştığını göstermenin zamanı geldi.
+qstr_OIM_add_getman__Nuzh|Ataman'ın senin için yeni bir görevi var. Onunla buluşmalısın.
+qstr_OiM_dmitriy_Teper_ko|Muhafızlar öldüğüne göre, yüzünü tanıyabilecek sadece Çar kaldı. Seni koruyacak güçlü bir hami bulmalısın. 
+qstr_OIM_add_getman__Prika|Barabash sana Moskova Çarlığını fethetme emri veriyor.
+qstr_OIM_add_getman__Bunt|İsyan kendi kanında boğuldu. Barabash  seni görmek istiyor.
+qstr_you_we_lost_the_figh|Savaşı kaybettin. Daha da kötüsü düşmana {reg0} taler ödemek zorundasın.
+qstr_you_won_the_fight._A|{reg0} taler kazandın. Aynı zamanda bazı yeni dövüş teknikleri öğrendin.
+qstr_you_we_lost_the_fight|Yenildin. Şanslısın ki bir sıyrıkla atlattın.
+qstr_you_won_the_fight._An|Dövüşü kazandın ve birkaç yeni numara öğrendin. 
+qstr_You_ve_got_wound.._I|Yaralandın. En iyisi biraz dinlenip gücünü toparlaman. 
+qstr_oim_the_duel_is_over|Dövüş berabere sonuçlandı. 
+qstr_oim_the_duel_is_over.|Kaybettin. Atış becerilerin üzerinde daha fazla çalışmalısın.
+qstr_oim_the_duel_is_over._|Tüfekle uzun saatlerce yaptığın talimler işe yaradı. Kazandın!
+qstr_You_sought_that_the_|Tavernada akşam yemeğini yerken zengin bir şehirli dikkatini çekti. Biraz da sarhoş olan bu adamın ağır kesesini hafifletmek pek de zor olmayacak gibi...
+qstr_There_is_gourds._It_|Tavernada biraz dinlenip bir şeyler yedikten sonra yolculuğuna devam etmeye karar veriyorsun.
+qstr_You_lost_the_fight._|Kaybettin. Kavgayı duyan muhafızlar gelip seni yere seriyor...
+qstr_The_man_is_dead..._Y|Rakibini öldürdün. Silahını ve kesesindeki paraları al.
+qstr_you_were_killed_as_c|Mahkemenin kararı kuşkusuz acımasız -- {playername} cinayet ve soygundan idama mahkum edildi.
+qstr_Nu_vow_vostaniye_zak|İsyan sona erdi. Razi'le konuşma zamanı.
+qstr_Razin_now_is_the_mar|Razin mareşal oldu.
+qstr_OiM_text_for_main_qs|Ulak, kralın seni bizzat görmek istediğini söyledi...
+qstr_Viberite_nuzhnuyu_va|Gerekli hizmeti seç.
+qstr_Na_daniy_moment_eto_|Bu yerleşim merkezi bomboş. Sokaklarda sadece rüzgarın uğultusu duyuluyor.
+qstr_V_vashem_otryade_net|Hiç yoldaşın yok.
+qstr_V_vashem_otryade_ime|Grubunda eğitilebilecek yoldaşların var. 
+qstr_Prosmotret_spisok_go|İçinde yardımcın bulunan, kuşatma altında olmayan şehirlerin listesini gör. 
+qstr_U_vas_net_gorodov_gd|Şu anda yardımcı gönderebileceğin bir yer yok. 
+qstr_Vam_nuzhno_poslat_go|Başkentin işgal edildi. Geçici bir başkent seçmelisin.
+qstr_Vibor_stolici_proshe|Artık yeni bir başkentin var.
+qstr_Vam_nuzhno_vibrat_di|Bir başkentin, ya da başkent ilan edebileceğin başka bir şehrin yok.
+qstr_{s5}|{s5}
+qstr_{s6}_^{s5}|{s6} ^{s5}
+qstr_{s7}|{s7}
+qstr_{s8}_^{s7}|{s8} ^{s7}
+qstr_Breaking_camp...|Kamp toplanıyor...
+qstr_{s65}|{s65}
+qstr_Current_wealth:_{reg|Mevcut servetin: {reg1}
+qstr_Your_party_is_spotte|Partin {s1} tarafından farkedildi.
+qstr_{reg1}_{s1}_{reg2?ha|Gece vakti grubundan {reg1} {s1} kaçtı.
+qstr_{s1}_of_{s3}_has_bee|{s3}{.den} {s1} esaretten serbest bırakıldı.
+qstr_Building_of_{s0}_in_|{s4}{.de}ki {s0} inşası tamamlandı.
+qstr_{s1}_is_no_longer_in|{s1}{.de}ki haydut istilası sonra erdi (gece).
+qstr_You_pay_for_accommod|Barınma için ücret ödüyorsun.
+qstr__Your_tactics_skill_| Taktik yeteneğin 1 yükseldi.
+qstr__Your_persuasion_ski| İkna yeteneğin 1 yükseldi.
+qstr__Your_leadership_ski| Liderlik yeteneğin 1 yükseldi.
+qstr__Your_intelligence_h| Zekan 1 yükseldi.
+qstr__Your_trade_skill_ha| Ticaret yeteneğin1 yükseldi.
+qstr__Your_weapon_master_| Silah ustası yeteneğin 1 yükseldi.
+qstr__Your_engineer_skill| Mühendislik yeteneğin 1 yükseldi.
+qstr_You_have_finished_re|{s1} kitabını okumayı bitirdin.{s2}
+qstr_Book_Read|Kitap okundu.
+qstr_You_must_follow_{s1}|{s1}'{.i} takip etmelisin!
+qstr_You_must_follow_{s1}!|{s1}'{.i} takip etmelisin! Bu son uyarıdır!
+qstr_{s1}_is_scouted.|{s1} gözlendi.
+qstr_{s1}_has_switched_fr|{s1}, {s2}{.den} {s3}{.e} geçti.
+qstr_{s4}_is_in_{s5}|{s4} {s5}'{.de}.
+qstr_OiM_Ne_uspeli_otoyti|Sen Kazaklardan uzaklaşamadan mahkum seninle konuşmaya çalışıyor.
+qstr_OiM_add_{s2}_joined_|{s2} Zagloba isyanına katıldı!
+qstr_{s5}^_{s1}|{s5}^ {s1}
+qstr_You_promised_to_help|{s13}'{.e} {s14} tahtını ele geçirmesine yardım etme sözü verdin.
+qstr_{s6}_has_joined_your_|{s6} grubuna katıldı.
+qstr_{reg65?my_Lady:my_Lo|{reg65?hanımım:lordum}
+qstr_{reg65?My_Lady:My_Lo|{reg65?Hanımım:Lordum}
+qstr_{reg65?madame:sir}|{reg65?hanımefendi:efendim}
+qstr_{reg65?Madame:Sir}|{reg65?Hanımefendi:Efendim}
+qstr_Viberite_variant.|Nasıl askerler eğitmemizi istersiniz efendim?
+qstr_Seychas_vse_dostupni|Şu anda tüm ehil subaylar acemilerin eğitimiyle meşgul. 
+qstr_U_vas_nedostatochno_|Şu anda para kesen tek bir milis asker bile alamayacak kadar hafif! 
+qstr_Vot_vse_chto_dostupn|İşte sana teklifim.
+qstr_Vot_chto_vam_seychas|Mevcut olanlar:
+qstr_Na_daniy_moment_net_|Uygun bir seçenek yok.
+qstr_Ya_seychas_zaynuat_p|Üzgünüm ama hala {s1} siparişinle meşgulüm. Tekrar boşa çıkma sürem: {reg2} {reg1?gün:saat}.
+qstr_Viberite_zhelayumiy_|Ne bilmek istiyorsun?
+qstr_Zdes_esche_net_{s1}.|Burada hala {s1} eksik
+qstr_Zdes_uzhe_est_{s1}.|Burada zaten {s1} var
+qstr_{reg0?Naynyat:Postro|{reg0?İşe al:İnşa Et}.
+qstr_U_vas_zdes_uzhe_post|Şu binalar hali hazırda yapılmış durumda:^
+qstr_Zdes_k_tebe_loyalni_|Şehirdeki şu görevler için birilerini atadın:^
+qstr_U_vas_nichego_esche_|Şimdilik bu konuda başarıya ulaşamadık.
+qstr_It_s_your_money_or_y|Ya paran ya canın, {koçum/güzelim}. Ani hareket yapma, deşeriz.
+qstr_Lucky_for_you_you_ca|Şanslısın bugün sağımdan kalktım. Tüm paranızı verirseniz yaşamanıza izin verebilirim.
+qstr_This_a_robbery_eh?_I|Bu bi' soygun, ha? Size her şeyinizi vermek için bi' şans veriyorum, yoksa ben ve adamlarım sizi öldürüveririz. Anladın mı?
+qstr_we_have_made_very_li|şimdilik çok az ilerleme katettik
+qstr_we_have_suceeded_in_|mesafe kaydetmeye başladık, ama yine de yapacak çok işimiz var
+qstr_we_have_become_a_sig|dikkate edilmesi gereken bir güç haline geldik ve kazanma şansımız var
+qstr_we_are_winning_the_w|savaşı kazanıyoruz, ama düşmanlarımız hala direniyor
+qstr_we_are_on_the_verge_|galibiyetin eşiğindeyiz. Kalan düşmanlar bir tehdit oluşturmuyor, ama yine de onları avlamamız gerekiyor
+qstr_Yes_{s5}?|Evet, {s5}?
+qstr__no_fiefs_|(Hiç mülkü yok)
+qstr__fiefs:_{s0}_|(Mülkleri: {s0})
+qstr_{playername}_when_we|{playername}, uzun yürüyüşümüze başladığımızda pek az kişinin beni destekleyecek cesareti vardı. Ve çok daha azı davam için hayatlarını riske atmaya istekliydi. Ama sen, kendini düşmanlarımın önüne atmak için bir an bile durmadın. Beraber çok şey geçirdik ve umudu kaybetmeye yaklaştığım zamanlar oldu. Ama Tanrı'nın yardımıyla, alnımız açık çıktık. Artık yanından ayrılma ve hakettiğimi alma vakti geldi. Bu andan itibaren {s3}{.i} yönetme sorumluluğunu taşıyacağım. Hala pek çok engelle karşılaşabiliriz ve bunları aşmak için sana güveniyorum. Ve tabii ki, her zaman en önemli vasalım olarak kalacaksın.
+qstr_I_am_{s4}_the_ruler_|Ben {s4}, {s6} hükümdarı
+qstr_I_am_{s4}_a_vassal_o|Ben {s4}, {s6} derebeyi.
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5? Ve {s8} lordu.:.
+qstr_Your_mission_is_comp|Görev tamamlandı. {s9} ordusunu takip etmeye devam etmine istiyor. 
+qstr_{s13}_asked_you_to_g|{s13}, {reg3} baş sığır toplamanı ve ona getirmeni emretti.
+qstr_{s9}_asked_you_to_sc|{s9}; {s13}, {s14} ve {s15} bölgelerini gözlemeni ve ona rapor etmeni istedi.
+qstr_{s16}_and_{s17}|{s16} ve {s17}
+qstr_{s16}_{s17}|{s16}, {s17}
+qstr_Very_well_I_will_acc|Pekala, seni saflarıma tekrar kabul edeceğim, eğer kutsal yemini tekrar etmeye hazırsan.
+qstr_A_pardon_will_only_b|Seni affetmemin tek yolu, bana {s17}'{.i} teslim etmen. Şartlarımı kabul ediyor musun?
+qstr_No._There_is_no_chan|Hayır, aramızda barış olma şansı yok. İlgilenmiyorum.
+qstr_We_are_not_at_war_wi|Kimseyle savaş durumunda değiliz.
+qstr_We_are_at_war_with_{|{s12} ile savaş halindeyiz.
+qstr_{s9}_asked_you_to_ta|{s9} senden {s13} için yazdığı bir mesajı götürmeni istiyor. Görevi aldığın sırada {s13}, {s4}'{.de} bulunuyordu.
+qstr_{s9}_asked_you_to_tak|{s9} senden {s15}'{.den} {s13}'{.e} bir mesaj götürmeni istiyor. Görevi aldığında, {s13}, {s4}'{.de} bulunuyordu.
+qstr_{s11}_asked_you_to_e|{s11} senden {s17}'{.i} {s13}'{.den} {s14}'{.e} kadar refakatçilik yapmanı istiyor.
+qstr_{s13}_asked_you_to_d|{s13}, senden ona ait {s15}'{.e} yerleşen haydutlarla ilgilenmeni, ardından kendisine rapor vermeni istedi.
+qstr_{s9}_asked_you_to_ra|{s9}, {reg1} {s14} yetiştirip kendisine getirmeni istedi.
+qstr_{s9}_asked_you_to_co|{s9}, {s3} vergilerini toplamanı istedi. Topladığın tüm paranın beşte birini sana bırakmayı önerdi
+qstr_{s9}_asked_you_to_hu|{s9}, senden {s4} olarak bilinen kaçağı avlamanı istedi. Şu an {s3}'{.de} olduğu sanılıyor.
+qstr_{s9}_asked_you_to_as|{s9}, {s3} yererl tüccarını öldürmeni istedi.
+qstr_{s9}_has_asked_you_t|{s9}, {s13}'{.de} bulunan casusla buluşmanı istedi.
+qstr_{s9}_asked_you_to_ca|{s9} senden {reg13} kervanlarına saldırmanı ve böylece {s13}'{.i} savaşa kışkırtmanı istedi.
+qstr_{s9}_asked_you_to_cat|{s9} senden 3 grup halinde kaçan köleleri, canlı yakalayıp {s4}'{.e} geri getirmeni istedi; ve üç grubun da {s3}'{.e} doğru gittiğini söyledi.
+qstr_{s11}_asked_you_to_f|{s11}, {s12}{.den} ayrılan casusu izlemeni istedi. Casusun seni yolda görmemesine dikkat etmelisin, yoksa şüphelenip geri dönebilir. Casus bir kere suç ortağıyla buluştuktan sonra, her ikisini de yakalayıp {s11}'{.e} getirmen gerekiyor.
+qstr_{s11}_asked_you_to_c|{s11}, {s13}{.den} herhangi bir lord yakalamanı ve ardından kurbanını saklamak üzere {s11}'{.e} getirmeni istedi.
+qstr_{s9}_asked_you_to_le|{s9}, yardımcın {s3}'{.i} ona bir hafta ödünç vermeni istedi.
+qstr_{s9}_asked_you_to_col|{s9}, {s3}'{.nin} ona olan {reg4} talerlik borcunu toplamanı istedi. {s3}, sen bu görevi aldığında {s4}{.de} idi.
+qstr_{s11}_gave_you_a_fak|{s11} sana {s13}'{.nin}, {s16} vasalını sürmesi için kandırmak üzere sahte bir mektup verdi. {s14} civarına gitmen, mektubu {s15} askerlerinden birine vermen ve onu şehre, mesajının gerçek olduğuna inanarak, ulak olarak yollaman gerekiyor.
+qstr_{s9}_has_requested_y|{s9}, ona {reg1} {s3} mahkum getirmeni istedi.
+qstr_Lend_your_experience|{s1} senden tecrübeli cerrah {s3}'{.i} istedi.
+qstr_Then_take_it_with_my|O zaman en derin minnet duygularımla onu alın. Gerçek bir asilsiniz. Bana zor anımda yardım ettiğinizi asla unutmayacağım.
+qstr_Forgive_me_{playerna|Kusura bakma {playername}, ama kabul etmeniz için ısrar edeceğim. Paranın benim için anlamı küçük ve size borcum büyük. Buyrun, kabul edin, ve bundan daha fazla bahsetmeyelim.
+qstr_{playername}_what_a_|{playername}, ne kadar değerli birisiniz, ancak bunu reddetmenize izin vermeyeceğim. Size söyleyebileceğimden fazlasını borçluyum ve eminim bu parayı benden daha iyi bir şekilde kullanabilirsiniz.
+qstr_{s11}_asked_you_to_r|{s11} senden {s17}'{.i}, {s13}'{.i} {s14}'{.den} zindanda onun yerine geçerek kurtarmanı istedi.
+qstr_{s11}_asked_you_to_d|{s11}, {s14}{.de} tutsak olan {s13} için bir mesaj iletmeni istedi.
+qstr_You_agreed_to_challe|{s11}'{.nin} onurunu korumak için {s13}'{.nin} karşısına çıkmayı kabul ettin.
+qstr_{s5}__Persuasion_str|{s5} (İkna kabiliyetin {reg5} talerini kurtarmanı sağladı.)
+qstr_Persuasion_Attempt|İkna Denemesi
+qstr_A_villager_from_{s7}|{s7}'{.den} bir köylü, köylerini oraya yerleşen haydutlardan kurtarman için senden yardım dilendi.
+qstr_You_chose_well_{sir/|İyi seçim, {efendim/hanımefendi}. Adamlarım sözlerini tutmasını ve ücretlerini hak etmesini bilirler.
+qstr_Well_done_{sir/madam|Çok güzel, {efendim/hanımefendi}. Paramızı ve şarabımızı eksik etmediğiniz sürece kimseden korkunuz olmasın.
+qstr_We_are_at_your_servi|Hizmetinizdeyiz, {efendim/efendim}. Kime zarar verilecekse bize yerini gösterin, gerisini biz hallederiz.
+qstr_You_will_not_be_diss|Hayal kırıklığına uğramayacaksınız {efendim/hanımefendi}. Beş yüz kilometre de gitseniz bunlardan daha iyi savaşçılar bulamazsınız. 
+qstr_The_Guildmaster_of_{|{s13} valisi, şehrin etrafında çapulcularla ilgilenmeni istedi.
+qstr_{s9}_of_{s3}_asked_y|{s3}{.den} {s9} 7 gün içinde {s4}{.de}ki hana {reg5} adet {s6} ulaştırmanı istedi.
+qstr_Escort_the_merchant_|{s8} şehrine giden ticaret kervanına refakat et.
+qstr_Merchant_{s9}_of_{s4|{s4}{.den} tüccar {s9}, senden şehrin civarındaki belalı haydutları avlamanı istedi. 
+qstr_Guildmaster_of_{s4}_|{s4} valisi haydutlar tarafından kaçırılan bir kızın fidyesini ödemen için sana {reg12} taler verdi. Haydutlarla {s3} yakınlarında buluşup fidyeyi ödemen gerekiyor. Ardından kızı {s4}'{.e} geri getirmen bekleniyor.
+qstr_Guildmaster_of_{s4}_p|{s4} valisi {s12} ve {s13} kişilerinin, {s15} ve {s14} arasında olası bir barış durumuna karşı tehdit olmamalarını sağlamayı başarırsan sana {reg12} taler önerdi. Bunu yapmak için onları ya ikna etmeli ya da anlaşma yapılana kadar esir olarak tutmalısın.
+qstr_The_Guildmaster_of_{s|{s14} lonca başkanı {s14} sokaklarına terör saçan bir grup haydutla ilgilenmeni istedi. Sadece geceleri ortaya çıkıyorlar ve sadece sokaklardaki yalnız yolculara saldırıyorlar.
+qstr_Guildmaster_of_{s10}|{s10} lonca başkanı bir sığır sürüsünü {s13}'{.e} sürmeni istedi. Karşılığında {reg8} taler kazanacaksın.
+qstr_He_is_not_commanding|Şu an hiç kimseyi yönetmiyor.
+qstr_He_currently_command|Şu an {reg1?, yaklaşık {reg1} tanesi yaralı olan }{reg0} askere hükmediyor.
+qstr_The_elder_of_the_vil|{s3}{.nin} muhtarı ona {reg5} çuval buğday getirmeni istedi.
+qstr_The_elder_of_the_vill|{s3}{.nin} muhtarı haydutlarla savaşabilmeleri için {reg5} çiftçiyi eğitmeni istedi.
+qstr_The_elder_of_the_villa|{s3}{.nin} muhtarı ona {reg5} baş sığır getirmeni istedi.
+qstr_As_{s9}_said_it_woun|{s9} {s10}'{.e} uğramanı tavsiye etti. Görünüşe bakılırsa köyün muhtarı bazı işleri için cesur adamlar arıyor.
+qstr_OiM_The_elder_{s9}_a|Bir grup haydut Zamoshye köyünün çevresine konuşlandı. Köyün muhtarı senden yakınlardaki ormanda kamp kurmuş olan bu haydutlarla ilgilenmeni istedi.
+qstr_OiM_The_elder_{s9}_as|{s9} senden {s10}'{.i} vergileri düşürmek için ikna etmeni istedi. 
+qstr_OiM_The_elder_{s9}_ask|{s9} senden 3 çuval {s10} getirmeni istedi.
+qstr_OiM_The__De_la_Gardi|Yeni ipuçları {s10}'{.e} doğru uzanıyor. Belki de yerli halk bir şeyler biliyordur... 
+qstr_OiM_getman_No_skazal|Görevi başaramamana rağmen, yaşlı Evangelic'in {s4}'{.de} olduğunu söyledi.  
+qstr_OiM_The__{s9}_asked_|{s9} senden Sich'e {s10}'{.i} götürmeni istedi.
+qstr_OiM_nu_vot_so_shmato|Ağzındaki domuz yağı parçasıyla Tatar zar zor konuşuyor.
+qstr_OiM_Kozaki_zametii_4|Kazaklar ihanetinin farkına vardı...
+qstr_OiM_The_{s9}_asked_y|{s9} senden kendisini {s10}'{.e} götürmeni istedi.
+qstr_OiM_Kozaki_zametili_|Kazaklar kendilerine ihanet ettiğini anladılar.
+qstr_OiM_teper_mozhno_dal|Şimdi yolculuğuna devam edebilirsin.
+qstr_OiM_Ischi_teper_yego|O zaman Ataman'a gidiyoruz...
+qstr_OiM_The_{s9}_need_to|{s9} senden en az {reg0} askeri {s10}'{.e} getirmeni istedi.
+qstr_OiM_Ne_uspeli_s_cona|Daha atından bile inmeye fırsat bulamadan Kazaklar köye geldi...
+qstr_OiM_Jaz_budet_jarko|Görünen o ki savaştan kaçınmak mümkün olmayacak. Şimdi bizzat Kazakların savaşta nasıl olduklarını göreceksin. 
+qstr_OiM_{s9}_asked_you_v|{s9} senden Moskova'ya gidip Don Cossacks'a malları teslim etmeni istedi.
+qstr_OiM_Potop_nuzhno_per|Mallar alındı. Şimdi bunları {s6}'{.e} götürmelisin.
+qstr_OiM_{s9}_asked_you_t|{s9} senden silah yüklü bir konvoyun yolunu kesmeni istedi. Raporlarına göre konvoy {s10} – {s11} arası yolculuk yapıyor.
+qstr_OiM_{s9}_asked_you_to|{s9} senden Clermont'u Kralın huzuruna getirmeni istedi. 
+qstr_OiM_{s9}_asked_you_to_|Yanında en az 10 askerin olursa, {s9} da seninle gelecek...
+qstr_OiM_{s9}_asked_you_to_b|{s9} senden {s10}'{.i} yağmalamanı istedi. 
+qstr_OiM_{s9}_skazal_chto|{s9} senin adına Ataman'la konuşacağını söyledi.
+qstr_OiM_{s9}_asked_to_br|{s9} senden atı {s10}'{.e} getirmeni istedi.
+qstr_As_{s9}_said_to_get_|{s9} parayı {s10}'{.den} tahsil etmeni ve Hmelnitski'ye getirmeni istedi. 
+qstr_As_{s9}_give_you_a_r|{s9} sana {s10} için bir tavsiye mektubu verdi.
+qstr_OiM_{s9}_asked_to_lo|{s9} senden üç Lehistan köyünü yağmalamanı istedi.
+qstr_OIM_add_{s9}_asked_y|{s9} Slbsy Zagloba'y bulmanı tavsiye etti. Eski Leh subayı muhtemelen Lehistan topraklarında bir meyhanede kafayı çekmekle meşgul. 
+qstr_OIM_add_{s9}_asked_yo|{s9} senden {s11}'{.e} bir mektup götürmeni istedi.
+qstr_OIM_add_{s9}_deliver|{s9} kendisine bir İsveç askerini esir alıp getirmeni istedi.
+qstr_OIM_add_You_were_ask|Kutsal bir Leh manastırı tehlikede! Kral Jan Kasimir {s10}{s.e} gidip orayı kirleten İsveçli kafirleri geri püskürtmen için emir verdi. 
+qstr_OIM_add_Wam_nuzhno_o|Lehistan başkenti İsveçliler tarafından ele geçirildi. Ne olursa olsun {s10}'{.i} geri almalısın. Sadece senin değil, tüm Lehistan'ın geleceği tehlikede. 
+qstr_OIM_add_{s9}_asked_you|{s9} senden bir İsveç subayını esir almanı istedi. 
+qstr_OIM_add_{s9}_asked_you_|{s9} sana zor bir görev verdi. Lehistan ve Kırım Hanlığı arasındaki barış anlaşmasının güvenliğini sağlamalısın. Bunu için Jan Kasimir'in hizmetinden ayrılmalı, {s10}'{.i} bulmalı ve taht için mücadelesinde ona desteğini sunmalısın. Karşılığında, Han olduğunda Lehistan ile barış yapacağı sözünü almalısın. Ama birini tahta çıkarmak öyle kolay bir iş değildir. Bunun için Tatar Mirza'ları yanında toplamalı, tüm karşı gelenleri de esir almalısın. Aynı zamanda Kırım Hanlığı'ndaki tüm şehirleri ve kaleleri de ele geçirmelisin.  
+qstr_OIM_add_{s9}_asked_you_t|{s9}, bu işbirliğinin karşında senden Moskova Çarlığı'nın iki şehrini ele geçirmeni istedi.
+qstr_OiM_Potop_Pora_pogov|Kralın emirlerini yerine getirdin. Şimdi onunla konuşmalısın. 
+qstr_OIM_add_As_{s9}_said|{s9} eğer soyluların desteğini tekrar kazanabilirsen seni hizmetine geri almaya ve ünvanını iade etmeye söz verdi. Albay Zegloba ile konuşmalı ve soyluların en az yarısını kendi tarafına çekmelisin... Sejm toplantısında kimsenin "nie pozwalam!" diye bağırmasını istemezsin.
+qstr_OiM_Potop_{s3}_prosi|{s3} sana {s4}'{.i} tutsak almanı emretti.
+qstr_OiM_Potop_Shveda_slo|İsveçli mahkumu ararken.
+qstr_OiM_Potop_Borzobagat|Borzobogataya'nın {s5}'{.de} olduğunu öğrendin.
+qstr_{s4}_{s2}|{s4}, {s2}
+qstr_{s5}_{s2}|{s5}, {s2}
+qstr_OIM_add_Nu_polkiy_se|Sejm oturumu devam ediyor. Şimdi tek yapman gereken sonuçları beklemek.
+qstr_OIM_add_Nu_vot_teper|Şimdi {s7} şuraları ele geçirmen için talimat verdi: {s3}, {s4}, {s5}, ve {s6}.
+qstr_OIM_add__{s2}_hochet|Kral {s3}'{.i} ele geçirmeni istiyor.
+qstr_OIM_add__Teper_pora_|Şimdi Krala karşı bir milis kuvvet toplayıp, sonunda tahta hak eden birini geçirmenin zamanı. İlk iş olarak soyluların desteğini garantilemelisin...
+qstr_OIM_add__Teper_kogda|Jan Kasimir paralı askerler tuttu. Lehistan'daki tek bir şehri bile yağmalamadan durdurulmaları lazım.
+qstr_{s4}.|{s4}.
+qstr_OiMP2_str_qst_potop_|Bunlar Lehistan için vahim zamanlar. Dört bir taraf düşmanla çevrili; İsveç Krallığı, Moskova Çarlığı ve Kazak Atamanlığı... Lehistan'ın bu İsveç tufanının önüne geçebilecek bir kahramana ihtiyacı var; bu itaatsiz soyluları yola getirecek ve düşmanı alt etmek için bir yumruk gibi bir araya getirecek bir kahramana...
+qstr_OIM_add_getman__{s4}|{s4} senden {s3}'{.i} saldırıdan korumanı istiyor. 
+qstr_OIM_add_getman__star|Yazık ki yaşlı adam sana her şeyi anlatamamış. Ama belki de Kara Gürz hakkında bir şeyler bilen başka biri vardır...  
+qstr_OiM_add_Nu_teper_por|Bir ipucu buldun. Belki Clermont Kara Gürz hakkında bir şeyler biliyordur. 
+qstr_OIM_add_getman__{s5}|Clermont Kara Gürz hakkında {s5}'{.den} bir şeyler duyduğunu söyledi. 
+qstr_OIM_add__chtobi_uzna|{s3}'{.nin} Kara Gürz'ün sırrını bilebileceğini öğrendin. {s3}'{.nin} tahta çıkması için {s4}'{.e} karşı bir ayaklanma başlatmalısın.  
+qstr_OIM_add__{s3}_prosil_|{s3} sana Kiev valisi ile görüşmen için talimat verdi. 
+qstr_OIM_add_Kiev_{s3}_pr|Kiev'e, {s3}'{.e} geri dönmelisin. 
+qstr_OIM_add__Net_zolota_|Belki de Kiev valisi bir şeyler biliyordur. Ama para olmadan bilgi toplamak da pek mümkün değildir. 
+qstr_OIM_add__Nu_chto_zhe|Kazak haklıydı! Radziwill'in Kara Gürz hikayesiyle bir alakası var. Prense bazı sorular sormanın zamanı geldi gibi duruyor...  
+qstr_OIM_add__{s3}_hochet|Daha tek bir soru bile cevaplamadan, {s3} senden bir Tatat Mirza'yı esir almanı istedi. 
+qstr_OIM_add__pora_iskat_|Mirza tarafından yazılmış ve Templar arşivlerinde Kara Gürz ile ilgili bilgi olduğundan bahseden bir mektup buldun. {s20}'{.e} gidip arşivleri araştırman akıllıca olacaktır. 
+qstr_OIM_add_Kyazya_Olgov|Arşivlerde uzunca bir süre geçirdikten sonra, Oleg hanesi prenslerinin Kara Gürz hikayesiyle doğrudan bağlantılı olduğunu öğrendin. 
+qstr_OIM_add__nuzhno_vitr|Herif sıkı çıktı. Onu konuşturmanın bir yolunu bulmalısın.
+qstr_OIM_add_getman__Pora|Başka bir ipucu ve başka bir gizem – Karga Kitabı!
+qstr_OiM_getman_Knigu_moz|Kitabı deşifre etmek kolay olmayacak. {s6}'{.den} Aziz Pafnuty isimli alimi bulmalısın. 
+qstr_OiM_getman_Nuzhno_pe|Pafnuty kitabı çevirmeyi kabul etti ama bunun için {s3} arşivlerine erişim istiyor.
+qstr_OiM_getman_Kniga_na_|Pafnuty'i arşivlere getirdin. Şimdi kitabı çevirmesi için beklemelisin.  
+qstr_OIM_add_getman__Koza|Kazak Mamai'nin bir çok efsane bildiğini söylüyorlar. Belki de onunla konuşmalısın...
+qstr_OIM_add_getman__Bara|Görünen o ki Ataman Barabash hayattaymış. Sana oldukça faydası dokunabilir...
+qstr_OIM_add_getman__Nu_c|Bir plan tezgahladın. Radziwill'e bir paralı asker kılığına girerek yaklaşacak ve onu öldüreceksin...
+qstr_{s1}_s_tomb|Burada {s1} yatıyor.
+qstr_OIM_add_getman__Chto|Barabash'ın tarafında yer aldın. Şimdi, nüfuzunuzu arttırıp, Atamanlık gürzünü Barabash'a kazandırmak için, en azından Kazak Albayların yarısını kendi tarafınıza çekmelisin. 
+qstr_OIM_add_getman__tepe|Artık Kazaklara katıldığına göre Mamai, Hmelnitski'yi seni mareşal yapması için ikna edebilir. Şimdi tek yapman gereken karar verilene kadar beklemek.   
+qstr_OIM_add_getman__{s5}_|{s5} yük arabalarının {s3}'{.den} ayrılıp {s4}'{.e} gittiğini söyledi. Belki de Hmelnitski haklıdır.
+qstr_OIM_add_getman_Bilo_|Açık bir diplomasi izlemeye ve niyetini anlatması için bir elçi yollamaya karar verdin...
+qstr_Velikoye_Knyazestvo_|Büyük Rus Eyaleti
+qstr_OIM_add_getman_Koron|Önce Kara Gürz, şimdi Vytautas tacı... Yeni bir gün, yeni bir gizem.
+qstr_Mamay|Mamai
+qstr_Nu_chto_zhe_budem_tr|Görünen o ki taç {s3}'{.de}. Manastırın zindanlarına gizlice girip onu almalısın. 
+qstr_OIM_add_getman_od_mo|Denizden denize – yeni Yüce Prens'in buyruğu böyle...
+qstr_OIM_add_getman__Nu_ch|Tahta giden yol engellere dolu ve tehlikelidir. Babamız Çar'ı devirip yerine geçmeye cüret edecek kişinin kurnaz ve eşi benzeri görüşmemiş derecede cesaretli olması lazım. Korkunç savaşlar yapacak kadar yürekli ve masum kanı da dökmeye razı olması lazımdır. 
+qstr_OiM_dmitriy_Teper_kog|{s4} kendisine yardım etmeyi reddettiğin için oldukça kırılmış gözüküyor. Şimdi seninle Dertli Zamanlar tarihi hakkında konuşması için hiç umut yok. 
+qstr_OIM_add_getman__Nuzhn|Bir Gerasim Evanjelik'in sana Sahte Dmitry ile ilgili anlatabileceği çok şey olduğunu öğrendin. Bu Gerasim'i {s3}'{.de} aramalısın.
+qstr_OiM_The_elder_{s9}_s|{s9} sana rahibin {s10}'{.de} olduğunu söyledi. Yerel halkla konuşmayı dene. Belki onu gören olmuştur. 
+qstr_OiM_getman_Yavangeli|Evanjelik'in {s4}'{.de} olduğunu öğrendin.
+qstr_OIM_add_getman__Nuzhno|Son nefesini vermeden önce Gerasim sana {s3} ile konuşmanı söyledi.
+qstr_OiM_The_{s9}_prosil_|{s9} senden Eleanor'u {s10}'{.den} alıp {s11}'{.e} getirmeni istedi.
+qstr_OiM_The_{s9}_prosilf|{s9} senden onu {s11}'{.e} getirmeni istedi.
+qstr_OiM_The_{s9}_prosilf_|{s9} senden {s11}'{.e} bir mektup ulaştırmanı istedi.
+qstr_OiM_The_{s9}_prosil_v|{s9} senden {s11}'{.e} bir mektup ulaştırmanı istedi.
+qstr_OiM_The_{s11}_dobriy|{s11} ciddi bir adam. Açıklamalarınla ilgilenmedi ve seni direk sorguya gönderdi. 
+qstr_OiM_The_Nu_chto_zhe_|Efendini kaybettiğine göre {s11}'{.e} gitmekten başka bir çaren kalmadı.
+qstr_OiM_Alevtina_v_Kafe_|Alevtina Kafa'da tutuklu bulunuyor.
+qstr_OiM_pohozhe_alevtinu|Görünen o ki Mirza, Alevtina'nın gitmesine izin vermeyecek. Güç kullanman gerekebilir... 
+qstr_OiM_getman_Pohozhe_b|Görünen o ki Razin yeni Çar hakkında şaka yapmıyor... Pekala, öyle olsun. 
+qstr_OiM_Teper_kogda_ya_p|Artık tahta talip olduğuna göre, soyluları senin yönetme hakkına ikna etmen gerekiyor. 
+qstr_{s5}.|{s5}.
+qstr_{s3}|{s3}
+qstr_{s2}_{s3}|{s2}, {s3}
+qstr_I_can_smell_a_fat_pu|Kalın cüzdan kokusunu yolun öbür ucundan alırım. Bana kalırsa biraz hafifleme vaktin gelmiş!
+qstr_Why_it_be_another_tr|Ah, yolların denk getirdiği başka bir yolcu! Sizi uyarmalıyım, bu kırlar sizin gibi hoş bir {bay/bayan} için tehlikeli olabilir. Ama küçük bir bağış karşılığı ben ve dostlarım doğru yere ulaşmanızı sağlayabilir...
+qstr_Well_well_look_at_th|Bak, bak hele! Gümüşlerini uçlanmaya başlasan iyi olur arkadaşım, yoksa ben ve arkadaşlarım seni kırmak zorunda kalacağız.
+qstr_There_s_a_toll_for_p|Bu topraktan geçmenin bir ücreti var, bize ödeniyor; siz rahatınızı bozmayın, biz ücretimizi cüzdanlarınızdan kapıveririz...
+qstr_Another_fool_come_to|Kendini silahıma atmaya gelen başka bir şaklaban daha, ha? Öyle olsun, gel de kapışalım!
+qstr_We_re_not_afraid_of_|Senin gibi bir {heriften/yellozdan} korkacak değiliz. Kafanı kırdığımızda görürsün!
+qstr_That_was_a_mistake._|Bu bir hataydı. Şimdi ölümünü uzun ve acı dolu hale getirmem gerekecek.
+qstr_Brave_words._Let_s_s|Cesur laflar. Bakalım arkasında durabilecek misin, it!
+qstr_A_{s5}?_Well..._Yes_|Bir {s5}? Sanırım öyle, ya ne olacaktı.
+qstr_Eh?_No_it_most_certa|Eh? Hayır! Bu kesinlikle bir {s5} değil. Yerinde olsam gözlerimi bir kontrol ederdim.
+qstr_This_is_the_{reg4?to|Bu {reg4?şehir:köy} {s5} {beyim/hanımım}.
+qstr_{s6}_Our_{reg4?town:|{s6} {reg4?Şehrimiz:Köyümüz} ve içinde bulunduğu topraklar tabii ki siz {beyime/hanımıma} aittir.
+qstr_{s6}_Our_{reg4?town:v|{s6} {reg4?Şehrimiz:Köyümüz} ve içinde bulunduğu toprakların sahibi {s8}{.den} {s7} olur.
+qstr_{s3}_and_{s5}|{s3} ve {s5}
+qstr_{s3}_{s5}|{s3}, {s5}
+qstr_{reg20?We_mostly_pro|{reg20?Burada genelde {s5} üretiyoruz:Şu sıralar pek bir şey ürettiğimiz yok}. Eğer daha fazla öğrenmek istiyorsan {reg4?valimizle:köyümüzün ihtiyarıyla} konuşabilirsin. Hemen şurada, ileride.
+qstr__U_Vas_maximalnovozm|Ekibiniz tamam gibi. Başka Bir şey var mıydı?
+qstr__U_Vas_ne_hvataet_de|Paralı askerler için yeterli paranız yok efendim. Başka Bir şey var mıydı?
+qstr___Skolko_naemnikov_n|Kaç adama ihtiyacınız var?
+qstr__U_vas_netu_etogo_ti|Silahlarını yenilecek kimse yok edendim. Başka Bir şey var mıydı?
+qstr__Viberite_razdel|Pekala efendim, seçiminizi yapın. Adamlarınızın neye ihtiyacı var?

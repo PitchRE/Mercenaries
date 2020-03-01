@@ -1,0 +1,1636 @@
+itm_no_item|INVALID ITEM
+itm_no_item_pl|INVALID ITEM
+itm_tutorial_spear|Mızrak
+itm_tutorial_spear_pl|Mızrak
+itm_tutorial_club|Sopa
+itm_tutorial_club_pl|Sopa
+itm_tutorial_battle_axe|Savaş Baltası
+itm_tutorial_battle_axe_pl|Savaş Baltası
+itm_tutorial_arrows|Oklar
+itm_tutorial_arrows_pl|Oklar
+itm_tutorial_bolts|Kurşunlar
+itm_tutorial_bolts_pl|Kurşunlar
+itm_tutorial_short_bow|Kısa Yay
+itm_tutorial_short_bow_pl|Kısa Yay
+itm_tutorial_crossbow|Kundaklı Yay
+itm_tutorial_crossbow_pl|Kundaklı Yay
+itm_tutorial_throwing_daggers|Fırlatma Hançeri
+itm_tutorial_throwing_daggers_pl|Fırlatma Hançeri
+itm_tutorial_saddle_horse|Binek Atı
+itm_tutorial_saddle_horse_pl|Binek Atı
+itm_tutorial_shield|İstavroz Kalkan
+itm_tutorial_shield_pl|İstavroz Kalkan
+itm_tutorial_staff_no_attack|Asa
+itm_tutorial_staff_no_attack_pl|Asa
+itm_tutorial_staff|Asa
+itm_tutorial_staff_pl|Asa
+itm_tutorial_sword|Kılıç
+itm_tutorial_sword_pl|Kılıç
+itm_tutorial_axe|Balta
+itm_tutorial_axe_pl|Balta
+itm_tutorial_dagger|Hançer
+itm_tutorial_dagger_pl|Hançer
+itm_horse_meat|At Eti
+itm_horse_meat_pl|At Eti
+itm_practice_sword|Talim Kılıcı
+itm_practice_sword_pl|Talim Kılıcı
+itm_heavy_practice_sword|Ağır Talim Kılıcı
+itm_heavy_practice_sword_pl|Ağır Talim Kılıcı
+itm_practice_dagger|Talim Hançeri
+itm_practice_dagger_pl|Talim Hançeri
+itm_practice_axe|Talim Baltası
+itm_practice_axe_pl|Talim Baltası
+itm_arena_axe|Balta
+itm_arena_axe_pl|Balta
+itm_arena_sword|Kılıç
+itm_arena_sword_pl|Kılıç
+itm_arena_sword_two_handed|Çift Elli Kılıç
+itm_arena_sword_two_handed_pl|Çift Elli Kılıç
+itm_arena_lance|Kargı
+itm_arena_lance_pl|Kargı
+itm_practice_staff|Talim Sopası
+itm_practice_staff_pl|Talim Sopası
+itm_practice_lance|Talim Kargısı
+itm_practice_lance_pl|Talim Kargısı
+itm_practice_shield|Talim Kalkanı
+itm_practice_shield_pl|Talim Kalkanı
+itm_practice_bow|Talim Yayı
+itm_practice_bow_pl|Talim Yayı
+itm_practice_crossbow|Talim Misket Tüfeği
+itm_practice_crossbow_pl|Talim Misket Tüfeği
+itm_practice_javelin|Talim Cidası
+itm_practice_javelin_pl|Talim Cidası
+itm_practice_javelin_melee|Talim Ciriti
+itm_practice_javelin_melee_pl|Talim Ciriti
+itm_practice_throwing_daggers|Fırlatma Hançeri
+itm_practice_throwing_daggers_pl|Fırlatma Hançeri
+itm_practice_throwing_daggers_100_amount|Fırlatma Hançeri
+itm_practice_throwing_daggers_100_amount_pl|Fırlatma Hançeri
+itm_practice_horse|Safkan At
+itm_practice_horse_pl|Safkan Atlar
+itm_practice_arrows|Talim Oku
+itm_practice_arrows_pl|Talim Oku
+itm_practice_bolts|Talim Mermileri
+itm_practice_bolts_pl|Talim Mermileri
+itm_practice_arrows_10_amount|Talim Oku
+itm_practice_arrows_10_amount_pl|Talim Oku
+itm_practice_arrows_100_amount|Talim Oku
+itm_practice_arrows_100_amount_pl|Talim Oku
+itm_practice_bolts_9_amount|Talim Kısa Oku
+itm_practice_bolts_9_amount_pl|Talim Kısa Oku
+itm_practice_boots|Talim Çizmesi
+itm_practice_boots_pl|Talim Çizmesi
+itm_red_tourney_armor|Kırmızı Turnuva Zırhı
+itm_red_tourney_armor_pl|Kırmızı Turnuva Zırhı
+itm_blue_tourney_armor|Mavi Turnuva Zırhı
+itm_blue_tourney_armor_pl|Mavi Turnuva Zırhı
+itm_green_tourney_armor|Yeşil Turnuva Zırhı
+itm_green_tourney_armor_pl|Yeşil Turnuva Zırhı
+itm_gold_tourney_armor|Sarı Turnuva Zırhı
+itm_gold_tourney_armor_pl|Sarı Turnuva Zırhı
+itm_red_tourney_helmet|Kırmızı Turnuva Miğferi
+itm_red_tourney_helmet_pl|Kırmızı Turnuva Miğferi
+itm_blue_tourney_helmet|Mavi Turnuva Miğferi
+itm_blue_tourney_helmet_pl|Mavi Turnuva Miğferi
+itm_green_tourney_helmet|Yeşil Turnuva Miğferi
+itm_green_tourney_helmet_pl|Yeşil Turnuva Miğferi
+itm_gold_tourney_helmet|Sarı Turnuva Miğferi
+itm_gold_tourney_helmet_pl|Sarı Turnuva Miğferi
+itm_arena_shield_red|Kalkan
+itm_arena_shield_red_pl|Kalkan
+itm_arena_shield_blue|Kalkan
+itm_arena_shield_blue_pl|Kalkan
+itm_arena_shield_green|Kalkan
+itm_arena_shield_green_pl|Kalkan
+itm_arena_shield_yellow|Kalkan
+itm_arena_shield_yellow_pl|Kalkan
+itm_arena_armor_white|Beyaz Arena Zırhı
+itm_arena_armor_white_pl|Beyaz Arena Zırhı
+itm_arena_armor_red|Kırmızı Arena Zırhı
+itm_arena_armor_red_pl|Kırmızı Arena Zırhı
+itm_arena_armor_blue|Mavi Arena Zırhı
+itm_arena_armor_blue_pl|Mavi Arena Zırhı
+itm_arena_armor_green|Yeşil Arena Zırhı
+itm_arena_armor_green_pl|Yeşil Arena Zırhı
+itm_arena_armor_yellow|Sarı Arena Zırhı
+itm_arena_armor_yellow_pl|Sarı Arena Zırhı
+itm_arena_tunic_white|Beyaz Arena Tuniği
+itm_arena_tunic_white_pl|Beyaz Arena Tuniği
+itm_arena_tunic_red|Kırmızı Arena Tuniği
+itm_arena_tunic_red_pl|Kırmızı Arena Tuniği
+itm_arena_tunic_blue|Mavi Arena Tuniği
+itm_arena_tunic_blue_pl|Mavi Arena Tuniği
+itm_arena_tunic_green|Yeşil Arena Tuniği
+itm_arena_tunic_green_pl|Yeşil Arena Tuniği
+itm_arena_tunic_yellow|Sarı Arena Tuniği
+itm_arena_tunic_yellow_pl|Sarı Arena Tuniği
+itm_arena_helmet_red|Kırmızı Arena Miğferi
+itm_arena_helmet_red_pl|Kırmızı Arena Miğferi
+itm_arena_helmet_blue|Mavi Arena Miğferi
+itm_arena_helmet_blue_pl|Mavi Arena Miğferi
+itm_arena_helmet_green|Yeşil Arena Miğferi
+itm_arena_helmet_green_pl|Yeşil Arena Miğferi
+itm_arena_helmet_yellow|Sarı Arena Miğferi
+itm_arena_helmet_yellow_pl|Sarı Arena Miğferi
+itm_steppe_helmet_white|Beyaz Bozkır Miğferi
+itm_steppe_helmet_white_pl|Beyaz Bozkır Miğferi
+itm_steppe_helmet_red|Kırmızı Bozkır Miğferi
+itm_steppe_helmet_red_pl|Kırmızı Bozkır Miğferi
+itm_steppe_helmet_blue|Mavi Bozkır Miğferi
+itm_steppe_helmet_blue_pl|Mavi Bozkır Miğferi
+itm_steppe_helmet_green|Yeşil Bozkır Miğferi
+itm_steppe_helmet_green_pl|Yeşil Bozkır Miğferi
+itm_steppe_helmet_yellow|Sarı Bozkır Miğferi
+itm_steppe_helmet_yellow_pl|Sarı Bozkır Miğferi
+itm_tourney_helm_white|Beyaz Turnuva Miğferi
+itm_tourney_helm_white_pl|Beyaz Turnuva Miğferi
+itm_tourney_helm_red|Kırmızı Turnuva Miğferi
+itm_tourney_helm_red_pl|Kırmızı Turnuva Miğferi
+itm_tourney_helm_blue|Mavi Turnuva Miğferi
+itm_tourney_helm_blue_pl|Mavi Turnuva Miğferi
+itm_tourney_helm_green|Yeşil Turnuva Miğferi
+itm_tourney_helm_green_pl|Yeşil Turnuva Miğferi
+itm_tourney_helm_yellow|Sarı Turnuva Miğferi
+itm_tourney_helm_yellow_pl|Sarı Turnuva Miğferi
+itm_arena_turban_red|Arena Sarığı
+itm_arena_turban_red_pl|Arena Sarığı
+itm_arena_turban_blue|Arena Sarığı
+itm_arena_turban_blue_pl|Arena Sarığı
+itm_arena_turban_green|Arena Sarığı
+itm_arena_turban_green_pl|Arena Sarığı
+itm_arena_turban_yellow|Arena Sarığı
+itm_arena_turban_yellow_pl|Arena Sarığı
+itm_book_tactics|De Re Militari, Vegetius
+itm_book_tactics_pl|De Re Militari, Vegetius
+itm_book_persuasion|Philipp Melanchthon'un Retorik Sanatı
+itm_book_persuasion_pl|Philipp Melanchthon'un Retorik Sanatı
+itm_book_leadership|Devlet Vecizeleri, Armand Jean du Plessis de Richelieu
+itm_book_leadership_pl|Devlet Vecizeleri, Armand Jean du Plessis de Richelieu
+itm_book_intelligence|Ana Hatlarıyla Rus Dili Grameri, Juraj Krizanic
+itm_book_intelligence_pl|Ana Hatlarıyla Rus Dili Grameri, Juraj Krizanic
+itm_book_trade|İngiltere'den Doğu Hindistana Ticaret Üzerine Bir Tez, Thomas Mun'un El kitabı 
+itm_book_trade_pl|İngiltere'den Doğu Hindistana Ticaret Üzerine Bir Tez, Thomas Mun'un El Jitabı 
+itm_book_weapon_mastery|Kılıçlarla Savaşma Sanatı üzerine, Antonio Lovino
+itm_book_weapon_mastery_pl|Kılıçlarla Savaşma Sanatı üzerine, Antonio Lovino
+itm_book_engineering|Geometri, Rene Descartes
+itm_book_engineering_pl|Geometri, Rene Descartes
+itm_book_wound_treatment_reference|Şifalar Kitabı, Adam Olearius
+itm_book_wound_treatment_reference_pl|Şifalar Kitabı, Adam Olearius
+itm_book_training_reference|Savaş Sanatı, Niccolo Machiavelli
+itm_book_training_reference_pl|Savaş Sanatı, Niccolo Machiavelli
+itm_book_surgery_reference|Cerrahlık ve Aletleri Üzerine, Abu al-Kasim
+itm_book_surgery_reference_pl|Cerrahlık ve Aletleri Üzerine, Abu al-Kasim
+itm_spice|Baharat
+itm_spice_pl|Baharat
+itm_salt|Tuz
+itm_salt_pl|Tuz
+itm_oil|Yağ
+itm_oil_pl|Yağ
+itm_pottery|Çömlek
+itm_pottery_pl|Çömlek
+itm_raw_flax|Keten bohçası
+itm_raw_flax_pl|Keten bohçası
+itm_linen|Keten
+itm_linen_pl|Keten
+itm_wool|Yün
+itm_wool_pl|Yün
+itm_wool_cloth|Pamuk kumaş
+itm_wool_cloth_pl|Pamuk kumaş
+itm_raw_silk|Ham ipek
+itm_raw_silk_pl|Ham ipek
+itm_raw_dyes|İplik boyası
+itm_raw_dyes_pl|İplik boyası
+itm_velvet|Kadife
+itm_velvet_pl|Kadife
+itm_iron|Demir
+itm_iron_pl|Demir
+itm_tools|Aletler
+itm_tools_pl|Aletler
+itm_raw_leather|Deri
+itm_raw_leather_pl|Deri
+itm_leatherwork|İşlenmiş Deri
+itm_leatherwork_pl|İşlenmiş Deri
+itm_raw_date_fruit|Hurma
+itm_raw_date_fruit_pl|Hurma
+itm_furs|Kürk
+itm_furs_pl|Kürk
+itm_oim_powder|Barut
+itm_oim_powder_pl|Barut
+itm_oim_alcohol|Votka
+itm_oim_alcohol_pl|Votka
+itm_oim_penka|Kenevir
+itm_oim_penka_pl|Kenevir
+itm_oim_tutun|Peluş
+itm_oim_tutun_pl|Peluş
+itm_wine|Şarap
+itm_wine_pl|Şarap
+itm_ale|Bira
+itm_ale_pl|Bira
+itm_smoked_fish|Tütsülenmiş Balık
+itm_smoked_fish_pl|Tütsülenmiş Balık
+itm_cheese|Peynir
+itm_cheese_pl|Peynir
+itm_honey|Bal
+itm_honey_pl|Bal
+itm_sausages|Sosis
+itm_sausages_pl|Sosis
+itm_cabbages|Lahana
+itm_cabbages_pl|Lahana
+itm_dried_meat|Kurutulmuş Et
+itm_dried_meat_pl|Kurutulmuş Et
+itm_apples|Elma
+itm_apples_pl|Elma
+itm_raw_grapes|Üzüm
+itm_raw_grapes_pl|Üzüm
+itm_raw_olives|Zeytin
+itm_raw_olives_pl|Zeytin
+itm_grain|Tahıl
+itm_grain_pl|Tahıl
+itm_flour|Un
+itm_flour_pl|Un
+itm_cattle_meat|Biftek
+itm_cattle_meat_pl|Biftek
+itm_bread|Ekmek
+itm_bread_pl|Ekmek
+itm_chicken|Tavuk
+itm_chicken_pl|Tavuk
+itm_pork|Domuz
+itm_pork_pl|Domuz
+itm_butter|Tereyağı
+itm_butter_pl|Tereyağı
+itm_siege_supply|İkmal Malzemeleri
+itm_siege_supply_pl|İkmal Malzemeleri
+itm_quest_wine|Şarap
+itm_quest_wine_pl|Şarap
+itm_quest_ale|Bira
+itm_quest_ale_pl|Bira
+itm_sumpter_horse|Yük Beygiri
+itm_sumpter_horse_pl|Yük Beygiri
+itm_saddle_horse|Binek Atı
+itm_saddle_horse_pl|Binek Atı
+itm_saddle_horse_b|Binek Atı
+itm_saddle_horse_b_pl|Binek Atları
+itm_saddle_horse_c|Binek Atı
+itm_saddle_horse_c_pl|Binek Atları
+itm_steppe_horse|Bozkır Atı
+itm_steppe_horse_pl|Bozkır Atı
+itm_steppe_horse_b|Bozkır Atı
+itm_steppe_horse_b_pl|Bozkır Atları
+itm_courser|Av Atı
+itm_courser_pl|Av Atı
+itm_hunter|Asker Atı
+itm_hunter_pl|Asker Atı
+itm_rich_horse|Safkan At
+itm_rich_horse_pl|Safkan Atlar
+itm_rich_horse_b|Safkan At
+itm_rich_horse_b_pl|Safkan Atlar 
+itm_warhorse|Savaş Atı
+itm_warhorse_pl|Savaş Atı
+itm_charger|Zırhlı Savaş Atı
+itm_charger_pl|Zırhlı Savaş Atı
+itm_arrows|Oklar
+itm_arrows_pl|Oklar
+itm_khergit_arrows|Tatar Okları
+itm_khergit_arrows_pl|Tatar Okları
+itm_east_arrows|Doğu Okları
+itm_east_arrows_pl|Doğu Okları
+itm_barbed_arrows|Kancalı Oklar
+itm_barbed_arrows_pl|Kancalı Oklar
+itm_bodkin_arrows|Dövme Uçlu Oklar
+itm_bodkin_arrows_pl|Dövme Uçlu Oklar
+itm_bolts|Kurşunlar
+itm_bolts_pl|Kurşunlar
+itm_steel_bolts|Ağır Kurşunlar
+itm_steel_bolts_pl|Ağır Kurşunlar
+itm_cartridges|Kurşunlar
+itm_cartridges_pl|Kurşunlar
+itm_pilgrim_disguise|Sahte Hacı Kılığı
+itm_pilgrim_disguise_pl|Sahte Hacı Kılığı
+itm_pilgrim_hood|Hacı Başlığı
+itm_pilgrim_hood_pl|Hacı Başlığı
+itm_cavalry_gloves|Süvari Eldiveni
+itm_cavalry_gloves_pl|Süvari Eldiveni
+itm_infantry_gloves|Piyade Eldiveni
+itm_infantry_gloves_pl|Piyade Eldiveni
+itm_armor_gauntlets|Zırhlı Eldiven
+itm_armor_gauntlets_pl|Zırhlı Eldiven
+itm_leather_gloves|Deri Eldiven
+itm_leather_gloves_pl|Deri Eldiven
+itm_reytar_gauntlets|Binici Eldiveni
+itm_reytar_gauntlets_pl|Binici Eldiveni
+itm_black_reytar_gauntlets|Zırhlı Eldiven
+itm_black_reytar_gauntlets_pl|Zırhlı Eldiven
+itm_wrapping_boots|Sarma Çİzme
+itm_wrapping_boots_pl|Sarma Çİzme
+itm_woolen_hose|Yün Çorap
+itm_woolen_hose_pl|Yün Çorap
+itm_blue_hose|Mavi Çorap
+itm_blue_hose_pl|Mavi Çorap
+itm_hide_boots|Kürklü Çizme
+itm_hide_boots_pl|Kürklü Çizme
+itm_nomad_boots|Göçer Çizmesi
+itm_nomad_boots_pl|Göçer Çizmesi
+itm_leather_boots|Deri Çizme
+itm_leather_boots_pl|Deri Çizme
+itm_selo_boots|Köylü Çizmesi
+itm_selo_boots_pl|Köylü Çizmesi
+itm_old_cavalry_boots|Eski Süvari Çizmesi
+itm_old_cavalry_boots_pl|Eski Süvari Çizmesi
+itm_infantry_boots|Piyade Çizmesi
+itm_infantry_boots_pl|Piyade Çizmesi
+itm_cavalry_boots|Süvari Çizmesi
+itm_cavalry_boots_pl|Süvari Çizmesi
+itm_good_cavalry_boots|İyi Süvari Çizmesi
+itm_good_cavalry_boots_pl|İyi Süvari Çizmesi
+itm_kozak_boots|Kazak Çizmesi
+itm_kozak_boots_pl|Kazak Çizmesi
+itm_moskowit_postoli|Hasır Pabuç
+itm_moskowit_postoli_pl|Hasır Pabuç
+itm_moskowit_postoli_b|Hasır Pabuç
+itm_moskowit_postoli_b_pl|Hasır Pabuç
+itm_sapogi|Eski Çİzme
+itm_sapogi_pl|Eski Çİzme
+itm_good_sapogi|İyi Çizme
+itm_good_sapogi_pl|İyi Çizme
+itm_botinki|Konçlu Çizme
+itm_botinki_pl|Konçlu Çizme
+itm_old_cavalry_botforts|Eski Balıkçı Çizmesi
+itm_old_cavalry_botforts_pl|Eski Balıkçı Çizmesi
+itm_good_cavalry_botforts|İyi Balıkçı Çizmesi
+itm_good_cavalry_botforts_pl|İyi Balıkçı Çizmesi
+itm_cavalry_botforts|Balıkçı Çizmesi
+itm_cavalry_botforts_pl|Balıkçı Çizmesi
+itm_evropa_pehot_tufli|Konçlu Pabuç
+itm_evropa_pehot_tufli_pl|Konçlu Pabuç
+itm_janissary_tapki|Yeniçeri Pabucu
+itm_janissary_tapki_pl|Yeniçeri Pabucu
+itm_kalmyk_boots|Doğu Çİzmesi
+itm_kalmyk_boots_pl|Doğu Çİzmesi
+itm_courtly_outfit|Zarif Kıyafet
+itm_courtly_outfit_pl|Zarif Kıyafet
+itm_nobleman_outfit|Soylu Kıyafeti
+itm_nobleman_outfit_pl|Soylu Kıyafeti
+itm_leather_jacket|Deri Ceket
+itm_leather_jacket_pl|Deri Ceket
+itm_rawhide_coat|Hamderi Palto
+itm_rawhide_coat_pl|Hamderi Palto
+itm_woolen_dress|Yün Elbise
+itm_woolen_dress_pl|Yün Elbise
+itm_linen_tunic|Keten Tunik
+itm_linen_tunic_pl|Keten Tunik
+itm_red_shirt|Kırmızı Gömlek
+itm_red_shirt_pl|Kırmızı Gömlek
+itm_red_tunic|Kırmızı Tunik
+itm_red_tunic_pl|Kırmızı Tunik
+itm_robe|Kaftan
+itm_robe_pl|Kaftan
+itm_coarse_tunic|Kaba Tunik
+itm_coarse_tunic_pl|Kaba Tunik
+itm_leather_apron|Deri Önlük
+itm_leather_apron_pl|Deri Önlük
+itm_tabard|Cüppe
+itm_tabard_pl|Cüppe
+itm_red_gambeson|Kırmızı Gambison
+itm_red_gambeson_pl|Kırmızı Gambison
+itm_padded_cloth|Takviyeli Kumaş
+itm_padded_cloth_pl|Takviyeli Kumaş
+itm_leather_jerkin|Deri Yelek 
+itm_leather_jerkin_pl|Deri Yelek 
+itm_nomad_vest|Göçer Yeleği
+itm_nomad_vest_pl|Göçer Yeleği
+itm_tribal_warrior_outfit|Kabile Savaşçısı Kıyafeti
+itm_tribal_warrior_outfit_pl|Kabile Savaşçısı Kıyafeti
+itm_poland_svitka_a|Kostançine
+itm_poland_svitka_a_pl|Kostançine
+itm_poland_svitka_b|Kostançine
+itm_poland_svitka_b_pl|Kostançine
+itm_dobrotna_svitka_a|İyi Kostançine
+itm_dobrotna_svitka_a_pl|İyi Kostançine
+itm_dobrotna_svitka_b|İyi Kostançine
+itm_dobrotna_svitka_b_pl|İyi Kostançine
+itm_dobrotna_svitka_c|İyi Kostançine
+itm_dobrotna_svitka_c_pl|İyi Kostançine
+itm_poland_pikiner_uniform|Hadyuk Üniforması
+itm_poland_pikiner_uniform_pl|Hadyuk Üniforması
+itm_poland_musketer_uniform|Hadyuk Üniforması
+itm_poland_musketer_uniform_pl|Hadyuk Üniforması
+itm_poland_dragoon_uniform|Leh Ağır Süvari Üniforması
+itm_poland_dragoon_uniform_pl|Leh Ağır Süvari Üniforması
+itm_ukraine_svitka_a|İnce Pamuklu Elbise
+itm_ukraine_svitka_a_pl|İnce Pamuklu Elbise
+itm_ukraine_svitka_b|İnce Pamuklu Elbise
+itm_ukraine_svitka_b_pl|İnce Pamuklu Elbise
+itm_kozak_civil_jupan_a|Kazak Zıbını
+itm_kozak_civil_jupan_a_pl|Kazak Zıbını
+itm_kozak_civil_jupan_b|Kazak Zıbını
+itm_kozak_civil_jupan_b_pl|Kazak Zıbını
+itm_prostoy_jupan|Basit Zıbın
+itm_prostoy_jupan_pl|Basit Zıbın
+itm_prostoy_jupan_b|Basit Zıbın
+itm_prostoy_jupan_b_pl|Basit Zıbın
+itm_kozak_jupan|Kazak Zıbını
+itm_kozak_jupan_pl|Kazak Zıbını
+itm_kozak_jupan_b|Kazak Zıbını
+itm_kozak_jupan_b_pl|Kazak Zıbını
+itm_pure_streletzkiy_mundir|Nişancı Kaftanı
+itm_pure_streletzkiy_mundir_pl|Nişancı Kaftanı
+itm_pure_streletzkiy_mundir_spear|Nişancı Kaftanı
+itm_pure_streletzkiy_mundir_spear_pl|Nişancı Kaftanı
+itm_streletzkiy_mundir|Nişancı Üniforması
+itm_streletzkiy_mundir_pl|Nişancı Üniforması
+itm_new_line_uniform|Yeni Ordu Üniforması
+itm_new_line_uniform_pl|Yeni Ordu Üniforması
+itm_streletzkiy_mundir_spear|Nişancı Üniforması
+itm_streletzkiy_mundir_spear_pl|Nişancı Üniforması
+itm_new_line_uniform_spear|Yeni Ordu Üniforması
+itm_new_line_uniform_spear_pl|Yeni Ordu Üniforması
+itm_reestr_kozak_uniform|Kazak Üniforması
+itm_reestr_kozak_uniform_pl|Kazak Üniforması
+itm_poland_uniforma_german_line_musketeer|Cermen Silahşör Hattı Üniforması
+itm_poland_uniforma_german_line_musketeer_pl|Cermen Silahşör Hattı Üniforması
+itm_mosk_sermyaga|Yünlü Elbise
+itm_mosk_sermyaga_pl|Yünlü Elbise
+itm_mosk_armyak|Kaftan
+itm_mosk_armyak_pl|Kaftan
+itm_mosk_civil_a|Kibar Elbise
+itm_mosk_civil_a_pl|Kibar Elbise
+itm_mosk_civil_b|Kibar Elbise
+itm_mosk_civil_b_pl|Kibar Elbise
+itm_evropa_odejda_sela|Köylü Elbisesi
+itm_evropa_odejda_sela_pl|Köylü Elbisesi
+itm_evropa_odejda_sela_b|Köylü Elbisesi
+itm_evropa_odejda_sela_b_pl|Köylü Elbisesi
+itm_swed_civil_a|Kibar Elbise
+itm_swed_civil_a_pl|Kibar Elbise
+itm_swed_civil_b|Kibar Elbise
+itm_swed_civil_b_pl|Kibar Elbise
+itm_tatar_halat_pure_a|Kaftan
+itm_tatar_halat_pure_a_pl|Kaftan
+itm_tatar_halat_pure_b|Kaftan
+itm_tatar_halat_pure_b_pl|Kaftan
+itm_ttr_civil_a|Kibar Elbise
+itm_ttr_civil_a_pl|Kibar Elbise
+itm_ttr_civil_b|Kibar Elbise
+itm_ttr_civil_b_pl|Kibar Elbise
+itm_yanichar_forma_a|Yeniçeri Dolaması
+itm_yanichar_forma_a_pl|Yeniçeri Dolaması
+itm_yanichar_forma_b|Yeniçeri Dolaması
+itm_yanichar_forma_b_pl|Yeniçeri Dolaması
+itm_merc_musket_uniforma_a|Silahşör Ceketi
+itm_merc_musket_uniforma_a_pl|Silahşör Ceketi
+itm_merc_musket_uniforma_b|Silahşör Ceketi
+itm_merc_musket_uniforma_b_pl|Silahşör Ceketi
+itm_prostoy_jupan_c|Basit Zupan
+itm_prostoy_jupan_c_pl|Basit Zupan
+itm_ukraine_svitka_c|Svitka
+itm_ukraine_svitka_c_pl|Svitka
+itm_kozak_jupan_c|Kazak Zıbını
+itm_kozak_jupan_c_pl|Kazak Zıbını
+itm_tatar_halat_pure_c|Basit Kaftan
+itm_tatar_halat_pure_c_pl|Basit Kaftan
+itm_poland_svitka_c|Kostançine
+itm_poland_svitka_c_pl|Kostançine
+itm_poland_svitka_d|Kostançine
+itm_poland_svitka_d_pl|Kostançine
+itm_dobrotna_svitka_d|Değerli Kostançine
+itm_dobrotna_svitka_d_pl|Değerli Kostançine
+itm_dobrotna_svitka_e|Değerli Kostançine
+itm_dobrotna_svitka_e_pl|Değerli Kostançine
+itm_azap_forma|Türk Kıyafeti
+itm_azap_forma_pl|Türk Kıyafeti
+itm_scott_uniforma_musketeer|İskoç Silahşör Ceketi
+itm_scott_uniforma_musketeer_pl|İskoç Silahşör Ceketi
+itm_evropa_musket_uniforma|İsveç Silahşör Üniforması
+itm_evropa_musket_uniforma_pl|İsveç Silahşör Üniforması
+itm_evropa_dragoon_uniforma|İsveç Ağır Süvari Üniforması
+itm_evropa_dragoon_uniforma_pl|İsveç Ağır Süvari Üniforması
+itm_evropa_gvardia_uniforma|Fedai Ceketi
+itm_evropa_gvardia_uniforma_pl|Fedai Ceketi
+itm_tatar_steg_halat_a|Kapitone Kaftan
+itm_tatar_steg_halat_a_pl|Kapitone Kaftan
+itm_tatar_steg_halat_b|Kapitone Kaftan
+itm_tatar_steg_halat_b_pl|Kapitone Kaftan
+itm_tatar_halat_a|Kaftan
+itm_tatar_halat_a_pl|Kaftan
+itm_tatar_halat_b|Kaftan
+itm_tatar_halat_b_pl|Kaftan
+itm_rinda_shuba|Rynda Kaftanı
+itm_rinda_shuba_pl|Rynda Kaftanı
+itm_kozak_jupan_usileniy|Deri Kaplı Zupan
+itm_kozak_jupan_usileniy_pl|Deri Kaplı Zupan
+itm_serduk_jupan|Serduk Zıbını
+itm_serduk_jupan_pl|Serduk Zıbını
+itm_moskow_tulup_a|Tegilai
+itm_moskow_tulup_a_pl|Tegilai
+itm_moskow_tulup_b|Tegilai
+itm_moskow_tulup_b_pl|Tegilai
+itm_moskow_tulup_c|Tegilai
+itm_moskow_tulup_c_pl|Tegilai
+itm_tzar_odyag|Çar Kıyafeti
+itm_tzar_odyag_pl|Çar Kıyafeti
+itm_cavalry_koja_kurtka|Zırhlanmış Zıbın
+itm_cavalry_koja_kurtka_pl|Zırhlanmış Zıbın
+itm_koja_kurtka_s_podbivom|Zırhlanmış Kuntuş
+itm_koja_kurtka_s_podbivom_pl|Zırhlanmış Kuntuş
+itm_kolchuga_panzernika|Zincir Zırh
+itm_kolchuga_panzernika_pl|Zincir Zırh
+itm_kozak_jupan_na_kolchuge|Zincir Zıbın
+itm_kozak_jupan_na_kolchuge_pl|Zincir Zıbın
+itm_kolchuga|Zincir Zırh
+itm_kolchuga_pl|Zincir Zırh
+itm_moskow_reytar_armor|Moskova Süvari Üniforması
+itm_moskow_reytar_armor_pl|Moskova Süvari Üniforması
+itm_moskow_bahter_a|Baktır
+itm_moskow_bahter_a_pl|Baktır
+itm_tatar_kolcha|Cebe
+itm_tatar_kolcha_pl|Cebe
+itm_tatar_bahter_b|Adi Baktır
+itm_tatar_bahter_b_pl|Adi Baktır
+itm_tatar_seymen_armor|Cevşen
+itm_tatar_seymen_armor_pl|Cevşen
+itm_mosk_bahter_b|Tabakalı Zincir Zırh
+itm_mosk_bahter_b_pl|Mızrakçı Üniforması
+itm_moskow_kuyak|Kuyak
+itm_moskow_kuyak_pl|Kuyak
+itm_kirasa|Katlavi
+itm_kirasa_pl|Katlavi
+itm_kirasa_b|Yarım Katlavi
+itm_kirasa_b_pl|Yarım Katlavi
+itm_kirasa_c|Yarım Katlavi
+itm_kirasa_c_pl|Yarım Katlavi
+itm_kirasa_rich|El İşi Yarım Katlavi
+itm_kirasa_rich_pl|El İşi Yarım Katlavi
+itm_simple_reytar_armor|Deri Kaplı Katlavi
+itm_simple_reytar_armor_pl|Deri Kaplı Katlavi
+itm_moskow_boyar_uniform|Boyar Milis Üniforması
+itm_moskow_boyar_uniform_pl|Boyar Milis Üniforması
+itm_evropa_pika_uniforma|İsveç Mızrakçı Üniforması
+itm_evropa_pika_uniforma_pl|İsveç Mızrakçı Üniforması
+itm_merc_pika_uniforma_a|Mızrakçı Üniforması
+itm_merc_pika_uniforma_a_pl|Mızrakçı Üniforması
+itm_merc_pika_uniforma_b|Mızrakçı Üniforması
+itm_merc_pika_uniforma_b_pl|Mızrakçı Üniforması
+itm_tatar_bahter_a|Baktır
+itm_tatar_bahter_a_pl|Baktır
+itm_tatar_yushman|Yuşman
+itm_tatar_yushman_pl|Yuşman
+itm_poland_gusar_panzer|Kanatlı Hüssar Zırhı
+itm_poland_gusar_panzer_pl|Kanatlı Hüssar Zırhı
+itm_poland_gusar_panzer_bez_kril|Hüssar Zırhı
+itm_poland_gusar_panzer_bez_kril_pl|Hüssar Zırhı
+itm_poland_uniforma_german_line|Alman Piyade Üniforması
+itm_poland_uniforma_german_line_pl|Alman Piyade Üniforması
+itm_scott_uniforma|İskoç Üniforması
+itm_scott_uniforma_pl|İskoç Üniforması
+itm_moskow_zertzalo|Kalın Ayna Zırhı
+itm_moskow_zertzalo_pl|Kalın Ayna Zırhı
+itm_poland_gusar_yaguar|Derili Zincir Süvari Zırhı
+itm_poland_gusar_yaguar_pl|Derili Zincir Süvari Zırhı
+itm_kalmyk_puzo|Doğu Perçinli Deri Zırhı
+itm_kalmyk_puzo_pl|Doğu Perçinli Deri Zırhı
+itm_reytar_armor|Süvari Yarı Zırhı
+itm_reytar_armor_pl|Süvari Yarı Zırhı
+itm_dospeh|Yarım Zırh
+itm_dospeh_pl|Yarım Zırh
+itm_black_dospeh|Kara Zırh
+itm_black_dospeh_pl|Kara Zırh
+itm_rich_baba_mosk_1|Rus Kadın Giysisi 
+itm_rich_baba_mosk_1_pl|Rus Kadın Giysisi 
+itm_rich_baba_mosk_2|Moskova Kadın Giysisi 
+itm_rich_baba_mosk_2_pl|Moskova Kadın Giysisi 
+itm_rich_baba_mosk_3|Rus Kadın Elbisesi 
+itm_rich_baba_mosk_3_pl|Rus Kadın Elbisesi 
+itm_pure_baba_mosk_1|Rus Kadın Giysisi 
+itm_pure_baba_mosk_1_pl|Rus Kadın Giysisi 
+itm_pure_baba_mosk_2|Rus Kadın Giysisi 
+itm_pure_baba_mosk_2_pl|Rus Kadın Giysisi 
+itm_rich_baba_ttr_1|Tatar Elbisesi 
+itm_rich_baba_ttr_1_pl|Tatar Elbisesi 
+itm_rich_baba_ttr_2|Kırım Kadın Giysisi 
+itm_rich_baba_ttr_2_pl|Kırım Kadın Giysisi 
+itm_pure_baba_ttr_1|Tatar Kadın Elbisesi 
+itm_pure_baba_ttr_1_pl|Tatar Kadın Elbisesi 
+itm_pure_baba_ttr_2|Türk Elbisesi 
+itm_pure_baba_ttr_2_pl|Türk Elbisesi 
+itm_rich_baba_pol_1|Leh Elbisesi 
+itm_rich_baba_pol_1_pl|Leh Elbisesi 
+itm_rich_baba_pol_2|Leh Elbisesi
+itm_rich_baba_pol_2_pl|Leh Elbisesi 
+itm_rich_baba_pol_3|Leh Elbisesi 
+itm_rich_baba_pol_3_pl|Leh Kadın Giysisi 
+itm_rich_baba_pol_4|Leh Kadın Giysisi 
+itm_rich_baba_pol_4_pl|Leh Kadın Giysisi 
+itm_pure_baba_pol_1|Leh Kadın Giysisi 
+itm_pure_baba_pol_1_pl|Leh Kadın Giysisi 
+itm_pure_baba_pol_2|Leh Kadın Giysisi 
+itm_pure_baba_pol_2_pl|Leh Kadın Giysisi 
+itm_pure_baba_pol_3|Leh Kadın Giysisi 
+itm_pure_baba_pol_3_pl|Leh Kadın Giysisi 
+itm_rich_baba_swd_1|İsveç Elbisesi 
+itm_rich_baba_swd_1_pl|İsveç Kadın Giysisi 
+itm_rich_baba_swd_2|İsveç Elbisesi 
+itm_rich_baba_swd_2_pl|İsveç Elbisesi 
+itm_rich_baba_swd_3|İsveç Elbisesi 
+itm_rich_baba_swd_3_pl|İsveç Elbisesi 
+itm_rich_baba_swd_4|İsveç Elbisesi 
+itm_rich_baba_swd_4_pl|İsveç Elbisesi 
+itm_pure_baba_swd_1|İsveç Elbisesi 
+itm_pure_baba_swd_1_pl|İsveç Elbisesi 
+itm_pure_baba_swd_2|İsveç Elbisesi 
+itm_pure_baba_swd_2_pl|İsveç Elbisesi 
+itm_heraldic_mail_with_surcoat|Cübbeli Hanedan Zincir Zırhı
+itm_heraldic_mail_with_surcoat_pl|Cübbeli Hanedan Zincir Zırhı
+itm_heraldic_mail_with_tunic|Hanedan Zincir Zırhı
+itm_heraldic_mail_with_tunic_pl|Hanedan Zincir Zırhı
+itm_heraldic_mail_with_tunic_b|Hanedan Zincir Zırhı
+itm_heraldic_mail_with_tunic_b_pl|Hanedan Zincir Zırhı
+itm_heraldic_mail_with_tabard|Cübbeli Hanedan Zırhı
+itm_heraldic_mail_with_tabard_pl|Cübbeli Hanedan Zırhı
+itm_woolen_hood|Yün Başlık 
+itm_woolen_hood_pl|Yün Başlık 
+itm_fur_hat|Kürklü Şapka
+itm_fur_hat_pl|Kürklü Şapka
+itm_segmented_helmet|Parçalı Miğfer
+itm_segmented_helmet_pl|Parçalı Miğfer
+itm_evropa_musket_shlapa|Şapka
+itm_evropa_musket_shlapa_pl|Şapka
+itm_evropa_musket_shlapa_b|Şapka
+itm_evropa_musket_shlapa_b_pl|Şapka
+itm_evropa_kava_shlapa|Şapka
+itm_evropa_kava_shlapa_pl|Şapka
+itm_evropa_kava_shlapa_b|Şapka
+itm_evropa_kava_shlapa_b_pl|Şapka
+itm_evropa_kava_shlapa_c|Şapka
+itm_evropa_kava_shlapa_c_pl|Şapka
+itm_evropa_shlapa|Şapka
+itm_evropa_shlapa_pl|Şapka
+itm_evropa_shlapa_b|Şapka
+itm_evropa_shlapa_b_pl|Şapka
+itm_poland_army_hat_simple|Leh Üniforma Şapkası
+itm_poland_army_hat_simple_pl|Leh Üniforma Şapkası
+itm_beret_a|Bere
+itm_beret_a_pl|Bere
+itm_beret_b|Bere
+itm_beret_b_pl|Bere
+itm_beret_c|Bere
+itm_beret_c_pl|Bere
+itm_evropa_guard_shlapa|Şapka
+itm_evropa_guard_shlapa_pl|Şapka
+itm_parik|Peruk
+itm_parik_pl|Peruk
+itm_evropa_shapka|Şapka
+itm_evropa_shapka_pl|Şapka
+itm_reestr_shapka|Kazak Şapkası
+itm_reestr_shapka_pl|Kazak Şapkası
+itm_poland_shapka|Şapka
+itm_poland_shapka_pl|Şapka
+itm_poland_army_hat_a|Leh Üniforma Şapkası
+itm_poland_army_hat_a_pl|Leh Üniforma Şapkası
+itm_poland_army_hat_b|Leh Üniforma Şapkası
+itm_poland_army_hat_b_pl|Leh Üniforma Şapkası
+itm_poland_mehova_shapka|Kürklü Şapka
+itm_poland_mehova_shapka_pl|Kürklü Şapka
+itm_poland_mehova_shapka_s_perom|Kürklü Şapka
+itm_poland_mehova_shapka_s_perom_pl|Kürklü Şapka
+itm_poland_good_shapka|Kürklü Şapka
+itm_poland_good_shapka_pl|Kürklü Şapka
+itm_ukrine_prosta_shapka|Köylü Şapkası
+itm_ukrine_prosta_shapka_pl|Köylü Şapkası
+itm_kozak_prosta_shapka|Sade Kazak Şapkası
+itm_kozak_prosta_shapka_pl|Sade Kazak Şapkası
+itm_kozak_shapka|Kazak Şapkası
+itm_kozak_shapka_pl|Kazak Şapkası
+itm_kozak_shapka_b|Kazak Şapkası
+itm_kozak_shapka_b_pl|Kazak Şapkası
+itm_kozak_shapka_c|Kazak Şapkası
+itm_kozak_shapka_c_pl|Kazak Şapkası
+itm_kozak_shapka_d|Kazak Şapkası
+itm_kozak_shapka_d_pl|Kazak Şapkası
+itm_serduk_shapka|Serduk Şapkası
+itm_serduk_shapka_pl|Serduk Şapkası
+itm_moskowit_shapka|Şapka
+itm_moskowit_shapka_pl|Şapka
+itm_streletz_shapka|Nişancı Şapkası
+itm_streletz_shapka_pl|Nişancı Şapkası
+itm_streletz_shapka_b|Nişancı Şapkası
+itm_streletz_shapka_b_pl|Nişancı Şapkası
+itm_streletz_shapka_c|Nişancı Şapkası
+itm_streletz_shapka_c_pl|Nişancı Şapkası
+itm_janissar_hat_a|Üsküf
+itm_janissar_hat_a_pl|Üsküf
+itm_janissar_hat_b|Üsküf
+itm_janissar_hat_b_pl|Üsküf
+itm_tatar_man_hat|Şapka
+itm_tatar_man_hat_pl|Şapka
+itm_turban|Sarık
+itm_turban_pl|Sarık
+itm_tatar_kolpak|Kalpak
+itm_tatar_kolpak_pl|Kalpak
+itm_tatar_bayrak_hat|Şapka
+itm_tatar_bayrak_hat_pl|Şapka
+itm_tatar_nogay_hat|Şapka
+itm_tatar_nogay_hat_pl|Şapka
+itm_tatar_oglan_hat|Şapka
+itm_tatar_oglan_hat_pl|Şapka
+itm_tatar_kochevnik_hat_a|Göçer Başlığı
+itm_tatar_kochevnik_hat_a_pl|Göçer Başlığı
+itm_tatar_kochevnik_hat_b|Göçer Başlığı
+itm_tatar_kochevnik_hat_b_pl|Göçer Başlığı
+itm_rinda_hat|Şapka
+itm_rinda_hat_pl|Şapka
+itm_shapka_boyara|Soylu Şapkası
+itm_shapka_boyara_pl|Soylu Şapkası
+itm_shapka_bumajna_a|Kağıt Şapka
+itm_shapka_bumajna_a_pl|Kağıt Şapka
+itm_shapka_bumajna_b|Kağıt Şapka
+itm_shapka_bumajna_b_pl|Kağıt Şapka
+itm_misurka_s_barmizoy|Kaskan
+itm_misurka_s_barmizoy_pl|Kaskan
+itm_misurka_s_barmizoy_b|Kaskan
+itm_misurka_s_barmizoy_b_pl|Kaskan
+itm_misurka_s_barmizoy_c|Kaskan
+itm_misurka_s_barmizoy_c_pl|Kaskan
+itm_misurka_s_barmizoy_pure|Sade Kaskan
+itm_misurka_s_barmizoy_pure_pl|Sade Kaskan
+itm_misurka_s_barmizoy_rich|Kalın Kaskan
+itm_misurka_s_barmizoy_rich_pl|Kalın Kaskan
+itm_kozacka_shapka_s_misurkoy|Kaskan
+itm_kozacka_shapka_s_misurkoy_pl|Kaskan
+itm_tatar_misurka|Kaskan
+itm_tatar_misurka_pl|Kaskan
+itm_tatar_misurka_rich|Kalın Kaskan
+itm_tatar_misurka_rich_pl|Kalın Kaskan
+itm_tatar_helmet_a|Tatar Miğferi
+itm_tatar_helmet_a_pl|Tatar Miğferi
+itm_tatar_helmet_b|Tatar Miğferi
+itm_tatar_helmet_b_pl|Tatar Miğferi
+itm_tatar_han_helmet|Tatar Miğferi
+itm_tatar_han_helmet_pl|Tatar Miğferi
+itm_shishak|Şişek
+itm_shishak_pl|Şişek
+itm_new_line_helmet|Hat Miğferi
+itm_new_line_helmet_pl|Hat Miğferi
+itm_morion|Sade Tulga
+itm_morion_pl|Sade Tulga
+itm_morion_good|Tulga
+itm_morion_good_pl|Tulga
+itm_morion_perfect|Kusursuz Tulga
+itm_morion_perfect_pl|Kusursuz Tulga
+itm_moskow_reytar_helmet|Moskova Süvari Miğferi
+itm_moskow_reytar_helmet_pl|Moskova Süvari Miğferi
+itm_kabasset|Miğfer
+itm_kabasset_pl|Miğfer
+itm_poland_gusar_helmet|Hüssar Miğferi
+itm_poland_gusar_helmet_pl|Hüssar Miğferi
+itm_shelom|Şelom
+itm_shelom_pl|Şelom
+itm_mosk_shishak|Şişek
+itm_mosk_shishak_pl|Şişek
+itm_kalmyk_helmet|Doğu Miğferi
+itm_kalmyk_helmet_pl|Doğu Miğferi
+itm_boyar_helmet|Boyar Milis Miğferi
+itm_boyar_helmet_pl|Boyar Milis Miğferi
+itm_reytar_helmet|Süvari Miğferi
+itm_reytar_helmet_pl|Süvari Miğferi
+itm_black_reytar_helmet|Süvari Miğferi
+itm_black_reytar_helmet_pl|Süvari Miğferi
+itm_poland_gusar_helmet_greben|Sorguçlu Süvari Miğferi
+itm_poland_gusar_helmet_greben_pl|Sorguçlu Süvari Miğferi
+itm_armet|Armet
+itm_armet_pl|Armet
+itm_shapka_monomaha|Monomak Başlığı
+itm_shapka_monomaha_pl|Monomak Başlığı
+itm_mosk_platok_1|Başörtüsü
+itm_mosk_platok_1_pl|Başörtüsü
+itm_mosk_platok_2|Başörtüsü
+itm_mosk_platok_2_pl|Başörtüsü
+itm_pol_bab_hat_1|Kadın Şapkası
+itm_pol_bab_hat_1_pl|Kadın Şapkası
+itm_pol_bab_hat_2|Kadın Şapkası
+itm_pol_bab_hat_2_pl|Kadın Şapkası
+itm_tatar_bab_hat1|Kadın Şapkası
+itm_tatar_bab_hat1_pl|Kadın Şapkası
+itm_tatar_bab_hat2|Kadın Şapkası
+itm_tatar_bab_hat2_pl|Kadın Şapkası
+itm_tatar_bab_hat_rich|Kadın Şapkası
+itm_tatar_bab_hat_rich_pl|Kadın Şapkası
+itm_wooden_stick|Tahta Sopa
+itm_wooden_stick_pl|Tahta Sopa
+itm_club|Sopa
+itm_club_pl|Sopa
+itm_knife|Bıçak
+itm_knife_pl|Bıçak
+itm_dagger|Hançer
+itm_dagger_pl|Hançer
+itm_axe|Balta
+itm_axe_pl|Balta
+itm_sword_two_handed_b|Çift Elli Kılıç
+itm_sword_two_handed_b_pl|Çift Elli Kılıç
+itm_sword_two_handed_a|Battal Kılıç
+itm_sword_two_handed_a_pl|Battal Kılıç
+itm_bastard_sword_a|Savaş Kılıcı
+itm_bastard_sword_a_pl|Savaş Kılıcı
+itm_bastard_sword_b|Ağır Savaş Kılıcı
+itm_bastard_sword_b_pl|Ağır Savaş Kılıcı
+itm_great_axe|Battal Balta
+itm_great_axe_pl|Battal Balta
+itm_shortened_military_scythe|Kısa Ordu Tırpanı
+itm_shortened_military_scythe_pl|Kısa Ordu Tırpanı
+itm_sword_medieval_a|Kılıç
+itm_sword_medieval_a_pl|Kılıç
+itm_sword_medieval_b|Kılıç
+itm_sword_medieval_b_pl|Kılıç
+itm_sword_medieval_c|Takviye Kılıcı
+itm_sword_medieval_c_pl|Takviye Kılıcı
+itm_sword_khergit_1|Göçer Kılıcı
+itm_sword_khergit_1_pl|Göçer Kılıcı
+itm_sword_khergit_2|Süvari Kılıcı
+itm_sword_khergit_2_pl|Süvari Kılıcı
+itm_sword_khergit_3|Süvari Kılıcı
+itm_sword_khergit_3_pl|Süvari Kılıcı
+itm_sword_khergit_4|Ağır Süvari Kılıcı
+itm_sword_khergit_4_pl|Ağır Süvari Kılıcı
+itm_kosa|Tırpan
+itm_kosa_pl|Tırpan
+itm_vily|Dirgen
+itm_vily_pl|Dirgen
+itm_rusty_shpaga|Eski Kılıç
+itm_rusty_shpaga_pl|Eski Kılıç
+itm_prosta_shpaga|Kılıç
+itm_prosta_shpaga_pl|Kılıç
+itm_prosta_shpaga_b|Kılıç
+itm_prosta_shpaga_b_pl|Kılıç
+itm_prosta_shpaga_c|Kılıç
+itm_prosta_shpaga_c_pl|Kılıç
+itm_good_shpaga|İyi Kılıç
+itm_good_shpaga_pl|İyi Kılıç
+itm_good_shpaga_b|İyi Kılıç
+itm_good_shpaga_b_pl|İyi Kılıç
+itm_good_shpaga_c|İyi Kılıç
+itm_good_shpaga_c_pl|İyi Kılıç
+itm_good_shpaga_d|İyi Kılıç
+itm_good_shpaga_d_pl|İyi Kılıç
+itm_sablya_a|Süvari Kılıcı
+itm_sablya_a_pl|Süvari Kılıcı
+itm_sablya_b|Süvari Kılıcı
+itm_sablya_b_pl|Süvari Kılıcı
+itm_sablya_c|Süvari Kılıcı
+itm_sablya_c_pl|Süvari Kılıcı
+itm_sablya_d|Süvari Kılıcı
+itm_sablya_d_pl|Süvari Kılıcı
+itm_sablya_turk_a|Türk Kılıcı
+itm_sablya_turk_a_pl|Türk Kılıcı
+itm_sablya_turk_b|Türk Kılıcı
+itm_sablya_turk_b_pl|Türk Kılıcı
+itm_sablya_turk_c|Türk Kılıcı
+itm_sablya_turk_c_pl|Türk Kılıcı
+itm_sablya_tatar_a|Tatar Süvari Kılıcı
+itm_sablya_tatar_a_pl|Tatar Süvari Kılıcı
+itm_sablya_pure_a|Sade Süvari Kılıcı
+itm_sablya_pure_a_pl|Sade Süvari Kılıcı
+itm_sablya_pure_b|Sade Süvari Kılıcı
+itm_sablya_pure_b_pl|Sade Süvari Kılıcı
+itm_sablya_pure_c|Sade Süvari Kılıcı
+itm_sablya_pure_c_pl|Sade Süvari Kılıcı
+itm_sablya_pure_d|Sade Süvari Kılıcı
+itm_sablya_pure_d_pl|Sade Süvari Kılıcı
+itm_sablya_turk_pure_a|Sade Türk Kılıcı
+itm_sablya_turk_pure_a_pl|Sade Türk Kılıcı
+itm_sablya_turk_pure_b|Sade Türk Kılıcı
+itm_sablya_turk_pure_b_pl|Sade Türk Kılıcı
+itm_sablya_turk_pure_c|Sade Türk Kılıcı
+itm_sablya_turk_pure_c_pl|Sade Türk Kılıcı
+itm_sablya_tatar_pure_a|Sade Tatar Süvari Kılıcı
+itm_sablya_tatar_pure_a_pl|Sade Tatar Süvari Kılıcı
+itm_rusty_palash|Eski Pala
+itm_rusty_palash_pl|Eski Pala
+itm_palash|Pala
+itm_palash_pl|Pala
+itm_good_palash|İyi Pala
+itm_good_palash_pl|İyi Pala
+itm_good_palash_b|İyi Pala
+itm_good_palash_b_pl|İyi Pala
+itm_pehot_palash_old|Eski Kısa Pala
+itm_pehot_palash_old_pl|Eski Kısa Pala
+itm_pehot_palash|Kısa Pala
+itm_pehot_palash_pl|Kısa Pala
+itm_good_pehot_palash|İyi Kısa Pala
+itm_good_pehot_palash_pl|İyi Kısa Pala
+itm_good_pehot_palash_b|İyi Kısa Pala
+itm_good_pehot_palash_b_pl|İyi Kısa Pala
+itm_yatagan_a|Sade Yatağan
+itm_yatagan_a_pl|Sade Yatağan
+itm_yatagan_good|Yatağan
+itm_yatagan_good_pl|Yatağan
+itm_yatagan_rich|İyi Yatağan
+itm_yatagan_rich_pl|İyi Yatağan
+itm_kozak_shablya|Sade Kazak Süvari Kılıcı
+itm_kozak_shablya_pl|Sade Kazak Süvari Kılıcı
+itm_kozak_good_shablya|Kazak Süvari Kılıcı
+itm_kozak_good_shablya_pl|Kazak Süvari Kılıcı
+itm_old_pike|Eski Mızrak
+itm_old_pike_pl|Eski Mızrak
+itm_prosta_pike|Mızrak
+itm_prosta_pike_pl|Mızrak
+itm_pika|Sade Mızrak
+itm_pika_pl|Sade Mızrak
+itm_good_pike|Mızrak
+itm_good_pike_pl|Mızrak
+itm_kopyo|Sade Kargı
+itm_kopyo_pl|Sade Kargı
+itm_good_kopyo|Kargı
+itm_good_kopyo_pl|Kargı
+itm_dubinka|Kısa Topuz
+itm_dubinka_pl|Kısa Topuz
+itm_plotnik_toporik|Marangoz Baltası
+itm_plotnik_toporik_pl|Marangoz Baltası
+itm_plotnik_topor|Oduncu Baltası
+itm_plotnik_topor_pl|Oduncu Baltası
+itm_pernach|Gürz
+itm_pernach_pl|Gürz
+itm_palitza|Gürz
+itm_palitza_pl|Gürz
+itm_klevetz|Kargaburun
+itm_klevetz_pl|Kargaburun
+itm_klevetz_good|İyi Kargaburun
+itm_klevetz_good_pl|İyi Kargaburun
+itm_chekan|Çekan
+itm_chekan_pl|Çekan
+itm_chekan_good|İyi Çekan
+itm_chekan_good_pl|İyi Çekan
+itm_rusty_toporik|Eski Nacak
+itm_rusty_toporik_pl|Eski Nacak
+itm_prostoy_toporik|Sade Nacak
+itm_prostoy_toporik_pl|Sade Nacak
+itm_toporik_good|Nacak
+itm_toporik_good_pl|Nacak
+itm_toporik_rich|İyi Nacak
+itm_toporik_rich_pl|İyi Nacak
+itm_cavalry_pika_a|Süvari Mızrağı
+itm_cavalry_pika_a_pl|Süvari Mızrağı
+itm_cavalry_pika_b|Süvari Mızrağı
+itm_cavalry_pika_b_pl|Süvari Mızrağı
+itm_gusar_lanza|Süvari Kargısı
+itm_gusar_lanza_pl|Süvari Kargısı
+itm_gusar_lanza_b|Süvari Kargısı
+itm_gusar_lanza_b_pl|Süvari Kargısı
+itm_kozacka_pika|Süvari Mızrağı
+itm_kozacka_pika_pl|Süvari Mızrağı
+itm_twohand_sword|Çift Elli Kılıç
+itm_twohand_sword_pl|Çift Elli Kılıç
+itm_twohand_sword_b|Çift Elli Kılıç
+itm_twohand_sword_b_pl|Çift Elli Kılıç
+itm_alebarda|Baltalı Kargı
+itm_alebarda_pl|Baltalı Kargı
+itm_berdish|Uzun Saplı Balta
+itm_berdish_pl|Uzun Saplı Balta
+itm_berdish_b|Uzun Saplı Balta
+itm_berdish_b_pl|Uzun Saplı Balta
+itm_sovnya|Sovyan
+itm_sovnya_pl|Sovyan
+itm_black_hetman|Kara Gürz
+itm_black_hetman_pl|Kara Gürz
+itm_scott_palash|İskoç Palası
+itm_scott_palash_pl|İskoç Palası
+itm_scott_kleymor_a|Büyük Kılıç
+itm_scott_kleymor_a_pl|Büyük Kılıç
+itm_scott_kleymor_b|Büyük Kılıç
+itm_scott_kleymor_b_pl|Büyük Kılıç
+itm_konchar|Sivri Süvari Kılıcı
+itm_konchar_pl|Sivri Süvari Kılıcı
+itm_shestoper|Şeşper Topuz
+itm_shestoper_pl|Şeşper Topuz
+itm_kalmyk_palash|Doğu Palası
+itm_kalmyk_palash_pl|Doğu Palası
+itm_mace_1|Çivili Sopa
+itm_mace_1_pl|Çivili Sopa
+itm_mace_2|Topuzlu Gürz
+itm_mace_2_pl|Topuzlu Gürz
+itm_mace_3|Çivili Gürz
+itm_mace_3_pl|Çivili Gürz
+itm_mace_4|Şeşper
+itm_mace_4_pl|Şeşper
+itm_club_with_spike_head|Dikenli Sopa
+itm_club_with_spike_head_pl|Dikenli Sopa
+itm_staff|Asa
+itm_staff_pl|Asa
+itm_quarter_staff|Battal Asa
+itm_quarter_staff_pl|Battal Asa
+itm_pike|Mızrak
+itm_pike_pl|Mızrak
+itm_wooden_shield|Tahta Kalkan
+itm_wooden_shield_pl|Tahta Kalkan
+itm_round_shield_steel_a|İyi Çelik Kalkan
+itm_round_shield_steel_a_pl|İyi Çelik Kalkan
+itm_round_shield_steel_b|Çelik Kalkan
+itm_round_shield_steel_b_pl|Çelik Kalkan
+itm_round_shield|Sade Kalkan
+itm_round_shield_pl|Sade Kalkan
+itm_round_shield_b|Kalkan
+itm_round_shield_b_pl|Kalkan
+itm_round_shield_c|Tatar Kalkanı
+itm_round_shield_c_pl|Tatar Kalkanı
+itm_round_shield_d|Tek Parça Kalkan
+itm_round_shield_d_pl|Tek Parça Kalkan
+itm_shield|Kalkan
+itm_shield_pl|Kalkan
+itm_tarch_a|Türk Kalkanı
+itm_tarch_a_pl|Türk Kalkanı
+itm_tarch_b|Türk Kalkanı
+itm_tarch_b_pl|Türk Kalkanı
+itm_rundash|Küçük Kalkan
+itm_rundash_pl|Küçük Kalkan
+itm_tab_shield_round_a|Eski Yuvarlak Kalkan
+itm_tab_shield_round_a_pl|Eski Yuvarlak Kalkan
+itm_tab_shield_round_b|Düz Yuvarlak Kalkan
+itm_tab_shield_round_b_pl|Düz Yuvarlak Kalkan
+itm_tab_shield_round_c|Yuvarlak Kalkan
+itm_tab_shield_round_c_pl|Yuvarlak Kalkan
+itm_tab_shield_round_d|Ağır Yuvarlak Kalkan
+itm_tab_shield_round_d_pl|Ağır Yuvarlak Kalkan
+itm_tab_shield_round_e|Kahramanın Yuvarlak Kalkanı
+itm_tab_shield_round_e_pl|Kahramanın Yuvarlak Kalkanı
+itm_tab_shield_kite_a|Eski Oval Kalkan
+itm_tab_shield_kite_a_pl|Eski Oval Kalkan
+itm_tab_shield_kite_b|Düz Oval Kalkan
+itm_tab_shield_kite_b_pl|Düz Oval Kalkan
+itm_tab_shield_kite_c|Oval Kalkan
+itm_tab_shield_kite_c_pl|Oval Kalkan
+itm_tab_shield_kite_d|Ağır Oval Kalkan
+itm_tab_shield_kite_d_pl|Ağır Oval Kalkan
+itm_tab_shield_kite_cav_a|Süvari Oval Kalkanı
+itm_tab_shield_kite_cav_a_pl|Oval Süvari Kalkanı
+itm_tab_shield_kite_cav_b|Oval Süvari Kalkanı
+itm_tab_shield_kite_cav_b_pl|Oval Şövalye Kalkanı
+itm_tab_shield_heater_a|Oval Şövalye Kalkanı
+itm_tab_shield_heater_a_pl|Eski Üçgen Kalkan
+itm_tab_shield_heater_b|Düz Üçgen Kalkan
+itm_tab_shield_heater_b_pl|Düz Üçgen Kalkan
+itm_tab_shield_heater_c|Üçgen Kalkan
+itm_tab_shield_heater_c_pl|Üçgen Kalkan
+itm_tab_shield_heater_d|Ağır Üçgen Kalkan
+itm_tab_shield_heater_d_pl|Ağır Üçgen Kalkan
+itm_tab_shield_heater_cav_a|Üçgen Süvari Kalkanı
+itm_tab_shield_heater_cav_a_pl|Üçgen Süvari Kalkanı
+itm_tab_shield_heater_cav_b|Üçgen Şövalye Kalkanı
+itm_tab_shield_heater_cav_b_pl|Üçgen Şövalye Kalkanı
+itm_tab_shield_pavise_a|Eski Ahşap Kalkan
+itm_tab_shield_pavise_a_pl|Eski Ahşap Kalkan
+itm_tab_shield_pavise_b|Düz Ahşap Kalkan
+itm_tab_shield_pavise_b_pl|Düz Ahşap Kalkan
+itm_tab_shield_pavise_c|Ahşap Kalkan
+itm_tab_shield_pavise_c_pl|Ahşap Kalkan
+itm_tab_shield_pavise_d|Ağır Ahşap Kalkan
+itm_tab_shield_pavise_d_pl|Ağır Ahşap Kalkan
+itm_tab_shield_small_round_a|Düz Süvari Kalkanı
+itm_tab_shield_small_round_a_pl|Düz Süvari Kan
+itm_tab_shield_small_round_b|Yuvarlak Süvari Kalkanı
+itm_tab_shield_small_round_b_pl|Yuvarlak Süvari Kalkanı
+itm_tab_shield_small_round_c|Seçkin Süvari Kalkanı
+itm_tab_shield_small_round_c_pl|Seçkin Süvari Kalkanı
+itm_jarid|Cirit
+itm_jarid_pl|Cirit
+itm_jarid_melee|Cirit
+itm_jarid_melee_pl|Cirit
+itm_stones|Taş
+itm_stones_pl|Taş
+itm_throwing_knives|Fırlatma Bıçağı
+itm_throwing_knives_pl|Fırlatma Bıçağı
+itm_throwing_daggers|Fırlatma Hançeri
+itm_throwing_daggers_pl|Fırlatma Hançeri
+itm_samopal|El İşi Ateşli Silah
+itm_samopal_pl|El İşi Ateşli Silah
+itm_samopal_b|El İşi Ateşli Silah
+itm_samopal_b_pl|El İşi Ateşli Silah
+itm_old_musket|Fitilli Tüfek
+itm_old_musket_pl|Fitilli Tüfek
+itm_old_musket_b|Fitilli Tüfek
+itm_old_musket_b_pl|Fitilli Tüfek
+itm_musket|Sade Çakmaklı Tüfek
+itm_musket_pl|Sade Çakmaklı Tüfek
+itm_good_musket|Çakmaklı Tüfek
+itm_good_musket_pl|Çakmaklı Tüfek
+itm_turk_musket_fitil_a|Fitilli Tüfek
+itm_turk_musket_fitil_a_pl|Fitilli Tüfek
+itm_turk_musket_fitil_b|İyi Fitilli Tüfek
+itm_turk_musket_fitil_b_pl|İyi Fitilli Tüfek
+itm_turk_musket_koleso|Çakmaklı Tüfek
+itm_turk_musket_koleso_pl|Çakmaklı Tüfek
+itm_turk_musket|Mikelet Tüfeği
+itm_turk_musket_pl|Mikelet Tüfeği
+itm_turk_musket_b|Mikelet Tüfeği
+itm_turk_musket_b_pl|Mikelet Tüfeği
+itm_mushket_udarniy|Horozlu Misket Tüfeği
+itm_mushket_udarniy_pl|Horozlu Misket Tüfeği
+itm_mushket_udarniy_b|Horozlu Misket Tüfeği
+itm_mushket_udarniy_b_pl|Horozlu Misket Tüfeği
+itm_karabin_old_a|Fitilli Karabina
+itm_karabin_old_a_pl|Fitilli Karabina
+itm_karabin_old_b|Fitilli Karabina
+itm_karabin_old_b_pl|Fitilli Karabina
+itm_karabin|Sade Çakmaklı Karabina
+itm_karabin_pl|Sade Çakmaklı Karabina
+itm_karabin_good|Çakmaklı Karabina
+itm_karabin_good_pl|Çakmaklı Karabina
+itm_karabin_batarey|Horozlu Karabina
+itm_karabin_batarey_pl|Horozlu Karabina
+itm_karabin_batarey_good|İyi Horozlu Karabina
+itm_karabin_batarey_good_pl|İyi Horozlu Karabina
+itm_old_pistol|Eski Piştov
+itm_old_pistol_pl|Eski Piştov
+itm_pistol|Piştov
+itm_pistol_pl|Piştov
+itm_pistol_b|Piştov
+itm_pistol_b_pl|Piştov
+itm_good_pistol|İyi Piştov
+itm_good_pistol_pl|İyi Piştov
+itm_good_pistol_b|İyi Piştov
+itm_good_pistol_b_pl|İyi Piştov
+itm_good_pistol_c|İyi Piştov
+itm_good_pistol_c_pl|İyi Piştov
+itm_granata|Büyük Humbara
+itm_granata_pl|Büyük Humbara
+itm_granata_medium|Humbara
+itm_granata_medium_pl|Humbara
+itm_granata_small|Küçük Humbara
+itm_granata_small_pl|Küçük Humbara
+itm_luk|Uzun Yay
+itm_luk_pl|Uzun Yay
+itm_luk_b|Uzun Yay
+itm_luk_b_pl|Uzun Yay
+itm_luk_c|Yay
+itm_luk_c_pl|Yay
+itm_kompozit_bow_b|Tatar Yayı
+itm_kompozit_bow_b_pl|Tatar Yayı
+itm_kompozit_bow|Mürekkep Yay
+itm_kompozit_bow_pl|Mürekkep Yay
+itm_zakaz_pistol1|El Yapımı Piştov
+itm_zakaz_pistol1_pl|El Yapımı Piştov
+itm_zakaz_pistol2|Hollanda Piştovu
+itm_zakaz_pistol2_pl|Hollanda Piştovu
+itm_zakaz_2stwol_koleso2|Çift Namlulu Fitilli Karabina
+itm_zakaz_2stwol_koleso2_pl|Çift Namlulu Fitilli Karabina
+itm_zakaz_2stwol_koleso|Çift Namlulu Hollanda Karabinası
+itm_zakaz_2stwol_koleso_pl|Çift Namlulu Hollanda Karabinası
+itm_zakaz_2stwol_udar1|Çift Namlulu Horozlu Karabina
+itm_zakaz_2stwol_udar1_pl|Çift Namlulu Horozlu Karabina
+itm_zakaz_2stwol_udar2|Çift Namlulu Hollanda Piştovu
+itm_zakaz_2stwol_udar2_pl|Çift Namlulu Hollanda Piştovu
+itm_zakaz_karabin|El İşi Karabina
+itm_zakaz_karabin_pl|El İşi Karabina
+itm_zakaz_ewro_puha|El İşi Avrupa Misket Tüfeği
+itm_zakaz_ewro_puha_pl|El İşi Avrupa Misket Tüfeği
+itm_zakaz_turok_puha|El İşi Türk Misket Tüfeği
+itm_zakaz_turok_puha_pl|El İşi Türk Misket Tüfeği
+itm_zakaz_luk1|Tatar Yayı
+itm_zakaz_luk1_pl|Tatar Yayı
+itm_zakaz_luk2|El İşi Yay
+itm_zakaz_luk2_pl|El İşi Yay
+itm_zakaz_shield_s|El İşi Kalkan
+itm_zakaz_shield_s_pl|El İşi Kalkan
+itm_zakaz_armet|Armet
+itm_zakaz_armet_pl|Armet
+itm_zakaz_greben|El İşi Süvari Miğferi
+itm_zakaz_greben_pl|El İşi Süvari Miğferi
+itm_zakaz_boyar|El İşi Soylu Miğferi
+itm_zakaz_boyar_pl|El İşi Soylu Miğferi
+itm_zakaz_morion|El İşi Tulga
+itm_zakaz_morion_pl|El İşi Tulga
+itm_zakaz_reytar_b|El İşi Hafif Süvari Miğferi
+itm_zakaz_reytar_b_pl|El İşi Hafif Süvari Miğferi
+itm_zakaz_helm_tatar|El İşi Tatar Miğferi
+itm_zakaz_helm_tatar_pl|El İşi Tatar Miğferi
+itm_zakaz_panzer_shkura|El İşi Süvari Zırhı
+itm_zakaz_panzer_shkura_pl|El İşi Süvari Zırhı
+itm_zakaz_laty|El İşi Zırh
+itm_zakaz_laty_pl|El İşi Zırh
+itm_zakaz_black_lat|El İşi Kara Zırh
+itm_zakaz_black_lat_pl|El İşi Kara Zırh
+itm_zakaz_zertzalo|El İşi Ayna Zırhı
+itm_zakaz_zertzalo_pl|El İşi Ayna Zırhı
+itm_zakaz_ushman|El İşi Yuşman
+itm_zakaz_ushman_pl|El İşi Yuşman
+itm_zakaz_sabla1|El İşi Süvari Kılıcı
+itm_zakaz_sabla1_pl|El İşi Süvari Kılıcı
+itm_zakaz_sabla2|Şam El İşi Çelik Süvari Kılıcı
+itm_zakaz_sabla2_pl|Şam El İşi Çelik Süvari Kılıcı
+itm_zakaz_spaga|El İşi Meç
+itm_zakaz_spaga_pl|El İşi Meç
+itm_zakaz_berd|El İşi Uzun Saplı Balta
+itm_zakaz_berd_pl|El İşi Uzun Saplı Balta
+itm_zakaz_palash|El İşi Pala
+itm_zakaz_palash_pl|El İşi Pala
+itm_zakaz_twohand|El İşi Çift Elli Kılıç
+itm_zakaz_twohand_pl|El İşi Çift Elli Kılıç
+itm_zakaz_chekan|El Yapımı Asker Çekici
+itm_zakaz_chekan_pl|El Yapımı Asker Çekici
+itm_hunting_bow|Av Yayı
+itm_hunting_bow_pl|Av Yayı
+itm_hunting_crossbow|Kundaklı Av Yayı
+itm_hunting_crossbow_pl|Kundaklı Av Yayı
+itm_light_crossbow|Hafif Kundaklı Yay
+itm_light_crossbow_pl|Hafif Kundaklı Yay
+itm_heavy_crossbow|Ağır Kundaklı Yay
+itm_heavy_crossbow_pl|Ağır Kundaklı Yay
+itm_torch|Meşale
+itm_torch_pl|Meşale
+itm_practice_bow_2|Talim Yayı
+itm_practice_bow_2_pl|Talim Yayı
+itm_practice_arrows_2|Talim Okları
+itm_practice_arrows_2_pl|Talim Okları
+itm_mail_boots_for_tableau|Örme Zırh Çizme
+itm_mail_boots_for_tableau_pl|Örme Zırh Çizme
+itm_steel_bolts_10|Çelik Oklar
+itm_steel_bolts_10_pl|Çelik Oklar
+itm_oim_qst_horse|Safkan Aygır
+itm_oim_qst_horse_pl|Muhteşem At
+itm_speshitsa|At İn
+itm_speshitsa_pl|do not translate
+itm_nichego|[Hiçbir şey.]
+itm_nichego_pl|do not translate
+itm_very_bad_horse|Çiftlik Atı
+itm_very_bad_horse_pl|Çiftlik Atı
+itm_bad_horse|Koşum Atı
+itm_bad_horse_pl|Koşum Atı
+itm_norm_horse|Binek Atı
+itm_norm_horse_pl|Binek Atı
+itm_good_horse|Bozkır Atı
+itm_good_horse_pl|Bozkır Atı
+itm_fast_horse|Koşu Atı
+itm_fast_horse_pl|Koşu Atı
+itm_tank_horse|Savaş Atı
+itm_tank_horse_pl|Savaş Atı
+itm_uber_horse|Cins At
+itm_uber_horse_pl|Cins At
+itm_bad_arrows|Kalitesiz Oklar
+itm_bad_arrows_pl|Kalitesiz Oklar
+itm_norm_arrows|Oklar
+itm_norm_arrows_pl|Oklar
+itm_good_arrows|Kaliteli Oklar
+itm_good_arrows_pl|Kaliteli Oklar
+itm_bad_bullets|Kalitesiz Kurşunlar
+itm_bad_bullets_pl|Kalitesiz Kurşunlar
+itm_norm_bullets|Kurşunlar
+itm_norm_bullets_pl|Kurşunlar
+itm_good_bullets|Kaliteli Kurşunlar
+itm_good_bullets_pl|Kaliteli Kurşunlar
+itm_samopal_m|Arkebüz
+itm_samopal_m_pl|Arkebüz
+itm_samopal_m_melee|Arkebüz
+itm_samopal_m_melee_pl|Arkebüz
+itm_bad_pistol|Paslı Piştov
+itm_bad_pistol_pl|Paslı Piştov
+itm_bad_pistol_melee|Paslı Piştov
+itm_bad_pistol_melee_pl|Paslı Piştov
+itm_norm_pistol|Piştov
+itm_norm_pistol_pl|Piştov
+itm_norm_pistol_melee|Piştov
+itm_norm_pistol_melee_pl|Piştov
+itm_fast_pistol|Seri Atan Piştov
+itm_fast_pistol_pl|Seri Atan Piştov
+itm_fast_pistol_melee|Seri Atan Piştov
+itm_fast_pistol_melee_pl|Seri Atan Piştov
+itm_power_pistol|Uzun Namlulu Piştov
+itm_power_pistol_pl|Uzun Namlulu Piştov
+itm_power_pistol_melee|Uzun Namlulu Piştov
+itm_power_pistol_melee_pl|Uzun Namlulu Piştov
+itm_uber_pistol|İyi Piştov
+itm_uber_pistol_pl|İyi Piştov
+itm_uber_pistol_melee|İyi Piştov
+itm_uber_pistol_melee_pl|İyi Piştov
+itm_bad_karabin|Paslı Karabina
+itm_bad_karabin_pl|Paslı Karabina
+itm_bad_karabin_melee|Paslı Karabina
+itm_bad_karabin_melee_pl|Paslı Karabina
+itm_norm_karabin|Karabina
+itm_norm_karabin_pl|Karabina
+itm_norm_karabin_melee|Karabina
+itm_norm_karabin_melee_pl|Karabina
+itm_good_karabin|İyi Karabina
+itm_good_karabin_pl|İyi Karabina
+itm_good_karabin_melee|İyi Karabina
+itm_good_karabin_melee_pl|İyi Karabina
+itm_uber_karabin|Horozlu Karabina
+itm_uber_karabin_pl|Horozlu Karabina
+itm_uber_karabin_melee|Horozlu Karabina
+itm_uber_karabin_melee_pl|Horozlu Karabina
+itm_bad_musket|Paslı Misket Tüfeği
+itm_bad_musket_pl|Paslı Misket Tüfeği
+itm_bad_musket_melee|Paslı Misket Tüfeği
+itm_bad_musket_melee_pl|Paslı Misket Tüfeği
+itm_norm_musket|Misket Tüfeği
+itm_norm_musket_pl|Misket Tüfeği
+itm_norm_musket_melee|Misket Tüfeği
+itm_norm_musket_melee_pl|Misket Tüfeği
+itm_good_musket_m|İyi Misket Tüfeği
+itm_good_musket_m_pl|İyi Misket Tüfeği
+itm_good_musket_m_melee|İyi Misket Tüfeği
+itm_good_musket_m_melee_pl|İyi Misket Tüfeği
+itm_uber_mushket|Horozlu Misket Tüfeği
+itm_uber_mushket_pl|Horozlu Misket Tüfeği
+itm_uber_mushket_melee|Horozlu Misket Tüfeği
+itm_uber_mushket_melee_pl|Horozlu Misket Tüfeği
+itm_t_bad_musket|Paslı Misket Tüfeği
+itm_t_bad_musket_pl|Paslı Misket Tüfeği
+itm_t_bad_musket_melee|Paslı Misket Tüfeği
+itm_t_bad_musket_melee_pl|Paslı Misket Tüfeği
+itm_t_norm_musket|Misket Tüfeği
+itm_t_norm_musket_pl|Misket Tüfeği
+itm_t_norm_musket_melee|Misket Tüfeği
+itm_t_norm_musket_melee_pl|Misket Tüfeği
+itm_t_good_musket|İyi Misket Tüfeği
+itm_t_good_musket_pl|İyi Misket Tüfeği
+itm_t_good_musket_melee|İyi Misket Tüfeği
+itm_t_good_musket_melee_pl|İyi Misket Tüfeği
+itm_t_uber_musket|Horozlu Misket Tüfeği
+itm_t_uber_musket_pl|Horozlu Misket Tüfeği
+itm_t_uber_musket_melee|Horozlu Misket Tüfeği
+itm_t_uber_musket_melee_pl|Horozlu Misket Tüfeği
+itm_m_dwustwol_karabin|Çift Namlulu Karabina
+itm_m_dwustwol_karabin_pl|Çift Namlulu Karabina
+itm_m_dwustwol_karabin_melee|Karabina
+itm_m_dwustwol_karabin_melee_pl|Karabina
+itm_m_dwustwol_pistol|Çift Namlulu Piştov
+itm_m_dwustwol_pistol_pl|Çift Namlulu Piştov
+itm_m_dwustwol_pistol_melee|not to be translated
+itm_m_dwustwol_pistol_melee_pl|not to be translated
+itm_bad_luk|Av Yayı
+itm_bad_luk_pl|Av Yayı
+itm_norm_luk|Yay
+itm_norm_luk_pl|Yay
+itm_gud_luk|Güçlü Yay
+itm_gud_luk_pl|Güçlü Yay
+itm_uber_luk|Mürekkep Yay
+itm_uber_luk_pl|Mürekkep Yay
+itm_bad_shield|Çürük Kalkan
+itm_bad_shield_pl|Çürük Kalkan
+itm_norm_shield|Kalkan
+itm_norm_shield_pl|Kalkan
+itm_good_shield|Kalın Kalkan
+itm_good_shield_pl|Kalın Kalkan
+itm_stal_shield|Demir Kalkan
+itm_stal_shield_pl|Demir Kalkan
+itm_uber_shield|Çelik Kalkan
+itm_uber_shield_pl|Çelik Kalkan
+itm_bad_shpaga|Paslı Kılıç
+itm_bad_shpaga_pl|Paslı Kılıç
+itm_norm_shpaga|Kılıç
+itm_norm_shpaga_pl|Kılıç
+itm_good_shpaga_m|İyi Kılıç
+itm_good_shpaga_m_pl|İyi Kılıç
+itm_bad_palash|Paslı Pala
+itm_bad_palash_pl|Paslı Pala
+itm_norm_palash|Pala
+itm_norm_palash_pl|Pala
+itm_good_palash_m|İyi Pala
+itm_good_palash_m_pl|İyi Pala
+itm_bad_p_palash|Paslı Pala
+itm_bad_p_palash_pl|Paslı Pala
+itm_norm_p_palash|Pala
+itm_norm_p_palash_pl|Pala
+itm_good_p_palash|İyi Pala
+itm_good_p_palash_pl|İyi Pala
+itm_bad_sablya_a|İyi Pala
+itm_bad_sablya_a_pl|İyi Pala
+itm_norm_sablya_a|Süvari Kılıcı
+itm_norm_sablya_a_pl|Süvari Kılıcı
+itm_good_sablya_a|İyi Süvari Kılıcı
+itm_good_sablya_a_pl|İyi Süvari Kılıcı
+itm_bad_sablya_b|Paslı Süvari Kılıcı
+itm_bad_sablya_b_pl|Paslı Süvari Kılıcı
+itm_norm_sablya_b|Süvari Kılıcı
+itm_norm_sablya_b_pl|Süvari Kılıcı
+itm_good_sablya_b|İyi Süvari Kılıcı
+itm_good_sablya_b_pl|İyi Süvari Kılıcı
+itm_t_bad_sablya_a|Paslı Süvari Kılıcı
+itm_t_bad_sablya_a_pl|Paslı Süvari Kılıcı
+itm_t_norm_sablya_a|Süvari Kılıcı
+itm_t_norm_sablya_a_pl|Süvari Kılıcı
+itm_t_good_sablya_a|İyi Süvari Kılıcı
+itm_t_good_sablya_a_pl|İyi Süvari Kılıcı
+itm_norn_k_shablya|Kazak Süvari Kılıcı
+itm_norn_k_shablya_pl|Kazak Süvari Kılıcı
+itm_good_k_shablya|İyi Kazak Süvari Kılıcı
+itm_good_k_shablya_pl|İyi Kazak Süvari Kılıcı
+itm_bad_toporik|Nacak
+itm_bad_toporik_pl|Nacak
+itm_good_toporik|İyi Nacak
+itm_good_toporik_pl|İyi Nacak
+itm_bad_chekan|Çekan
+itm_bad_chekan_pl|Çekan
+itm_good_chekan|İyi Çekan
+itm_good_chekan_pl|İyi Çekan
+itm_bad_bulava|Gürz
+itm_bad_bulava_pl|Gürz
+itm_good_bulava|İyi Gürz
+itm_good_bulava_pl|İyi Gürz
+itm_bad_berdish|Uzun Saplı Balta
+itm_bad_berdish_pl|Uzun Saplı Balta
+itm_good_berdish|Dengeli Uzun Saplı Balta
+itm_good_berdish_pl|Dengeli Uzun Saplı Balta
+itm_m_sovnya|Sovyan
+itm_m_sovnya_pl|Sovyan
+itm_m_alebarda|Baltalı Kargı
+itm_m_alebarda_pl|Baltalı Kargı
+itm_m_twohand_sword|Çift Elli Kılıç
+itm_m_twohand_sword_pl|Çift Elli Kılıç
+itm_m_kleymor|Büyük Kılıç
+itm_m_kleymor_pl|Büyük Kılıç
+itm_bad_pike|Eski Mızrak
+itm_bad_pike_pl|Eski Mızrak
+itm_norm_pika|Mızrak
+itm_norm_pika_pl|Mızrak
+itm_good_pike_m|Dengeli Mızrak
+itm_good_pike_m_pl|Dengeli Mızrak
+itm_bad_spear|Eski Mızrak
+itm_bad_spear_pl|Eski Mızrak
+itm_good_spear|Mızrak
+itm_good_spear_pl|Mızrak
+itm_bad_lance|Eski Kargı
+itm_bad_lance_pl|Eski Kargı
+itm_norm_lance|Kargı
+itm_norm_lance_pl|Kargı
+itm_good_lance|Ağır Kargı
+itm_good_lance_pl|Ağır Kargı
+itm_gusar_lance|Süvari Kargısı
+itm_gusar_lance_pl|Süvari Kargısı
+itm_m_mosk_pehota_forma|Nişancı Üniforması
+itm_m_mosk_pehota_forma_pl|Nişancı Üniforması
+itm_m_mosk_strelok_forma|Nişancı Üniforması
+itm_m_mosk_strelok_forma_pl|Nişancı Üniforması
+itm_m_mosk_kava_forma|Çuha
+itm_m_mosk_kava_forma_pl|Çuha
+itm_m_mosk_bad_armor|Tegilai
+itm_m_mosk_bad_armor_pl|Tegilai
+itm_m_mosk_light_armor|Kısa Pullu Zırh
+itm_m_mosk_light_armor_pl|Kısa Pullu Zırh
+itm_m_mosk_norm_armor|Geçim Zırh
+itm_m_mosk_norm_armor_pl|Geçim Zırh
+itm_m_mosk_good_armor|Ayna Zırh
+itm_m_mosk_good_armor_pl|Ayna Zırh
+itm_m_mosk_notsogood_armor|Perçinli Deri Zırh
+itm_m_mosk_notsogood_armor_pl|Perçinli Deri Zırh
+itm_m_pol_pehota_forma|Mızrakçı Üniforması
+itm_m_pol_pehota_forma_pl|Mızrakçı Üniforması
+itm_m_pol_strelok_forma|Silahşör Üniforması
+itm_m_pol_strelok_forma_pl|Silahşör Üniforması
+itm_m_pol_kava_forma|Dragoon Üniforması
+itm_m_pol_kava_forma_pl|Dragoon Üniforması
+itm_m_pol_light_armor|Zırhlanmış  Ceket
+itm_m_pol_light_armor_pl|Zırhlanmış  Ceket
+itm_m_pol_norm_armor|Zincir Zırh
+itm_m_pol_norm_armor_pl|Zincir Zırh
+itm_m_pol_good_k_armor|Kaplama Zincir
+itm_m_pol_good_k_armor_pl|Kaplama Zincir
+itm_m_pol_good_p_armor|Yarım Katlavi
+itm_m_pol_good_p_armor_pl|Yarım Katlavi
+itm_m_pol_uber_p_armor|Zırh
+itm_m_pol_uber_p_armor_pl|Zırh
+itm_m_pol_uber_k_armor|Yamçılı Hüssar Zırhı
+itm_m_pol_uber_k_armor_pl|Yamçılı Hüssar Zırhı
+itm_m_ukr_pehota_forma|Zıbın
+itm_m_ukr_pehota_forma_pl|Zıbın
+itm_m_ukr_strelok_forma|Zıbın
+itm_m_ukr_strelok_forma_pl|Zıbın
+itm_m_ukr_kava_forma|Zıbın
+itm_m_ukr_kava_forma_pl|Zıbın
+itm_m_ukr_bad_armor|Zırhlanmış Zıbın
+itm_m_ukr_bad_armor_pl|Zırhlanmış Zıbın
+itm_m_ukr_light_armor|Zırhlanmış Zıbın
+itm_m_ukr_light_armor_pl|Zırhlanmış Zıbın
+itm_m_ukr_norm_armor|Zincir Zırh
+itm_m_ukr_norm_armor_pl|Zincir Zırh
+itm_m_ukr_good_armor|Zincir Zırhlı Zıbın
+itm_m_ukr_good_armor_pl|Zincir Zırhlı Zıbın
+itm_m_ttr_archer_forma|Kaftan
+itm_m_ttr_archer_forma_pl|Kaftan
+itm_m_ttr_kava_forma|Kaftan
+itm_m_ttr_kava_forma_pl|Kaftan
+itm_m_ttr_bad_armor_a|Kalın Kaftan
+itm_m_ttr_bad_armor_a_pl|Kalın Kaftan
+itm_m_ttr_bad_armor_b|Kalın Kaftan
+itm_m_ttr_bad_armor_b_pl|Kalın Kaftan
+itm_m_ttr_light_armor_a|Kapitone Kaftan
+itm_m_ttr_light_armor_a_pl|Kapitone Kaftan
+itm_m_ttr_light_armor_b|Kapitone Kaftan
+itm_m_ttr_light_armor_b_pl|Kapitone Kaftan
+itm_m_ttr_norm_armor|Zincir Zırh
+itm_m_ttr_norm_armor_pl|Zincir Zırh
+itm_m_ttr_good_armor|Yuşman
+itm_m_ttr_good_armor_pl|Yuşman
+itm_m_swed_pehot_forma|Kıyafet
+itm_m_swed_pehot_forma_pl|Kıyafet
+itm_m_swed_strelok_forma|Silahşör Üniforması
+itm_m_swed_strelok_forma_pl|Silahşör Üniforması
+itm_m_swed_kava_forma|Dragoon Üniforması
+itm_m_swed_kava_forma_pl|Dragoon Üniforması
+itm_m_swed_light_armor|Deri Ceket
+itm_m_swed_light_armor_pl|Deri Ceket
+itm_m_swed_norm_armor|Yarım Katlavi
+itm_m_swed_norm_armor_pl|Yarım Katlavi
+itm_m_swed_good_p_armor|Katlavi
+itm_m_swed_good_p_armor_pl|Katlavi
+itm_m_swed_uber_p_armor|Yarı Zırh
+itm_m_swed_uber_p_armor_pl|Yarı Zırh
+itm_m_swed_good_k_armor|Süvari Yarı Zırhı
+itm_m_swed_good_k_armor_pl|Süvari Yarı Zırhı
+itm_m_swed_shapka|Şapka
+itm_m_swed_shapka_pl|Şapka
+itm_m_swed_light_helmet|Eskimiş Tulga
+itm_m_swed_light_helmet_pl|Eskimiş Tulga
+itm_m_swed_norm_p_helmet|Tulga
+itm_m_swed_norm_p_helmet_pl|Tulga
+itm_m_swed_good_k_helmet|Süvari Miğferi
+itm_m_swed_good_k_helmet_pl|Süvari Miğferi
+itm_m_swed_good_p_helmet|Armet
+itm_m_swed_good_p_helmet_pl|Armet
+itm_m_mosk_shapka|Şapka
+itm_m_mosk_shapka_pl|Şapka
+itm_m_mosk_light_helmet|Kağıt Başlık
+itm_m_mosk_light_helmet_pl|Kağıt Başlık
+itm_m_mosk_norm_helmet|Demir Başlık
+itm_m_mosk_norm_helmet_pl|Demir Başlık
+itm_m_mosk_good_helmet|Koni
+itm_m_mosk_good_helmet_pl|Koni
+itm_m_mosk_uber_helmet|Boyar Miğferi
+itm_m_mosk_uber_helmet_pl|Boyar Miğferi
+itm_m_pol_shapka|Şapka
+itm_m_pol_shapka_pl|Şapka
+itm_m_pol_good_shapka|Şapka
+itm_m_pol_good_shapka_pl|Şapka
+itm_m_pol_light_helmet|Baktır
+itm_m_pol_light_helmet_pl|Baktır
+itm_m_pol_norm_helmet|Miğfer
+itm_m_pol_norm_helmet_pl|Miğfer
+itm_m_pol_good_helmet|Süvari Miğferi
+itm_m_pol_good_helmet_pl|Süvari Miğferi
+itm_m_pol_uber_helmet|Süvari Miğferi
+itm_m_pol_uber_helmet_pl|Süvari Miğferi
+itm_m_ukr_shapka|Şapka
+itm_m_ukr_shapka_pl|Şapka
+itm_m_ukr_light_helmet|Baktır
+itm_m_ukr_light_helmet_pl|Baktır
+itm_m_ukr_norm_helmet|Baktır
+itm_m_ukr_norm_helmet_pl|Baktır
+itm_m_ttr_shapka|Şapka
+itm_m_ttr_shapka_pl|Şapka
+itm_m_ttr_light_helmet|Baktır
+itm_m_ttr_light_helmet_pl|Baktır
+itm_m_ttr_norm_helmet|Hafif Miğfer
+itm_m_ttr_norm_helmet_pl|Hafif Miğfer
+itm_m_ttr_good_helmet|Başlık
+itm_m_ttr_good_helmet_pl|Başlık
+itm_m_granata_small|Humbara
+itm_m_granata_small_pl|Humbara
+itm_bad_gloves|Yıpranmış Eldiven
+itm_bad_gloves_pl|Yıpranmış Eldiven
+itm_norm_gloves|Deri Eldiven
+itm_norm_gloves_pl|Deri Eldiven
+itm_good_gloves|Kürklü Eldiven
+itm_good_gloves_pl|Kürklü Eldiven
+itm_uber_gloves|Eldiven
+itm_uber_gloves_pl|Eldiven
+itm_bad_boots|Köylü Çizmesi
+itm_bad_boots_pl|Köylü Çizmesi
+itm_bad_boots_mosk|Hasır Ayakkabı
+itm_bad_boots_mosk_pl|Hasır Ayakkabı
+itm_bad_boots_swed|Ayakkabı
+itm_bad_boots_swed_pl|Ayakkabı
+itm_bad_boots_k|Eski Süvari Çizmesi
+itm_bad_boots_k_pl|Eski Süvari Çizmesi
+itm_norm_boots_k|Süvari Çizmesi
+itm_norm_boots_k_pl|Süvari Çizmesi
+itm_good_boots_k|İyi Süvari Çizmesi
+itm_good_boots_k_pl|İyi Süvari Çizmesi
+itm_bad_boots_p|Eski Çizme
+itm_bad_boots_p_pl|Eski Çizme
+itm_norm_boots_p|Çizme
+itm_norm_boots_p_pl|Çizme
+itm_good_boots_p|İyi Çizme
+itm_good_boots_p_pl|İyi Çizme
+itm_bad_botforts|Eski Balıkçı Çizmesi
+itm_bad_botforts_pl|Eski Balıkçı Çizmesi
+itm_norm_botforts|Balıkçı Çizmesi
+itm_norm_botforts_pl|Balıkçı Çizmesi
+itm_good_botforts|İyi Balıkçı Çizmesi
+itm_good_botforts_pl|İyi Balıkçı Çizmesi
+itm_good_boots_ttr|İyi Çizme
+itm_good_boots_ttr_pl|İyi Çizme
+itm_noob_dubinka|Sopa
+itm_noob_dubinka_pl|Sopa
+itm_noob_toporik|Nacak
+itm_noob_toporik_pl|Nacak
+itm_m_janissar_hat|Üsküf
+itm_m_janissar_hat_pl|Üsküf
+itm_m_yanichar_forma|Yeniçeri Dolaması
+itm_m_yanichar_forma_pl|Yeniçeri Dolaması
+itm_m_janissary_tapki|Yeniçeri Yemenisi
+itm_m_janissary_tapki_pl|Yeniçeri Yemenisi
+itm_m_yatagan_bad|Yatağan
+itm_m_yatagan_bad_pl|Yatağan
+itm_m_yatagan_good|Şam Çeliği Yatağan
+itm_m_yatagan_good_pl|Şam Çeliği Yatağan
+itm_duel_sword|Düello Kılıcı
+itm_duel_sword_pl|Düello Kılıcı
+itm_items_end|End of list
+itm_items_end_pl|End of list

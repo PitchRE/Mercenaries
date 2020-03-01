@@ -1,0 +1,2423 @@
+trp_multiplayer_profile_troop_male|perfil tropa multijugador hombre
+trp_multiplayer_profile_troop_male_pl|perfil tropa multijugador hombre
+trp_multiplayer_profile_troop_female|perfil tropa multijugador mujer
+trp_multiplayer_profile_troop_female_pl|perfil tropa multijugador mujer
+trp_temp_troop|Tropa temporal
+trp_temp_troop_pl|Tropa temporal
+trp_find_item_cheat|encontrar objeto trampa
+trp_find_item_cheat_pl|encontrar objeto trampa
+trp_random_town_sequence|Secuencia al azar de la ciudad
+trp_random_town_sequence_pl|Secuencia al azar de la ciudad
+trp_tournament_participants|Participantes del torneo
+trp_tournament_participants_pl|Participantes del torneo
+trp_tutorial_maceman|Macero
+trp_tutorial_maceman_pl|Macero
+trp_tutorial_archer|Arquero
+trp_tutorial_archer_pl|Arquero
+trp_tutorial_swordsman|Espadachín
+trp_tutorial_swordsman_pl|Espadachín
+trp_novice_fighter|Luchador novicio
+trp_novice_fighter_pl|Luchadores novicios
+trp_regular_fighter|Luchador con experiencia
+trp_regular_fighter_pl|Luchadores con experiencia
+trp_veteran_fighter|Luchador veterano
+trp_veteran_fighter_pl|Luchadores veteranos
+trp_champion_fighter|Luchador campeón
+trp_champion_fighter_pl|Luchadores campeones
+trp_arena_training_fighter_1|Luchador novicio
+trp_arena_training_fighter_1_pl|Luchadores novicios
+trp_arena_training_fighter_2|Luchador novicio
+trp_arena_training_fighter_2_pl|Luchadores novicios
+trp_arena_training_fighter_3|Luchador con experiencia
+trp_arena_training_fighter_3_pl|Luchadores con experiencia
+trp_arena_training_fighter_4|Luchador con experiencia
+trp_arena_training_fighter_4_pl|Luchadores con experiencia
+trp_arena_training_fighter_5|Luchador con experiencia
+trp_arena_training_fighter_5_pl|Luchadores con experiencia
+trp_arena_training_fighter_6|Luchador veterano
+trp_arena_training_fighter_6_pl|Luchadores veteranos
+trp_arena_training_fighter_7|Luchador veterano
+trp_arena_training_fighter_7_pl|Luchadores veteranos
+trp_arena_training_fighter_8|Luchador veterano
+trp_arena_training_fighter_8_pl|Luchadores veteranos
+trp_arena_training_fighter_9|Luchador campeón
+trp_arena_training_fighter_9_pl|Luchadores campeones
+trp_arena_training_fighter_10|Luchador campeón
+trp_arena_training_fighter_10_pl|Luchadores campeones
+trp_cattle|Ganado
+trp_cattle_pl|Ganado
+trp_farmer|Campesino
+trp_farmer_pl|Campesinos
+trp_townsman|Miliciano
+trp_townsman_pl|Milicianos
+trp_watchman|Alabardero mercenario
+trp_watchman_pl|Alabarderos mercenarios
+trp_caravan_guard|Jinete mercenario
+trp_caravan_guard_pl|Jinetes mercenarios
+trp_mercenary_swordsman|Tirador mercenario
+trp_mercenary_swordsman_pl|Tiradores mercenarios
+trp_hired_blade|Piquero mercenario
+trp_hired_blade_pl|Piqueros mercenarios
+trp_mercenary_crossbowman|Mosquetero mercenario
+trp_mercenary_crossbowman_pl|Mosqueteros mercenarios
+trp_mercenary_horseman|Soldado mercenario de la caballería ligera
+trp_mercenary_horseman_pl|Mercenarios de la caballería ligera
+trp_mercenaries_end|fin mercenarios
+trp_mercenaries_end_pl|fin mercenarios
+trp_swadian_recruit|Guadañero
+trp_swadian_recruit_pl|Guadañeros
+trp_swadian_militia|Piquero miliciano
+trp_swadian_militia_pl|Piqueros milicianos
+trp_swadian_militia_levelup|Piquero miliciano
+trp_swadian_militia_levelup_pl|Piqueros milicianos
+trp_swadian_skirmisher|Mosquetero miliciano
+trp_swadian_skirmisher_pl|Mosqueteros milicianos
+trp_swadian_skirmisher_levelup|Mosquetero miliciano (veterano)
+trp_swadian_skirmisher_levelup_pl|Mosqueteros milicianos (veteranos)
+trp_swadian_footman|Piquero
+trp_swadian_footman_pl|Piqueros
+trp_swadian_footman_levelup|Piquero (veterano)
+trp_swadian_footman_levelup_pl|Piqueros (veteranos)
+trp_swadian_crossbowman|Zolnier
+trp_swadian_crossbowman_pl|Zolnieres
+trp_swadian_crossbowman_levelup|Zolnier (veterano)
+trp_swadian_crossbowman_levelup_pl|Zolnieres (veteranos)
+trp_swadian_infantry|Piquero de la infantería alemana
+trp_swadian_infantry_pl|Piqueros de la infantería alemana
+trp_swadian_infantry_levelup|Piquero de la infantería alemana (veterano)
+trp_swadian_infantry_levelup_pl|Piqueros de la infantería alemana (veteranos)
+trp_swadian_sharpshooter|Mosquetero de la infantería alemana
+trp_swadian_sharpshooter_pl|Mosqueteros de la infantería alemana
+trp_swadian_sharpshooter_levelup|Mosquetero de la infantería alemana (veterano)
+trp_swadian_sharpshooter_levelup_pl|Mosqueteros de la infantería alemana (veteranos)
+trp_swadian_man_at_arms|Voluntario
+trp_swadian_man_at_arms_pl|Voluntarios
+trp_swadian_man_at_arms_levelup|Voluntario (veterano)
+trp_swadian_man_at_arms_levelup_pl|Voluntarios (veteranos)
+trp_polish_dragoon|Dragón
+trp_polish_dragoon_pl|Dragones
+trp_polish_dragoon_levelup|Dragón (veterano)
+trp_polish_dragoon_levelup_pl|Dragones (veteranos)
+trp_swadian_sergeant|Cosaco con armadura
+trp_swadian_sergeant_pl|Cosacos con armadura
+trp_swadian_sergeant_levelup|Cosaco con armadura (veterano)
+trp_swadian_sergeant_levelup_pl|Cosacos con armadura (veteranos)
+trp_polish_reytar|Reitre polaco
+trp_polish_reytar_pl|Reitres polacos
+trp_polish_reytar_levelup|Reitre polaco (veterano)
+trp_polish_reytar_levelup_pl|Reitres polacos (veteranos)
+trp_swadian_knight|Húsar alado
+trp_swadian_knight_pl|Húsares alados
+trp_swadian_knight_levelup|Húsar alado (veterano)
+trp_swadian_knight_levelup_pl|Húsares alados (veteranos)
+trp_swadian_messenger|Mensajero
+trp_swadian_messenger_pl|Mensajeros
+trp_swadian_deserter|Desertor
+trp_swadian_deserter_pl|Desertores
+trp_swadian_prison_guard|Guardia de la prisión
+trp_swadian_prison_guard_pl|Guardias de la prisión
+trp_swadian_castle_guard|Guardia
+trp_swadian_castle_guard_pl|Guardias
+trp_vaegir_recruit|Miliciano con bastón
+trp_vaegir_recruit_pl|Milicianos con bastón
+trp_vaegir_footman|Miliciano con lanza de caballería
+trp_vaegir_footman_pl|Milicianos con lanza de caballería
+trp_vaegir_footman_levelup|Miliciano con pica (veterano)
+trp_vaegir_footman_levelup_pl|Milicianos con pica (veteranos)
+trp_vaegir_skirmisher|Tirador de Posad
+trp_vaegir_skirmisher_pl|Tiradores de Posad
+trp_vaegir_skirmisher_levelup|Tirador de Posad (veterano)
+trp_vaegir_skirmisher_levelup_pl|Tiradores de Posad (veteranos)
+trp_vaegir_veteran|Lancero tirador
+trp_vaegir_veteran_pl|Lanceros tiradores
+trp_vaegir_veteran_levelup|Lancero tirador (veterano)
+trp_vaegir_veteran_levelup_pl|Lanceros tiradores (veteranos)
+trp_vaegir_archer|Tirador
+trp_vaegir_archer_pl|Tiradores
+trp_vaegir_archer_levelup|Tirador (veterano)
+trp_vaegir_archer_levelup_pl|Tiradores (veteranos)
+trp_vaegir_infantry|Lancero de la Nueva Orden
+trp_vaegir_infantry_pl|Lanceros de la Nueva Orden
+trp_vaegir_infantry_levelup|Piquero de la Nueva Orden (veterano)
+trp_vaegir_infantry_levelup_pl|Piqueros de la Nueva Orden (veteranos)
+trp_vaegir_marksman|Tirador de la Nueva Orden
+trp_vaegir_marksman_pl|Tiradores de la Nueva Orden
+trp_vaegir_marksman_levelup|Tirador de la Nueva Orden (veterano)
+trp_vaegir_marksman_levelup_pl|Tiradores de la Nueva Orden (veteranos)
+trp_vaegir_horseman|Siervo armado
+trp_vaegir_horseman_pl|Siervos armados
+trp_vaegir_horseman_levelup|Siervo combatiente (veterano)
+trp_vaegir_horseman_levelup_pl|Siervos combatientes (veteranos)
+trp_moskow_dragoon|Soldado de caballería de la pequeña nobleza
+trp_moskow_dragoon_pl|Caballería de la pequeña nobleza
+trp_moskow_dragoon_levelup|Soldado de caballería de la nobleza (veterano)
+trp_moskow_dragoon_levelup_pl|Caballería de la nobleza (veteranos)
+trp_vaegir_knight|Reitre moscovita
+trp_vaegir_knight_pl|Reitres moscovitas
+trp_vaegir_knight_levelup|Reitre moscovita (veterano)
+trp_vaegir_knight_levelup_pl|Reitres moscovitas (veteranos)
+trp_vaegir_guard|Guardia de nobles
+trp_vaegir_guard_pl|Guardias de nobles
+trp_vaegir_guard_levelup|Guardia de nobles (veterano)
+trp_vaegir_guard_levelup_pl|Guardias de nobles (veteranos)
+trp_vaegir_messenger|Mensajero
+trp_vaegir_messenger_pl|Mensajeros
+trp_vaegir_deserter|Desertor vaegir
+trp_vaegir_deserter_pl|Desertores vaegires
+trp_vaegir_prison_guard|Guardia de la prisión
+trp_vaegir_prison_guard_pl|Guardias de la prisión
+trp_vaegir_castle_guard|Guardia
+trp_vaegir_castle_guard_pl|Guardias
+trp_rinda|Guardaespaldas del zar
+trp_rinda_pl|Guardaespaldas del zar
+trp_khergit_tribesman|Nómada
+trp_khergit_tribesman_pl|Nómadas
+trp_khergit_skirmisher|Kapikulu
+trp_khergit_skirmisher_pl|Kapikulu
+trp_khergit_skirmisher_levelup|Kapikulu (veterano)
+trp_khergit_skirmisher_levelup_pl|Kapikulu (veteranos)
+trp_khergit_horseman|Bayrak
+trp_khergit_horseman_pl|Bayraks
+trp_khergit_horseman_levelup|Bayrak (veterano)
+trp_khergit_horseman_levelup_pl|Bayraks (veteranos)
+trp_saymen|Seymen
+trp_saymen_pl|Seymens
+trp_saymen_levelup|Seymen (veterano)
+trp_saymen_levelup_pl|Seymens (veteranos)
+trp_khergit_horse_archer|Jasaq
+trp_khergit_horse_archer_pl|Jasaqs
+trp_khergit_horse_archer_levelup|Jasaq (veterano)
+trp_khergit_horse_archer_levelup_pl|Jasaqs (veteranos)
+trp_khergit_lancer|Oglan
+trp_khergit_lancer_pl|Oglanes
+trp_khergit_lancer_levelup|Oglan (veterano)
+trp_khergit_lancer_levelup_pl|Oglanes (veteranos)
+trp_khergit_veteran_horse_archer|Mirza Chambul
+trp_khergit_veteran_horse_archer_pl|Mirza Chambul
+trp_khergit_veteran_horse_archer_levelup|Mirza Chambul (veterano)
+trp_khergit_veteran_horse_archer_levelup_pl|Mirza Chambul (veteranos)
+trp_asak_bey|Asak-bey
+trp_asak_bey_pl|Asak-beys
+trp_asak_bey_levelup|Asak-bey (veterano)
+trp_asak_bey_levelup_pl|Asak-beys (veteranos)
+trp_zyndjirli|Nokhor
+trp_zyndjirli_pl|Nokhores
+trp_zyndjirli_levelup|Nokhor (veterano)
+trp_zyndjirli_levelup_pl|Nokhores (veteranos)
+trp_khergit_messenger|Mensajero
+trp_khergit_messenger_pl|Mensajeros
+trp_khergit_deserter|Desertor
+trp_khergit_deserter_pl|Desertores
+trp_khergit_prison_guard|Guardia de la prisión
+trp_khergit_prison_guard_pl|Guardias de la prisión
+trp_khergit_castle_guard|Guardia
+trp_khergit_castle_guard_pl|Guardias
+trp_nord_recruit|Miliciano del pueblo
+trp_nord_recruit_pl|Milicianos del pueblo
+trp_nord_footman|Piquero miliciano
+trp_nord_footman_pl|Piqueros milicianos
+trp_nord_footman_levelup|Piquero miliciano (veterano)
+trp_nord_footman_levelup_pl|Piqueros milicianos (veteranos)
+trp_nord_huntsman|Mosquetero miliciano
+trp_nord_huntsman_pl|Mosqueteros milicianos
+trp_nord_huntsman_levelup|Mosquetero miliciano (veterano)
+trp_nord_huntsman_levelup_pl|Mosqueteros milicianos (veteranos)
+trp_nord_trained_footman|Piquero
+trp_nord_trained_footman_pl|Piqueros
+trp_nord_trained_footman_levelup|Piquero (veterano)
+trp_nord_trained_footman_levelup_pl|Piqueros (veteranos)
+trp_nord_archer|Mosquetero
+trp_nord_archer_pl|Mosqueteros
+trp_nord_archer_levelup|Mosquetero (veterano)
+trp_nord_archer_levelup_pl|Mosqueteros (veteranos)
+trp_sved_swordmaster|Espadachín
+trp_sved_swordmaster_pl|Espadachines
+trp_sved_swordmaster_levelup|Espadachín (veterano)
+trp_sved_swordmaster_levelup_pl|Espadachines (veteranos)
+trp_nord_veteran_archer|Guardia de entrenamiento
+trp_nord_veteran_archer_pl|Guardias de entrenamiento
+trp_nord_veteran_archer_levelup|Guardia de entrenamiento (veterano)
+trp_nord_veteran_archer_levelup_pl|Guardias de entrenamiento (veteranos)
+trp_nord_warrior|Dragón
+trp_nord_warrior_pl|Dragones
+trp_nord_warrior_levelup|Dragón (veterano)
+trp_nord_warrior_levelup_pl|Dragones (veteranos)
+trp_nord_champion|Coracero
+trp_nord_champion_pl|Coraceros
+trp_nord_champion_levelup|Coracero
+trp_nord_champion_levelup_pl|Coraceros
+trp_sved_lancers|Lancero coracero
+trp_sved_lancers_pl|Lanceros coraceros
+trp_sved_lancers_levelup|Lancero coracero (veterano)
+trp_sved_lancers_levelup_pl|Lanceros coraceros (veteranos)
+trp_nord_veteran|Reitre sueco
+trp_nord_veteran_pl|Reitres suecos
+trp_nord_veteran_levelup|Reitre sueco (veterano)
+trp_nord_veteran_levelup_pl|Reitres suecos (veteranos)
+trp_nord_messenger|Mensajero
+trp_nord_messenger_pl|Mensajeros
+trp_nord_deserter|Desertor nórdico
+trp_nord_deserter_pl|Desertores nórdicos
+trp_nord_prison_guard|Guardia de la prisión
+trp_nord_prison_guard_pl|Guardias de la prisión
+trp_nord_castle_guard|Guardia
+trp_nord_castle_guard_pl|Guardias
+trp_rhodok_tribesman|Campesino
+trp_rhodok_tribesman_pl|Campesinos
+trp_rhodok_spearman|Cosaco pobre
+trp_rhodok_spearman_pl|Cosacos pobres
+trp_rhodok_spearman_levelup|Cosaco pobre (veterano)
+trp_rhodok_spearman_levelup_pl|Cosacos pobres (veteranos)
+trp_ukr_golota|Piquero cosaco pobre
+trp_ukr_golota_pl|Piqueros cosacos pobres
+trp_ukr_golota_levelup|Piquero cosaco pobre (veterano)
+trp_ukr_golota_levelup_pl|Piqueros cosacos pobres (veteranos)
+trp_rhodok_sergeant|Soldado de infantería de Zaporozhia
+trp_rhodok_sergeant_pl|Infantería de Zaporozhia
+trp_rhodok_sergeant_levelup|Soldado de infantería de Zaporozhia (veterano)
+trp_rhodok_sergeant_levelup_pl|Infantería de Zaporozhia (veteranos)
+trp_rhodok_trained_crossbowman|Netyag
+trp_rhodok_trained_crossbowman_pl|Netyagi
+trp_rhodok_trained_crossbowman_levelup|Netyag (veterano)
+trp_rhodok_trained_crossbowman_levelup_pl|Netyagi (veteranos)
+trp_rhodok_veteran_spearman|Serduk
+trp_rhodok_veteran_spearman_pl|Serdukes
+trp_rhodok_veteran_spearman_levelup|Serduk (veterano)
+trp_rhodok_veteran_spearman_levelup_pl|Serdukes (veteranos)
+trp_rhodok_trained_spearman|Djura
+trp_rhodok_trained_spearman_pl|Djuras
+trp_rhodok_trained_spearman_levelup|Djura (veterano)
+trp_rhodok_trained_spearman_levelup_pl|Djuras (veteranos)
+trp_rhodok_crossbowman|Vigía
+trp_rhodok_crossbowman_pl|Vigías
+trp_rhodok_crossbowman_levelup|Vigía (veterano)
+trp_rhodok_crossbowman_levelup_pl|Vigías (veteranos)
+trp_ukr_storoja|Vigía con pica
+trp_ukr_storoja_pl|Vigías con picas
+trp_ukr_storoja_levelup|Vigía con pica (veterano)
+trp_ukr_storoja_levelup_pl|Vigías con picas (veteranos)
+trp_rhodok_veteran_crossbowman|Soldado de caballería de Zaporozhia
+trp_rhodok_veteran_crossbowman_pl|Caballería de Zaporozhia
+trp_rhodok_veteran_crossbowman_levelup|Soldado de caballería de Zaporozhia (veterano)
+trp_rhodok_veteran_crossbowman_levelup_pl|Caballería de Zaporozhia (veteranos)
+trp_rhodok_messenger|Mensajero
+trp_rhodok_messenger_pl|Mensajeros
+trp_rhodok_deserter|Desertor rhodok
+trp_rhodok_deserter_pl|Desertores rhodok
+trp_rhodok_prison_guard|Guardia de la prisión
+trp_rhodok_prison_guard_pl|Guardias de la prisión
+trp_rhodok_castle_guard|Guardia
+trp_rhodok_castle_guard_pl|Guardias
+trp_looter|Saqueador
+trp_looter_pl|Saqueadores
+trp_bandit|Bandido
+trp_bandit_pl|Bandidos
+trp_brigand|Bandolero
+trp_brigand_pl|Bandoleros
+trp_mountain_bandit|Bandido
+trp_mountain_bandit_pl|Bandidos
+trp_forest_bandit|Rebelde
+trp_forest_bandit_pl|Rebeldes
+trp_sea_raider|Bandolero
+trp_sea_raider_pl|Bandoleros
+trp_steppe_bandit|Asaltante tártaro
+trp_steppe_bandit_pl|Asaltantes tártaros
+trp_black_khergit_horseman|Jinete khergita negro
+trp_black_khergit_horseman_pl|Jinetes khergitas negros
+trp_manhunter|Tirador del Departamento Secreto
+trp_manhunter_pl|Tiradores del Departamento Secreto
+trp_slave_driver|Esclavista
+trp_slave_driver_pl|Esclavistas
+trp_slave_hunter|Cazador de esclavos
+trp_slave_hunter_pl|Cazadores de esclavos
+trp_slave_crusher|Castigador
+trp_slave_crusher_pl|Castigadores
+trp_slaver_chief|Jefe esclavista
+trp_slaver_chief_pl|Jefes esclavistas
+trp_follower_woman|Simpatizante
+trp_follower_woman_pl|Simpatizante
+trp_hunter_woman|Escudera
+trp_hunter_woman_pl|Escuderas
+trp_fighter_woman|Mercenaria
+trp_fighter_woman_pl|Mercenarias
+trp_sword_sister|Hermana de la Espada
+trp_sword_sister_pl|Hermanas de la Espada
+trp_basurman_azap|Azapo
+trp_basurman_azap_pl|Azapos
+trp_basurman_azap_levelup|Azapo (veterano)
+trp_basurman_azap_levelup_pl|Azapos (veteranos)
+trp_basurman_jebelu|Cebelu
+trp_basurman_jebelu_pl|Cebelu
+trp_basurman_jebelu_levelup|Cebelu (veterano)
+trp_basurman_jebelu_levelup_pl|Cebelu (veteranos)
+trp_janissar|Jenízaro
+trp_janissar_pl|Jenízaros
+trp_janissar_levelup|Jenízaro (veterano)
+trp_janissar_levelup_pl|Jenízaros (veteranos)
+trp_scott_pika|Piquero escocés
+trp_scott_pika_pl|Piqueros escoceses
+trp_scott_pika_levelup|Piquero escocés (veterano)
+trp_scott_pika_levelup_pl|Piqueros escoceses (veteranos)
+trp_scott_musket|Mosquetero escocés
+trp_scott_musket_pl|Mosqueteros escoceses
+trp_scott_musket_levelup|Mosquetero escocés (veterano)
+trp_scott_musket_levelup_pl|Mosqueteros escoceses (veteranos)
+trp_scott_sword|Espadachín escocés
+trp_scott_sword_pl|Espadachines escoceses
+trp_scott_sword_levelup|Espadachín escocés (veterano)
+trp_scott_sword_levelup_pl|Espadachines escoceses (veteranos)
+trp_pruss_pike|Piquero alemán
+trp_pruss_pike_pl|Piqueros alemanes
+trp_pruss_pike_levelup|Piquero alemán (veterano)
+trp_pruss_pike_levelup_pl|Piqueros alemanes (veteranos)
+trp_rundashir|Rondartschier
+trp_rundashir_pl|Rondartschiere
+trp_rundashir_levelup|Rondartschier (veterano)
+trp_rundashir_levelup_pl|Rondartschiere (veteranos)
+trp_tatar_merc_peh|Soldado de infantería tártaro
+trp_tatar_merc_peh_pl|Infantería tártara
+trp_tatar_merc_peh_levelup|Soldado de infantería tártaro (veterano)
+trp_tatar_merc_peh_levelup_pl|Infantería tártara (veteranos)
+trp_litva_musket|Mosquetero lituano
+trp_litva_musket_pl|Mosqueteros lituanos
+trp_litva_musket_levelup|Mosquetero lituano (veterano)
+trp_litva_musket_levelup_pl|Mosqueteros lituanos (veteranos)
+trp_gorod_kozak|Cosaco de ciudad
+trp_gorod_kozak_pl|Cosacos de ciudad
+trp_gorod_kozak_levelup|Cosaco de ciudad (veterano)
+trp_gorod_kozak_levelup_pl|Cosacos de ciudad (veteranos)
+trp_finn_arcebuz|Arcabucero finés
+trp_finn_arcebuz_pl|Arcabuceros fineses
+trp_finn_arcebuz_levelup|Arcabucero finés (veterano)
+trp_finn_arcebuz_levelup_pl|Arcabuceros fineses (veteranos)
+trp_don_cossack|Cosaco de pueblo
+trp_don_cossack_pl|Cosacos de pueblo
+trp_don_cossack_levelup|Cosaco del Don (veterano)
+trp_don_cossack_levelup_pl|Cosacos del Don (veteranos)
+trp_reestrovuy_kozak|Cosaco de filas
+trp_reestrovuy_kozak_pl|Cosacos de filas
+trp_reestrovuy_kozak_levelup|Cosaco de filas (veterano)
+trp_reestrovuy_kozak_levelup_pl|Cosacos de filas (veteranos)
+trp_lisovchiki|Lisowczyk
+trp_lisovchiki_pl|Lisowczycy
+trp_lisovchiki_levelup|Lisowczyk (veterano)
+trp_lisovchiki_levelup_pl|Lisowczycy (veteranos)
+trp_litva_lipki|Tártaro lituano
+trp_litva_lipki_pl|Tártaros lituanos
+trp_litva_lipki_levelup|Tártaro lituano (veterano)
+trp_litva_lipki_levelup_pl|Tártaros lituanos (veteranos)
+trp_ttr_nogay|Nogai
+trp_ttr_nogay_pl|Nogai
+trp_ttr_nogay_levelup|Nogai (veterano)
+trp_ttr_nogay_levelup_pl|Nogai (veteranos)
+trp_ttr_cherkes|Circasiano
+trp_ttr_cherkes_pl|Circasianos
+trp_ttr_cherkes_levelup|Circasiano (veterano)
+trp_ttr_cherkes_levelup_pl|Circasianos (veteranos)
+trp_mosk_kalmyk|Calmuco
+trp_mosk_kalmyk_pl|Calmucos
+trp_mosk_kalmyk_levelup|Calmuco (veterano)
+trp_mosk_kalmyk_levelup_pl|Calmucos (veteranos)
+trp_tatar_merc_cav|Soldado de caballería tártaro
+trp_tatar_merc_cav_pl|Caballería tártara
+trp_tatar_merc_cav_levelup|Soldado de caballería tártaro (veterano)
+trp_tatar_merc_cav_levelup_pl|Caballería tártara (veteranos)
+trp_merc_reytar|Reitre
+trp_merc_reytar_pl|Reitres
+trp_merc_reytar_levelup|Reitre negro (veterano)
+trp_merc_reytar_levelup_pl|Reitres negros (veteranos)
+trp_refugee|Refugiada
+trp_refugee_pl|Refugiadas
+trp_peasant_woman|Campesina
+trp_peasant_woman_pl|Campesinas
+trp_caravan_master|Carretero
+trp_caravan_master_pl|Carreteros
+trp_kidnapped_girl|Doncella secuestrada
+trp_kidnapped_girl_pl|Doncellas secuestradas
+trp_town_walker_1|Ciudadano
+trp_town_walker_1_pl|Ciudadanos
+trp_town_walker_2|Ciudadana
+trp_town_walker_2_pl|Ciudadanas
+trp_village_walker_1|Aldeano
+trp_village_walker_1_pl|Aldeanos
+trp_village_walker_2|Aldeana
+trp_village_walker_2_pl|Aldeanas
+trp_rich_baba_pol|Plebeyo
+trp_rich_baba_pol_pl|Plebeyo
+trp_pure_baba_pol|Plebeyo
+trp_pure_baba_pol_pl|Plebeyo
+trp_rich_mujik_pol|Plebeyo
+trp_rich_mujik_pol_pl|Plebeyo
+trp_pure_mujik_pol|Plebeyo
+trp_pure_mujik_pol_pl|Plebeyo
+trp_rich_baba_mosk|Plebeyo
+trp_rich_baba_mosk_pl|Plebeyo
+trp_pure_baba_mosk|Plebeyo
+trp_pure_baba_mosk_pl|Plebeyo
+trp_rich_mujik_mosk|Plebeyo
+trp_rich_mujik_mosk_pl|Plebeyo
+trp_pure_mujik_mosk|Plebeyo
+trp_pure_mujik_mosk_pl|Plebeyo
+trp_rich_baba_ttr|Plebeyo
+trp_rich_baba_ttr_pl|Plebeyo
+trp_pure_baba_ttr|Plebeyo
+trp_pure_baba_ttr_pl|Plebeyo
+trp_rich_mujik_ttr|Plebeyo
+trp_rich_mujik_ttr_pl|Plebeyo
+trp_pure_mujik_ttr|Plebeyo
+trp_pure_mujik_ttr_pl|Plebeyo
+trp_rich_baba_swd|Plebeyo
+trp_rich_baba_swd_pl|Plebeyo
+trp_pure_baba_swd|Plebeyo
+trp_pure_baba_swd_pl|Plebeyo
+trp_rich_mujik_swd|Plebeyo
+trp_rich_mujik_swd_pl|Plebeyo
+trp_pure_mujik_swd|Plebeyo
+trp_pure_mujik_swd_pl|Plebeyo
+trp_rich_baba_ukr|Plebeyo
+trp_rich_baba_ukr_pl|Plebeyo
+trp_pure_baba_ukr|Plebeyo
+trp_pure_baba_ukr_pl|Plebeyo
+trp_rich_mujik_ukr|Plebeyo
+trp_rich_mujik_ukr_pl|Plebeyo
+trp_pure_mujik_ukr|Plebeyo
+trp_pure_mujik_ukr_pl|Plebeyo
+trp_spy_walker_1|Ciudadano
+trp_spy_walker_1_pl|Ciudadanos
+trp_spy_walker_2|Ciudadana
+trp_spy_walker_2_pl|Ciudadanas
+trp_tournament_master|Maestre del torneo
+trp_tournament_master_pl|Maestre del torneo
+trp_trainer|Instructor
+trp_trainer_pl|Instructor
+trp_constable_hareck|Alguacil Hareck
+trp_constable_hareck_pl|Alguacil Hareck
+trp_ramun_the_slave_trader|Ramun, el esclavista
+trp_ramun_the_slave_trader_pl|Ramun, el esclavista
+trp_guide|Jimmy el Rápido
+trp_guide_pl|Jimmy el Rápido
+trp_xerina|Xerina
+trp_xerina_pl|Xerina
+trp_dranton|Dranton
+trp_dranton_pl|Dranton
+trp_kradus|Kradus
+trp_kradus_pl|Kradus
+trp_tutorial_trainer|Maestro del campo de entrenamiento
+trp_tutorial_trainer_pl|Maestro del campo de entrenamiento
+trp_galeas|Galeas
+trp_galeas_pl|Galeas
+trp_farmer_from_bandit_village|Campesino
+trp_farmer_from_bandit_village_pl|Campesinos
+trp_trainer_1|Instructor
+trp_trainer_1_pl|Instructor
+trp_trainer_2|Instructor
+trp_trainer_2_pl|Instructor
+trp_trainer_3|Instructor
+trp_trainer_3_pl|Instructor
+trp_trainer_4|Instructor
+trp_trainer_4_pl|Instructor
+trp_trainer_5|Instructor
+trp_trainer_5_pl|Instructor
+trp_ransom_broker_1|Comisionista de rescates
+trp_ransom_broker_1_pl|Comisionista de rescates
+trp_ransom_broker_2|Comisionista de rescates
+trp_ransom_broker_2_pl|Comisionista de rescates
+trp_ransom_broker_3|Comisionista de rescates
+trp_ransom_broker_3_pl|Comisionista de rescates
+trp_ransom_broker_4|Comisionista de rescates
+trp_ransom_broker_4_pl|Comisionista de rescates
+trp_ransom_broker_5|Comisionista de rescates
+trp_ransom_broker_5_pl|Comisionista de rescates
+trp_ransom_broker_6|Comisionista de rescates
+trp_ransom_broker_6_pl|Comisionista de rescates
+trp_ransom_broker_7|Comisionista de rescates
+trp_ransom_broker_7_pl|Comisionista de rescates
+trp_ransom_broker_8|Comisionista de rescates
+trp_ransom_broker_8_pl|Comisionista de rescates
+trp_ransom_broker_9|Comisionista de rescates
+trp_ransom_broker_9_pl|Comisionista de rescates
+trp_ransom_broker_10|Comisionista de rescates
+trp_ransom_broker_10_pl|Comisionista de rescates
+trp_tavern_traveler_1|Viajero
+trp_tavern_traveler_1_pl|Viajero
+trp_tavern_traveler_2|Viajero
+trp_tavern_traveler_2_pl|Viajero
+trp_tavern_traveler_3|Viajero
+trp_tavern_traveler_3_pl|Viajero
+trp_tavern_traveler_4|Viajero
+trp_tavern_traveler_4_pl|Viajero
+trp_tavern_traveler_5|Viajero
+trp_tavern_traveler_5_pl|Viajero
+trp_tavern_traveler_6|Viajero
+trp_tavern_traveler_6_pl|Viajero
+trp_tavern_traveler_7|Viajero
+trp_tavern_traveler_7_pl|Viajero
+trp_tavern_traveler_8|Viajero
+trp_tavern_traveler_8_pl|Viajero
+trp_tavern_traveler_9|Viajero
+trp_tavern_traveler_9_pl|Viajero
+trp_tavern_traveler_10|Viajero
+trp_tavern_traveler_10_pl|Viajero
+trp_tavern_bookseller_1|Mercader de libros
+trp_tavern_bookseller_1_pl|Mercader de libros
+trp_tavern_bookseller_2|Mercader de libros
+trp_tavern_bookseller_2_pl|Mercader de libros
+trp_tavern_minstrel_1|Bardo
+trp_tavern_minstrel_1_pl|Bardos
+trp_npc1|Coronel Zagloba
+trp_npc1_pl|Coronel Zagloba
+trp_npc2|Tepes
+trp_npc2_pl|Tepes
+trp_npc3|Padre Spasokukotski
+trp_npc3_pl|Padre Spasokukotski
+trp_npc4|Mamai
+trp_npc4_pl|Mamai
+trp_npc5|Karlsson
+trp_npc5_pl|Karlsson
+trp_npc6|Fedot
+trp_npc6_pl|Fedot
+trp_npc7|Yelisei
+trp_npc7_pl|Yelisei
+trp_npc8|Bakhyt
+trp_npc8_pl|Bakhyt
+trp_npc9|Algirdas
+trp_npc9_pl|Algirdas
+trp_npc10|Victor de Buscador
+trp_npc10_pl|Victor de Buscador
+trp_npc11|Nogai
+trp_npc11_pl|Nogai
+trp_npc12|Sarabun
+trp_npc12_pl|Sarabun
+trp_npc13|Oksana
+trp_npc13_pl|Oksana
+trp_npc14|Ingri
+trp_npc14_pl|Ingri
+trp_npc15|Varvara
+trp_npc15_pl|Varvara
+trp_npc16|Fatima
+trp_npc16_pl|Fatima
+trp_kingdom_heroes_including_player_begin|héroes del reino incluyendo al jugador
+trp_kingdom_heroes_including_player_begin_pl|héroes del reino incluyendo al jugador
+trp_kingdom_1_lord|Rey Juan Casimiro
+trp_kingdom_1_lord_pl|Señor del reino 1
+trp_kingdom_2_lord|Zar Alexei Mijailovich
+trp_kingdom_2_lord_pl|Señor del reino 2
+trp_kingdom_3_lord|Kan Islam Ghirai
+trp_kingdom_3_lord_pl|Señor del reino 3
+trp_kingdom_4_lord|Rey Carlos Gustavo
+trp_kingdom_4_lord_pl|Señor del reino 4
+trp_kingdom_5_lord|Capitán Bogdan Hmelnitski
+trp_kingdom_5_lord_pl|Señor del reino 5
+trp_knight_1_1|Coronel Andrzej Kmicic
+trp_knight_1_1_pl|caballero 1 1
+trp_knight_1_2|Coronel Michal Wolodyjowski
+trp_knight_1_2_pl|caballero 1 2
+trp_knight_1_3|Coronel Jan Skrzetuski
+trp_knight_1_3_pl|caballero 1 3
+trp_knight_1_4|Capitán Alexander Oginsky
+trp_knight_1_4_pl|caballero 1 4
+trp_knight_1_5|Capitán Stanislav Liantskoronsky
+trp_knight_1_5_pl|caballero 1 5
+trp_knight_1_6|Capitán Fyodor Obukhovich
+trp_knight_1_6_pl|caballero 1 6
+trp_knight_1_7|Conde Casimir Tyszkiewicz
+trp_knight_1_7_pl|caballero 1 7
+trp_knight_1_8|Capitán Janusz Kiszka
+trp_knight_1_8_pl|caballero 1 8
+trp_knight_1_9|Hetman Pavel Sapega
+trp_knight_1_9_pl|caballero 1 9
+trp_knight_1_10|Coronel Jerzy Halecki
+trp_knight_1_10_pl|caballero 1 0
+trp_knight_1_11|Coronel Jan Zenowicz
+trp_knight_1_11_pl|caballero 1 1
+trp_knight_1_12|Capitán Jan Zamojski
+trp_knight_1_12_pl|caballero 1 2
+trp_knight_1_13|Cornetista Siegmund Slushka
+trp_knight_1_13_pl|caballero 1 3
+trp_knight_1_14|Hetman Jan Sobieski
+trp_knight_1_14_pl|caballero 1 4
+trp_knight_1_15|Hetman Stanislaw Potocki
+trp_knight_1_15_pl|caballero 1 5
+trp_knight_1_16|Hetman Stefan Czarniecki
+trp_knight_1_16_pl|caballero 1 6
+trp_knight_1_17|Capitán Krzysztof Grzymultowski
+trp_knight_1_17_pl|caballero 1 7
+trp_knight_1_18|Coronel Alexander Casimir Wolowicz
+trp_knight_1_18_pl|caballero 1 8
+trp_knight_1_19|Príncipe Boguslav Nesvizhsky
+trp_knight_1_19_pl|caballero 1 9
+trp_knight_1_20|Príncipe Michal Vishnevetsky
+trp_knight_1_20_pl|caballero 1 0
+trp_knight_2_1|Capitán Yuri Buynosov-Rostovsky
+trp_knight_2_1_pl|caballero 2 1
+trp_knight_2_2|Príncipe Ivan Sontsov-Zasekin
+trp_knight_2_2_pl|caballero 2 2
+trp_knight_2_3|Príncipe Semyon Prozorovsky
+trp_knight_2_3_pl|caballero 2 3
+trp_knight_2_4|Capitán Semyon Rakhmanin
+trp_knight_2_4_pl|caballero 2 4
+trp_knight_2_5|Capitán Boris Repnin-Obolevsky
+trp_knight_2_5_pl|caballero 2 5
+trp_knight_2_6|Capitán Fyodor Volkonsky
+trp_knight_2_6_pl|caballero 2 6
+trp_knight_2_7|Jefe Naum Vasiliev
+trp_knight_2_7_pl|Ralcha
+trp_knight_2_8|Noble Alexei Vorotynsky
+trp_knight_2_8_pl|caballero 2 8
+trp_knight_2_9|Príncipe Yakov Cherkassky
+trp_knight_2_9_pl|caballero 2 9
+trp_knight_2_10|Príncipe Alexei Trubetskoi
+trp_knight_2_10_pl|caballero 2 0
+trp_knight_2_11|Capitán Vasiliy Buturlin
+trp_knight_2_11_pl|caballero 2 1
+trp_knight_2_12|Noble Vasiliy Sheremetyev
+trp_knight_2_12_pl|caballero 2 2
+trp_knight_2_13|Príncipe Semyon Urusov
+trp_knight_2_13_pl|caballero 2 3
+trp_knight_2_14|Príncipe Yuri Boryatinsky
+trp_knight_2_14_pl|caballero 2 4
+trp_knight_2_15|Capitán Fyodor Hvorostinin
+trp_knight_2_15_pl|caballero 2 5
+trp_knight_2_16|Príncipe Andrei Khovansky
+trp_knight_2_16_pl|caballero 2 6
+trp_knight_2_17|Capitán Nikita Odoevsky
+trp_knight_2_17_pl|Ralcha
+trp_knight_2_18|Jefe Pavel Neskachikhin
+trp_knight_2_18_pl|caballero 2 8
+trp_knight_2_19|Capitán Boris Pushkin
+trp_knight_2_19_pl|caballero 2 9
+trp_knight_2_20|Capitán Afanasiy Ordin-Naschokin
+trp_knight_2_20_pl|caballero 2 0
+trp_knight_3_1|Baesid-khan
+trp_knight_3_1_pl|caballero 3 1
+trp_knight_3_2|Ahmed-pasha
+trp_knight_3_2_pl|caballero 3 2
+trp_knight_3_3|Imad-pasha
+trp_knight_3_3_pl|caballero 3 3
+trp_knight_3_4|Mirza Enikey
+trp_knight_3_4_pl|caballero 3 4
+trp_knight_3_5|Mirza Yanmamed
+trp_knight_3_5_pl|caballero 3 5
+trp_knight_3_6|Shirin-bey
+trp_knight_3_6_pl|caballero 3 6
+trp_knight_3_7|Mirza Davletshi
+trp_knight_3_7_pl|caballero 3 7
+trp_knight_3_8|Bukryn-bey
+trp_knight_3_8_pl|caballero 3 8
+trp_knight_3_9|Baryn-bet
+trp_knight_3_9_pl|caballero 3 9
+trp_knight_3_10|Argun-bey
+trp_knight_3_10_pl|caballero 3 0
+trp_knight_3_11|Sedjet-bey
+trp_knight_3_11_pl|caballero 3 1
+trp_knight_3_12|Mansur-bey
+trp_knight_3_12_pl|caballero 3 2
+trp_knight_3_13|Yashlav-bey
+trp_knight_3_13_pl|caballero 3 3
+trp_knight_3_14|Mirza Argyn
+trp_knight_3_14_pl|caballero 3 4
+trp_knight_3_15|Mirza Agish
+trp_knight_3_15_pl|caballero 3 5
+trp_knight_3_16|Mirza Divey
+trp_knight_3_16_pl|caballero 3 6
+trp_knight_3_17|Mirza Appak
+trp_knight_3_17_pl|caballero 3 7
+trp_knight_3_18|Mirza Karach
+trp_knight_3_18_pl|caballero 3 8
+trp_knight_3_19|Mirza Yelchy
+trp_knight_3_19_pl|caballero 3 9
+trp_knight_3_20|Uzyn-bey
+trp_knight_3_20_pl|caballero 3 0
+trp_knight_4_1|General Brahe Wisingsborg
+trp_knight_4_1_pl|caballero 4 1
+trp_knight_4_2|Gobernador general Magnus De la Gardie
+trp_knight_4_2_pl|caballero 4 2
+trp_knight_4_3|Conde Orvar von Goya
+trp_knight_4_3_pl|caballero 4 3
+trp_knight_4_4|Gobernador Anders Eriksson
+trp_knight_4_4_pl|caballero 4 4
+trp_knight_4_5|Elector Frederick William
+trp_knight_4_5_pl|caballero 4 5
+trp_knight_4_6|Ratsherr Dirich Werneken
+trp_knight_4_6_pl|caballero 4 6
+trp_knight_4_7|General Arvid Vittenberg
+trp_knight_4_7_pl|caballero 4 7
+trp_knight_4_8|General Gustaf Evertsson Horn
+trp_knight_4_8_pl|caballero 4 8
+trp_knight_4_9|Concejal Alexander Leslie
+trp_knight_4_9_pl|caballero 4 9
+trp_knight_4_10|Barón Gustaf Wrangel
+trp_knight_4_10_pl|caballero 4 0
+trp_knight_4_11|Barón Christopher Bjolke
+trp_knight_4_11_pl|caballero 4 1
+trp_knight_4_12|Concejal Lennart Torstenson
+trp_knight_4_12_pl|caballero 4 2
+trp_knight_4_13|Concejal Otto Standbok
+trp_knight_4_13_pl|caballero 4 3
+trp_knight_4_14|General Simon Grundel-Hemfet
+trp_knight_4_14_pl|caballero 4 4
+trp_knight_4_15|Concejal Konrad Marenfeld
+trp_knight_4_15_pl|caballero 4 5
+trp_knight_4_16|Concejal Fabian von Wersen
+trp_knight_4_16_pl|caballero 4 6
+trp_knight_4_17|Concejal Hans von Koenigsmark
+trp_knight_4_17_pl|caballero 4 7
+trp_knight_4_18|Concejal Nilson Kagg
+trp_knight_4_18_pl|caballero 4 8
+trp_knight_4_19|General Robert Douglas
+trp_knight_4_19_pl|caballero 4 9
+trp_knight_4_20|Concejal Carl Lebenhaupt
+trp_knight_4_20_pl|caballero 4 0
+trp_knight_5_1|Coronel Anton Zhdanovich
+trp_knight_5_1_pl|caballero 5 1
+trp_knight_5_2|Coronel Bogdan Popovich
+trp_knight_5_2_pl|caballero 5 2
+trp_knight_5_3|Jefe del ejército Pavlo Gomon
+trp_knight_5_3_pl|caballero 5 3
+trp_knight_5_4|Coronel Ivan Fedorenko
+trp_knight_5_4_pl|caballero 5 4
+trp_knight_5_5|Coronel Ivan Bogun
+trp_knight_5_5_pl|caballero 5 5
+trp_knight_5_6|Coronel Petro Doroshenko
+trp_knight_5_6_pl|caballero 5 6
+trp_knight_5_7|Coronel Lukyan Mozyra
+trp_knight_5_7_pl|caballero 5 7
+trp_knight_5_8|Funcionario de cuartel Ivan Vygovsky
+trp_knight_5_8_pl|caballero 5 8
+trp_knight_5_9|Coronel Vasil Zolotarenko
+trp_knight_5_9_pl|caballero 5 9
+trp_knight_5_10|Coronel Maksim Nesterenko
+trp_knight_5_10_pl|caballero 5 0
+trp_knight_5_11|Coronel Prokop Shumeiko
+trp_knight_5_11_pl|caballero 5 1
+trp_knight_5_12|Coronel Ivan Sirko
+trp_knight_5_12_pl|caballero 5 2
+trp_knight_5_13|Coronel Fyodor Loboda
+trp_knight_5_13_pl|caballero 5 3
+trp_knight_5_14|Coronel Timofiy Nosach
+trp_knight_5_14_pl|caballero 5 4
+trp_knight_5_15|Coronel Matviy Gladkiy
+trp_knight_5_15_pl|caballero 5 5
+trp_knight_5_16|Coronel Martyn Pushkarenko
+trp_knight_5_16_pl|caballero 5 6
+trp_knight_5_17|Coronel Filon Jalaliy
+trp_knight_5_17_pl|caballero 5 7
+trp_knight_5_18|Comandante de la compañía Ivan Hmara
+trp_knight_5_18_pl|caballero 5 8
+trp_knight_5_19|Comandante de la compañía Lavrin Sinonos
+trp_knight_5_19_pl|caballero 5 9
+trp_knight_5_20|Comandante de la compañía Les' Gritsenko
+trp_knight_5_20_pl|caballero 5 0
+trp_kingdom_1_pretender|Janusz Radziwill
+trp_kingdom_1_pretender_pl|Señor del reino 1
+trp_kingdom_2_pretender|Stepan Razin
+trp_kingdom_2_pretender_pl|Señor del reino 2
+trp_kingdom_3_pretender|Mehmed Giray
+trp_kingdom_3_pretender_pl|Señor del reino 3
+trp_kingdom_4_pretender|Exreina Christina
+trp_kingdom_4_pretender_pl|Señor del reino 4
+trp_kingdom_5_pretender|Ivan Barabash
+trp_kingdom_5_pretender_pl|Señor del reino 5
+trp_knight_1_1_wife|Panna Olena Billewicz
+trp_knight_1_1_wife_pl|esposa del caballero 1 1
+trp_knight_2_1_wife|Mujer noble Alina
+trp_knight_2_1_wife_pl|esposa del caballero 2 1
+trp_knight_3_1_wife|Alsu
+trp_knight_3_1_wife_pl|esposa del caballero 3 1
+trp_knight_4_1_wife|Lady Agnes
+trp_knight_4_1_wife_pl|esposa del caballero 4 1
+trp_knight_5_1_wife|Pani Marina
+trp_knight_5_1_wife_pl|esposa del caballero 5 1
+trp_knight_1_2_wife|Panna Annie Fastreacher
+trp_knight_1_2_wife_pl|esposa del caballero 1 1
+trp_knight_2_2_wife|Mujer noble Marfa
+trp_knight_2_2_wife_pl|esposa del caballero 2 1
+trp_knight_3_2_wife|Bariya
+trp_knight_3_2_wife_pl|esposa del caballero 3 1
+trp_knight_4_2_wife|Lady Annel
+trp_knight_4_2_wife_pl|esposa del caballero 4 1
+trp_knight_5_2_wife|Pani Galina
+trp_knight_5_2_wife_pl|esposa del caballero 5 1
+trp_knight_1_1_daughter|Panna Agneshka
+trp_knight_1_1_daughter_pl|hija del caballero 1 1
+trp_knight_2_1_daughter|Mujer noble Arina
+trp_knight_2_1_daughter_pl|hija del caballero 2 1
+trp_knight_3_1_daughter|Nadira
+trp_knight_3_1_daughter_pl|hija del caballero 3 1
+trp_knight_4_1_daughter|Lady Cecilia
+trp_knight_4_1_daughter_pl|hija del caballero 4 1
+trp_knight_5_1_daughter|Pani Hanna
+trp_knight_5_1_daughter_pl|hija del caballero 5 1
+trp_knight_1_2_daughter|Panna Angela
+trp_knight_1_2_daughter_pl|hija del caballero 1 1
+trp_knight_2_2_daughter|Mujer noble Marfa
+trp_knight_2_2_daughter_pl|hija del caballero 2 1
+trp_knight_3_2_daughter|Gulnur
+trp_knight_3_2_daughter_pl|hija del caballero 3 1
+trp_knight_4_2_daughter|Lady Freja
+trp_knight_4_2_daughter_pl|hija del caballero 4 1
+trp_knight_5_2_daughter|Pani Irina
+trp_knight_5_2_daughter_pl|hija del caballero 5 1
+trp_town_1_seneschal|Senescal de la ciudad 1
+trp_town_1_seneschal_pl|Senescal de la ciudad 1
+trp_town_2_seneschal|Senescal de la ciudad 2
+trp_town_2_seneschal_pl|Senescal de la ciudad 2
+trp_town_3_seneschal|Senescal de la ciudad 3
+trp_town_3_seneschal_pl|Senescal de la ciudad 3
+trp_town_4_seneschal|Senescal de la ciudad 4
+trp_town_4_seneschal_pl|Senescal de la ciudad 4
+trp_town_5_seneschal|Senescal de la ciudad 5
+trp_town_5_seneschal_pl|Senescal de la ciudad 5
+trp_town_6_seneschal|Senescal de la ciudad 6
+trp_town_6_seneschal_pl|Senescal de la ciudad 6
+trp_town_7_seneschal|Senescal de la ciudad 7
+trp_town_7_seneschal_pl|Senescal de la ciudad 7
+trp_town_8_seneschal|Senescal de la ciudad 8
+trp_town_8_seneschal_pl|Senescal de la ciudad 8
+trp_town_9_seneschal|Senescal de la ciudad 9
+trp_town_9_seneschal_pl|Senescal de la ciudad 9
+trp_town_10_seneschal|Senescal de la ciudad 10
+trp_town_10_seneschal_pl|Senescal de la ciudad 10
+trp_town_11_seneschal|Senescal de la ciudad 11
+trp_town_11_seneschal_pl|Senescal de la ciudad 11
+trp_town_12_seneschal|Senescal de la ciudad 12
+trp_town_12_seneschal_pl|Senescal de la ciudad 12
+trp_town_13_seneschal|Senescal de la ciudad 13
+trp_town_13_seneschal_pl|Senescal de la ciudad 13
+trp_town_14_seneschal|Senescal de la ciudad 14
+trp_town_14_seneschal_pl|Senescal de la ciudad 14
+trp_town_15_seneschal|Senescal de la ciudad 15
+trp_town_15_seneschal_pl|Senescal de la ciudad 14
+trp_town_16_seneschal|Senescal de la ciudad 16
+trp_town_16_seneschal_pl|Senescal de la ciudad 14
+trp_town_17_seneschal|Senescal de la ciudad 17
+trp_town_17_seneschal_pl|Senescal de la ciudad 14
+trp_town_18_seneschal|Senescal de la ciudad 18
+trp_town_18_seneschal_pl|Senescal de la ciudad 14
+trp_castle_1_seneschal|Senescal de la fortaleza 1
+trp_castle_1_seneschal_pl|Senescal de la fortaleza 1
+trp_castle_2_seneschal|Senescal de la fortaleza 2
+trp_castle_2_seneschal_pl|Senescal de la fortaleza 2
+trp_castle_3_seneschal|Senescal de la fortaleza 3
+trp_castle_3_seneschal_pl|Senescal de la fortaleza 3
+trp_castle_4_seneschal|Senescal de la fortaleza 4
+trp_castle_4_seneschal_pl|Senescal de la fortaleza 4
+trp_castle_5_seneschal|Senescal de la fortaleza 5
+trp_castle_5_seneschal_pl|Senescal de la fortaleza 5
+trp_castle_6_seneschal|Senescal de la fortaleza 6
+trp_castle_6_seneschal_pl|Senescal de la fortaleza 6
+trp_castle_7_seneschal|Senescal de la fortaleza 7
+trp_castle_7_seneschal_pl|Senescal de la fortaleza 7
+trp_castle_8_seneschal|Senescal de la fortaleza 8
+trp_castle_8_seneschal_pl|Senescal de la fortaleza 8
+trp_castle_9_seneschal|Senescal de la fortaleza 9
+trp_castle_9_seneschal_pl|Senescal de la fortaleza 9
+trp_castle_10_seneschal|Senescal de la fortaleza 10
+trp_castle_10_seneschal_pl|Senescal de la fortaleza 10
+trp_castle_11_seneschal|Senescal de la fortaleza 11
+trp_castle_11_seneschal_pl|Senescal de la fortaleza 11
+trp_castle_12_seneschal|Senescal de la fortaleza 2
+trp_castle_12_seneschal_pl|Senescal de la fortaleza 2
+trp_castle_13_seneschal|Senescal de la fortaleza 3
+trp_castle_13_seneschal_pl|Senescal de la fortaleza 3
+trp_castle_14_seneschal|Senescal de la fortaleza 4
+trp_castle_14_seneschal_pl|Senescal de la fortaleza 4
+trp_castle_15_seneschal|Senescal de la fortaleza 5
+trp_castle_15_seneschal_pl|Senescal de la fortaleza 5
+trp_castle_16_seneschal|Senescal de la fortaleza 6
+trp_castle_16_seneschal_pl|Senescal de la fortaleza 6
+trp_castle_17_seneschal|Cosaco de Zaporozhia
+trp_castle_17_seneschal_pl|Cosaco de Zaporozhia
+trp_castle_18_seneschal|Senescal de la fortaleza 8
+trp_castle_18_seneschal_pl|Senescal de la fortaleza 8
+trp_castle_19_seneschal|Senescal de la fortaleza 9
+trp_castle_19_seneschal_pl|Senescal de la fortaleza 9
+trp_castle_20_seneschal|Senescal de la fortaleza 20
+trp_castle_20_seneschal_pl|Senescal de la fortaleza 20
+trp_castle_21_seneschal|Senescal de la fortaleza 11
+trp_castle_21_seneschal_pl|Senescal de la fortaleza 11
+trp_castle_22_seneschal|Senescal de la fortaleza 2
+trp_castle_22_seneschal_pl|Senescal de la fortaleza 2
+trp_castle_23_seneschal|Senescal de la fortaleza 3
+trp_castle_23_seneschal_pl|Senescal de la fortaleza 3
+trp_castle_24_seneschal|Senescal de la fortaleza 4
+trp_castle_24_seneschal_pl|Senescal de la fortaleza 4
+trp_castle_25_seneschal|Senescal de la fortaleza 5
+trp_castle_25_seneschal_pl|Senescal de la fortaleza 5
+trp_castle_26_seneschal|Senescal de la fortaleza 6
+trp_castle_26_seneschal_pl|Senescal de la fortaleza 6
+trp_castle_27_seneschal|Senescal de la fortaleza 7
+trp_castle_27_seneschal_pl|Senescal de la fortaleza 7
+trp_castle_28_seneschal|Senescal de la fortaleza 8
+trp_castle_28_seneschal_pl|Senescal de la fortaleza 8
+trp_castle_29_seneschal|Senescal de la fortaleza 9
+trp_castle_29_seneschal_pl|Senescal de la fortaleza 9
+trp_castle_30_seneschal|Senescal de la fortaleza 20
+trp_castle_30_seneschal_pl|Senescal de la fortaleza 20
+trp_castle_31_seneschal|Senescal de la fortaleza 11
+trp_castle_31_seneschal_pl|Senescal de la fortaleza 11
+trp_castle_32_seneschal|Senescal de la fortaleza 2
+trp_castle_32_seneschal_pl|Senescal de la fortaleza 2
+trp_castle_33_seneschal|Senescal de la fortaleza 3
+trp_castle_33_seneschal_pl|Senescal de la fortaleza 3
+trp_castle_34_seneschal|Senescal de la fortaleza 4
+trp_castle_34_seneschal_pl|Senescal de la fortaleza 4
+trp_castle_35_seneschal|Senescal de la fortaleza 5
+trp_castle_35_seneschal_pl|Senescal de la fortaleza 5
+trp_castle_36_seneschal|Senescal de la fortaleza 6
+trp_castle_36_seneschal_pl|Senescal de la fortaleza 6
+trp_castle_37_seneschal|Senescal de la fortaleza 7
+trp_castle_37_seneschal_pl|Senescal de la fortaleza 7
+trp_castle_38_seneschal|Senescal de la fortaleza 8
+trp_castle_38_seneschal_pl|Senescal de la fortaleza 8
+trp_castle_39_seneschal|Senescal de la fortaleza 9
+trp_castle_39_seneschal_pl|Senescal de la fortaleza 9
+trp_castle_40_seneschal|Senescal de la fortaleza 20
+trp_castle_40_seneschal_pl|Senescal de la fortaleza 20
+trp_town_1_arena_master|Maestre del torneo
+trp_town_1_arena_master_pl|Maestre del torneo
+trp_town_2_arena_master|Maestre del torneo
+trp_town_2_arena_master_pl|Maestre del torneo
+trp_town_3_arena_master|Maestre del torneo
+trp_town_3_arena_master_pl|Maestre del torneo
+trp_town_4_arena_master|Maestre del torneo
+trp_town_4_arena_master_pl|Maestre del torneo
+trp_town_5_arena_master|Maestre del torneo
+trp_town_5_arena_master_pl|Maestre del torneo
+trp_town_6_arena_master|Maestre del torneo
+trp_town_6_arena_master_pl|Maestre del torneo
+trp_town_7_arena_master|Maestre del torneo
+trp_town_7_arena_master_pl|Maestre del torneo
+trp_town_8_arena_master|Maestre del torneo
+trp_town_8_arena_master_pl|Maestre del torneo
+trp_town_9_arena_master|Maestre del torneo
+trp_town_9_arena_master_pl|Maestre del torneo
+trp_town_10_arena_master|Maestre del torneo
+trp_town_10_arena_master_pl|Maestre del torneo
+trp_town_11_arena_master|Maestre del torneo
+trp_town_11_arena_master_pl|Maestre del torneo
+trp_town_12_arena_master|Maestre del torneo
+trp_town_12_arena_master_pl|Maestre del torneo
+trp_town_13_arena_master|Maestre del torneo
+trp_town_13_arena_master_pl|Maestre del torneo
+trp_town_14_arena_master|Maestre del torneo
+trp_town_14_arena_master_pl|Maestre del torneo
+trp_town_15_arena_master|Maestre del torneo
+trp_town_15_arena_master_pl|Maestre del torneo
+trp_town_16_arena_master|Maestre del torneo
+trp_town_16_arena_master_pl|Maestre del torneo
+trp_town_17_arena_master|Maestre del torneo
+trp_town_17_arena_master_pl|Maestre del torneo
+trp_town_18_arena_master|Maestre del torneo
+trp_town_18_arena_master_pl|Maestre del torneo
+trp_town_1_armorer|Herrero
+trp_town_1_armorer_pl|Herrero
+trp_town_2_armorer|Herrero
+trp_town_2_armorer_pl|Herrero
+trp_town_3_armorer|Herrero
+trp_town_3_armorer_pl|Herrero
+trp_town_4_armorer|Herrero
+trp_town_4_armorer_pl|Herrero
+trp_town_5_armorer|Herrero
+trp_town_5_armorer_pl|Herrero
+trp_town_6_armorer|Herrero
+trp_town_6_armorer_pl|Herrero
+trp_town_7_armorer|Herrero
+trp_town_7_armorer_pl|Herrero
+trp_town_8_armorer|Herrero
+trp_town_8_armorer_pl|Herrero
+trp_town_9_armorer|Herrero
+trp_town_9_armorer_pl|Herrero
+trp_town_10_armorer|Herrero
+trp_town_10_armorer_pl|Herrero
+trp_town_11_armorer|Herrero
+trp_town_11_armorer_pl|Herrero
+trp_town_12_armorer|Herrero
+trp_town_12_armorer_pl|Herrero
+trp_town_13_armorer|Herrero
+trp_town_13_armorer_pl|Herrero
+trp_town_14_armorer|Herrero
+trp_town_14_armorer_pl|Herrero
+trp_town_15_armorer|Herrero
+trp_town_15_armorer_pl|Herrero
+trp_town_16_armorer|Herrero
+trp_town_16_armorer_pl|Herrero
+trp_town_17_armorer|Herrero
+trp_town_17_armorer_pl|Herrero
+trp_town_18_armorer|Herrero
+trp_town_18_armorer_pl|Herrero
+trp_town_1_weaponsmith|Armero
+trp_town_1_weaponsmith_pl|Armero
+trp_town_2_weaponsmith|Armero
+trp_town_2_weaponsmith_pl|Armero
+trp_town_3_weaponsmith|Armero
+trp_town_3_weaponsmith_pl|Armero
+trp_town_4_weaponsmith|Armero
+trp_town_4_weaponsmith_pl|Armero
+trp_town_5_weaponsmith|Armero
+trp_town_5_weaponsmith_pl|Armero
+trp_town_6_weaponsmith|Armero
+trp_town_6_weaponsmith_pl|Armero
+trp_town_7_weaponsmith|Armero
+trp_town_7_weaponsmith_pl|Armero
+trp_town_8_weaponsmith|Armero
+trp_town_8_weaponsmith_pl|Armero
+trp_town_9_weaponsmith|Armero
+trp_town_9_weaponsmith_pl|Armero
+trp_town_10_weaponsmith|Armero
+trp_town_10_weaponsmith_pl|Armero
+trp_town_11_weaponsmith|Armero
+trp_town_11_weaponsmith_pl|Armero
+trp_town_12_weaponsmith|Armero
+trp_town_12_weaponsmith_pl|Armero
+trp_town_13_weaponsmith|Armero
+trp_town_13_weaponsmith_pl|Armero
+trp_town_14_weaponsmith|Armero
+trp_town_14_weaponsmith_pl|Armero
+trp_town_15_weaponsmith|Armero
+trp_town_15_weaponsmith_pl|Armero
+trp_town_16_weaponsmith|Armero
+trp_town_16_weaponsmith_pl|Armero
+trp_town_17_weaponsmith|Armero
+trp_town_17_weaponsmith_pl|Armero
+trp_town_18_weaponsmith|Armero
+trp_town_18_weaponsmith_pl|Armero
+trp_town_1_tavernkeeper|Tabernero
+trp_town_1_tavernkeeper_pl|Tabernero
+trp_town_2_tavernkeeper|Tabernero
+trp_town_2_tavernkeeper_pl|Tabernero
+trp_town_3_tavernkeeper|Tabernero
+trp_town_3_tavernkeeper_pl|Tabernero
+trp_town_4_tavernkeeper|Tabernero
+trp_town_4_tavernkeeper_pl|Tabernero
+trp_town_5_tavernkeeper|Tabernero
+trp_town_5_tavernkeeper_pl|Tabernero
+trp_town_6_tavernkeeper|Tabernero
+trp_town_6_tavernkeeper_pl|Tabernero
+trp_town_7_tavernkeeper|Tabernero
+trp_town_7_tavernkeeper_pl|Tabernero
+trp_town_8_tavernkeeper|Tabernero
+trp_town_8_tavernkeeper_pl|Tabernero
+trp_town_9_tavernkeeper|Tabernero
+trp_town_9_tavernkeeper_pl|Tabernero
+trp_town_10_tavernkeeper|Tabernero
+trp_town_10_tavernkeeper_pl|Tabernero
+trp_town_11_tavernkeeper|Tabernero
+trp_town_11_tavernkeeper_pl|Tabernero
+trp_town_12_tavernkeeper|Tabernero
+trp_town_12_tavernkeeper_pl|Tabernero
+trp_town_13_tavernkeeper|Tabernero
+trp_town_13_tavernkeeper_pl|Tabernero
+trp_town_14_tavernkeeper|Tabernero
+trp_town_14_tavernkeeper_pl|Tabernero
+trp_town_15_tavernkeeper|Tabernero
+trp_town_15_tavernkeeper_pl|Tabernero
+trp_town_16_tavernkeeper|Tabernero
+trp_town_16_tavernkeeper_pl|Tabernero
+trp_town_17_tavernkeeper|Tabernero
+trp_town_17_tavernkeeper_pl|Tabernero
+trp_town_18_tavernkeeper|Tabernero
+trp_town_18_tavernkeeper_pl|Tabernero
+trp_town_1_merchant|Mercader
+trp_town_1_merchant_pl|Mercader
+trp_town_2_merchant|Mercader
+trp_town_2_merchant_pl|Mercader
+trp_town_3_merchant|Mercader
+trp_town_3_merchant_pl|Mercader
+trp_town_4_merchant|Mercader
+trp_town_4_merchant_pl|Mercader
+trp_town_5_merchant|Mercader
+trp_town_5_merchant_pl|Mercader
+trp_town_6_merchant|Mercader
+trp_town_6_merchant_pl|Mercader
+trp_town_7_merchant|Mercader
+trp_town_7_merchant_pl|Mercader
+trp_town_8_merchant|Mercader
+trp_town_8_merchant_pl|Mercader
+trp_town_9_merchant|Mercader
+trp_town_9_merchant_pl|Mercader
+trp_town_10_merchant|Mercader
+trp_town_10_merchant_pl|Mercader
+trp_town_11_merchant|Mercader
+trp_town_11_merchant_pl|Mercader
+trp_town_12_merchant|Mercader
+trp_town_12_merchant_pl|Mercader
+trp_town_13_merchant|Mercader
+trp_town_13_merchant_pl|Mercader
+trp_town_14_merchant|Mercader
+trp_town_14_merchant_pl|Mercader
+trp_town_15_merchant|Mercader
+trp_town_15_merchant_pl|Mercader
+trp_town_16_merchant|Mercader
+trp_town_16_merchant_pl|Mercader
+trp_town_17_merchant|Mercader
+trp_town_17_merchant_pl|Mercader
+trp_town_18_merchant|Mercader
+trp_town_18_merchant_pl|Mercader
+trp_salt_mine_merchant|Berezan
+trp_salt_mine_merchant_pl|Berezan
+trp_town_1_horse_merchant|Mercader de caballos
+trp_town_1_horse_merchant_pl|Mercader de caballos de la ciudad 1
+trp_town_2_horse_merchant|Mercader de caballos
+trp_town_2_horse_merchant_pl|Mercader de caballos de la ciudad 2
+trp_town_3_horse_merchant|Mercader de caballos
+trp_town_3_horse_merchant_pl|Mercader de caballos de la ciudad 3
+trp_town_4_horse_merchant|Mercader de caballos
+trp_town_4_horse_merchant_pl|Mercader de caballos de la ciudad 4
+trp_town_5_horse_merchant|Mercader de caballos
+trp_town_5_horse_merchant_pl|Mercader de caballos de la ciudad 5
+trp_town_6_horse_merchant|Mercader de caballos
+trp_town_6_horse_merchant_pl|Mercader de caballos de la ciudad 6
+trp_town_7_horse_merchant|Mercader de caballos
+trp_town_7_horse_merchant_pl|Mercader de caballos de la ciudad 7
+trp_town_8_horse_merchant|Mercader de caballos
+trp_town_8_horse_merchant_pl|Mercader de caballos de la ciudad 8
+trp_town_9_horse_merchant|Mercader de caballos
+trp_town_9_horse_merchant_pl|Mercader de caballos de la ciudad 9
+trp_town_10_horse_merchant|Mercader de caballos
+trp_town_10_horse_merchant_pl|Mercader de caballos de la ciudad 10
+trp_town_11_horse_merchant|Mercader de caballos
+trp_town_11_horse_merchant_pl|Mercader de caballos de la ciudad 11
+trp_town_12_horse_merchant|Mercader de caballos
+trp_town_12_horse_merchant_pl|Mercader de caballos de la ciudad 12
+trp_town_13_horse_merchant|Mercader de caballos
+trp_town_13_horse_merchant_pl|Mercader de caballos de la ciudad 13
+trp_town_14_horse_merchant|Mercader de caballos
+trp_town_14_horse_merchant_pl|Mercader de caballos de la ciudad 14
+trp_town_15_horse_merchant|Mercader de caballos
+trp_town_15_horse_merchant_pl|Mercader de caballos de la ciudad 15
+trp_town_16_horse_merchant|Mercader de caballos
+trp_town_16_horse_merchant_pl|Mercader de caballos de la ciudad 16
+trp_town_17_horse_merchant|Mercader de caballos
+trp_town_17_horse_merchant_pl|Mercader de caballos de la ciudad 17
+trp_town_18_horse_merchant|Mercader de caballos
+trp_town_18_horse_merchant_pl|Mercader de caballos de la ciudad 18
+trp_town_1_mayor|Alcalde
+trp_town_1_mayor_pl|Alcalde
+trp_town_2_mayor|Alcalde
+trp_town_2_mayor_pl|Alcalde
+trp_town_3_mayor|Alcalde
+trp_town_3_mayor_pl|Alcalde
+trp_town_4_mayor|Alcalde
+trp_town_4_mayor_pl|Alcalde
+trp_town_5_mayor|Alcalde
+trp_town_5_mayor_pl|Alcalde
+trp_town_6_mayor|Alcalde
+trp_town_6_mayor_pl|Alcalde
+trp_town_7_mayor|Alcalde
+trp_town_7_mayor_pl|Alcalde
+trp_town_8_mayor|Alcalde
+trp_town_8_mayor_pl|Alcalde
+trp_town_9_mayor|Alcalde
+trp_town_9_mayor_pl|Alcalde
+trp_town_10_mayor|Alcalde
+trp_town_10_mayor_pl|Alcalde
+trp_town_11_mayor|Alcalde
+trp_town_11_mayor_pl|Alcalde
+trp_town_12_mayor|Alcalde
+trp_town_12_mayor_pl|Alcalde
+trp_town_13_mayor|Alcalde
+trp_town_13_mayor_pl|Alcalde
+trp_town_14_mayor|Alcalde
+trp_town_14_mayor_pl|Alcalde
+trp_town_15_mayor|Alcalde
+trp_town_15_mayor_pl|Alcalde
+trp_town_16_mayor|Alcalde
+trp_town_16_mayor_pl|Alcalde
+trp_town_17_mayor|Alcalde
+trp_town_17_mayor_pl|Alcalde
+trp_town_18_mayor|Alcalde
+trp_town_18_mayor_pl|Alcalde
+trp_castle_1_elder|Alcalde
+trp_castle_1_elder_pl|Maestro del gremio
+trp_castle_2_elder|Alcalde
+trp_castle_2_elder_pl|Maestro del gremio
+trp_castle_3_elder|Alcalde
+trp_castle_3_elder_pl|Maestro del gremio
+trp_castle_4_elder|Alcalde
+trp_castle_4_elder_pl|Maestro del gremio
+trp_castle_5_elder|Alcalde
+trp_castle_5_elder_pl|Maestro del gremio
+trp_castle_6_elder|Alcalde
+trp_castle_6_elder_pl|Maestro del gremio
+trp_castle_7_elder|Alcalde
+trp_castle_7_elder_pl|Maestro del gremio
+trp_castle_8_elder|Alcalde
+trp_castle_8_elder_pl|Maestro del gremio
+trp_castle_9_elder|Alcalde
+trp_castle_9_elder_pl|Maestro del gremio
+trp_castle_10_elder|Alcalde
+trp_castle_10_elder_pl|Maestro del gremio
+trp_castle_11_elder|Alcalde
+trp_castle_11_elder_pl|Maestro del gremio
+trp_castle_12_elder|Alcalde
+trp_castle_12_elder_pl|Maestro del gremio
+trp_castle_13_elder|Alcalde
+trp_castle_13_elder_pl|Maestro del gremio
+trp_castle_14_elder|Alcalde
+trp_castle_14_elder_pl|Maestro del gremio
+trp_castle_15_elder|Alcalde
+trp_castle_15_elder_pl|Maestro del gremio
+trp_castle_16_elder|Alcalde
+trp_castle_16_elder_pl|Maestro del gremio
+trp_castle_17_elder|Alcalde
+trp_castle_17_elder_pl|Maestro del gremio
+trp_castle_18_elder|Alcalde
+trp_castle_18_elder_pl|Maestro del gremio
+trp_castle_19_elder|Alcalde
+trp_castle_19_elder_pl|Maestro del gremio
+trp_castle_20_elder|Alcalde
+trp_castle_20_elder_pl|Maestro del gremio
+trp_castle_21_elder|Alcalde
+trp_castle_21_elder_pl|Maestro del gremio
+trp_castle_22_elder|Alcalde
+trp_castle_22_elder_pl|Maestro del gremio
+trp_castle_23_elder|Alcalde
+trp_castle_23_elder_pl|Maestro del gremio
+trp_castle_24_elder|Alcalde
+trp_castle_24_elder_pl|Maestro del gremio
+trp_castle_25_elder|Alcalde
+trp_castle_25_elder_pl|Maestro del gremio
+trp_castle_26_elder|Alcalde
+trp_castle_26_elder_pl|Maestro del gremio
+trp_castle_27_elder|Alcalde
+trp_castle_27_elder_pl|Maestro del gremio
+trp_castle_28_elder|Alcalde
+trp_castle_28_elder_pl|Maestro del gremio
+trp_castle_29_elder|Alcalde
+trp_castle_29_elder_pl|Maestro del gremio
+trp_castle_30_elder|Alcalde
+trp_castle_30_elder_pl|Maestro del gremio
+trp_castle_31_elder|Alcalde
+trp_castle_31_elder_pl|Maestro del gremio
+trp_castle_32_elder|Alcalde
+trp_castle_32_elder_pl|Maestro del gremio
+trp_castle_33_elder|Alcalde
+trp_castle_33_elder_pl|Maestro del gremio
+trp_castle_34_elder|Alcalde
+trp_castle_34_elder_pl|Maestro del gremio
+trp_castle_35_elder|Alcalde
+trp_castle_35_elder_pl|Maestro del gremio
+trp_castle_36_elder|Alcalde
+trp_castle_36_elder_pl|Maestro del gremio
+trp_castle_37_elder|Alcalde
+trp_castle_37_elder_pl|Maestro del gremio
+trp_castle_38_elder|Alcalde
+trp_castle_38_elder_pl|Maestro del gremio
+trp_castle_39_elder|Alcalde
+trp_castle_39_elder_pl|Maestro del gremio
+trp_castle_40_elder|Alcalde
+trp_castle_40_elder_pl|Maestro del gremio
+trp_town_1_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_1_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_2_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_2_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_3_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_3_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_4_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_4_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_5_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_5_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_6_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_6_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_7_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_7_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_8_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_8_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_9_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_9_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_10_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_10_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_11_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_11_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_12_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_12_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_13_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_13_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_14_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_14_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_15_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_15_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_16_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_16_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_17_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_17_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_18_trade_guild_master|Maestro del gremio de mercaderes
+trp_town_18_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_1_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_1_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_2_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_2_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_3_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_3_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_4_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_4_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_5_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_5_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_6_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_6_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_7_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_7_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_8_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_8_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_9_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_9_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_10_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_10_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_11_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_11_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_12_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_12_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_13_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_13_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_14_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_14_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_15_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_15_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_16_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_16_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_17_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_17_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_18_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_18_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_19_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_19_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_20_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_20_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_21_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_21_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_22_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_22_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_23_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_23_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_24_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_24_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_25_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_25_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_26_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_26_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_27_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_27_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_28_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_28_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_29_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_29_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_30_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_30_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_31_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_31_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_32_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_32_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_33_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_33_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_34_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_34_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_35_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_35_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_36_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_36_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_37_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_37_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_38_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_38_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_39_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_39_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_castle_40_trade_guild_master|Maestro del gremio de mercaderes
+trp_castle_40_trade_guild_master_pl|Maestro del gremio de mercaderes
+trp_town_1_garrison_officer|Comandante de la guarnición
+trp_town_1_garrison_officer_pl|Comandante de la guarnición
+trp_town_2_garrison_officer|Comandante de la guarnición
+trp_town_2_garrison_officer_pl|Comandante de la guarnición
+trp_town_3_garrison_officer|Comandante de la guarnición
+trp_town_3_garrison_officer_pl|Comandante de la guarnición
+trp_town_4_garrison_officer|Comandante de la guarnición
+trp_town_4_garrison_officer_pl|Comandante de la guarnición
+trp_town_5_garrison_officer|Comandante de la guarnición
+trp_town_5_garrison_officer_pl|Comandante de la guarnición
+trp_town_6_garrison_officer|Comandante de la guarnición
+trp_town_6_garrison_officer_pl|Comandante de la guarnición
+trp_town_7_garrison_officer|Comandante de la guarnición
+trp_town_7_garrison_officer_pl|Comandante de la guarnición
+trp_town_8_garrison_officer|Comandante de la guarnición
+trp_town_8_garrison_officer_pl|Comandante de la guarnición
+trp_town_9_garrison_officer|Comandante de la guarnición
+trp_town_9_garrison_officer_pl|Comandante de la guarnición
+trp_town_10_garrison_officer|Comandante de la guarnición
+trp_town_10_garrison_officer_pl|Comandante de la guarnición
+trp_town_11_garrison_officer|Comandante de la guarnición
+trp_town_11_garrison_officer_pl|Comandante de la guarnición
+trp_town_12_garrison_officer|Comandante de la guarnición
+trp_town_12_garrison_officer_pl|Comandante de la guarnición
+trp_town_13_garrison_officer|Comandante de la guarnición
+trp_town_13_garrison_officer_pl|Comandante de la guarnición
+trp_town_14_garrison_officer|Comandante de la guarnición
+trp_town_14_garrison_officer_pl|Comandante de la guarnición
+trp_town_15_garrison_officer|Comandante de la guarnición
+trp_town_15_garrison_officer_pl|Comandante de la guarnición
+trp_town_16_garrison_officer|Comandante de la guarnición
+trp_town_16_garrison_officer_pl|Comandante de la guarnición
+trp_town_17_garrison_officer|Comandante de la guarnición
+trp_town_17_garrison_officer_pl|Comandante de la guarnición
+trp_town_18_garrison_officer|Comandante de la guarnición
+trp_town_18_garrison_officer_pl|Comandante de la guarnición
+trp_castle_1_garrison_officer|Comandante de la guarnición
+trp_castle_1_garrison_officer_pl|Comandante de la guarnición
+trp_castle_2_garrison_officer|Comandante de la guarnición
+trp_castle_2_garrison_officer_pl|Comandante de la guarnición
+trp_castle_3_garrison_officer|Comandante de la guarnición
+trp_castle_3_garrison_officer_pl|Comandante de la guarnición
+trp_castle_4_garrison_officer|Comandante de la guarnición
+trp_castle_4_garrison_officer_pl|Comandante de la guarnición
+trp_castle_5_garrison_officer|Comandante de la guarnición
+trp_castle_5_garrison_officer_pl|Comandante de la guarnición
+trp_castle_6_garrison_officer|Comandante de la guarnición
+trp_castle_6_garrison_officer_pl|Comandante de la guarnición
+trp_castle_7_garrison_officer|Comandante de la guarnición
+trp_castle_7_garrison_officer_pl|Comandante de la guarnición
+trp_castle_8_garrison_officer|Comandante de la guarnición
+trp_castle_8_garrison_officer_pl|Comandante de la guarnición
+trp_castle_9_garrison_officer|Comandante de la guarnición
+trp_castle_9_garrison_officer_pl|Comandante de la guarnición
+trp_castle_10_garrison_officer|Comandante de la guarnición
+trp_castle_10_garrison_officer_pl|Comandante de la guarnición
+trp_castle_11_garrison_officer|Comandante de la guarnición
+trp_castle_11_garrison_officer_pl|Comandante de la guarnición
+trp_castle_12_garrison_officer|Comandante de la guarnición
+trp_castle_12_garrison_officer_pl|Comandante de la guarnición
+trp_castle_13_garrison_officer|Comandante de la guarnición
+trp_castle_13_garrison_officer_pl|Comandante de la guarnición
+trp_castle_14_garrison_officer|Comandante de la guarnición
+trp_castle_14_garrison_officer_pl|Comandante de la guarnición
+trp_castle_15_garrison_officer|Comandante de la guarnición
+trp_castle_15_garrison_officer_pl|Comandante de la guarnición
+trp_castle_16_garrison_officer|Comandante de la guarnición
+trp_castle_16_garrison_officer_pl|Comandante de la guarnición
+trp_castle_17_garrison_officer|Comandante de la guarnición
+trp_castle_17_garrison_officer_pl|Comandante de la guarnición
+trp_castle_18_garrison_officer|Comandante de la guarnición
+trp_castle_18_garrison_officer_pl|Comandante de la guarnición
+trp_castle_19_garrison_officer|Comandante de la guarnición
+trp_castle_19_garrison_officer_pl|Comandante de la guarnición
+trp_castle_20_garrison_officer|Comandante de la guarnición
+trp_castle_20_garrison_officer_pl|Comandante de la guarnición
+trp_castle_21_garrison_officer|Comandante de la guarnición
+trp_castle_21_garrison_officer_pl|Comandante de la guarnición
+trp_castle_22_garrison_officer|Comandante de la guarnición
+trp_castle_22_garrison_officer_pl|Comandante de la guarnición
+trp_castle_23_garrison_officer|Comandante de la guarnición
+trp_castle_23_garrison_officer_pl|Comandante de la guarnición
+trp_castle_24_garrison_officer|Comandante de la guarnición
+trp_castle_24_garrison_officer_pl|Comandante de la guarnición
+trp_castle_25_garrison_officer|Comandante de la guarnición
+trp_castle_25_garrison_officer_pl|Comandante de la guarnición
+trp_castle_26_garrison_officer|Comandante de la guarnición
+trp_castle_26_garrison_officer_pl|Comandante de la guarnición
+trp_castle_27_garrison_officer|Comandante de la guarnición
+trp_castle_27_garrison_officer_pl|Comandante de la guarnición
+trp_castle_28_garrison_officer|Comandante de la guarnición
+trp_castle_28_garrison_officer_pl|Comandante de la guarnición
+trp_castle_29_garrison_officer|Comandante de la guarnición
+trp_castle_29_garrison_officer_pl|Comandante de la guarnición
+trp_castle_30_garrison_officer|Comandante de la guarnición
+trp_castle_30_garrison_officer_pl|Comandante de la guarnición
+trp_castle_31_garrison_officer|Comandante de la guarnición
+trp_castle_31_garrison_officer_pl|Comandante de la guarnición
+trp_castle_32_garrison_officer|Comandante de la guarnición
+trp_castle_32_garrison_officer_pl|Comandante de la guarnición
+trp_castle_33_garrison_officer|Comandante de la guarnición
+trp_castle_33_garrison_officer_pl|Comandante de la guarnición
+trp_castle_34_garrison_officer|Comandante de la guarnición
+trp_castle_34_garrison_officer_pl|Comandante de la guarnición
+trp_castle_35_garrison_officer|Comandante de la guarnición
+trp_castle_35_garrison_officer_pl|Comandante de la guarnición
+trp_castle_36_garrison_officer|Comandante de la guarnición
+trp_castle_36_garrison_officer_pl|Comandante de la guarnición
+trp_castle_37_garrison_officer|Comandante de la guarnición
+trp_castle_37_garrison_officer_pl|Comandante de la guarnición
+trp_castle_38_garrison_officer|Comandante de la guarnición
+trp_castle_38_garrison_officer_pl|Comandante de la guarnición
+trp_castle_39_garrison_officer|Comandante de la guarnición
+trp_castle_39_garrison_officer_pl|Comandante de la guarnición
+trp_castle_40_garrison_officer|Comandante de la guarnición
+trp_castle_40_garrison_officer_pl|Comandante de la guarnición
+trp_village_1_elder|Anciano de la aldea
+trp_village_1_elder_pl|anciano de la aldea 1
+trp_village_2_elder|Anciano de la aldea
+trp_village_2_elder_pl|anciano de la aldea 1
+trp_village_3_elder|Anciano de la aldea
+trp_village_3_elder_pl|anciano de la aldea 1
+trp_village_4_elder|Anciano de la aldea
+trp_village_4_elder_pl|anciano de la aldea 1
+trp_village_5_elder|Anciano de la aldea
+trp_village_5_elder_pl|anciano de la aldea 1
+trp_village_6_elder|Anciano de la aldea
+trp_village_6_elder_pl|anciano de la aldea 1
+trp_village_7_elder|Anciano de la aldea
+trp_village_7_elder_pl|anciano de la aldea 1
+trp_village_8_elder|Anciano de la aldea
+trp_village_8_elder_pl|anciano de la aldea 1
+trp_village_9_elder|Anciano de la aldea
+trp_village_9_elder_pl|anciano de la aldea 1
+trp_village_10_elder|Anciano de la aldea
+trp_village_10_elder_pl|anciano de la aldea 1
+trp_village_11_elder|Anciano de la aldea
+trp_village_11_elder_pl|anciano de la aldea 1
+trp_village_12_elder|Anciano de la aldea
+trp_village_12_elder_pl|anciano de la aldea 1
+trp_village_13_elder|Anciano de la aldea
+trp_village_13_elder_pl|anciano de la aldea 1
+trp_village_14_elder|Anciano de la aldea
+trp_village_14_elder_pl|anciano de la aldea 1
+trp_village_15_elder|Anciano de la aldea
+trp_village_15_elder_pl|anciano de la aldea 1
+trp_village_16_elder|Anciano de la aldea
+trp_village_16_elder_pl|anciano de la aldea 1
+trp_village_17_elder|Anciano de la aldea
+trp_village_17_elder_pl|anciano de la aldea 1
+trp_village_18_elder|Anciano de la aldea
+trp_village_18_elder_pl|anciano de la aldea 1
+trp_village_19_elder|Anciano de la aldea
+trp_village_19_elder_pl|anciano de la aldea 1
+trp_village_20_elder|Anciano de la aldea
+trp_village_20_elder_pl|anciano de la aldea 1
+trp_village_21_elder|Anciano de la aldea
+trp_village_21_elder_pl|anciano de la aldea 1
+trp_village_22_elder|Anciano de la aldea
+trp_village_22_elder_pl|anciano de la aldea 1
+trp_village_23_elder|Anciano de la aldea
+trp_village_23_elder_pl|anciano de la aldea 1
+trp_village_24_elder|Anciano de la aldea
+trp_village_24_elder_pl|anciano de la aldea 1
+trp_village_25_elder|Anciano de la aldea
+trp_village_25_elder_pl|anciano de la aldea 1
+trp_village_26_elder|Anciano de la aldea
+trp_village_26_elder_pl|anciano de la aldea 1
+trp_village_27_elder|Anciano de la aldea
+trp_village_27_elder_pl|anciano de la aldea 1
+trp_village_28_elder|Anciano de la aldea
+trp_village_28_elder_pl|anciano de la aldea 1
+trp_village_29_elder|Anciano de la aldea
+trp_village_29_elder_pl|anciano de la aldea 1
+trp_village_30_elder|Anciano de la aldea
+trp_village_30_elder_pl|anciano de la aldea 1
+trp_village_31_elder|Anciano de la aldea
+trp_village_31_elder_pl|anciano de la aldea 1
+trp_village_32_elder|Anciano de la aldea
+trp_village_32_elder_pl|anciano de la aldea 1
+trp_village_33_elder|Anciano de la aldea
+trp_village_33_elder_pl|anciano de la aldea 1
+trp_village_34_elder|Anciano de la aldea
+trp_village_34_elder_pl|anciano de la aldea 1
+trp_village_35_elder|Anciano de la aldea
+trp_village_35_elder_pl|anciano de la aldea 1
+trp_village_36_elder|Anciano de la aldea
+trp_village_36_elder_pl|anciano de la aldea 1
+trp_village_37_elder|Anciano de la aldea
+trp_village_37_elder_pl|anciano de la aldea 1
+trp_village_38_elder|Anciano de la aldea
+trp_village_38_elder_pl|anciano de la aldea 1
+trp_village_39_elder|Anciano de la aldea
+trp_village_39_elder_pl|anciano de la aldea 1
+trp_village_40_elder|Anciano de la aldea
+trp_village_40_elder_pl|anciano de la aldea 1
+trp_village_41_elder|Anciano de la aldea
+trp_village_41_elder_pl|anciano de la aldea 1
+trp_village_42_elder|Anciano de la aldea
+trp_village_42_elder_pl|anciano de la aldea 1
+trp_village_43_elder|Anciano de la aldea
+trp_village_43_elder_pl|anciano de la aldea 1
+trp_village_44_elder|Anciano de la aldea
+trp_village_44_elder_pl|anciano de la aldea 1
+trp_village_45_elder|Anciano de la aldea
+trp_village_45_elder_pl|anciano de la aldea 1
+trp_village_46_elder|Anciano de la aldea
+trp_village_46_elder_pl|anciano de la aldea 1
+trp_village_47_elder|Anciano de la aldea
+trp_village_47_elder_pl|anciano de la aldea 1
+trp_village_48_elder|Anciano de la aldea
+trp_village_48_elder_pl|anciano de la aldea 1
+trp_village_49_elder|Anciano de la aldea
+trp_village_49_elder_pl|anciano de la aldea 1
+trp_village_50_elder|Anciano de la aldea
+trp_village_50_elder_pl|anciano de la aldea 1
+trp_village_51_elder|Anciano de la aldea
+trp_village_51_elder_pl|anciano de la aldea 1
+trp_village_52_elder|Anciano de la aldea
+trp_village_52_elder_pl|anciano de la aldea 1
+trp_village_53_elder|Anciano de la aldea
+trp_village_53_elder_pl|anciano de la aldea 1
+trp_village_54_elder|Anciano de la aldea
+trp_village_54_elder_pl|anciano de la aldea 1
+trp_village_55_elder|Anciano de la aldea
+trp_village_55_elder_pl|anciano de la aldea 1
+trp_village_56_elder|Anciano de la aldea
+trp_village_56_elder_pl|anciano de la aldea 1
+trp_village_57_elder|Anciano de la aldea
+trp_village_57_elder_pl|anciano de la aldea 1
+trp_village_58_elder|Anciano de la aldea
+trp_village_58_elder_pl|anciano de la aldea 1
+trp_village_59_elder|Anciano de la aldea
+trp_village_59_elder_pl|anciano de la aldea 1
+trp_village_60_elder|Anciano de la aldea
+trp_village_60_elder_pl|anciano de la aldea 1
+trp_village_61_elder|Anciano de la aldea
+trp_village_61_elder_pl|anciano de la aldea 1
+trp_village_62_elder|Anciano de la aldea
+trp_village_62_elder_pl|anciano de la aldea 1
+trp_village_63_elder|Anciano de la aldea
+trp_village_63_elder_pl|anciano de la aldea 1
+trp_village_64_elder|Anciano de la aldea
+trp_village_64_elder_pl|anciano de la aldea 1
+trp_village_65_elder|Anciano de la aldea
+trp_village_65_elder_pl|anciano de la aldea 1
+trp_village_66_elder|Anciano de la aldea Zamoshye
+trp_village_66_elder_pl|anciano de la aldea 1
+trp_village_67_elder|Anciano de la aldea
+trp_village_67_elder_pl|anciano de la aldea 1
+trp_village_68_elder|Anciano de la aldea
+trp_village_68_elder_pl|anciano de la aldea 1
+trp_village_69_elder|Anciano de la aldea
+trp_village_69_elder_pl|anciano de la aldea 1
+trp_village_70_elder|Anciano de la aldea
+trp_village_70_elder_pl|anciano de la aldea 1
+trp_village_71_elder|Anciano de la aldea
+trp_village_71_elder_pl|anciano de la aldea 1
+trp_village_72_elder|Anciano de la aldea
+trp_village_72_elder_pl|anciano de la aldea 1
+trp_village_73_elder|Anciano de la aldea
+trp_village_73_elder_pl|anciano de la aldea 1
+trp_village_74_elder|Anciano de la aldea
+trp_village_74_elder_pl|anciano de la aldea 1
+trp_village_75_elder|Anciano de la aldea
+trp_village_75_elder_pl|anciano de la aldea 1
+trp_village_76_elder|Anciano de la aldea
+trp_village_76_elder_pl|anciano de la aldea 1
+trp_village_77_elder|Anciano de la aldea
+trp_village_77_elder_pl|anciano de la aldea 1
+trp_village_78_elder|Anciano de la aldea
+trp_village_78_elder_pl|anciano de la aldea 1
+trp_village_79_elder|Anciano de la aldea
+trp_village_79_elder_pl|anciano de la aldea 1
+trp_village_80_elder|Anciano de la aldea
+trp_village_80_elder_pl|anciano de la aldea 1
+trp_village_81_elder|Anciano de la aldea
+trp_village_81_elder_pl|anciano de la aldea 1
+trp_village_82_elder|Anciano de la aldea
+trp_village_82_elder_pl|anciano de la aldea 1
+trp_village_83_elder|Anciano de la aldea
+trp_village_83_elder_pl|anciano de la aldea 1
+trp_village_84_elder|Anciano de la aldea
+trp_village_84_elder_pl|anciano de la aldea 1
+trp_village_85_elder|Anciano de la aldea
+trp_village_85_elder_pl|anciano de la aldea 1
+trp_village_86_elder|Anciano de la aldea
+trp_village_86_elder_pl|anciano de la aldea 1
+trp_village_87_elder|Anciano de la aldea
+trp_village_87_elder_pl|anciano de la aldea 1
+trp_village_88_elder|Anciano de la aldea
+trp_village_88_elder_pl|anciano de la aldea 1
+trp_village_89_elder|Anciano de la aldea
+trp_village_89_elder_pl|anciano de la aldea 1
+trp_village_90_elder|Anciano de la aldea
+trp_village_90_elder_pl|anciano de la aldea 1
+trp_merchants_end|fin de mercaderes
+trp_merchants_end_pl|fin de mercaderes
+trp_temp_array_a|formación temporal a
+trp_temp_array_a_pl|formación temporal a
+trp_temp_array_b|formación temporal b
+trp_temp_array_b_pl|formación temporal b
+trp_temp_array_c|formación temporal c
+trp_temp_array_c_pl|formación temporal c
+trp_stack_selection_amounts|cantidades de selección del montón
+trp_stack_selection_amounts_pl|cantidades de selección del montón
+trp_stack_selection_ids|ID de selección del montón
+trp_stack_selection_ids_pl|ID de selección del montón
+trp_notification_menu_types|tipos de menú de notificación
+trp_notification_menu_types_pl|tipos de menú de notificación
+trp_notification_menu_var1|var1 menú notificación
+trp_notification_menu_var1_pl|var1 menú notificación
+trp_notification_menu_var2|var2 menú notificación
+trp_notification_menu_var2_pl|var2 menú notificación
+trp_local_merchant|Mercader de la zona
+trp_local_merchant_pl|Mercaderes de la zona
+trp_tax_rebel|Campesino rebelde
+trp_tax_rebel_pl|Campesinos rebeldes
+trp_trainee_peasant|Campesino
+trp_trainee_peasant_pl|Campesinos
+trp_fugitive|Hombre nervioso
+trp_fugitive_pl|Hombres nerviosos
+trp_spy|Ciudadano común
+trp_spy_pl|Ciudadanos comunes
+trp_oim_monfor|Jaques de Clermont
+trp_oim_monfor_pl|Montfort
+trp_oim_trakai_ksendz|Sacerdote
+trp_oim_trakai_ksendz_pl|Campesinos rebeldes
+trp_oim_polish_taver_visitor|Asiduo de las tabernas
+trp_oim_polish_taver_visitor_pl|Campesinos rebeldes
+trp_oim_tatarin_zolotarenko|Tártaro
+trp_oim_tatarin_zolotarenko_pl|Tártaro
+trp_oim_polish_lord|Oficial sueco
+trp_oim_zagloba_qst|Onufry Zagloba
+trp_oim_old_man_qst|Anciano
+trp_oim_killer_qst|Pequeño noble
+trp_oim_getman_pafnutiy|Pafnuty
+trp_oim_dmitriy_yevangelik|Gerasim Evangelic
+trp_volhv|Adivino
+trp_volhv_pl|Adivino
+trp_halberdier|Alabardero
+trp_halberdier_pl|Alabarderos
+trp_moskov_straj|Guardia
+trp_moskov_straj_pl|Guardias
+trp_oim_tavern_visitor_rp|Visitante taberna
+trp_oim_tavern_visitor_rp_pl|Visitante taberna
+trp_oim_tavern_visitor_mc|Visitante taberna
+trp_oim_tavern_visitor_mc_pl|Visitante taberna
+trp_oim_tavern_visitor_swed|Visitante taberna
+trp_oim_tavern_visitor_swed_pl|Visitante taberna
+trp_oim_tavern_visitor_tatar|Visitante taberna
+trp_oim_tavern_visitor_tatar_pl|Visitante taberna
+trp_oim_tavern_visitor_cossack|Visitante taberna
+trp_oim_tavern_visitor_cossack_pl|Visitante taberna
+trp_eleonora|Eleanor
+trp_eleonora_pl|Eleanor
+trp_alevtina|Alevtina
+trp_alevtina_pl|Alevtina
+trp_oim_caravan_master|Conductor caravana
+trp_oim_caravan_master_pl|Conductores caravana
+trp_oim_rich_visitor|Ciudadano rico
+trp_oim_rich_visitor_pl|Ciudadanos ricos
+trp_spy_partner|Ciudadano sin nada en especial
+trp_spy_partner_pl|Ciudadanos sin nada en especial
+trp_mercanary_captain_tatars|Capitán mercenario
+trp_mercanary_captain_tatars_pl|Capitanes mercenarios
+trp_mercanary_captain_kozaks|Atamán cosaco
+trp_mercanary_captain_kozaks_pl|Atamanes cosacos
+trp_mercanary_captain_polyak|Capitán mercenario
+trp_mercanary_captain_polyak_pl|Capitanes mercenarios
+trp_mercanary_captain_shved|Capitán mercenario
+trp_mercanary_captain_shved_pl|Capitanes mercenarios
+trp_mercanary_captain_moskov|Capitán mercenario
+trp_mercanary_captain_moskov_pl|Capitanes mercenarios
+trp_tatar_merch_novice_infantry|Soldado mercenario de infantería tártaro (recluta)
+trp_tatar_merch_novice_infantry_pl|Soldados mercenarios de infantería tártaros (reclutas)
+trp_tatar_merch_regular_infantry|Soldado mercenario de infantería tártaro (experimentado)
+trp_tatar_merch_regular_infantry_pl|Soldados mercenarios de infantería tártaros (experimentados)
+trp_tatar_merch_veteran_infantry|Soldado mercenario de infantería tártaro (veterano)
+trp_tatar_merch_veteran_infantry_pl|Soldados mercenarios de infantería tártaros (veteranos)
+trp_tatar_merch_champion_infantry|Soldado mercenario de infantería tártaro (élite)
+trp_tatar_merch_champion_infantry_pl|Soldados mercenarios de infantería tártaros (élite)
+trp_tatar_merch_novice_archer|Tirador mercenario tártaro (recluta)
+trp_tatar_merch_novice_archer_pl|Tiradores mercenarios tártaros (reclutas)
+trp_tatar_merch_regular_archer|Tirador mercenario tártaro (experimentado)
+trp_tatar_merch_regular_archer_pl|Tiradores mercenarios tártaros (experimentados)
+trp_tatar_merch_veteran_archer|Tirador mercenario tártaro (veterano)
+trp_tatar_merch_veteran_archer_pl|Tiradores mercenarios tártaros (veteranos)
+trp_tatar_merch_champion_archer|Tirador mercenario tártaro (élite)
+trp_tatar_merch_champion_archer_pl|Tiradores mercenarios tártaros (élite)
+trp_tatar_merch_novice_horse|Soldado mercenario de caballería tártaro (recluta)
+trp_tatar_merch_novice_horse_pl|Soldados mercenarios de caballería tártaros (reclutas)
+trp_tatar_merch_regular_horse|Soldado mercenario de caballería tártaro (experimentado)
+trp_tatar_merch_regular_horse_pl|Soldados mercenarios de caballería tártaros (experimentados)
+trp_tatar_merch_veteran_horse|Soldado mercenario de caballería tártaro (veterano)
+trp_tatar_merch_veteran_horse_pl|Soldados mercenarios de caballería tártaros (veteranos)
+trp_tatar_merch_champion_horse|Soldado mercenario de caballería tártaro (élite)
+trp_tatar_merch_champion_horse_pl|Soldados mercenarios de caballería tártaros (élite)
+trp_kazak_merch_novice_infantry|Mercenario de infantería cosaco (recluta)
+trp_kazak_merch_novice_infantry_pl|Mercenarios de infantería cosacos (reclutas)
+trp_kazak_merch_regular_infantry|Mercenario de infantería cosaco (experimentado)
+trp_kazak_merch_regular_infantry_pl|Mercenarios de infantería cosacos (experimentados)
+trp_kazak_merch_veteran_infantry|Mercenario de infantería cosaco (veterano)
+trp_kazak_merch_veteran_infantry_pl|Mercenarios de infantería cosacos (veteranos)
+trp_kazak_merch_champion_infantry|Mercenario de infantería cosaco (élite)
+trp_kazak_merch_champion_infantry_pl|Mercenarios de infantería cosacos (élite)
+trp_kazak_merch_novice_archer|Tirador mercenario cosaco (recluta)
+trp_kazak_merch_novice_archer_pl|Tiradores mercenarios cosacos (reclutas)
+trp_kazak_merch_regular_archer|Tirador mercenario cosaco (experimentado)
+trp_kazak_merch_regular_archer_pl|Tiradores mercenarios cosacos (experimentados)
+trp_kazak_merch_veteran_archer|Tirador mercenario cosaco (veterano)
+trp_kazak_merch_veteran_archer_pl|Tiradores mercenarios cosacos (veteranos)
+trp_kazak_merch_champion_archer|Tirador mercenario cosaco (élite)
+trp_kazak_merch_champion_archer_pl|Tiradores mercenarios cosacos (élite)
+trp_kazak_merch_novice_horse|Mercenario de caballería cosaco (recluta)
+trp_kazak_merch_novice_horse_pl|Mercenarios de caballería cosacos (reclutas)
+trp_kazak_merch_regular_horse|Mercenario de caballería cosaco (experimentado)
+trp_kazak_merch_regular_horse_pl|Mercenarios de caballería cosacos (experimentados)
+trp_kazak_merch_veteran_horse|Mercenario de caballería cosaco (veterano)
+trp_kazak_merch_veteran_horse_pl|Mercenarios de caballería cosacos (veteranos)
+trp_kazak_merch_champion_horse|Mercenario de caballería cosaco (élite)
+trp_kazak_merch_champion_horse_pl|Mercenarios de caballería cosacos (élite)
+trp_polyak_merch_novice_infantry|Mercenario de infantería polaco (recluta)
+trp_polyak_merch_novice_infantry_pl|Mercenarios de infantería polacos (reclutas)
+trp_polyak_merch_regular_infantry|Mercenario de infantería polaco (experimentado)
+trp_polyak_merch_regular_infantry_pl|Mercenarios de infantería polacos (experimentados)
+trp_polyak_merch_veteran_infantry|Mercenario de infantería polaco (veterano)
+trp_polyak_merch_veteran_infantry_pl|Mercenarios de infantería polacos (veteranos)
+trp_polyak_merch_champion_infantry|Mercenario de infantería polaco (élite)
+trp_polyak_merch_champion_infantry_pl|Mercenarios de infantería polacos (élite)
+trp_polyak_merch_novice_archer|Tirador mercenario polaco (recluta)
+trp_polyak_merch_novice_archer_pl|Tiradores mercenarios polacos (reclutas)
+trp_polyak_merch_regular_archer|Tirador mercenario polaco (experimentado)
+trp_polyak_merch_regular_archer_pl|Tiradores mercenarios polacos (experimentados)
+trp_polyak_merch_veteran_archer|Tirador mercenario polaco (veterano)
+trp_polyak_merch_veteran_archer_pl|Tiradores mercenarios polacos (veteranos)
+trp_polyak_merch_champion_archer|Tirador mercenario polaco (élite)
+trp_polyak_merch_champion_archer_pl|Tiradores mercenarios polacos (élite)
+trp_polyak_merch_novice_horse|Mercenario de caballería polaco (recluta)
+trp_polyak_merch_novice_horse_pl|Mercenarios de caballería polacos (reclutas)
+trp_polyak_merch_regular_horse|Mercenario de caballería polaco (experimentado)
+trp_polyak_merch_regular_horse_pl|Mercenarios de caballería polacos (experimentados)
+trp_polyak_merch_veteran_horse|Mercenario de caballería polaco (veterano)
+trp_polyak_merch_veteran_horse_pl|Mercenarios de caballería polacos (veteranos)
+trp_polyak_merch_champion_horse|Mercenario de caballería polaco (élite)
+trp_polyak_merch_champion_horse_pl|Mercenarios de caballería polacos (élite)
+trp_shved_merch_novice_infantry|Mercenario de infantería europeo (recluta)
+trp_shved_merch_novice_infantry_pl|Mercenarios de infantería europeos (reclutas)
+trp_shved_merch_regular_infantry|Mercenario de infantería europeo (experimentado)
+trp_shved_merch_regular_infantry_pl|Mercenarios de infantería europeos (experimentados)
+trp_shved_merch_veteran_infantry|Mercenario de infantería europeo (veterano)
+trp_shved_merch_veteran_infantry_pl|Mercenarios de infantería europeos (veteranos)
+trp_shved_merch_champion_infantry|Mercenario de infantería europeo (élite)
+trp_shved_merch_champion_infantry_pl|Mercenarios de infantería europeos (élite)
+trp_shved_merch_novice_archer|Tirador mercenario europeo (recluta)
+trp_shved_merch_novice_archer_pl|Tiradores mercenarios europeos (reclutas)
+trp_shved_merch_regular_archer|Tirador mercenario europeo (experimentado)
+trp_shved_merch_regular_archer_pl|Tiradores mercenarios europeos (experimentados)
+trp_shved_merch_veteran_archer|Tirador mercenario europeo (veterano)
+trp_shved_merch_veteran_archer_pl|Tiradores mercenarios europeos (veteranos)
+trp_shved_merch_champion_archer|Tirador mercenario europeo (élite)
+trp_shved_merch_champion_archer_pl|Tiradores mercenarios europeos (élite)
+trp_shved_merch_novice_horse|Mercenario de caballería europeo (recluta)
+trp_shved_merch_novice_horse_pl|Mercenarios de caballería europeos (reclutas)
+trp_shved_merch_regular_horse|Mercenario de caballería europeo (experimentado)
+trp_shved_merch_regular_horse_pl|Mercenarios de caballería europeos (experimentados)
+trp_shved_merch_veteran_horse|Mercenario de caballería europeo (veterano)
+trp_shved_merch_veteran_horse_pl|Mercenarios de caballería europeos (veteranos)
+trp_shved_merch_champion_horse|Mercenario de caballería europeo (élite)
+trp_shved_merch_champion_horse_pl|Mercenarios de caballería europeos (élite)
+trp_moskov_merch_novice_infantry|Mercenario de infantería moscovita (recluta)
+trp_moskov_merch_novice_infantry_pl|Mercenarios de infantería moscovitas (reclutas)
+trp_moskov_merch_regular_infantry|Mercenario de infantería moscovita (experimentado)
+trp_moskov_merch_regular_infantry_pl|Mercenarios de infantería moscovitas (experimentados)
+trp_moskov_merch_veteran_infantry|Mercenario de infantería moscovita (veterano)
+trp_moskov_merch_veteran_infantry_pl|Mercenarios de infantería moscovitas (veteranos)
+trp_moskov_merch_champion_infantry|Mercenario de infantería moscovita (élite)
+trp_moskov_merch_champion_infantry_pl|Mercenarios de infantería moscovitas (élite)
+trp_moskov_merch_novice_archer|Tirador mercenario moscovita (recluta)
+trp_moskov_merch_novice_archer_pl|Tiradores mercenarios moscovitas (reclutas)
+trp_moskov_merch_regular_archer|Tirador mercenario moscovita (experimentado)
+trp_moskov_merch_regular_archer_pl|Tiradores mercenarios moscovitas (experimentados)
+trp_moskov_merch_veteran_archer|Tirador mercenario moscovita (veterano)
+trp_moskov_merch_veteran_archer_pl|Tiradores mercenarios moscovitas (veteranos)
+trp_moskov_merch_champion_archer|Tirador mercenario moscovita (élite)
+trp_moskov_merch_champion_archer_pl|Tiradores mercenarios moscovitas (élite)
+trp_moskov_merch_novice_horse|Mercenario de caballería moscovita (recluta)
+trp_moskov_merch_novice_horse_pl|Mercenarios de caballería moscovitas (reclutas)
+trp_moskov_merch_regular_horse|Mercenario de caballería moscovita (experimentado)
+trp_moskov_merch_regular_horse_pl|Mercenarios de caballería moscovitas (experimentados)
+trp_moskov_merch_veteran_horse|Mercenario de caballería moscovita (veterano)
+trp_moskov_merch_veteran_horse_pl|Mercenarios de caballería moscovitas (veteranos)
+trp_moskov_merch_champion_horse|Mercenario de caballería moscovita (élite)
+trp_moskov_merch_champion_horse_pl|Mercenarios de caballería moscovitas (élite)
+trp_castle_tavernkeeper|Tabernero
+trp_castle_tavernkeeper_pl|Tabernero
+trp_town_upgrade_armourer|Armero
+trp_town_upgrade_armourer_pl|Armero
+trp_town_upgrade_protection|Herrero
+trp_town_upgrade_protection_pl|Herrero
+trp_militiaman|Miliciano
+trp_militiaman_pl|Milicianos
+trp_polsk_ambassador|Embajador de la República de Polonia
+trp_polsk_ambassador_pl|Embajador de la República de Polonia
+trp_moskov_ambassador|Embajador del Reino Moscovita
+trp_moskov_ambassador_pl|Embajador del Reino Moscovita
+trp_tatar_ambassador|Embajador del Kanato de Crimea
+trp_tatar_ambassador_pl|Embajador del Kanato de Crimea
+trp_shved_ambassador|Embajador del Reino de Suecia
+trp_shved_ambassador_pl|Embajador del Reino de Suecia
+trp_kozak_ambassador|Embajador cosaco de Zaporozhia
+trp_kozak_ambassador_pl|Embajador cosaco de Zaporozhia
+trp_armor_smith_pol|Herrero
+trp_armor_smith_pol_pl|Herrero
+trp_armor_smith_rus|Herrero
+trp_armor_smith_rus_pl|Herrero
+trp_armor_smith_tatar|Herrero
+trp_armor_smith_tatar_pl|Herrero
+trp_armor_smith_swed|Herrero
+trp_armor_smith_swed_pl|Herrero
+trp_armor_smith_ukr|Herrero
+trp_armor_smith_ukr_pl|Herrero
+trp_weapon_smith_pol|Armero
+trp_weapon_smith_pol_pl|Armero
+trp_weapon_smith_rus|Armero
+trp_weapon_smith_rus_pl|Armero
+trp_weapon_smith_tatar|Armero
+trp_weapon_smith_tatar_pl|Armero
+trp_weapon_smith_swed|Armero
+trp_weapon_smith_swed_pl|Armero
+trp_weapon_smith_ukr|Armero
+trp_weapon_smith_ukr_pl|Armero
+trp_castle_cmd_pol|Comandante
+trp_castle_cmd_pol_pl|Comandante
+trp_castle_cmd_rus|Comandante
+trp_castle_cmd_rus_pl|Comandante
+trp_castle_cmd_tatar|Comandante
+trp_castle_cmd_tatar_pl|Comandante
+trp_castle_cmd_swed|Comandante
+trp_castle_cmd_swed_pl|Comandante
+trp_castle_cmd_ukr|Comandante
+trp_castle_cmd_ukr_pl|Comandante
+trp_swadian_crossbowman_multiplayer_ai|Mosquetero polaco
+trp_swadian_crossbowman_multiplayer_ai_pl|Mosqueteros polacos
+trp_swadian_infantry_multiplayer_ai|Soldado de infantería polaco
+trp_swadian_infantry_multiplayer_ai_pl|Infantería polaca
+trp_swadian_man_at_arms_multiplayer_ai|Soldado de caballería polaco
+trp_swadian_man_at_arms_multiplayer_ai_pl|Caballería polaca
+trp_vaegir_archer_multiplayer_ai|Tirador ruso
+trp_vaegir_archer_multiplayer_ai_pl|Tiradores rusos
+trp_vaegir_spearman_multiplayer_ai|Soldado de infantería ruso
+trp_vaegir_spearman_multiplayer_ai_pl|Infantería rusa
+trp_vaegir_horseman_multiplayer_ai|Jinete ruso
+trp_vaegir_horseman_multiplayer_ai_pl|Jinetes rusos
+trp_khergit_dismounted_lancer_multiplayer_ai|Soldado de infantería tártaro
+trp_khergit_dismounted_lancer_multiplayer_ai_pl|Infantería tártara
+trp_khergit_veteran_horse_archer_multiplayer_ai|Tirador montado tártaro
+trp_khergit_veteran_horse_archer_multiplayer_ai_pl|Tiradores montados tártaros
+trp_khergit_lancer_multiplayer_ai|Jinete tártaro
+trp_khergit_lancer_multiplayer_ai_pl|Jinetes tártaros
+trp_nord_veteran_multiplayer_ai|Soldado de infantería sueco
+trp_nord_veteran_multiplayer_ai_pl|Infantería sueca
+trp_nord_scout_multiplayer_ai|Soldado de caballería sueco
+trp_nord_scout_multiplayer_ai_pl|Caballería sueca
+trp_nord_archer_multiplayer_ai|Mosquetero sueco
+trp_nord_archer_multiplayer_ai_pl|Mosqueteros suecos
+trp_rhodok_veteran_crossbowman_multiplayer_ai|Tirador de Zaporozhia
+trp_rhodok_veteran_crossbowman_multiplayer_ai_pl|Tiradores de Zaporozhia
+trp_rhodok_veteran_spearman_multiplayer_ai|Soldado de infantería de Zaporozhia
+trp_rhodok_veteran_spearman_multiplayer_ai_pl|Infantería de Zaporozhia
+trp_rhodok_scout_multiplayer_ai|Explorador Rhodok
+trp_rhodok_scout_multiplayer_ai_pl|Exploradores Rhodok Infantería sarraní
+trp_sarranid_infantry_multiplayer_ai|Infantería sarraní
+trp_sarranid_infantry_multiplayer_ai_pl|Infanterías sarraníes
+trp_sarranid_archer_multiplayer_ai|Arquero sarraní
+trp_sarranid_archer_multiplayer_ai_pl|Arqueros sarraníes
+trp_sarranid_horseman_multiplayer_ai|Jinete sarraní
+trp_sarranid_horseman_multiplayer_ai_pl|Jinetes sarraníes
+trp_swadian_crossbowman_multiplayer|Mosquetero
+trp_swadian_crossbowman_multiplayer_pl|Mosqueteros
+trp_swadian_infantry_multiplayer|Soldado de infantería
+trp_swadian_infantry_multiplayer_pl|Infantería
+trp_swadian_man_at_arms_multiplayer|Soldado de caballería
+trp_swadian_man_at_arms_multiplayer_pl|Caballería
+trp_vaegir_archer_multiplayer|Tirador
+trp_vaegir_archer_multiplayer_pl|Tiradores
+trp_vaegir_spearman_multiplayer|Soldado de infantería
+trp_vaegir_spearman_multiplayer_pl|Infantería
+trp_vaegir_horseman_multiplayer|Soldado de caballería
+trp_vaegir_horseman_multiplayer_pl|Caballería
+trp_khergit_veteran_footman_multiplayer|Soldado de infantería tártaro
+trp_khergit_veteran_footman_multiplayer_pl|Soldados de infantería tártaros
+trp_khergit_veteran_horse_archer_multiplayer|Arquero montado
+trp_khergit_veteran_horse_archer_multiplayer_pl|Arqueros montados
+trp_khergit_lancer_multiplayer|Lancero montado
+trp_khergit_lancer_multiplayer_pl|Lanceros montados
+trp_nord_archer_multiplayer|Mosquetero
+trp_nord_archer_multiplayer_pl|Mosqueteros
+trp_nord_veteran_multiplayer|Soldado de infantería
+trp_nord_veteran_multiplayer_pl|Infantería
+trp_nord_scout_multiplayer|Soldado de caballería
+trp_nord_scout_multiplayer_pl|Caballería
+trp_rhodok_veteran_crossbowman_multiplayer|Soldado de infantería
+trp_rhodok_veteran_crossbowman_multiplayer_pl|Infantería
+trp_rhodok_sergeant_multiplayer|Tirador
+trp_rhodok_sergeant_multiplayer_pl|Tiradores
+trp_rhodok_horseman_multiplayer|Jinete
+trp_rhodok_horseman_multiplayer_pl|Jinetes
+trp_mp_swadian_militia|Piquero miliciano
+trp_mp_swadian_militia_pl|Piqueros milicianos
+trp_mp_swadian_footman|Piquero recluta
+trp_mp_swadian_footman_pl|Piqueros reclutas
+trp_mp_swadian_footman_levelup|Piquero veterano
+trp_mp_swadian_footman_levelup_pl|Piqueros veteranos
+trp_mp_swadian_infantry|Piquero de la infantería alemana
+trp_mp_swadian_infantry_pl|Piqueros de la infantería alemana
+trp_mp_swadian_skirmisher|Mosquetero miliciano
+trp_mp_swadian_skirmisher_pl|Mosqueteros milicianos
+trp_mp_swadian_crossbowman|Zolnier recluta
+trp_mp_swadian_crossbowman_pl|Zolnier reclutas
+trp_mp_swadian_crossbowman_levelup|Zolnier veterano
+trp_mp_swadian_crossbowman_levelup_pl|Zolnier veteranos
+trp_mp_swadian_sharpshooter|Mosquetero de la infantería alemana
+trp_mp_swadian_sharpshooter_pl|Mosqueteros de la infantería alemana
+trp_mp_swadian_man_at_arms|Voluntario
+trp_mp_swadian_man_at_arms_pl|Voluntarios
+trp_mp_polish_dragoon|Dragón
+trp_mp_polish_dragoon_pl|Dragones
+trp_mp_swadian_sergeant|Cosaco con armadura
+trp_mp_swadian_sergeant_pl|Cosacos con armadura
+trp_mp_swadian_knight|Húsar alado
+trp_mp_swadian_knight_pl|Húsares alados
+trp_mp_vaegir_footman|Lancero de Posad
+trp_mp_vaegir_footman_pl|Lanceros de Posad
+trp_mp_vaegir_veteran|Lancero tirador
+trp_mp_vaegir_veteran_pl|Lanceros tiradores
+trp_mp_vaegir_veteran_levelup|Lancero tirador veterano
+trp_mp_vaegir_veteran_levelup_pl|Lanceros tiradores veteranos
+trp_mp_vaegir_infantry|Lancero de la Nueva Orden
+trp_mp_vaegir_infantry_pl|Lanceros de la Nueva Orden
+trp_mp_vaegir_skirmisher|Tirador de Posad
+trp_mp_vaegir_skirmisher_pl|Tiradores de Posad
+trp_mp_vaegir_archer|Tirador
+trp_mp_vaegir_archer_pl|Tiradores
+trp_mp_vaegir_archer_levelup|Tirador veterano
+trp_mp_vaegir_archer_levelup_pl|Tiradores veteranos
+trp_mp_vaegir_marksman|Tirador de la Nueva Orden
+trp_mp_vaegir_marksman_pl|Tiradores de la Nueva Orden
+trp_mp_vaegir_horseman|Siervo de la zona
+trp_mp_vaegir_horseman_pl|Siervos de la zona
+trp_mp_moskow_dragoon|Soldado de caballería de la pequeña nobleza
+trp_mp_moskow_dragoon_pl|Caballería de la pequeña nobleza
+trp_mp_vaegir_knight|Reitre
+trp_mp_vaegir_knight_pl|Reitres
+trp_mp_vaegir_guard|Guardia noble boyardo
+trp_mp_vaegir_guard_pl|Guardias nobles boyardos
+trp_mp_khergit_skirmisher|Kapikulu
+trp_mp_khergit_skirmisher_pl|Kapikulu
+trp_mp_khergit_skirmisher_levelup|Kapikulu (veterano)
+trp_mp_khergit_skirmisher_levelup_pl|Kapikulu (veteranos)
+trp_mp_saymen|Seymen
+trp_mp_saymen_pl|Seymeni
+trp_mp_janissar|Jenízaro
+trp_mp_janissar_pl|Jenízaros
+trp_mp_khergit_horseman|Jebelu 
+trp_mp_khergit_horseman_pl|Jebelu 
+trp_mp_khergit_horse_archer|Jebelu veterano 
+trp_mp_khergit_horse_archer_pl|Jebelu veteranos 
+trp_mp_khergit_veteran_horse_archer|Circasiano 
+trp_mp_khergit_veteran_horse_archer_pl|Circasianos 
+trp_mp_zyndjirli|Circasiano veterano
+trp_mp_zyndjirli_pl|Circasianos veteranos 
+trp_mp_nord_footman|Piquero miliciano
+trp_mp_nord_footman_pl|Piqueros milicianos
+trp_mp_nord_trained_footman|Piquero
+trp_mp_nord_trained_footman_pl|Piqueros
+trp_mp_nord_trained_footman_levelup|Piquero veterano
+trp_mp_nord_trained_footman_levelup_pl|Piqueros veteranos
+trp_mp_sved_swordmaster|Espadachín
+trp_mp_sved_swordmaster_pl|Espadachines
+trp_mp_nord_huntsman|Mosquetero miliciano
+trp_mp_nord_huntsman_pl|Mosqueteros milicianos
+trp_mp_nord_archer|Mosquetero
+trp_mp_nord_archer_pl|Mosqueteros
+trp_mp_nord_archer_levelup|Mosquetero veterano
+trp_mp_nord_archer_levelup_pl|Mosqueteros veteranos
+trp_mp_nord_veteran_archer|Caballero armado
+trp_mp_nord_veteran_archer_pl|Caballeros armados
+trp_mp_nord_warrior|Dragón
+trp_mp_nord_warrior_pl|Dragones
+trp_mp_sved_lancers|Lancero montado
+trp_mp_sved_lancers_pl|Lanceros montados
+trp_mp_nord_champion|Coracero
+trp_mp_nord_champion_pl|Coraceros
+trp_mp_nord_veteran|Reitre
+trp_mp_nord_veteran_pl|Reitres
+trp_mp_n_rhodok_spearman|Pistolero cosaco pobre 
+trp_mp_n_rhodok_spearman_pl|Pistoleros cosacos pobres
+trp_mp_n_rhodok_sergeant|Pistolero de Zaporozhia 
+trp_mp_n_rhodok_sergeant_pl|Pistoleros de Zaporozhia 
+trp_mp_n_rhodok_trained_crossbowman|Pistolero netyag 
+trp_mp_n_rhodok_trained_crossbowman_pl|Pistoleros netyag 
+trp_mp_n_rhodok_veteran_spearman|Pistolero serdyuk 
+trp_mp_n_rhodok_veteran_spearman_pl|Pistoleros serdyuk 
+trp_mp_rhodok_spearman|Arcabucero cosaco pobre
+trp_mp_rhodok_spearman_pl|Arcabuceros cosacos pobres
+trp_mp_rhodok_sergeant|Soldado de infantería de Zaporozhia
+trp_mp_rhodok_sergeant_pl|Infantería de Zaporozhia
+trp_mp_rhodok_trained_crossbowman|Netyag
+trp_mp_rhodok_trained_crossbowman_pl|Netyagi
+trp_mp_rhodok_veteran_spearman|Serduk
+trp_mp_rhodok_veteran_spearman_pl|Serdukes
+trp_quick_battle_troop_1|Reitre
+trp_quick_battle_troop_1_pl|Reitres
+trp_quick_battle_troop_2|Húsar
+trp_quick_battle_troop_2_pl|Húsares
+trp_quick_battle_troop_3|Boyardo
+trp_quick_battle_troop_3_pl|Boyardos
+trp_quick_battle_troop_4|Coracero
+trp_quick_battle_troop_4_pl|Coraceros
+trp_quick_battle_troop_5|Arquero montado
+trp_quick_battle_troop_5_pl|Arqueros montados
+trp_quick_battle_troop_6|Mosquetero
+trp_quick_battle_troop_6_pl|Mosqueteros
+trp_quick_battle_troop_7|Netyag
+trp_quick_battle_troop_7_pl|Netyagi
+trp_quick_battle_troop_8|Espadachín
+trp_quick_battle_troop_8_pl|Espadachines
+trp_quick_battle_troop_9|Rondartschier
+trp_quick_battle_troop_9_pl|Rondartschiere
+trp_quick_battle_troop_10|Piquero
+trp_quick_battle_troop_10_pl|Piqueros
+trp_quick_battle_troop_11|Alabardero
+trp_quick_battle_troop_11_pl|Alabarderos
+trp_tutorial_fighter_1|Luchador novicio
+trp_tutorial_fighter_1_pl|Luchadores veteranos
+trp_tutorial_fighter_2|Luchador novicio
+trp_tutorial_fighter_2_pl|Luchadores veteranos
+trp_tutorial_fighter_3|Luchador con experiencia
+trp_tutorial_fighter_3_pl|Luchadores veteranos
+trp_tutorial_fighter_4|Luchador veterano
+trp_tutorial_fighter_4_pl|Luchadores veteranos
+trp_tutorial_archer_1|Arquero
+trp_tutorial_archer_1_pl|Arqueros
+trp_tutorial_master_archer|Instructores de arquería
+trp_tutorial_master_archer_pl|Instructores de arquería
+trp_tutorial_rider_1|Jinete
+trp_tutorial_rider_2|Arquero montado
+trp_tutorial_master_horseman|Instructores de caballería
+trp_tutorial_master_horseman_pl|Instructores de caballería
+trp_swadian_merchant|Mercader de Praven
+trp_vaegir_merchant|Mercader de Reyvadin
+trp_khergit_merchant|Mercader de Tulga
+trp_nord_merchant|Mercader de Sargoth
+trp_rhodok_merchant|Mercader de Jelkala
+trp_sarranid_merchant|Mercader de Shariz
+trp_startup_merchants_end|fin de mercaderes iniciales
+trp_startup_merchants_end_pl|fin de mercaderes iniciales
+trp_sea_raider_leader|Capitán pirata
+trp_sea_raider_leader_pl|Piratas
+trp_looter_leader|Ladrón
+trp_looter_leader_pl|Saqueadores
+trp_bandit_leaders_end|fin de líderes de bandidos
+trp_bandit_leaders_end_pl|fin de líderes de bandidos
+trp_relative_of_merchant|Hermano del mercader
+trp_relative_of_merchants_end|fin de familia de mercaderes
+trp_relative_of_merchants_end_pl|fin de familia de mercaderes
+trp_horse_smith_pol|Armero polaco
+trp_horse_smith_pol_pl|Armero polaco
+trp_horse_smith_rus|Armero moscovita
+trp_horse_smith_rus_pl|Armero moscovita
+trp_horse_smith_tatar|Armero tártaro
+trp_horse_smith_tatar_pl|Armero tártaro
+trp_horse_smith_swed|Armero sueco
+trp_horse_smith_swed_pl|Armero sueco
+trp_horse_smith_ukr|Armero cosaco
+trp_horse_smith_ukr_pl|Armero cosaco
+trp_castle_1_armorer|Herrero
+trp_castle_2_armorer|Herrero
+trp_castle_3_armorer|Herrero
+trp_castle_4_armorer|Herrero
+trp_castle_5_armorer|Herrero
+trp_castle_6_armorer|Herrero
+trp_castle_7_armorer|Herrero
+trp_castle_8_armorer|Herrero
+trp_castle_9_armorer|Herrero
+trp_castle_10_armorer|Herrero
+trp_castle_11_armorer|Herrero
+trp_castle_12_armorer|Herrero
+trp_castle_13_armorer|Herrero
+trp_castle_14_armorer|Herrero
+trp_castle_15_armorer|Herrero
+trp_castle_16_armorer|Herrero
+trp_castle_17_armorer|Herrero
+trp_castle_18_armorer|Herrero
+trp_castle_19_armorer|Herrero
+trp_castle_20_armorer|Herrero
+trp_castle_21_armorer|Herrero
+trp_castle_22_armorer|Herrero
+trp_castle_23_armorer|Herrero
+trp_castle_24_armorer|Herrero
+trp_castle_25_armorer|Herrero
+trp_castle_26_armorer|Herrero
+trp_castle_27_armorer|Herrero
+trp_castle_28_armorer|Herrero
+trp_castle_29_armorer|Herrero
+trp_castle_30_armorer|Herrero
+trp_castle_31_armorer|Herrero
+trp_castle_32_armorer|Herrero
+trp_castle_33_armorer|Herrero
+trp_castle_34_armorer|Herrero
+trp_castle_35_armorer|Herrero
+trp_castle_36_armorer|Herrero
+trp_castle_37_armorer|Herrero
+trp_castle_38_armorer|Herrero
+trp_castle_39_armorer|Herrero
+trp_castle_40_armorer|Herrero
+trp_castle_1_weaponsmith|Armero
+trp_castle_2_weaponsmith|Armero
+trp_castle_3_weaponsmith|Armero
+trp_castle_4_weaponsmith|Armero
+trp_castle_5_weaponsmith|Armero
+trp_castle_6_weaponsmith|Armero
+trp_castle_7_weaponsmith|Armero
+trp_castle_8_weaponsmith|Armero
+trp_castle_9_weaponsmith|Armero
+trp_castle_10_weaponsmith|Armero
+trp_castle_11_weaponsmith|Armero
+trp_castle_12_weaponsmith|Armero
+trp_castle_13_weaponsmith|Armero
+trp_castle_14_weaponsmith|Armero
+trp_castle_15_weaponsmith|Armero
+trp_castle_16_weaponsmith|Armero
+trp_castle_17_weaponsmith|Armero
+trp_castle_18_weaponsmith|Armero
+trp_castle_19_weaponsmith|Armero
+trp_castle_20_weaponsmith|Armero
+trp_castle_21_weaponsmith|Armero
+trp_castle_22_weaponsmith|Armero
+trp_castle_23_weaponsmith|Armero
+trp_castle_24_weaponsmith|Armero
+trp_castle_25_weaponsmith|Armero
+trp_castle_26_weaponsmith|Armero
+trp_castle_27_weaponsmith|Armero
+trp_castle_28_weaponsmith|Armero
+trp_castle_29_weaponsmith|Armero
+trp_castle_30_weaponsmith|Armero
+trp_castle_31_weaponsmith|Armero
+trp_castle_32_weaponsmith|Armero
+trp_castle_33_weaponsmith|Armero
+trp_castle_34_weaponsmith|Armero
+trp_castle_35_weaponsmith|Armero
+trp_castle_36_weaponsmith|Armero
+trp_castle_37_weaponsmith|Armero
+trp_castle_38_weaponsmith|Armero
+trp_castle_39_weaponsmith|Armero
+trp_castle_40_weaponsmith|Armero
+trp_castle_1_horse_merchant|Mercader de caballos
+trp_castle_2_horse_merchant|Mercader de caballos
+trp_castle_3_horse_merchant|Mercader de caballos
+trp_castle_4_horse_merchant|Mercader de caballos
+trp_castle_5_horse_merchant|Mercader de caballos
+trp_castle_6_horse_merchant|Mercader de caballos
+trp_castle_7_horse_merchant|Mercader de caballos
+trp_castle_8_horse_merchant|Mercader de caballos
+trp_castle_9_horse_merchant|Mercader de caballos
+trp_castle_10_horse_merchant|Mercader de caballos
+trp_castle_11_horse_merchant|Mercader de caballos
+trp_castle_12_horse_merchant|Mercader de caballos
+trp_castle_13_horse_merchant|Mercader de caballos
+trp_castle_14_horse_merchant|Mercader de caballos
+trp_castle_15_horse_merchant|Mercader de caballos
+trp_castle_16_horse_merchant|Mercader de caballos
+trp_castle_17_horse_merchant|Mercader de caballos
+trp_castle_18_horse_merchant|Mercader de caballos
+trp_castle_19_horse_merchant|Mercader de caballos
+trp_castle_20_horse_merchant|Mercader de caballos
+trp_castle_21_horse_merchant|Mercader de caballos
+trp_castle_22_horse_merchant|Mercader de caballos
+trp_castle_23_horse_merchant|Mercader de caballos
+trp_castle_24_horse_merchant|Mercader de caballos
+trp_castle_25_horse_merchant|Mercader de caballos
+trp_castle_26_horse_merchant|Mercader de caballos
+trp_castle_27_horse_merchant|Mercader de caballos
+trp_castle_28_horse_merchant|Mercader de caballos
+trp_castle_29_horse_merchant|Mercader de caballos
+trp_castle_30_horse_merchant|Mercader de caballos
+trp_castle_31_horse_merchant|Mercader de caballos
+trp_castle_32_horse_merchant|Mercader de caballos
+trp_castle_33_horse_merchant|Mercader de caballos
+trp_castle_34_horse_merchant|Mercader de caballos
+trp_castle_35_horse_merchant|Mercader de caballos
+trp_castle_36_horse_merchant|Mercader de caballos
+trp_castle_37_horse_merchant|Mercader de caballos
+trp_castle_38_horse_merchant|Mercader de caballos
+trp_castle_39_horse_merchant|Mercader de caballos
+trp_castle_40_horse_merchant|Mercader de caballos
+trp_castle_1_merchant|Mercader
+trp_castle_2_merchant|Mercader
+trp_castle_3_merchant|Mercader
+trp_castle_4_merchant|Mercader
+trp_castle_5_merchant|Mercader
+trp_castle_6_merchant|Mercader
+trp_castle_7_merchant|Mercader
+trp_castle_8_merchant|Mercader
+trp_castle_9_merchant|Mercader
+trp_castle_10_merchant|Mercader
+trp_castle_11_merchant|Mercader
+trp_castle_12_merchant|Mercader
+trp_castle_13_merchant|Mercader
+trp_castle_14_merchant|Mercader
+trp_castle_15_merchant|Mercader
+trp_castle_16_merchant|Mercader
+trp_castle_17_merchant|Mercader
+trp_castle_18_merchant|Mercader
+trp_castle_19_merchant|Mercader
+trp_castle_20_merchant|Mercader
+trp_castle_21_merchant|Mercader
+trp_castle_22_merchant|Mercader
+trp_castle_23_merchant|Mercader
+trp_castle_24_merchant|Mercader
+trp_castle_25_merchant|Mercader
+trp_castle_26_merchant|Mercader
+trp_castle_27_merchant|Mercader
+trp_castle_28_merchant|Mercader
+trp_castle_29_merchant|Mercader
+trp_castle_30_merchant|Mercader
+trp_castle_31_merchant|Mercader
+trp_castle_32_merchant|Mercader
+trp_castle_33_merchant|Mercader
+trp_castle_34_merchant|Mercader
+trp_castle_35_merchant|Mercader
+trp_castle_36_merchant|Mercader
+trp_castle_37_merchant|Mercader
+trp_castle_38_merchant|Mercader
+trp_castle_39_merchant|Mercader
+trp_castle_40_merchant|Mercader
+trp_oim_monfore_tutorial|Jaques de Clermont
+trp_oim_monfore_tutorial_pl|Jaques de Clermont
+trp_foot_gop|Bandido
+trp_foot_gop_pl|Bandidos
+trp_mounted_gop|Bandido
+trp_mounted_gop_pl|Bandidos
+trp_pahan_gop|Bandido
+trp_pahan_gop_pl|Bandidos
+trp_schwarzer_ritter|Coracero
+trp_schwarzer_ritter_pl|Coraceros
+trp_oim_shoha1_tutorial|Coracero
+trp_oim_shoha1_tutorial_pl|Coraceros
+trp_oim_shoha2_tutorial|Coracero
+trp_oim_shoha2_tutorial_pl|Coraceros
+trp_mp_rhodok_trained_spearman|Djura
+trp_mp_rhodok_trained_spearman_pl|Djura
+trp_mp_rhodok_crossbowman|Vigía
+trp_mp_rhodok_crossbowman_pl|Vigías
+trp_mp_ukr_storoja|Vigía con pica
+trp_mp_ukr_storoja_pl|Vigías con pica
+trp_mp_rhodok_veteran_crossbowman|Soldado de caballería de Zaporozhia
+trp_mp_rhodok_veteran_crossbowman_pl|Caballería de Zaporozhia
+trp_mp_n_khergit_horseman|Bayrak
+trp_mp_n_khergit_horseman_pl|Bayraks
+trp_mp_n_khergit_horse_archer|Jasaq
+trp_mp_n_khergit_horse_archer_pl|Jasaqs
+trp_mp_n_khergit_veteran_horse_archer|Murza-chambul
+trp_mp_n_khergit_veteran_horse_archer_pl|Murza-chambuls
+trp_mp_n_zyndjirli|Nokhor
+trp_mp_n_zyndjirli_pl|Nokhors
+trp_coop_moscovite_watchmen|Vigilantes moscovitas
+trp_coop_moscovite_watchmen_pl|Vigilantes moscovitas
+trp_coop_dragoons|Dragón
+trp_coop_dragoons_pl|Dragones
+trp_coop_cossack_wildriders|Jinete salvaje cosaco
+trp_coop_cossack_wildriders_pl|Jinetes salvajes cosacos
+trp_coop_crimean_horse_archers|Arquero montado crimeano
+trp_coop_crimean_horse_archers_pl|Arqueros montados crimeanos
+trp_coop_winged_hussars|Húsar alado
+trp_coop_winged_hussars_pl|Húsares alados
+trp_coop_janissary|Jenízaro
+trp_coop_janissary_pl|Jenízaros
+trp_coop_cossack_swordmen|Espadachines cosacos
+trp_coop_cossack_swordmen_pl|Espadachines cosacos
+trp_coop_polish_axemen|Hacheros polacos
+trp_coop_polish_axemen_pl|Hacheros polacos
+trp_coop_russian_polearmsmen|Lanceros rusos
+trp_coop_russian_polearmsmen_pl|Lanceros rusos
+trp_coop_swedish_swordsmen|Espadachines suecos
+trp_coop_swedish_swordsmen_pl|Espadachines suecos
+trp_coop_volunteer_militia|Miliciano voluntario
+trp_coop_volunteer_militia_pl|Milicianos voluntarios
+trp_coop_cossack_pistoleers|Pistolero cosaco
+trp_coop_cossack_pistoleers_pl|Pistoleros cosacos
+trp_coop_lithunian_defenders|Defensor lituano
+trp_coop_lithunian_defenders_pl|Defensores lituanos
+trp_coop_crimean_hawkeyes|Tirador crimeano
+trp_coop_crimean_hawkeyes_pl|Tiradores crimeanos
+trp_coop_miquelet_musketeers|Mosquetero de los migueletes
+trp_coop_miquelet_musketeers_pl|Mosqueteros de los migueletes

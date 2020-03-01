@@ -1,0 +1,1636 @@
+itm_no_item|Neplatný předmět
+itm_no_item_pl|Neplatné předměty
+itm_tutorial_spear|Kopí
+itm_tutorial_spear_pl|Kopí
+itm_tutorial_club|Obušek
+itm_tutorial_club_pl|Obušky
+itm_tutorial_battle_axe|Sekera
+itm_tutorial_battle_axe_pl|Sekery
+itm_tutorial_arrows|Šípy
+itm_tutorial_arrows_pl|Šípy
+itm_tutorial_bolts|Střely
+itm_tutorial_bolts_pl|Střely
+itm_tutorial_short_bow|Krátký luk
+itm_tutorial_short_bow_pl|Krátké luky
+itm_tutorial_crossbow|Kuše
+itm_tutorial_crossbow_pl|Kuše
+itm_tutorial_throwing_daggers|Vrhací nože
+itm_tutorial_throwing_daggers_pl|Vrhací nože
+itm_tutorial_saddle_horse|Jezdecký kůň
+itm_tutorial_saddle_horse_pl|Jezdecké koně
+itm_tutorial_shield|Normanský štít
+itm_tutorial_shield_pl|Normanské štíty
+itm_tutorial_staff_no_attack|Hůl
+itm_tutorial_staff_no_attack_pl|Hole
+itm_tutorial_staff|Hůl
+itm_tutorial_staff_pl|Hole
+itm_tutorial_sword|Meč
+itm_tutorial_sword_pl|Meče
+itm_tutorial_axe|Sekerka
+itm_tutorial_axe_pl|Sekerky
+itm_tutorial_dagger|Dýka
+itm_tutorial_dagger_pl|Dýky
+itm_horse_meat|Konina
+itm_horse_meat_pl|Konina
+itm_practice_sword|Cvičný meč
+itm_practice_sword_pl|Cvičné meče
+itm_heavy_practice_sword|Těžký cvičný meč
+itm_heavy_practice_sword_pl|Těžké cvičné meče
+itm_practice_dagger|Cvičná dýka
+itm_practice_dagger_pl|Cvičné dýky
+itm_practice_axe|Cvičná sekera
+itm_practice_axe_pl|Cvičné sekery
+itm_arena_axe|Sekera
+itm_arena_axe_pl|Sekery
+itm_arena_sword|Meč
+itm_arena_sword_pl|Meče
+itm_arena_sword_two_handed|Obouruční meč
+itm_arena_sword_two_handed_pl|Obouruční meče
+itm_arena_lance|Kopí
+itm_arena_lance_pl|Kopí
+itm_practice_staff|Cvičná hůl
+itm_practice_staff_pl|Cvičné hole
+itm_practice_lance|Cvičné jezdecké kopí
+itm_practice_lance_pl|Cvičná jezdecká kopí
+itm_practice_shield|Cvičný štít
+itm_practice_shield_pl|Cvičné štíty
+itm_practice_bow|Cvičný luk
+itm_practice_bow_pl|Cvičné luky
+itm_practice_crossbow|Cvičná mušketa
+itm_practice_crossbow_pl|Cvičné muškety
+itm_practice_javelin|Cvičný oštěp
+itm_practice_javelin_pl|Cvičné oštěpy
+itm_practice_javelin_melee|Cvičný oštěp na blízko
+itm_practice_javelin_melee_pl|Cvičné oštěpy na blízko
+itm_practice_throwing_daggers|Vrhací nože
+itm_practice_throwing_daggers_pl|Vrhací nože
+itm_practice_throwing_daggers_100_amount|Vrhací nože
+itm_practice_throwing_daggers_100_amount_pl|Vrhací nože
+itm_practice_horse|Plemenný hřebec
+itm_practice_horse_pl|Plemenní hřebci
+itm_practice_arrows|Cvičné šípy
+itm_practice_arrows_pl|Cvičné šípy
+itm_practice_bolts|Cvičné střely
+itm_practice_bolts_pl|Cvičné střely
+itm_practice_arrows_10_amount|Cvičné šípy
+itm_practice_arrows_10_amount_pl|Cvičné šípy
+itm_practice_arrows_100_amount|Cvičné šípy
+itm_practice_arrows_100_amount_pl|Cvičné šípy
+itm_practice_bolts_9_amount|Cvičné střely
+itm_practice_bolts_9_amount_pl|Cvičné střely
+itm_practice_boots|Cvičné boty
+itm_practice_boots_pl|Cvičné boty
+itm_red_tourney_armor|Červená turnajová zbroj
+itm_red_tourney_armor_pl|Červená turnajová zbroj
+itm_blue_tourney_armor|Modrá turnajová zbroj
+itm_blue_tourney_armor_pl|Modrá turnajová zbroj
+itm_green_tourney_armor|Zelená turnajová zbroj
+itm_green_tourney_armor_pl|Zelená turnajová zbroj
+itm_gold_tourney_armor|Zlatá turnajová zbroj
+itm_gold_tourney_armor_pl|Zlatá turnajová zbroj
+itm_red_tourney_helmet|Červená turnajová přilba
+itm_red_tourney_helmet_pl|Červené turnajové přilby
+itm_blue_tourney_helmet|Modrá turnajová přilba
+itm_blue_tourney_helmet_pl|Modré turnajové přilby
+itm_green_tourney_helmet|Zelená turnajová přilba
+itm_green_tourney_helmet_pl|Zelené turnajové přilby
+itm_gold_tourney_helmet|Zlatá turnajová přilba
+itm_gold_tourney_helmet_pl|Zlaté turnajové přilby
+itm_arena_shield_red|Štít
+itm_arena_shield_red_pl|Štít
+itm_arena_shield_blue|Štít
+itm_arena_shield_blue_pl|Štít
+itm_arena_shield_green|Štít
+itm_arena_shield_green_pl|Štít
+itm_arena_shield_yellow|Štít
+itm_arena_shield_yellow_pl|Štít
+itm_arena_armor_white|Bílá zbroj pro boj v aréně
+itm_arena_armor_white_pl|Bílá zbroj pro boj v aréně
+itm_arena_armor_red|Červená zbroj pro boj v aréně
+itm_arena_armor_red_pl|Červená zbroj pro boj v aréně
+itm_arena_armor_blue|Modrá zbroj pro boj v aréně
+itm_arena_armor_blue_pl|Modrá zbroj pro boj v aréně
+itm_arena_armor_green|Zelená zbroj pro boj v aréně
+itm_arena_armor_green_pl|Zelená zbroj pro boj v aréně
+itm_arena_armor_yellow|Žlutá zbroj pro boj v aréně
+itm_arena_armor_yellow_pl|Žlutá zbroj pro boj v aréně
+itm_arena_tunic_white|Bílá tunika pro boj v aréně
+itm_arena_tunic_white_pl|Bílé tuniky pro boj v aréně
+itm_arena_tunic_red|Červená tunika pro boj v aréně
+itm_arena_tunic_red_pl|Červené tuniky pro boj v aréně
+itm_arena_tunic_blue|Modrá tunika pro boj v aréně
+itm_arena_tunic_blue_pl|Modré tuniky pro boj v aréně
+itm_arena_tunic_green|Zelená tunika pro boj v aréně
+itm_arena_tunic_green_pl|Zelené tuniky pro boj v aréně
+itm_arena_tunic_yellow|Žlutá tunika pro boj v aréně
+itm_arena_tunic_yellow_pl|Žluté tuniky pro boj v aréně
+itm_arena_helmet_red|Červená přilba pro boj v aréně
+itm_arena_helmet_red_pl|Červené přilby pro boj v aréně
+itm_arena_helmet_blue|Modrá přilba pro boj v aréně
+itm_arena_helmet_blue_pl|Modré přilby pro boj v aréně
+itm_arena_helmet_green|Zelená přilba pro boj v aréně
+itm_arena_helmet_green_pl|Zelené přilby pro boj v aréně
+itm_arena_helmet_yellow|Žlutá přilba pro boj v aréně
+itm_arena_helmet_yellow_pl|Žluté přilby pro boj v aréně
+itm_steppe_helmet_white|Bílá přilba stepního kočovníka
+itm_steppe_helmet_white_pl|Bílé přilby stepních kočovníků
+itm_steppe_helmet_red|Červená přilba stepního kočovníka
+itm_steppe_helmet_red_pl|Červené přilby stepních kočovníků
+itm_steppe_helmet_blue|Modrá přilba stepního kočovníka
+itm_steppe_helmet_blue_pl|Modré přilby stepních kočovníků
+itm_steppe_helmet_green|Zelená přilba stepního kočovníka
+itm_steppe_helmet_green_pl|Zelené přilby stepních kočovníků
+itm_steppe_helmet_yellow|Žlutá přilba stepního kočovníka
+itm_steppe_helmet_yellow_pl|Žluté přilby stepních kočovníků
+itm_tourney_helm_white|Bílá turnajová přilba
+itm_tourney_helm_white_pl|Bílé turnajové přilby
+itm_tourney_helm_red|Červená turnajová přilba
+itm_tourney_helm_red_pl|Červené turnajové přilby
+itm_tourney_helm_blue|Modrá turnajová přilba
+itm_tourney_helm_blue_pl|Modré turnajové přilby
+itm_tourney_helm_green|Zelená turnajová přilba
+itm_tourney_helm_green_pl|Zelené turnajové přilby
+itm_tourney_helm_yellow|Žlutá turnajová přilba
+itm_tourney_helm_yellow_pl|Žluté turnajové přilby
+itm_arena_turban_red|Červený turnajový turban
+itm_arena_turban_red_pl|Červené turnajové turbany
+itm_arena_turban_blue|Modrý turnajový turban
+itm_arena_turban_blue_pl|Modré turnajové turbany
+itm_arena_turban_green|Zelený turnajový turban
+itm_arena_turban_green_pl|Zelené turnajové turbany
+itm_arena_turban_yellow|Žlutý turnajový turban
+itm_arena_turban_yellow_pl|Žluté turnajové turbany
+itm_book_tactics|Publius Flavius Vegetius Renatus: Epitoma rei militantes
+itm_book_tactics_pl|Publius Flavius Vegetius Renatus: Epitoma rei militantes
+itm_book_persuasion|Philipp Melanchton: Rétorika
+itm_book_persuasion_pl|Philipp Melanchton: Rétorika
+itm_book_leadership|Armand-Jean du Plessis de Richelieu: Principy státní správy
+itm_book_leadership_pl|Armand-Jean du Plessis de Richelieu: Principy státní správy
+itm_book_intelligence|Juraj Križanić: Gramatický výklad o jazyce ruském
+itm_book_intelligence_pl|Juraj Križanić: Gramatický výklad o jazyce ruském
+itm_book_trade|Thomas Mun: Pojednání o obchodu od Anglie po východní Indii
+itm_book_trade_pl|Thomas Mun: Pojednání o obchodu od Anglie po východní Indii
+itm_book_weapon_mastery|Giovanni Antonio Lovino: Prattica e teorica del bene adoperare tutte del sorti di arme
+itm_book_weapon_mastery_pl|Giovanni Antonio Lovino: Prattica e teorica del bene adoperare tutte del sorti di arme
+itm_book_engineering|René Descartes: Geometrie
+itm_book_engineering_pl|René Descartes: Geometrie
+itm_book_wound_treatment_reference|Adam Olearius: Léčitelství
+itm_book_wound_treatment_reference_pl|Adam Olearius: Léčitelství
+itm_book_training_reference|Niccolo Machiavelli: O umění válečném
+itm_book_training_reference_pl|Niccolo Machiavelli: O umění válečném
+itm_book_surgery_reference|Abú al-Chásim: Traktáty o chirurgii a lékařských instrumentech
+itm_book_surgery_reference_pl|Abú al-Chásim: Traktáty o chirurgii a lékařských instrumentech
+itm_spice|Koření
+itm_spice_pl|Koření
+itm_salt|Sůl
+itm_salt_pl|Sůl
+itm_oil|Olej
+itm_oil_pl|Olej
+itm_pottery|Keramika
+itm_pottery_pl|Keramika
+itm_raw_flax|Balík lnu
+itm_raw_flax_pl|Balíky lnu
+itm_linen|Plátno
+itm_linen_pl|Plátno
+itm_wool|Vlna
+itm_wool_pl|Vlna
+itm_wool_cloth|Vlněná látka
+itm_wool_cloth_pl|Vlněné látky
+itm_raw_silk|Surové hedvábí
+itm_raw_silk_pl|Surové hedvábí
+itm_raw_dyes|Barvivo
+itm_raw_dyes_pl|Barviva
+itm_velvet|Samet
+itm_velvet_pl|Samet
+itm_iron|Železo
+itm_iron_pl|Železo
+itm_tools|Nářadí
+itm_tools_pl|Nářadí
+itm_raw_leather|Kůže
+itm_raw_leather_pl|Kůže
+itm_leatherwork|Kožený výrobek
+itm_leatherwork_pl|Kožené výrobky
+itm_raw_date_fruit|Datle
+itm_raw_date_fruit_pl|Datle
+itm_furs|Kožešiny
+itm_furs_pl|Kožešiny
+itm_oim_powder|Střelný prach
+itm_oim_powder_pl|Střelný prach
+itm_oim_alcohol|Vodka
+itm_oim_alcohol_pl|Vodka
+itm_oim_penka|Konopí
+itm_oim_penka_pl|Konopí
+itm_oim_tutun|Tabák
+itm_oim_tutun_pl|Tabák
+itm_wine|Víno
+itm_wine_pl|Víno
+itm_ale|Pivo
+itm_ale_pl|Pivo
+itm_smoked_fish|Uzená ryba
+itm_smoked_fish_pl|Uzená ryba
+itm_cheese|Sýr
+itm_cheese_pl|Sýr
+itm_honey|Med
+itm_honey_pl|Med
+itm_sausages|Klobásky
+itm_sausages_pl|Klobásky
+itm_cabbages|Zelí
+itm_cabbages_pl|Zelí
+itm_dried_meat|Sušené maso
+itm_dried_meat_pl|Sušené maso
+itm_apples|Jablka
+itm_apples_pl|Jablka
+itm_raw_grapes|Hroznové víno
+itm_raw_grapes_pl|Hroznové víno
+itm_raw_olives|Olivy
+itm_raw_olives_pl|Olivy
+itm_grain|Pšenice
+itm_grain_pl|Pšenice
+itm_flour|Mouka
+itm_flour_pl|Mouka
+itm_cattle_meat|Hovězí
+itm_cattle_meat_pl|Hovězí
+itm_bread|Chleba
+itm_bread_pl|Chleba
+itm_chicken|Kuře
+itm_chicken_pl|Kuřata
+itm_pork|Vepřové
+itm_pork_pl|Vepřové
+itm_butter|Máslo
+itm_butter_pl|Máslo
+itm_siege_supply|Zásoby
+itm_siege_supply_pl|Zásoby
+itm_quest_wine|Víno
+itm_quest_wine_pl|Víno
+itm_quest_ale|Pivo
+itm_quest_ale_pl|Pivo
+itm_sumpter_horse|Soumar
+itm_sumpter_horse_pl|Soumaři
+itm_saddle_horse|Jezdecký kůň
+itm_saddle_horse_pl|Jezdečtí koně
+itm_saddle_horse_b|Jezdecký kůň
+itm_saddle_horse_b_pl|Jezdečtí koně
+itm_saddle_horse_c|Jezdecký kůň
+itm_saddle_horse_c_pl|Jezdečtí koně
+itm_steppe_horse|Stepní kůň
+itm_steppe_horse_pl|Stepní koně
+itm_steppe_horse_b|Stepní kůň
+itm_steppe_horse_b_pl|Stepní koně
+itm_courser|Dostihový kůň
+itm_courser_pl|Dostihoví koně
+itm_hunter|Válečný kůň
+itm_hunter_pl|Váleční koně
+itm_rich_horse|Plnokrevník
+itm_rich_horse_pl|Plnokrevníci
+itm_rich_horse_b|Plnokrevník
+itm_rich_horse_b_pl|Plnokrevníci
+itm_warhorse|Válečný kůň
+itm_warhorse_pl|Váleční koně
+itm_charger|Válečný oř
+itm_charger_pl|Váleční oři
+itm_arrows|Šípy
+itm_arrows_pl|Šípy
+itm_khergit_arrows|Tatarské šípy
+itm_khergit_arrows_pl|Tatarské šípy
+itm_east_arrows|Východní šípy
+itm_east_arrows_pl|Východní šípy
+itm_barbed_arrows|Šípy se zpětnými háčky
+itm_barbed_arrows_pl|Šípy se zpětnými háčky
+itm_bodkin_arrows|Kalené šípy
+itm_bodkin_arrows_pl|Kalené šípy
+itm_bolts|Střely
+itm_bolts_pl|Střely
+itm_steel_bolts|Kalené střely
+itm_steel_bolts_pl|Kalené střely
+itm_cartridges|Náboje
+itm_cartridges_pl|Náboje
+itm_pilgrim_disguise|Poutnický oděv
+itm_pilgrim_disguise_pl|Poutnické oděvy
+itm_pilgrim_hood|Poutnická kápě
+itm_pilgrim_hood_pl|Poutnické kápě
+itm_cavalry_gloves|Jezdecké rukavice
+itm_cavalry_gloves_pl|Jezdecké rukavice
+itm_infantry_gloves|Pěchotní rukavice
+itm_infantry_gloves_pl|Pěchotní rukavice
+itm_armor_gauntlets|Plátové rukavice
+itm_armor_gauntlets_pl|Plátové rukavice
+itm_leather_gloves|Kožené rukavice
+itm_leather_gloves_pl|Kožené rukavice
+itm_reytar_gauntlets|Rejtarské rukavice
+itm_reytar_gauntlets_pl|Rejtarské rukavice
+itm_black_reytar_gauntlets|Plátové rukavice
+itm_black_reytar_gauntlets_pl|Plátové rukavice
+itm_wrapping_boots|Onuce
+itm_wrapping_boots_pl|Onuce
+itm_woolen_hose|Vlněné kalhoty
+itm_woolen_hose_pl|Vlněné kalhoty
+itm_blue_hose|Modré kalhoty
+itm_blue_hose_pl|Modré kalhoty
+itm_hide_boots|Boty ze silné kůže
+itm_hide_boots_pl|Boty ze silné kůže
+itm_nomad_boots|Kočovnické boty
+itm_nomad_boots_pl|Kočovnické boty
+itm_leather_boots|Kožené boty
+itm_leather_boots_pl|Kožené boty
+itm_selo_boots|Selské boty
+itm_selo_boots_pl|Selské boty
+itm_old_cavalry_boots|Staré jezdecké boty
+itm_old_cavalry_boots_pl|Staré jezdecké boty
+itm_infantry_boots|Pěchotní boty
+itm_infantry_boots_pl|Pěchotní boty
+itm_cavalry_boots|Jezdecké boty
+itm_cavalry_boots_pl|Jezdecké boty
+itm_good_cavalry_boots|Dobré jezdecké boty
+itm_good_cavalry_boots_pl|Dobré jezdecké boty
+itm_kozak_boots|Holínky
+itm_kozak_boots_pl|Holínky
+itm_moskowit_postoli|Kožené střevíce
+itm_moskowit_postoli_pl|Kožené střevíce
+itm_moskowit_postoli_b|Krpce
+itm_moskowit_postoli_b_pl|Krpce
+itm_sapogi|Obnošené holínky
+itm_sapogi_pl|Obnošené holínky
+itm_good_sapogi|Dobré holínky
+itm_good_sapogi_pl|Dobré holínky
+itm_botinki|Boty a podkolenky
+itm_botinki_pl|Boty a podkolenky
+itm_old_cavalry_botforts|Staré jezdecké boty nad kolena
+itm_old_cavalry_botforts_pl|Staré jezdecké boty nad kolena
+itm_good_cavalry_botforts|Dobré jezdecké boty nad kolena
+itm_good_cavalry_botforts_pl|Dobré jezdecké boty nad kolena
+itm_cavalry_botforts|Jezdecké boty nad kolena
+itm_cavalry_botforts_pl|Jezdecké boty nad kolena
+itm_evropa_pehot_tufli|Pantofle a ponožky
+itm_evropa_pehot_tufli_pl|Pantofle a ponožky
+itm_janissary_tapki|Janičářské střevíce
+itm_janissary_tapki_pl|Janičářské střevíce
+itm_kalmyk_boots|Východní holínky
+itm_kalmyk_boots_pl|Východní holínky
+itm_courtly_outfit|Dvorský oděv
+itm_courtly_outfit_pl|Dvorské oděvy
+itm_nobleman_outfit|Šlechtický oděv
+itm_nobleman_outfit_pl|Šlechtické oděvy
+itm_leather_jacket|Kožená vesta
+itm_leather_jacket_pl|Kožené vesty
+itm_rawhide_coat|Plášť ze surové kůže
+itm_rawhide_coat_pl|Pláště ze surové kůže
+itm_woolen_dress|Vlněné šaty
+itm_woolen_dress_pl|Vlněné šaty
+itm_linen_tunic|Plátěná tunika
+itm_linen_tunic_pl|Plátěné tuniky
+itm_red_shirt|Červená košile
+itm_red_shirt_pl|Červené košile
+itm_red_tunic|Červená tunika
+itm_red_tunic_pl|Červené tuniky
+itm_robe|Róba
+itm_robe_pl|Róby
+itm_coarse_tunic|Prostá tunika
+itm_coarse_tunic_pl|Prosté tuniky
+itm_leather_apron|Kožená zástěra
+itm_leather_apron_pl|Kožené zástěry
+itm_tabard|Tabard
+itm_tabard_pl|Tabardy
+itm_red_gambeson|Červená prošívanice
+itm_red_gambeson_pl|Červená prošívanice
+itm_padded_cloth|Vycpávaná zbroj
+itm_padded_cloth_pl|Vycpávané zbroje
+itm_leather_jerkin|Kožená kazajka
+itm_leather_jerkin_pl|Kožené kazajky
+itm_nomad_vest|Chalát
+itm_nomad_vest_pl|Chaláty
+itm_tribal_warrior_outfit|Zbroj ze surové kůže
+itm_tribal_warrior_outfit_pl|Zbroje ze surové kůže
+itm_poland_svitka_a|Halena
+itm_poland_svitka_a_pl|Haleny
+itm_poland_svitka_b|Halena
+itm_poland_svitka_b_pl|Haleny
+itm_dobrotna_svitka_a|Pěkná halena
+itm_dobrotna_svitka_a_pl|Pěkné haleny
+itm_dobrotna_svitka_b|Bohatá halena
+itm_dobrotna_svitka_b_pl|Bohaté haleny
+itm_dobrotna_svitka_c|Vyšívaná halena
+itm_dobrotna_svitka_c_pl|Vyšívané haleny
+itm_poland_pikiner_uniform|Pikenýrská uniforma
+itm_poland_pikiner_uniform_pl|Pikenýrské uniformy
+itm_poland_musketer_uniform|Mušketýrská uniforma
+itm_poland_musketer_uniform_pl|Mušketýrské uniformy
+itm_poland_dragoon_uniform|Uniforma polského dragouna
+itm_poland_dragoon_uniform_pl|Uniformy polských dragounů
+itm_ukraine_svitka_a|Tunika
+itm_ukraine_svitka_a_pl|Tuniky
+itm_ukraine_svitka_b|Tunika
+itm_ukraine_svitka_b_pl|Tuniky
+itm_kozak_civil_jupan_a|Kozácký kabát
+itm_kozak_civil_jupan_a_pl|Kozácké kabáty
+itm_kozak_civil_jupan_b|Kozácký kabát
+itm_kozak_civil_jupan_b_pl|Kozácké kabáty
+itm_prostoy_jupan|Obyčejný kabát
+itm_prostoy_jupan_pl|Obyčejné kabáty
+itm_prostoy_jupan_b|Prostý kabát
+itm_prostoy_jupan_b_pl|Prosté kabáty
+itm_kozak_jupan|Kozácký kabát
+itm_kozak_jupan_pl|Kozácké kabáty
+itm_kozak_jupan_b|Kozácký kabát
+itm_kozak_jupan_b_pl|Kozácké kabáty
+itm_pure_streletzkiy_mundir|Střelecký kaftan
+itm_pure_streletzkiy_mundir_pl|Střelecké kaftany
+itm_pure_streletzkiy_mundir_spear|Střelecký kaftan
+itm_pure_streletzkiy_mundir_spear_pl|Střelecké kaftany
+itm_streletzkiy_mundir|Střelecká uniforma
+itm_streletzkiy_mundir_pl|Střelecké uniformy
+itm_new_line_uniform|Uniforma nového střihu
+itm_new_line_uniform_pl|Uniformy nového střihu
+itm_streletzkiy_mundir_spear|Střelecká uniforma
+itm_streletzkiy_mundir_spear_pl|Střelecké uniformy
+itm_new_line_uniform_spear|Uniforma nového střihu
+itm_new_line_uniform_spear_pl|Uniformy nového střihu
+itm_reestr_kozak_uniform|Uniforma řádného kozáka
+itm_reestr_kozak_uniform_pl|Uniformy řádných kozáků
+itm_poland_uniforma_german_line_musketeer|Uniforma německého střihu
+itm_poland_uniforma_german_line_musketeer_pl|Uniformy německého střihu
+itm_mosk_sermyaga|Halena
+itm_mosk_sermyaga_pl|Haleny
+itm_mosk_armyak|Armjak
+itm_mosk_armyak_pl|Armjaky
+itm_mosk_civil_a|Prostý oděv
+itm_mosk_civil_a_pl|Prosté oděvy
+itm_mosk_civil_b|Prostý oděv
+itm_mosk_civil_b_pl|Prosté oděvy
+itm_evropa_odejda_sela|Rolnický oděv
+itm_evropa_odejda_sela_pl|Rolnické oblečení
+itm_evropa_odejda_sela_b|Rolnický oděv
+itm_evropa_odejda_sela_b_pl|Rolnické oblečení
+itm_swed_civil_a|Prostý oděv
+itm_swed_civil_a_pl|Prosté oděvy
+itm_swed_civil_b|Prostý oděv
+itm_swed_civil_b_pl|Prosté oděvy
+itm_tatar_halat_pure_a|Chalát
+itm_tatar_halat_pure_a_pl|Chaláty
+itm_tatar_halat_pure_b|Chalát
+itm_tatar_halat_pure_b_pl|Chaláty
+itm_ttr_civil_a|Prostý oděv
+itm_ttr_civil_a_pl|Prosté oděvy
+itm_ttr_civil_b|Prostý oděv
+itm_ttr_civil_b_pl|Prosté oděvy
+itm_yanichar_forma_a|Janičářská uniforma
+itm_yanichar_forma_a_pl|Janičářské uniformy
+itm_yanichar_forma_b|Janičářská uniforma
+itm_yanichar_forma_b_pl|Janičářské uniformy
+itm_merc_musket_uniforma_a|Mušketýrská kamizola
+itm_merc_musket_uniforma_a_pl|Mušketýrské kamizoly
+itm_merc_musket_uniforma_b|Mušketýrská kamizola
+itm_merc_musket_uniforma_b_pl|Mušketýrské kamizoly
+itm_prostoy_jupan_c|Obyčejný kabát
+itm_prostoy_jupan_c_pl|Obyčejné kabáty
+itm_ukraine_svitka_c|Tunika
+itm_ukraine_svitka_c_pl|Tuniky
+itm_kozak_jupan_c|Kozácký kabát
+itm_kozak_jupan_c_pl|Kozácké kabáty
+itm_tatar_halat_pure_c|Prostý chalát
+itm_tatar_halat_pure_c_pl|Prosté chaláty
+itm_poland_svitka_c|Tunika
+itm_poland_svitka_c_pl|Tuniky
+itm_poland_svitka_d|Tunika
+itm_poland_svitka_d_pl|Tuniky
+itm_dobrotna_svitka_d|Bohatá tunika
+itm_dobrotna_svitka_d_pl|Bohaté tuniky
+itm_dobrotna_svitka_e|Bohatá tunika
+itm_dobrotna_svitka_e_pl|Bohaté tuniky
+itm_azap_forma|Turecký oděv
+itm_azap_forma_pl|Turecké oděvy
+itm_scott_uniforma_musketeer|Kamizola skotského mušketýra
+itm_scott_uniforma_musketeer_pl|Kamizoly skotských mušketýrů
+itm_evropa_musket_uniforma|Uniforma švédského mušketýra
+itm_evropa_musket_uniforma_pl|Uniformy švédských mušketýrů
+itm_evropa_dragoon_uniforma|Uniforma švédského dragouna
+itm_evropa_dragoon_uniforma_pl|Uniformy švédských dragounů
+itm_evropa_gvardia_uniforma|Kamizola gardisty
+itm_evropa_gvardia_uniforma_pl|Kamizoly gardistů
+itm_tatar_steg_halat_a|Prošívaný chalát
+itm_tatar_steg_halat_a_pl|Prošívané chaláty
+itm_tatar_steg_halat_b|Prošívaný chalát
+itm_tatar_steg_halat_b_pl|Prošívané chaláty
+itm_tatar_halat_a|Chalát
+itm_tatar_halat_a_pl|Chaláty
+itm_tatar_halat_b|Chalát
+itm_tatar_halat_b_pl|Chaláty
+itm_rinda_shuba|Kaftan typu rinda
+itm_rinda_shuba_pl|Kaftany typu rinda
+itm_kozak_jupan_usileniy|Kabát s prošívanicí
+itm_kozak_jupan_usileniy_pl|Kabáty s prošívanicí
+itm_serduk_jupan|Serducká zbroj
+itm_serduk_jupan_pl|Serducké zbroje
+itm_moskow_tulup_a|Dlouhá vycpávaná zbroj
+itm_moskow_tulup_a_pl|Dlouhé vycpávané zbroje
+itm_moskow_tulup_b|Dlouhá vycpávaná zbroj
+itm_moskow_tulup_b_pl|Dlouhé vycpávané zbroje
+itm_moskow_tulup_c|Dlouhá vycpávaná zbroj
+itm_moskow_tulup_c_pl|Dlouhé vycpávané zbroje
+itm_tzar_odyag|Carský oděv
+itm_tzar_odyag_pl|Carské oděvy
+itm_cavalry_koja_kurtka|Kožená zbroj
+itm_cavalry_koja_kurtka_pl|Kožené zbroje
+itm_koja_kurtka_s_podbivom|Prošívanice
+itm_koja_kurtka_s_podbivom_pl|Prošívanice
+itm_kolchuga_panzernika|Kroužková zbroj
+itm_kolchuga_panzernika_pl|Kroužkové zbroje
+itm_kozak_jupan_na_kolchuge|Kroužková zbroj pod svrchním oděvem
+itm_kozak_jupan_na_kolchuge_pl|Kroužkové zbroje pod svrchním oděvem
+itm_kolchuga|Kroužková zbroj
+itm_kolchuga_pl|Kroužkové zbroje
+itm_moskow_reytar_armor|Zbroj moskevského rejtara
+itm_moskow_reytar_armor_pl|Zbroje moskevských rejtarů
+itm_moskow_bahter_a|Lamelová zbroj
+itm_moskow_bahter_a_pl|Lamelové zbroje
+itm_tatar_kolcha|Kroužková zbroj
+itm_tatar_kolcha_pl|Kroužkové zbroje
+itm_tatar_bahter_b|Jednoduchá lamelová zbroj
+itm_tatar_bahter_b_pl|Jednoduché lamelové zbroje
+itm_tatar_seymen_armor|Kroužková zbroj
+itm_tatar_seymen_armor_pl|Kroužkové zbroje
+itm_mosk_bahter_b|Bahter
+itm_mosk_bahter_b_pl|Bahtery
+itm_moskow_kuyak|Kujak
+itm_moskow_kuyak_pl|Kujaky
+itm_kirasa|Hrudní plát
+itm_kirasa_pl|Hrudní pláty
+itm_kirasa_b|Poloplátová zbroj
+itm_kirasa_b_pl|Poloplátové zbroje
+itm_kirasa_c|Poloplátová zbroj
+itm_kirasa_c_pl|Poloplátové zbroje
+itm_kirasa_rich|Poloplátová zbroj, ruční práce
+itm_kirasa_rich_pl|Poloplátové zbroje, ruční práce
+itm_simple_reytar_armor|Kyrys potažený kůží
+itm_simple_reytar_armor_pl|Kyrysy potažené kůží
+itm_moskow_boyar_uniform|Zbroj bojarské družiny
+itm_moskow_boyar_uniform_pl|Zbroje bojarské družiny
+itm_evropa_pika_uniforma|Uniforma švédského pikenýra
+itm_evropa_pika_uniforma_pl|Uniformy švédských pikenýrů
+itm_merc_pika_uniforma_a|Pikenýrská uniforma
+itm_merc_pika_uniforma_a_pl|Pikenýrské uniformy
+itm_merc_pika_uniforma_b|Pikenýrská uniforma
+itm_merc_pika_uniforma_b_pl|Pikenýrské uniformy
+itm_tatar_bahter_a|Lamelová zbroj
+itm_tatar_bahter_a_pl|Lamelové zbroje
+itm_tatar_yushman|Kroužková zbroj s plátovými chrániči
+itm_tatar_yushman_pl|Kroužkové zbroje s plátovými chrániči
+itm_poland_gusar_panzer|Husarský kyrys
+itm_poland_gusar_panzer_pl|Husarské kyrysy
+itm_poland_gusar_panzer_bez_kril|Rytířský pancíř
+itm_poland_gusar_panzer_bez_kril_pl|Rytířské pancíře
+itm_poland_uniforma_german_line|Uniforma německého střihu
+itm_poland_uniforma_german_line_pl|Uniformy německého střihu
+itm_scott_uniforma|Skotská uniforma
+itm_scott_uniforma_pl|Skotské uniformy
+itm_moskow_zertzalo|Drahé zrcadlo
+itm_moskow_zertzalo_pl|Drahá zrcadla
+itm_poland_gusar_yaguar|Husarský pancíř, zdobený kůží
+itm_poland_gusar_yaguar_pl|Husarské pancíře, zdobené kůží
+itm_kalmyk_puzo|Východní brigantina
+itm_kalmyk_puzo_pl|Východní brigantiny
+itm_reytar_armor|Rejtarská poloplátová zbroj
+itm_reytar_armor_pl|Rejtarské poloplátové zbroje
+itm_dospeh|Plná zbroj
+itm_dospeh_pl|Plné zbroje
+itm_black_dospeh|Černé brnění
+itm_black_dospeh_pl|Černá brnění
+itm_rich_baba_mosk_1|Ženský oděv
+itm_rich_baba_mosk_1_pl|Ženské oděvy
+itm_rich_baba_mosk_2|Ženský oděv
+itm_rich_baba_mosk_2_pl|Ženské oděvy
+itm_rich_baba_mosk_3|Ženský oděv
+itm_rich_baba_mosk_3_pl|Ženské oděvy
+itm_pure_baba_mosk_1|Ženský oděv
+itm_pure_baba_mosk_1_pl|Ženské oděvy
+itm_pure_baba_mosk_2|Ženský oděv
+itm_pure_baba_mosk_2_pl|Ženské oděvy
+itm_rich_baba_ttr_1|Ženský oděv
+itm_rich_baba_ttr_1_pl|Ženské oděvy
+itm_rich_baba_ttr_2|Ženský oděv
+itm_rich_baba_ttr_2_pl|Ženské oděvy
+itm_pure_baba_ttr_1|Ženský oděv
+itm_pure_baba_ttr_1_pl|Ženské oděvy
+itm_pure_baba_ttr_2|Ženský oděv
+itm_pure_baba_ttr_2_pl|Ženské oděvy
+itm_rich_baba_pol_1|Ženský oděv
+itm_rich_baba_pol_1_pl|Ženské oděvy
+itm_rich_baba_pol_2|Ženský oděv
+itm_rich_baba_pol_2_pl|Ženské oděvy
+itm_rich_baba_pol_3|Ženský oděv
+itm_rich_baba_pol_3_pl|Ženské oděvy
+itm_rich_baba_pol_4|Ženský oděv
+itm_rich_baba_pol_4_pl|Ženské oděvy
+itm_pure_baba_pol_1|Ženský oděv
+itm_pure_baba_pol_1_pl|Ženské oděvy
+itm_pure_baba_pol_2|Ženský oděv
+itm_pure_baba_pol_2_pl|Ženské oděvy
+itm_pure_baba_pol_3|Ženský oděv
+itm_pure_baba_pol_3_pl|Ženské oděvy
+itm_rich_baba_swd_1|Ženský oděv
+itm_rich_baba_swd_1_pl|Ženské oděvy
+itm_rich_baba_swd_2|Ženský oděv
+itm_rich_baba_swd_2_pl|Ženské oděvy
+itm_rich_baba_swd_3|Ženský oděv
+itm_rich_baba_swd_3_pl|Ženské oděvy
+itm_rich_baba_swd_4|Ženský oděv
+itm_rich_baba_swd_4_pl|Ženské oděvy
+itm_pure_baba_swd_1|Ženský oděv
+itm_pure_baba_swd_1_pl|Ženské oděvy
+itm_pure_baba_swd_2|Ženský oděv
+itm_pure_baba_swd_2_pl|Ženské oděvy
+itm_heraldic_mail_with_surcoat|Svrchní oděv s erbem přes kroužkovou zbroj
+itm_heraldic_mail_with_surcoat_pl|Svrchní oděvy s erbem přes kroužkovou zbroj
+itm_heraldic_mail_with_tunic|Kroužková zboj s erbem
+itm_heraldic_mail_with_tunic_pl|Kroužkové zboje s erbem
+itm_heraldic_mail_with_tunic_b|Kroužková zboj s erbem
+itm_heraldic_mail_with_tunic_b_pl|Kroužkové zboje s erbem
+itm_heraldic_mail_with_tabard|Tabard s erbem přes kroužkovou zbroj
+itm_heraldic_mail_with_tabard_pl|Tabardy s erbem přes kroužkovou zbroj
+itm_woolen_hood|Vlněná kápě
+itm_woolen_hood_pl|Vlněné kápě
+itm_fur_hat|Kožešinová čepice
+itm_fur_hat_pl|Kožešinové čepice
+itm_segmented_helmet|Segmentová přilba
+itm_segmented_helmet_pl|Segmentové přilby
+itm_evropa_musket_shlapa|Klobouk
+itm_evropa_musket_shlapa_pl|Klobouky
+itm_evropa_musket_shlapa_b|Klobouk
+itm_evropa_musket_shlapa_b_pl|Klobouky
+itm_evropa_kava_shlapa|Klobouk
+itm_evropa_kava_shlapa_pl|Klobouky
+itm_evropa_kava_shlapa_b|Klobouk
+itm_evropa_kava_shlapa_b_pl|Klobouky
+itm_evropa_kava_shlapa_c|Klobouk
+itm_evropa_kava_shlapa_c_pl|Klobouky
+itm_evropa_shlapa|Klobouk
+itm_evropa_shlapa_pl|Klobouky
+itm_evropa_shlapa_b|Klobouk
+itm_evropa_shlapa_b_pl|Klobouky
+itm_poland_army_hat_simple|Čepice od polské uniformy
+itm_poland_army_hat_simple_pl|Čepice od polských uniforem
+itm_beret_a|Baret
+itm_beret_a_pl|Barety
+itm_beret_b|Baret
+itm_beret_b_pl|Barety
+itm_beret_c|Baret
+itm_beret_c_pl|Barety
+itm_evropa_guard_shlapa|Klobouk
+itm_evropa_guard_shlapa_pl|Klobouky
+itm_parik|Paruka
+itm_parik_pl|Paruky
+itm_evropa_shapka|Čepice
+itm_evropa_shapka_pl|Čepice
+itm_reestr_shapka|Čepice řádného kozáka
+itm_reestr_shapka_pl|Čepice řádných kozáků
+itm_poland_shapka|Čepice
+itm_poland_shapka_pl|Čepice
+itm_poland_army_hat_a|Čepice od polské uniformy
+itm_poland_army_hat_a_pl|Čepice od polských uniforem
+itm_poland_army_hat_b|Čepice od polské uniformy
+itm_poland_army_hat_b_pl|Čepice od polských uniforem
+itm_poland_mehova_shapka|Kožešinová čepice
+itm_poland_mehova_shapka_pl|Kožešinové čepice
+itm_poland_mehova_shapka_s_perom|Kožešinová čepice
+itm_poland_mehova_shapka_s_perom_pl|Kožešinové čepice
+itm_poland_good_shapka|Kožešinová čepice
+itm_poland_good_shapka_pl|Kožešinové čepice
+itm_ukrine_prosta_shapka|Selská čepice
+itm_ukrine_prosta_shapka_pl|Selské čepice
+itm_kozak_prosta_shapka|Obyčejná kozácká čepice
+itm_kozak_prosta_shapka_pl|Obyčejné kozácké čepice
+itm_kozak_shapka|Kozácká čepice
+itm_kozak_shapka_pl|Kozácké čepice
+itm_kozak_shapka_b|Kozácká čepice
+itm_kozak_shapka_b_pl|Kozácké čepice
+itm_kozak_shapka_c|Kozácká čepice
+itm_kozak_shapka_c_pl|Kozácké čepice
+itm_kozak_shapka_d|Kozácká čepice
+itm_kozak_shapka_d_pl|Kozácké čepice
+itm_serduk_shapka|Serducká čepice
+itm_serduk_shapka_pl|Serducké čepice
+itm_moskowit_shapka|Čepice
+itm_moskowit_shapka_pl|Čepice
+itm_streletz_shapka|Střelecká čepice
+itm_streletz_shapka_pl|Střelecké čepice
+itm_streletz_shapka_b|Střelecká čepice
+itm_streletz_shapka_b_pl|Střelecké čepice
+itm_streletz_shapka_c|Střelecká čepice
+itm_streletz_shapka_c_pl|Střelecké čepice
+itm_janissar_hat_a|Janičářská čepice
+itm_janissar_hat_a_pl|Janičářské čepice
+itm_janissar_hat_b|Janičářská čepice
+itm_janissar_hat_b_pl|Janičářské čepice
+itm_tatar_man_hat|Čepice
+itm_tatar_man_hat_pl|Čepice
+itm_turban|Turban
+itm_turban_pl|Turbany
+itm_tatar_kolpak|Tatarský plášť
+itm_tatar_kolpak_pl|Tatarské pláště
+itm_tatar_bayrak_hat|Čepice
+itm_tatar_bayrak_hat_pl|Čepice
+itm_tatar_nogay_hat|Čepice
+itm_tatar_nogay_hat_pl|Čepice
+itm_tatar_oglan_hat|Čepice
+itm_tatar_oglan_hat_pl|Čepice
+itm_tatar_kochevnik_hat_a|Čepice kočovníka
+itm_tatar_kochevnik_hat_a_pl|Čepice kočovníků
+itm_tatar_kochevnik_hat_b|Čepice kočovníka
+itm_tatar_kochevnik_hat_b_pl|Čepice kočovníků
+itm_rinda_hat|Čepice
+itm_rinda_hat_pl|Čepice
+itm_shapka_boyara|Bojarská čapka
+itm_shapka_boyara_pl|Bojarské čapky
+itm_shapka_bumajna_a|Papírová čapka
+itm_shapka_bumajna_a_pl|Papírové čapky
+itm_shapka_bumajna_b|Papírová čapka
+itm_shapka_bumajna_b_pl|Papírové čapky
+itm_misurka_s_barmizoy|Přilba s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_pl|Přilby s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_b|Přilba s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_b_pl|Přilby s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_c|Přilba s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_c_pl|Přilby s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_pure|Jednoduchá přilba s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_pure_pl|Jednoduché přilby s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_rich|Kvalitní přilba s kroužkovým chráničem krku
+itm_misurka_s_barmizoy_rich_pl|Kvalitní přilby s kroužkovým chráničem krku
+itm_kozacka_shapka_s_misurkoy|Čepice s kroužkovým chráničem krku
+itm_kozacka_shapka_s_misurkoy_pl|Čepice s kroužkovým chráničem krku
+itm_tatar_misurka|Přilba s kroužkovým chráničem krku
+itm_tatar_misurka_pl|Přilby s kroužkovým chráničem krku
+itm_tatar_misurka_rich|Kvalitní přilba s kroužkovým chráničem krku
+itm_tatar_misurka_rich_pl|Kvalitní přilby s kroužkovým chráničem krku
+itm_tatar_helmet_a|Tatarská přilba
+itm_tatar_helmet_a_pl|Tatarské přilby
+itm_tatar_helmet_b|Tatarská přilba
+itm_tatar_helmet_b_pl|Tatarské přilby
+itm_tatar_han_helmet|Tatarská přilba
+itm_tatar_han_helmet_pl|Tatarské přilby
+itm_shishak|Šišáková přilba
+itm_shishak_pl|Šišákové přilby
+itm_new_line_helmet|Přilba moderního tvaru
+itm_new_line_helmet_pl|Přilby moderního tvaru
+itm_morion|Obyčejná přilba
+itm_morion_pl|Obyčejné přilby
+itm_morion_good|Přilba
+itm_morion_good_pl|Přilby
+itm_morion_perfect|Kvalitní přilba
+itm_morion_perfect_pl|Kvalitní přilby
+itm_moskow_reytar_helmet|Přilba moskevského rejtara
+itm_moskow_reytar_helmet_pl|Přilby moskevských rejtarů
+itm_kabasset|Přilba typu cabasset
+itm_kabasset_pl|Přilby typu cabasset
+itm_poland_gusar_helmet|Polská husarská přilba
+itm_poland_gusar_helmet_pl|Polské husarské přilby
+itm_shelom|Šelom
+itm_shelom_pl|Šelom
+itm_mosk_shishak|Šišáková přilba
+itm_mosk_shishak_pl|Šišákové přilby
+itm_kalmyk_helmet|Východní přilba
+itm_kalmyk_helmet_pl|Východní přilby
+itm_boyar_helmet|Přilba bojarské družiny
+itm_boyar_helmet_pl|Přilby bojarské družiny
+itm_reytar_helmet|Rejtarská přilba
+itm_reytar_helmet_pl|Rejtarské přilby
+itm_black_reytar_helmet|Rytířská helma
+itm_black_reytar_helmet_pl|Rytířské helmy
+itm_poland_gusar_helmet_greben|Husarská přilba s hřebenem
+itm_poland_gusar_helmet_greben_pl|Husarské přilby s hřebeny
+itm_armet|Arme
+itm_armet_pl|Arme
+itm_shapka_monomaha|Monomachovská čepice
+itm_shapka_monomaha_pl|Monomachovské čepice
+itm_mosk_platok_1|Šátek
+itm_mosk_platok_1_pl|Šátky
+itm_mosk_platok_2|Šátek
+itm_mosk_platok_2_pl|Šátky
+itm_pol_bab_hat_1|Ženská čepice
+itm_pol_bab_hat_1_pl|Ženské čepice
+itm_pol_bab_hat_2|Ženská čepice
+itm_pol_bab_hat_2_pl|Ženské čepice
+itm_tatar_bab_hat1|Ženská čepice
+itm_tatar_bab_hat1_pl|Ženské čepice
+itm_tatar_bab_hat2|Ženská čepice
+itm_tatar_bab_hat2_pl|Ženské čepice
+itm_tatar_bab_hat_rich|Ženská čepice
+itm_tatar_bab_hat_rich_pl|Ženské čepice
+itm_wooden_stick|Dřevěný klacek
+itm_wooden_stick_pl|Dřevěné klacky
+itm_club|Palice
+itm_club_pl|Palice
+itm_knife|Nůž
+itm_knife_pl|Nože
+itm_dagger|Kinžál
+itm_dagger_pl|Kinžály
+itm_axe|Sekera
+itm_axe_pl|Sekery
+itm_sword_two_handed_b|Obouruční meč
+itm_sword_two_handed_b_pl|Obouruční meče
+itm_sword_two_handed_a|Dlouhý meč
+itm_sword_two_handed_a_pl|Dlouhé meče
+itm_bastard_sword_a|Meč bastard
+itm_bastard_sword_a_pl|Meče bastardy
+itm_bastard_sword_b|Dlouhý meč bastard
+itm_bastard_sword_b_pl|Dlouhé meče bastardy
+itm_great_axe|Velká sekera
+itm_great_axe_pl|Velké sekery
+itm_shortened_military_scythe|Zkrácená vojenská kosa
+itm_shortened_military_scythe_pl|Zkrácené vojenské kosy
+itm_sword_medieval_a|Meč
+itm_sword_medieval_a_pl|Meče
+itm_sword_medieval_b|Meč
+itm_sword_medieval_b_pl|Meče
+itm_sword_medieval_c|Jednoruční meč
+itm_sword_medieval_c_pl|Jednoruční meče
+itm_sword_khergit_1|Palaš
+itm_sword_khergit_1_pl|Palaše
+itm_sword_khergit_2|Šavle
+itm_sword_khergit_2_pl|Šavle
+itm_sword_khergit_3|Šavle
+itm_sword_khergit_3_pl|Šavle
+itm_sword_khergit_4|Těžká šavle
+itm_sword_khergit_4_pl|Těžké šavle
+itm_kosa|Kosa
+itm_kosa_pl|Kosy
+itm_vily|Vidle
+itm_vily_pl|Vidle
+itm_rusty_shpaga|Starý kord
+itm_rusty_shpaga_pl|Staré kordy
+itm_prosta_shpaga|Kord
+itm_prosta_shpaga_pl|Kordy
+itm_prosta_shpaga_b|Kord
+itm_prosta_shpaga_b_pl|Kordy
+itm_prosta_shpaga_c|Kord
+itm_prosta_shpaga_c_pl|Kordy
+itm_good_shpaga|Dobrý kord
+itm_good_shpaga_pl|Dobré kordy
+itm_good_shpaga_b|Dobrý kord
+itm_good_shpaga_b_pl|Dobré kordy
+itm_good_shpaga_c|Dobrý kord
+itm_good_shpaga_c_pl|Dobré kordy
+itm_good_shpaga_d|Dobrý kord
+itm_good_shpaga_d_pl|Dobré kordy
+itm_sablya_a|Šavle
+itm_sablya_a_pl|Šavle
+itm_sablya_b|Šavle
+itm_sablya_b_pl|Šavle
+itm_sablya_c|Šavle
+itm_sablya_c_pl|Šavle
+itm_sablya_d|Šavle
+itm_sablya_d_pl|Šavle
+itm_sablya_turk_a|Šavle
+itm_sablya_turk_a_pl|Šavle
+itm_sablya_turk_b|Šavle
+itm_sablya_turk_b_pl|Šavle
+itm_sablya_turk_c|Šavle
+itm_sablya_turk_c_pl|Šavle
+itm_sablya_tatar_a|Tatarská šavle
+itm_sablya_tatar_a_pl|Tatarské šavle
+itm_sablya_pure_a|Obyčejná šavle
+itm_sablya_pure_a_pl|Obyčejné šavle
+itm_sablya_pure_b|Obyčejná šavle
+itm_sablya_pure_b_pl|Obyčejné šavle
+itm_sablya_pure_c|Obyčejná šavle
+itm_sablya_pure_c_pl|Obyčejné šavle
+itm_sablya_pure_d|Obyčejná šavle
+itm_sablya_pure_d_pl|Obyčejné šavle
+itm_sablya_turk_pure_a|Obyčejná šavle
+itm_sablya_turk_pure_a_pl|Obyčejné šavle
+itm_sablya_turk_pure_b|Obyčejná šavle
+itm_sablya_turk_pure_b_pl|Obyčejné šavle
+itm_sablya_turk_pure_c|Obyčejná šavle
+itm_sablya_turk_pure_c_pl|Obyčejné šavle
+itm_sablya_tatar_pure_a|Obyčejná tatarská šavle
+itm_sablya_tatar_pure_a_pl|Obyčejné tatarské šavle
+itm_rusty_palash|Starý palaš
+itm_rusty_palash_pl|Staré palaše
+itm_palash|Palaš
+itm_palash_pl|Palaše
+itm_good_palash|Dobrý palaš
+itm_good_palash_pl|Dobré palaše
+itm_good_palash_b|Dobrý palaš
+itm_good_palash_b_pl|Dobré palaše
+itm_pehot_palash_old|Starý krátký palaš
+itm_pehot_palash_old_pl|Staré krátké palaše
+itm_pehot_palash|Krátký palaš
+itm_pehot_palash_pl|Krátké palaše
+itm_good_pehot_palash|Dobrý krátký palaš
+itm_good_pehot_palash_pl|Dobré krátké palaše
+itm_good_pehot_palash_b|Dobrý krátký palaš
+itm_good_pehot_palash_b_pl|Dobré krátké palaše
+itm_yatagan_a|Obyčejný jatagan
+itm_yatagan_a_pl|Obyčejné jatagany
+itm_yatagan_good|Jatagan
+itm_yatagan_good_pl|Jatagany
+itm_yatagan_rich|Dobrý jatagan
+itm_yatagan_rich_pl|Dobré jatagany
+itm_kozak_shablya|Obyčejná kozácká šavle
+itm_kozak_shablya_pl|Obyčejné kozácké šavle
+itm_kozak_good_shablya|Kozácká šavle
+itm_kozak_good_shablya_pl|Kozácké šavle
+itm_old_pike|Stará píka
+itm_old_pike_pl|Staré píky
+itm_prosta_pike|Píka
+itm_prosta_pike_pl|Píky
+itm_pika|Obyčejná píka
+itm_pika_pl|Obyčejné píky
+itm_good_pike|Píka
+itm_good_pike_pl|Píky
+itm_kopyo|Obyčejné kopí
+itm_kopyo_pl|Obyčejná kopí
+itm_good_kopyo|Kopí
+itm_good_kopyo_pl|Kopí
+itm_dubinka|Obušek
+itm_dubinka_pl|Obušky
+itm_plotnik_toporik|Tesařská sekera
+itm_plotnik_toporik_pl|Tesařské sekery
+itm_plotnik_topor|Dřevorubecká sekera
+itm_plotnik_topor_pl|Dřevorubecké sekery
+itm_pernach|Palcát
+itm_pernach_pl|Palcáty
+itm_palitza|Palice
+itm_palitza_pl|Palice
+itm_klevetz|Válečné kladivo
+itm_klevetz_pl|Válečná kladiva
+itm_klevetz_good|Dobré válečné kladivo
+itm_klevetz_good_pl|Dobrá válečná kladiva
+itm_chekan|Čagan
+itm_chekan_pl|Čagany
+itm_chekan_good|Dobrý čagan
+itm_chekan_good_pl|Dobré čagany
+itm_rusty_toporik|Stará sekerka
+itm_rusty_toporik_pl|Staré sekerky
+itm_prostoy_toporik|Obyčejná sekerka
+itm_prostoy_toporik_pl|Obyčejné sekerky
+itm_toporik_good|Sekerka
+itm_toporik_good_pl|Sekerky
+itm_toporik_rich|Dobrá sekerka
+itm_toporik_rich_pl|Dobré sekerky
+itm_cavalry_pika_a|Jezdecká píka
+itm_cavalry_pika_a_pl|Jezdecké píky
+itm_cavalry_pika_b|Jezdecká píka
+itm_cavalry_pika_b_pl|Jezdecké píky
+itm_gusar_lanza|Husarská píka
+itm_gusar_lanza_pl|Husarské píky
+itm_gusar_lanza_b|Husarská píka
+itm_gusar_lanza_b_pl|Husarské píky
+itm_kozacka_pika|Jezdecká píka
+itm_kozacka_pika_pl|Jezdecké píky
+itm_twohand_sword|Obouruční meč
+itm_twohand_sword_pl|Obouruční meče
+itm_twohand_sword_b|Obouruční meč
+itm_twohand_sword_b_pl|Obouruční meče
+itm_alebarda|Halapartna
+itm_alebarda_pl|Halapartny
+itm_berdish|Bardicha
+itm_berdish_pl|Bardichy
+itm_berdish_b|Sekera bradatice
+itm_berdish_b_pl|Sekery bradatice
+itm_sovnya|Válečná kosa
+itm_sovnya_pl|Válečné kosy
+itm_black_hetman|Černý hejtman
+itm_black_hetman_pl|Černý hejtman
+itm_scott_palash|Skotský palaš
+itm_scott_palash_pl|Skotské palaše
+itm_scott_kleymor_a|Claymore
+itm_scott_kleymor_a_pl|Claymore
+itm_scott_kleymor_b|Claymore
+itm_scott_kleymor_b_pl|Claymore
+itm_konchar|Končar
+itm_konchar_pl|Končar
+itm_shestoper|Šestoper
+itm_shestoper_pl|Šestoper
+itm_kalmyk_palash|Východní palaš
+itm_kalmyk_palash_pl|Východní palaše
+itm_mace_1|Těžký palcát
+itm_mace_1_pl|Těžké palcáty
+itm_mace_2|Hůl
+itm_mace_2_pl|Hole
+itm_mace_3|Ostnatá palice
+itm_mace_3_pl|Ostnaté palice
+itm_mace_4|Palcát
+itm_mace_4_pl|Palcáty
+itm_club_with_spike_head|Obušek pobitý hřeby
+itm_club_with_spike_head_pl|Obušky pobité hřeby
+itm_staff|Hůl
+itm_staff_pl|Hole
+itm_quarter_staff|Krátká hůl
+itm_quarter_staff_pl|Krátké hole
+itm_pike|Píka
+itm_pike_pl|Píky
+itm_wooden_shield|Dřevěný štít
+itm_wooden_shield_pl|Dřevěné štíty
+itm_round_shield_steel_a|Dobrý železný štít
+itm_round_shield_steel_a_pl|Dobré železné štíty
+itm_round_shield_steel_b|Železný štít
+itm_round_shield_steel_b_pl|Železné štíty
+itm_round_shield|Prostý štít
+itm_round_shield_pl|Prosté štíty
+itm_round_shield_b|Štít - kalkan
+itm_round_shield_b_pl|Štíty - kalkany
+itm_round_shield_c|Tatarský štít
+itm_round_shield_c_pl|Tatarské štíty
+itm_round_shield_d|Zpěvněný štít
+itm_round_shield_d_pl|Zpevněné štíty
+itm_shield|Štít
+itm_shield_pl|Štíty
+itm_tarch_a|Turecký štít
+itm_tarch_a_pl|Turecké štíty
+itm_tarch_b|Turecký štít
+itm_tarch_b_pl|Turecké štíty
+itm_rundash|Kulatý štít
+itm_rundash_pl|Kulaté štíty
+itm_tab_shield_round_a|Starý kulatý štít
+itm_tab_shield_round_a_pl|Staré kulaté štíty
+itm_tab_shield_round_b|Obyčejný kulatý štít
+itm_tab_shield_round_b_pl|Obyčejné kulaté štíty
+itm_tab_shield_round_c|Kulatý štít
+itm_tab_shield_round_c_pl|Kulaté štíty
+itm_tab_shield_round_d|Těžký kulatý štít
+itm_tab_shield_round_d_pl|Těžké kulaté štíty
+itm_tab_shield_round_e|Huscarlovský kulatý štít
+itm_tab_shield_round_e_pl|Huscarlovské kulaté štíty
+itm_tab_shield_kite_a|Starý normanský štít
+itm_tab_shield_kite_a_pl|Staré normanské štíty
+itm_tab_shield_kite_b|Obyčejný normanský štít
+itm_tab_shield_kite_b_pl|Obyčejné normanské štíty
+itm_tab_shield_kite_c|Normanský štít
+itm_tab_shield_kite_c_pl|Normanské štíty
+itm_tab_shield_kite_d|Těžký normanský štít
+itm_tab_shield_kite_d_pl|Těžké normanské štíty
+itm_tab_shield_kite_cav_a|Jezdecký normanský štít
+itm_tab_shield_kite_cav_a_pl|Jezdecké normanské štíty
+itm_tab_shield_kite_cav_b|Rytířský normanský štít
+itm_tab_shield_kite_cav_b_pl|Rytířské normanské štíty
+itm_tab_shield_heater_a|Stará tarča
+itm_tab_shield_heater_a_pl|Staré tarče
+itm_tab_shield_heater_b|Obyčejná tarča
+itm_tab_shield_heater_b_pl|Obyčejné tarče
+itm_tab_shield_heater_c|Tarča
+itm_tab_shield_heater_c_pl|Tarče
+itm_tab_shield_heater_d|Těžká tarča
+itm_tab_shield_heater_d_pl|Těžké tarče
+itm_tab_shield_heater_cav_a|Jezdecká tarča
+itm_tab_shield_heater_cav_a_pl|Jezdecké tarče
+itm_tab_shield_heater_cav_b|Rytířská tarča
+itm_tab_shield_heater_cav_b_pl|Rytířské tarče
+itm_tab_shield_pavise_a|Staré pavéza
+itm_tab_shield_pavise_a_pl|Staré pavézy
+itm_tab_shield_pavise_b|Obyčejná pavéza
+itm_tab_shield_pavise_b_pl|Obyčejné pavézy
+itm_tab_shield_pavise_c|Pavéza
+itm_tab_shield_pavise_c_pl|Pavézy
+itm_tab_shield_pavise_d|Těžká pavéza
+itm_tab_shield_pavise_d_pl|Těžké pavézy
+itm_tab_shield_small_round_a|Obyčejný jezdecký štít
+itm_tab_shield_small_round_a_pl|Obyčejné jezdecké štíty
+itm_tab_shield_small_round_b|Kulatý jezdecký štít
+itm_tab_shield_small_round_b_pl|Kulaté jezdecké štíty
+itm_tab_shield_small_round_c|Štít jízdní gardy
+itm_tab_shield_small_round_c_pl|Štíty jízdní gardy
+itm_jarid|Oštěp
+itm_jarid_pl|Oštěpy
+itm_jarid_melee|Oštěp
+itm_jarid_melee_pl|Oštěpy
+itm_stones|Kameny
+itm_stones_pl|Kameny
+itm_throwing_knives|Vrhací nože
+itm_throwing_knives_pl|Vrhací nože
+itm_throwing_daggers|Vrhací dýky
+itm_throwing_daggers_pl|Vrhací dýky
+itm_samopal|Ručnice
+itm_samopal_pl|Ručnice
+itm_samopal_b|Ručnice
+itm_samopal_b_pl|Ručnice
+itm_old_musket|Doutnáková mušketa
+itm_old_musket_pl|Doutnákové muškety
+itm_old_musket_b|Doutnáková mušketa
+itm_old_musket_b_pl|Doutnákové muškety
+itm_musket|Jednoduchá kolečková mušketa
+itm_musket_pl|Jednoduché kolečkové muškety
+itm_good_musket|Mušketa s kolečkovým zámkem
+itm_good_musket_pl|Muškety s kolečkovým zámkem
+itm_turk_musket_fitil_a|Doutnáková mušketa
+itm_turk_musket_fitil_a_pl|Doutnákové muškety
+itm_turk_musket_fitil_b|Dobrá doutnáková mušketa
+itm_turk_musket_fitil_b_pl|Dobré doutnákové muškety
+itm_turk_musket_koleso|Mušketa s kolečkovým zámkem
+itm_turk_musket_koleso_pl|Muškety s kolečkovým zámkem
+itm_turk_musket|Mušketa s křesadlovým zámkem
+itm_turk_musket_pl|Muškety s křesadlovým zámkem
+itm_turk_musket_b|Dobrá mušketa s křesadlovým zámkem
+itm_turk_musket_b_pl|Dobré muškety s křesadlovým zámkem
+itm_mushket_udarniy|Mušketa s křesadlovým zámkem
+itm_mushket_udarniy_pl|Muškety s křesadlovým zámkem
+itm_mushket_udarniy_b|Mušketa s křesadlovým zámkem
+itm_mushket_udarniy_b_pl|Muškety s křesadlovým zámkem
+itm_karabin_old_a|Doutnáková karabina
+itm_karabin_old_a_pl|Doutnákové karabiny
+itm_karabin_old_b|Doutnáková karabina
+itm_karabin_old_b_pl|Doutnákové karabiny
+itm_karabin|Jednoduchá kolečková karabina
+itm_karabin_pl|Jednoduché kolečkové karabiny
+itm_karabin_good|Karabina s kolečkovým zámkem
+itm_karabin_good_pl|Karabiny s kolečkovým zámkem
+itm_karabin_batarey|Karabina s křesadlovým zámkem
+itm_karabin_batarey_pl|Karabiny s křesadlovým zámkem
+itm_karabin_batarey_good|Dobrá karabina s křesadlovým zámkem
+itm_karabin_batarey_good_pl|Dobré karabiny s křesadlovým zámkem
+itm_old_pistol|Stará pistole
+itm_old_pistol_pl|Staré pistole
+itm_pistol|Pistole
+itm_pistol_pl|Pistole
+itm_pistol_b|Pistole
+itm_pistol_b_pl|Pistole
+itm_good_pistol|Dobrá pistole
+itm_good_pistol_pl|Dobré pistole
+itm_good_pistol_b|Dobrá pistole
+itm_good_pistol_b_pl|Dobré pistole
+itm_good_pistol_c|Dobrá pistole
+itm_good_pistol_c_pl|Dobré pistole
+itm_granata|Velký granát
+itm_granata_pl|Velké granáty
+itm_granata_medium|Střední granát
+itm_granata_medium_pl|Střední granáty
+itm_granata_small|Malý granát
+itm_granata_small_pl|Malé granáty
+itm_luk|Luk
+itm_luk_pl|Luky
+itm_luk_b|Luk
+itm_luk_b_pl|Luky
+itm_luk_c|Luk
+itm_luk_c_pl|Luky
+itm_kompozit_bow_b|Tatarský luk
+itm_kompozit_bow_b_pl|Tatarské luky
+itm_kompozit_bow|Kompozitní luk
+itm_kompozit_bow_pl|Kompozitní luky
+itm_zakaz_pistol1|Zakázková pistole
+itm_zakaz_pistol1_pl|Zakázkové pistole
+itm_zakaz_pistol2|Holandská pistole
+itm_zakaz_pistol2_pl|Holandské pistole
+itm_zakaz_2stwol_koleso2|Dvouhlavňová karabina s kolečkovým zámkem
+itm_zakaz_2stwol_koleso2_pl|Dvouhlavňové karabiny s kolečkovým zámkem
+itm_zakaz_2stwol_koleso|Dvouhlavňová karabina s holandským zámkem
+itm_zakaz_2stwol_koleso_pl|Dvouhlavňové karabiny s holandským zámkem
+itm_zakaz_2stwol_udar1|Dvouhlavňová pistole s křesadlovým zámkem
+itm_zakaz_2stwol_udar1_pl|Dvouhlavňové pistole s křesadlovým zámkem
+itm_zakaz_2stwol_udar2|Dvouhlavňová pistole s křesadlovým zámkem
+itm_zakaz_2stwol_udar2_pl|Dvouhlavňové pistole s křesadlovým zámkem
+itm_zakaz_karabin|Zakázková karabina
+itm_zakaz_karabin_pl|Zakázkové karabiny
+itm_zakaz_ewro_puha|Zakázková evropská mušketa
+itm_zakaz_ewro_puha_pl|Zakázkové evropské muškety
+itm_zakaz_turok_puha|Zakázková turecká mušketa
+itm_zakaz_turok_puha_pl|Zakázkové turecké muškety
+itm_zakaz_luk1|Tatarský luk
+itm_zakaz_luk1_pl|Tatarské luky
+itm_zakaz_luk2|Zakázkový luk
+itm_zakaz_luk2_pl|Zakázkové luky
+itm_zakaz_shield_s|Zakázkový štít
+itm_zakaz_shield_s_pl|Zakázkové štíty
+itm_zakaz_armet|Arme
+itm_zakaz_armet_pl|Arme
+itm_zakaz_greben|Zakázková husarská přilba
+itm_zakaz_greben_pl|Zakázkové husarské přilby
+itm_zakaz_boyar|Zakázková bojarská přilba
+itm_zakaz_boyar_pl|Zakázkové bojarské přilby
+itm_zakaz_morion|Zakázková přilba typu morion
+itm_zakaz_morion_pl|Zakázkové přilby typu morion
+itm_zakaz_reytar_b|Zakázková rejtarská přilba
+itm_zakaz_reytar_b_pl|Zakázkové rejtarské přilby
+itm_zakaz_helm_tatar|Zakázková tatarská přilba
+itm_zakaz_helm_tatar_pl|Zakázkové tatarské přilby
+itm_zakaz_panzer_shkura|Zakázková husarská zbroj
+itm_zakaz_panzer_shkura_pl|Zakázkové husarské zbroje
+itm_zakaz_laty|Zakázkové brnění
+itm_zakaz_laty_pl|Zakázková brnění
+itm_zakaz_black_lat|Zakázková černá zbroj
+itm_zakaz_black_lat_pl|Zakázkové černé zbroje
+itm_zakaz_zertzalo|Zrcadlo vyrobené na zakázku
+itm_zakaz_zertzalo_pl|Zrcadla vyrobená na zakázku
+itm_zakaz_ushman|Zakázková destičková zbroj
+itm_zakaz_ushman_pl|Zakázkové destičkové zbroje
+itm_zakaz_sabla1|Zakázková šavle
+itm_zakaz_sabla1_pl|Zakázkové šavle
+itm_zakaz_sabla2|Zakázková šavle z damascénské oceli
+itm_zakaz_sabla2_pl|Zakázkové šavle z damascénské oceli
+itm_zakaz_spaga|Zakázkový kord
+itm_zakaz_spaga_pl|Zakázkové kordy
+itm_zakaz_berd|Zakázková sekera bradatice
+itm_zakaz_berd_pl|Zakázkové sekery bradatice
+itm_zakaz_palash|Zakázkový palaš
+itm_zakaz_palash_pl|Zakázkové palaše
+itm_zakaz_twohand|Zakázkový obouruční meč
+itm_zakaz_twohand_pl|Zakázkové obouruční meče
+itm_zakaz_chekan|Zakázkový čakan
+itm_zakaz_chekan_pl|Zakázkové čakany
+itm_hunting_bow|Lovecký luk
+itm_hunting_bow_pl|Lovecké luky
+itm_hunting_crossbow|Lovecká kuše
+itm_hunting_crossbow_pl|Lovecké kuše
+itm_light_crossbow|Lehká kuše
+itm_light_crossbow_pl|Lehké kuše
+itm_heavy_crossbow|Těžká kuše
+itm_heavy_crossbow_pl|Těžké kuše
+itm_torch|Pochodeň
+itm_torch_pl|Pochodně
+itm_practice_bow_2|Cvičný luk
+itm_practice_bow_2_pl|Cvičné luky
+itm_practice_arrows_2|Cvičné šípy
+itm_practice_arrows_2_pl|Cvičné šípy
+itm_mail_boots_for_tableau|Kroužkové boty
+itm_mail_boots_for_tableau_pl|Kroužkové boty
+itm_steel_bolts_10|Střely
+itm_steel_bolts_10_pl|Střely
+itm_oim_qst_horse|Plnokrevný hřebec
+itm_oim_qst_horse_pl|Skvělý kůň
+itm_speshitsa|Sesednout
+itm_speshitsa_pl|nemusí se překládat
+itm_nichego|[Žádný předmět]
+itm_nichego_pl|nemusí se překládat
+itm_very_bad_horse|Selský kůň
+itm_very_bad_horse_pl|Selští koně
+itm_bad_horse|Tažný kůň
+itm_bad_horse_pl|Tažní koně
+itm_norm_horse|Osedlaný kůň
+itm_norm_horse_pl|Osedlaní koně
+itm_good_horse|Stepní kůň
+itm_good_horse_pl|Stepní koně
+itm_fast_horse|Závodní kůň
+itm_fast_horse_pl|Závodní koně
+itm_tank_horse|Válečný kůň
+itm_tank_horse_pl|Váleční koně
+itm_uber_horse|Čistokrevný kůň
+itm_uber_horse_pl|Čistokrevní koně
+itm_bad_arrows|Levné šípy
+itm_bad_arrows_pl|Levné šípy
+itm_norm_arrows|Šípy
+itm_norm_arrows_pl|Šípy
+itm_good_arrows|Kvalitní šípy
+itm_good_arrows_pl|Kvalitní šípy
+itm_bad_bullets|Levné kulky
+itm_bad_bullets_pl|Levné kulky
+itm_norm_bullets|Kulky
+itm_norm_bullets_pl|Kulky
+itm_good_bullets|Kvalitní kulky
+itm_good_bullets_pl|Kvalitní kulky
+itm_samopal_m|Arkebuza
+itm_samopal_m_pl|Arkebuza
+itm_samopal_m_melee|Arkebuza
+itm_samopal_m_melee_pl|Arkebuza
+itm_bad_pistol|Rezavá pistole
+itm_bad_pistol_pl|Rezavé pistole
+itm_bad_pistol_melee|Rezavá pistole
+itm_bad_pistol_melee_pl|Rezavé pistole
+itm_norm_pistol|Pistole
+itm_norm_pistol_pl|Pistole
+itm_norm_pistol_melee|Pistole
+itm_norm_pistol_melee_pl|Pistole
+itm_fast_pistol|Rychlopalná pistole
+itm_fast_pistol_pl|Rychlopalné pistole
+itm_fast_pistol_melee|Rychlopalná pistole
+itm_fast_pistol_melee_pl|Rychlopalné pistole
+itm_power_pistol|Pistole s dlouhou hlavní
+itm_power_pistol_pl|Pistole s dlouhou hlavní
+itm_power_pistol_melee|Pistole s dlouhou hlavní
+itm_power_pistol_melee_pl|Pistole s dlouhou hlavní
+itm_uber_pistol|Dobrá pistole
+itm_uber_pistol_pl|Dobré pistole
+itm_uber_pistol_melee|Dobrá pistole
+itm_uber_pistol_melee_pl|Dobré pistole
+itm_bad_karabin|Zrezivělá karabina
+itm_bad_karabin_pl|Zrezivělé karabiny
+itm_bad_karabin_melee|Zrezivělá karabina
+itm_bad_karabin_melee_pl|Zrezivělé karabiny
+itm_norm_karabin|Karabina
+itm_norm_karabin_pl|Karabiny
+itm_norm_karabin_melee|Karabina
+itm_norm_karabin_melee_pl|Karabiny
+itm_good_karabin|Dobrá karabina
+itm_good_karabin_pl|Dobré karabiny
+itm_good_karabin_melee|Dobrá karabina
+itm_good_karabin_melee_pl|Dobré karabiny
+itm_uber_karabin|Jezdecká karabina
+itm_uber_karabin_pl|Jezdecké karabiny
+itm_uber_karabin_melee|Jezdecká karabina
+itm_uber_karabin_melee_pl|Jezdecké karabiny
+itm_bad_musket|Rezavá mušketa
+itm_bad_musket_pl|Rezavé muškety
+itm_bad_musket_melee|Rezavá mušketa
+itm_bad_musket_melee_pl|Rezavé muškety
+itm_norm_musket|Mušketa
+itm_norm_musket_pl|Muškety
+itm_norm_musket_melee|Mušketa
+itm_norm_musket_melee_pl|Muškety
+itm_good_musket_m|Dobrá mušketa
+itm_good_musket_m_pl|Dobré muškety
+itm_good_musket_m_melee|Dobrá mušketa
+itm_good_musket_m_melee_pl|Dobré muškety
+itm_uber_mushket|Jezdecká mušketa
+itm_uber_mushket_pl|Jezdecké muškety
+itm_uber_mushket_melee|Jezdecká mušketa
+itm_uber_mushket_melee_pl|Jezdecké muškety
+itm_t_bad_musket|Rezavá mušketa
+itm_t_bad_musket_pl|Rezavé muškety
+itm_t_bad_musket_melee|Rezavá mušketa
+itm_t_bad_musket_melee_pl|Rezavé muškety
+itm_t_norm_musket|Mušketa
+itm_t_norm_musket_pl|Muškety
+itm_t_norm_musket_melee|Mušketa
+itm_t_norm_musket_melee_pl|Muškety
+itm_t_good_musket|Dobrá mušketa
+itm_t_good_musket_pl|Dobré muškety
+itm_t_good_musket_melee|Dobrá mušketa
+itm_t_good_musket_melee_pl|Dobré muškety
+itm_t_uber_musket|Jezdecká mušketa
+itm_t_uber_musket_pl|Jezdecké muškety
+itm_t_uber_musket_melee|Jezdecká mušketa
+itm_t_uber_musket_melee_pl|Jezdecké muškety
+itm_m_dwustwol_karabin|Dvouhlavňová karabina
+itm_m_dwustwol_karabin_pl|Dvouhlavňové karabiny
+itm_m_dwustwol_karabin_melee|Karabina
+itm_m_dwustwol_karabin_melee_pl|Karabiny
+itm_m_dwustwol_pistol|Dvouhlavňová pistole
+itm_m_dwustwol_pistol_pl|Dvouhlavňové pistole
+itm_m_dwustwol_pistol_melee|netřeba překládat
+itm_m_dwustwol_pistol_melee_pl|netřeba překládat
+itm_bad_luk|Lovecký luk
+itm_bad_luk_pl|Lovecké luky
+itm_norm_luk|Luk
+itm_norm_luk_pl|Luky
+itm_gud_luk|Silný luk
+itm_gud_luk_pl|Silné luky
+itm_uber_luk|Kompozitní luk
+itm_uber_luk_pl|Kompozitní luky
+itm_bad_shield|Nekvalitní štít
+itm_bad_shield_pl|Nekvalitní štíty
+itm_norm_shield|Štít
+itm_norm_shield_pl|Štíty
+itm_good_shield|Silný štít
+itm_good_shield_pl|Silné štíty
+itm_stal_shield|Železný štít
+itm_stal_shield_pl|Železné štíty
+itm_uber_shield|Ocelový štít
+itm_uber_shield_pl|Ocelové štíty
+itm_bad_shpaga|Rezavý meč
+itm_bad_shpaga_pl|Rezavé meče
+itm_norm_shpaga|Meč
+itm_norm_shpaga_pl|Meče
+itm_good_shpaga_m|Dobrý meč
+itm_good_shpaga_m_pl|Dobré meče
+itm_bad_palash|Rezavý palaš
+itm_bad_palash_pl|Rezavé palaše
+itm_norm_palash|Palaš
+itm_norm_palash_pl|Palaše
+itm_good_palash_m|Kvalitní palaš
+itm_good_palash_m_pl|Kvalitní palaše
+itm_bad_p_palash|Rezavý palaš
+itm_bad_p_palash_pl|Rezavé palaše
+itm_norm_p_palash|Palaš
+itm_norm_p_palash_pl|Palaše
+itm_good_p_palash|Kvalitní palaš
+itm_good_p_palash_pl|Kvalitní palaše
+itm_bad_sablya_a|Rezavá šavle
+itm_bad_sablya_a_pl|Rezavé šavle
+itm_norm_sablya_a|Šavle
+itm_norm_sablya_a_pl|Šavle
+itm_good_sablya_a|Bohatě zdobená šavle
+itm_good_sablya_a_pl|Bohatě zdobené šavle
+itm_bad_sablya_b|Rezavá šavle
+itm_bad_sablya_b_pl|Rezavé šavle
+itm_norm_sablya_b|Šavle
+itm_norm_sablya_b_pl|Šavle
+itm_good_sablya_b|Bohatě zdobená šavle
+itm_good_sablya_b_pl|Bohatě zdobené šavle
+itm_t_bad_sablya_a|Rezavá šavle
+itm_t_bad_sablya_a_pl|Rezavé šavle
+itm_t_norm_sablya_a|Šavle
+itm_t_norm_sablya_a_pl|Šavle
+itm_t_good_sablya_a|Bohatě zdobená šavle
+itm_t_good_sablya_a_pl|Bohatě zdobené šavle
+itm_norn_k_shablya|Kozácká šavle
+itm_norn_k_shablya_pl|Kozácké šavle
+itm_good_k_shablya|Zdobená kozácká šavle
+itm_good_k_shablya_pl|Zdobené kozácké šavle
+itm_bad_toporik|Sekyrka
+itm_bad_toporik_pl|Sekyrky
+itm_good_toporik|Bohatě zdobená sekyrka
+itm_good_toporik_pl|Bohatě zdobené sekyrky
+itm_bad_chekan|Čakan
+itm_bad_chekan_pl|Čakany
+itm_good_chekan|Bohatě zdobený čakan
+itm_good_chekan_pl|Bohatě zdobené čakany
+itm_bad_bulava|Palcát
+itm_bad_bulava_pl|Palcáty
+itm_good_bulava|Zdobený palcát
+itm_good_bulava_pl|Zdobené palcáty
+itm_bad_berdish|Bardicha
+itm_bad_berdish_pl|Bardichy
+itm_good_berdish|Vyvážená bardicha
+itm_good_berdish_pl|Vyvážené bardichy
+itm_m_sovnya|Válečná kosa
+itm_m_sovnya_pl|Válečné kosy
+itm_m_alebarda|Halapartna
+itm_m_alebarda_pl|Halapartny
+itm_m_twohand_sword|Obouruční meč
+itm_m_twohand_sword_pl|Obouruční meče
+itm_m_kleymor|Meč typu claymore
+itm_m_kleymor_pl|Meče typu claymore
+itm_bad_pike|Stará píka
+itm_bad_pike_pl|Staré píky
+itm_norm_pika|Píka
+itm_norm_pika_pl|Píky
+itm_good_pike_m|Vyvážená píka
+itm_good_pike_m_pl|Vyvážené píky
+itm_bad_spear|Staré kopí
+itm_bad_spear_pl|Stará kopí
+itm_good_spear|Kopí
+itm_good_spear_pl|Kopí
+itm_bad_lance|Staré kopí
+itm_bad_lance_pl|Stará kopí
+itm_norm_lance|Kopí
+itm_norm_lance_pl|Kopí
+itm_good_lance|Těžké kopí
+itm_good_lance_pl|Těžká kopí
+itm_gusar_lance|Husarské kopí
+itm_gusar_lance_pl|Husarská kopí
+itm_m_mosk_pehota_forma|Střelecká uniforma
+itm_m_mosk_pehota_forma_pl|Střelecké uniformy
+itm_m_mosk_strelok_forma|Střelecká uniforma
+itm_m_mosk_strelok_forma_pl|Střelecké uniformy
+itm_m_mosk_kava_forma|Široké sukno
+itm_m_mosk_kava_forma_pl|Široká sukna
+itm_m_mosk_bad_armor|Plášť
+itm_m_mosk_bad_armor_pl|Pláště
+itm_m_mosk_light_armor|Krátká kroužková zbroj
+itm_m_mosk_light_armor_pl|Krátké kroužkové zbroje
+itm_m_mosk_norm_armor|Kroužková zbroj
+itm_m_mosk_norm_armor_pl|Kroužkové zbroje
+itm_m_mosk_good_armor|Zrcadlová zbroj
+itm_m_mosk_good_armor_pl|Zrcadlové zbroje
+itm_m_mosk_notsogood_armor|Brigantina
+itm_m_mosk_notsogood_armor_pl|Brigantiny
+itm_m_pol_pehota_forma|Pikenýrská uniforma
+itm_m_pol_pehota_forma_pl|Pikenýrské uniformy
+itm_m_pol_strelok_forma|Mušketýrská uniforma
+itm_m_pol_strelok_forma_pl|Mušketýrské uniformy
+itm_m_pol_kava_forma|Dragounská uniforma
+itm_m_pol_kava_forma_pl|Dragounské uniformy
+itm_m_pol_light_armor|Prošívaná kožená zbroj
+itm_m_pol_light_armor_pl|Prošívané kožené zbroje
+itm_m_pol_norm_armor|Kroužková zbroj
+itm_m_pol_norm_armor_pl|Kroužkové zbroje
+itm_m_pol_good_k_armor|Pancíř
+itm_m_pol_good_k_armor_pl|Pancíře
+itm_m_pol_good_p_armor|Kyrys
+itm_m_pol_good_p_armor_pl|Kyrysy
+itm_m_pol_uber_p_armor|Zbroj
+itm_m_pol_uber_p_armor_pl|Zbroje
+itm_m_pol_uber_k_armor|Husarská zbroj s kůží
+itm_m_pol_uber_k_armor_pl|Husarské zbroje s kůží
+itm_m_ukr_pehota_forma|Kabátec
+itm_m_ukr_pehota_forma_pl|Kabátce
+itm_m_ukr_strelok_forma|Kabátec
+itm_m_ukr_strelok_forma_pl|Kabátce
+itm_m_ukr_kava_forma|Kabátec
+itm_m_ukr_kava_forma_pl|Kabátce
+itm_m_ukr_bad_armor|Prošívanice
+itm_m_ukr_bad_armor_pl|Prošívanice
+itm_m_ukr_light_armor|Kožená prošívanice
+itm_m_ukr_light_armor_pl|Kožené prošívanice
+itm_m_ukr_norm_armor|Kroužková zbroj
+itm_m_ukr_norm_armor_pl|Kroužkové zbroje
+itm_m_ukr_good_armor|Prošívanice s kovovými kroužky
+itm_m_ukr_good_armor_pl|Prošívanice s kovovými kroužky
+itm_m_ttr_archer_forma|Kaftan
+itm_m_ttr_archer_forma_pl|Kaftany
+itm_m_ttr_kava_forma|Kaftan
+itm_m_ttr_kava_forma_pl|Kaftany
+itm_m_ttr_bad_armor_a|Silný kaftan
+itm_m_ttr_bad_armor_a_pl|Silné kaftany
+itm_m_ttr_bad_armor_b|Silný kaftan
+itm_m_ttr_bad_armor_b_pl|Silné kaftany
+itm_m_ttr_light_armor_a|Prošívané roucho
+itm_m_ttr_light_armor_a_pl|Prošívaná roucha
+itm_m_ttr_light_armor_b|Prošívané roucho
+itm_m_ttr_light_armor_b_pl|Prošívaná roucha
+itm_m_ttr_norm_armor|Kroužková zbroj
+itm_m_ttr_norm_armor_pl|Kroužkové zbroje
+itm_m_ttr_good_armor|Kroužková zbroj s plátovými chrániči
+itm_m_ttr_good_armor_pl|Kroužkové zbroje s plátovými chrániči
+itm_m_swed_pehot_forma|Vybavení
+itm_m_swed_pehot_forma_pl|Vybavení
+itm_m_swed_strelok_forma|Mušketýrská uniforma
+itm_m_swed_strelok_forma_pl|Mušketýrské uniformy
+itm_m_swed_kava_forma|Dragounská uniforma
+itm_m_swed_kava_forma_pl|Dragounské uniformy
+itm_m_swed_light_armor|Kožená kamizola
+itm_m_swed_light_armor_pl|Kožené kamizoly
+itm_m_swed_norm_armor|Poloplátová zbroj
+itm_m_swed_norm_armor_pl|Poloplátové zbroje
+itm_m_swed_good_p_armor|Kyrys
+itm_m_swed_good_p_armor_pl|Kyrysy
+itm_m_swed_uber_p_armor|Poloplátová zbroj
+itm_m_swed_uber_p_armor_pl|Poloplátové zbroje
+itm_m_swed_good_k_armor|Rejtarská poloplátová zbroj
+itm_m_swed_good_k_armor_pl|Rejtarské poloplátové zbroje
+itm_m_swed_shapka|Čapka
+itm_m_swed_shapka_pl|Čapky
+itm_m_swed_light_helmet|Rezavá přilba
+itm_m_swed_light_helmet_pl|Rezavé přilby
+itm_m_swed_norm_p_helmet|Přilba
+itm_m_swed_norm_p_helmet_pl|Přilby
+itm_m_swed_good_k_helmet|Rejtarská přilba
+itm_m_swed_good_k_helmet_pl|Rejtarské přilby
+itm_m_swed_good_p_helmet|Arme
+itm_m_swed_good_p_helmet_pl|Arme
+itm_m_mosk_shapka|Čapka
+itm_m_mosk_shapka_pl|Čapky
+itm_m_mosk_light_helmet|Lehká čapka
+itm_m_mosk_light_helmet_pl|Lehké čapky
+itm_m_mosk_norm_helmet|Vyztužená čapka
+itm_m_mosk_norm_helmet_pl|Vyztužené čapky
+itm_m_mosk_good_helmet|Přilbice
+itm_m_mosk_good_helmet_pl|Přilbice
+itm_m_mosk_uber_helmet|Bojarská helmice
+itm_m_mosk_uber_helmet_pl|Bojarské helmice
+itm_m_pol_shapka|Čapka
+itm_m_pol_shapka_pl|Čapky
+itm_m_pol_good_shapka|Čapka
+itm_m_pol_good_shapka_pl|Čapky
+itm_m_pol_light_helmet|Přilba s kroužkovým chráničem krku
+itm_m_pol_light_helmet_pl|Přilby s kroužkovým chráničem krku
+itm_m_pol_norm_helmet|Přilba typu cabasset
+itm_m_pol_norm_helmet_pl|Přilby typu cabasset
+itm_m_pol_good_helmet|Husarská helmice
+itm_m_pol_good_helmet_pl|Husarské helmice
+itm_m_pol_uber_helmet|Rejtarská helmice
+itm_m_pol_uber_helmet_pl|Rejtarské helmice
+itm_m_ukr_shapka|Čapka
+itm_m_ukr_shapka_pl|Čapky
+itm_m_ukr_light_helmet|Přilba s kroužkovým chráničem krku
+itm_m_ukr_light_helmet_pl|Přilby s kroužkovým chráničem krku
+itm_m_ukr_norm_helmet|Čapka s kroužkovým chráničem krku
+itm_m_ukr_norm_helmet_pl|Čapky s kroužkovým chráničem krku
+itm_m_ttr_shapka|Čapka
+itm_m_ttr_shapka_pl|Čapky
+itm_m_ttr_light_helmet|Přilba s kroužkovým chráničem krku
+itm_m_ttr_light_helmet_pl|Přilby s kroužkovým chráničem krku
+itm_m_ttr_norm_helmet|Lehká helmice
+itm_m_ttr_norm_helmet_pl|Lehké helmice
+itm_m_ttr_good_helmet|Helmice
+itm_m_ttr_good_helmet_pl|Helmice
+itm_m_granata_small|Granát
+itm_m_granata_small_pl|Granáty
+itm_bad_gloves|Zničené rukavice
+itm_bad_gloves_pl|Zničené rukavice
+itm_norm_gloves|Kožené rukavice
+itm_norm_gloves_pl|Kožené rukavice
+itm_good_gloves|Kožešinové rukavice
+itm_good_gloves_pl|Kožešinové rukavice
+itm_uber_gloves|Plátové rukavice
+itm_uber_gloves_pl|Plátové rukavice
+itm_bad_boots|Selské škorně
+itm_bad_boots_pl|Selské škorně
+itm_bad_boots_mosk|Kožené střevíce
+itm_bad_boots_mosk_pl|Kožené střevíce
+itm_bad_boots_swed|Pantofle
+itm_bad_boots_swed_pl|Pantofle
+itm_bad_boots_k|Staré jezdecké boty
+itm_bad_boots_k_pl|Staré jezdecké boty
+itm_norm_boots_k|Jezdecké boty
+itm_norm_boots_k_pl|Jezdecké boty
+itm_good_boots_k|Zdobené jezdecké boty
+itm_good_boots_k_pl|Zdobené jezdecké boty
+itm_bad_boots_p|Děravé holínky
+itm_bad_boots_p_pl|Děravé holínky
+itm_norm_boots_p|Holínky
+itm_norm_boots_p_pl|Holínky
+itm_good_boots_p|Zdobené holínky
+itm_good_boots_p_pl|Zdobené holínky
+itm_bad_botforts|Staré jezdecké holínky
+itm_bad_botforts_pl|Staré jezdecké holínky
+itm_norm_botforts|Vysoké jezdecké holínky
+itm_norm_botforts_pl|Vysoké jezdecké holínky
+itm_good_botforts|Drahé jezdecké holínky
+itm_good_botforts_pl|Drahé jezdecké holínky
+itm_good_boots_ttr|Zdobené holínky
+itm_good_boots_ttr_pl|Zdobené holínky
+itm_noob_dubinka|Palice
+itm_noob_dubinka_pl|Palice
+itm_noob_toporik|Sekerka
+itm_noob_toporik_pl|Sekerka
+itm_m_janissar_hat|Janičářská čapka
+itm_m_janissar_hat_pl|Janičářské čapky
+itm_m_yanichar_forma|Janičářská uniforma
+itm_m_yanichar_forma_pl|Janičářské uniformy
+itm_m_janissary_tapki|Janičářské boty
+itm_m_janissary_tapki_pl|Janičářské boty
+itm_m_yatagan_bad|Jatagan
+itm_m_yatagan_bad_pl|Jatagan
+itm_m_yatagan_good|Jatagan z damascénské oceli
+itm_m_yatagan_good_pl|Jatagan z damascénské oceli
+itm_duel_sword|Soubojový meč
+itm_duel_sword_pl|Soubojové meče
+itm_items_end|Konec seznamu
+itm_items_end_pl|Konec seznamu

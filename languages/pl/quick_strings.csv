@@ -1,0 +1,728 @@
+﻿qstr_Next_Page|Następna strona
+qstr_Game_Rules:^|Zasady gry:^
+qstr_Show_game_rules|Pokaż zasady gry
+qstr_Continue...|Kontynuuj...
+qstr_Candidate_#1:_{s1}|Kandydat #1: {s1}
+qstr_Candidate_#2:_{s1}|Kandydat #2: {s1}
+qstr_{s3}_of_{s4}_wishes_|{s3} ({s4}) chce wyznaczyć nowego marszałka i zaprasza okoliczną szlachtę na radę. Główni kandydaci to: {s1} i {s2}.
+qstr_Who_do_you_wish_to_s|Kogo chcesz poprzeć?
+qstr_{s1}|{s1}
+qstr_{s1}_gives_his_suppo|{s1} oddaje głos. {s2} zdobywa jego poparcie.
+qstr_Number_of_Supporters|Zwolennicy: {reg0}
+qstr_{s2}_has_heard_his_v|{s2} wysłuchał rady szlacheckiej. Nowym marszałkiem będzie {s1}.
+qstr_Action|Czynność
+qstr_Attack_Type|Typ ataku 
+qstr_Stand_Ground|Stać w miejscu 
+qstr_Charge|Do ataku 
+qstr_Follow_Me|Za mną
+qstr_Hold_This_Position|Utrzymać pozycję
+qstr_Spread_Out|Rozproszyć się 
+qstr_Stand_Closer|Stanąć bliżej 
+qstr_Fall_Back|Wycofać się 
+qstr_Advance|Naprzód 
+qstr_Dismount|Z koni
+qstr_Mount|Na konie
+qstr_Fire_At_Will|Ognia
+qstr_Use_Blunt_Weapons|Użyć broni obuchowej
+qstr_Use_Any_Weapon|Skorzystać z dowolnej broni 
+qstr_Ready|Gotowi do walki 
+qstr_Wounded|Ranni
+qstr_Dead|Zabici
+qstr_Remain_in_retirement|Pozostań w stanie spoczynku 
+qstr_Go_back_to_the_adven|Wróć do podróżowania
+qstr_You_have_retired_at_|Zrezygnowałeś na {reg4} poziomie. Spędziłeś {reg5} dni na poszukiwaniach przygód. 
+qstr_Effect_on_Score|Wynik
+qstr_Settlements_owned_by|Zdobyłeś osad: {reg0}.
+qstr_Friendly_Settlements|Osad sojuszniczych: {reg0}
+qstr_Hostile_Settlements:|Osad wrogów: {reg0}
+qstr_Friendly_Lords:_{reg|Sojuszniczych władców: {reg0}
+qstr_Enemy_Lords:_{reg0}|Wrogich władców: {reg0}
+qstr_Victories:_{reg0}|Zwycięstw: {reg0}
+qstr_Defeats:_{reg0}|Porażek: {reg0}
+qstr_Quests_Completed:_{r|Wykonałeś zadań: {reg0}
+qstr_Companions_Found:_{r|Spotkałeś towarzyszy: {reg0}
+qstr_Companions_Lost/Depa|Utraciłeś towarzyszy: {reg0}
+qstr_Wealth:_{reg0}_denar|Talary: {reg0}
+qstr_Inventory:_{reg0}_de|Majątek w talarach: {reg0}
+qstr_Renown:_{reg0}|Sława: {reg0}
+qstr_Experience:_{reg0}|Doświadczenie: {reg0}
+qstr_Days_Passed:_{reg0}|Minęło dni: {reg0}
+qstr_Difficulty:_{reg0}%|Poziom trudności: {reg0}%
+qstr_TOTAL_SCORE:_{reg0}|ŁĄCZNY WYNIK: {reg0}
+qstr_{s1}_of_{s3}_was_def|{s1} ({s3}) doznał porażki w bitwie, ale udało mu się uciec.
+qstr_DEBUG:_{s1}_no_longe|DEBUG: {s1} już nie dowodzi oddziałem. 
+qstr_DEBUG:_{s1}_is_no_lo|DEBUG: {s1} już nie jest więźniem. 
+qstr_DEBUG:_{s1}_is_now_a|DEBUG: {s1} trafia do niewoli gracza. 
+qstr_DEBUG:_{s1}_is_now_a_|DEBUG: {s1} trafia do niewoli gracza {s2}.
+qstr_{s54}_is_a_claimant_|{s56} ma pretendenta do tronu. To {s54}.
+qstr_nowhere|brak
+qstr_{s57}_and_{s58}|{s57} oraz {s58}
+qstr_{s57}_{s58}|{s57}, {s58}
+qstr_{reg3?She:He}|{reg3?Ona:On}
+qstr_^{s59}|^{s59}
+qstr_{reg6?:{reg4?{s54}_i|{reg6?:{reg4?{s54} - jest władcą {s56}.^:{s54} - jest poddanym władcy o imieniu {s55} ({s56}).^}}Sława: {reg5}.^{reg9?{reg3?Ona:On} jest {reg3?Panią:Panem} następujących włości: {s58}.:{reg3?Ona:On} nie posiada włości.}{s59}
+qstr_The_town_of_{s50}|Miasto {s50}
+qstr_The_village_of_{s50}|Wioska {s50} w okolicy miejscowości {s52}
+qstr_{s51}_belongs_to_{s1|{s51} - władcą jest {s1} ({s2}).^
+qstr_{s7}_and_{s8}|{s7} oraz {s8}
+qstr_{s2}It_has_no_villag|{s2}Nie posiada wiosek.^
+qstr_{s2}{reg0?Its_villag|{s2}{reg0?Osady sąsiednie:Osada sąsiednia}: {s8}.^
+qstr_{s2}Its_prosperity_i|{s2}Poziom zamożności: {s50}.
+qstr_{s7}_{s8}|{s7}, {s8}
+qstr_noone|nikt
+qstr_{s9}_and_{s10}|{s9} oraz {s10}
+qstr_{s9}_{s10}|{s9}, {s10}
+qstr_{s11}_and_{s12}|{s11} oraz {s12}
+qstr_{s11}_{s12}|{s11}, {s12}
+qstr_{s5}_is_ruled_by_{s6|{s5}. Władca: {s6}.^Miejscowości wchodzące w skład mocarstwa: {s8}.^Poddani: {s10}.^{s5} prowadzi wojnę z: {s12}.
+qstr_{s5}_has_been_defeat|{s5}: frakcja zostaje pokonana! 
+qstr_{s7}_opened_the_gate|{s7} otwiera bramę
+qstr_{s7}_closed_the_gate|{s7} zamyka bramę
+qstr_+{reg1}_to_party_mor|+{reg1} pkt. do morale oddziału
+qstr_Requires_{reg1}_inte|Będziesz mógł to przeczytać, kiedy zdobędziesz punkty intelektu. Wymagana ilość: {reg1}.
+qstr_Reading_Progress:_{r|Czytanie: {reg1}%
+qstr_wound_treament|opatrywanie ran
+qstr_trainer|ćwiczenia
+qstr_surgery|chirurgia
+qstr_+1_to_{s1}_while_in_|{s1} +1 pkt. kiedy nosisz przy sobie
+qstr_{s2}|{s2}
+qstr_Base_damage_radius:_|Rozrzut odłamków: {reg1} kroków. Promień rażenia: {reg2} kroków. 
+qstr_Move_here|Udaj się tutaj 
+qstr_View_notes|Przeczytaj notatki 
+qstr_killed|zabito
+qstr_wounded|raniono
+qstr_{s0}^TOTAL:_{reg3}__|{s0}^ŁĄCZNIE: {reg3} ({s2})
+qstr_None|Brak
+qstr_^None|^Brak
+qstr_nothing|brak
+qstr_{reg0}_village{reg1?|wsi - {reg0}
+qstr_{reg0}_castle{reg1?s|twierdz - {reg0}
+qstr_{reg0}_castle{reg1?s:|twierdz - {reg0} i {s0}
+qstr_{reg0}_town{reg1?s:}|miast - {reg0}
+qstr_{reg0}_town{reg1?s:}_|miast - {reg0} i {s0}
+qstr_{reg0}_town{reg1?s:}_{|miast - {reg0}, {s0}
+qstr_Your_opponents_are_r|Twoi przeciwnicy są gotowi do walki. 
+qstr_Try_to_destroy_as_ma|Zniszcz jak najwięcej celów. Masz dwie i pół minuty na oczyszczenie drogi. 
+qstr_Stay_behind_the_line|Stań za linią i strzelaj do celów. Staraj się nie pudłować. 
+qstr_Battle_Advantage_=_{|Przewaga w walce: {reg0}.
+qstr_{s9}_wants_you_to_re|{s9} chce, żebyś podążał za jego armią do następnego rozkazu. 
+qstr_OIM_add__{s3}_prosil|To pierwszy rozkaz, który dał {s3} - zdobyć miasto.
+qstr__Being_Raided_|Najeżdżana
+qstr__Looted_|Spustoszona
+qstr__Under_Siege_|Oblegane
+qstr_The_village_of_{s1}_|{s2} pustoszy wieś {s1}.
+qstr_{s3}_is_no_longer_un|Przerwano oblężenie miejscowości {s3}.
+qstr_Enemies_spotted_near|{s1} - w pobliżu zauważono wrogów.
+qstr_{s1}_has_been_besieg|{s2} ({s3}) prowadzi oblężenie. Jego celem jest {s1}.
+qstr_{s1}_is_chosen_as_th|{s1} został wybrany na marszałka. {s2} jest pod jego rozkazami.
+qstr_{s1}_is_the_new_mars|{s1} został marszałkiem. {s2} jest pod jego rozkazami.
+qstr_{s1}_decided_to_do_n|{s1} zdecydował, żeby nic nie robić. 
+qstr_{s1}_decided_to_gath|{s1} zdecydował zebrać armię. 
+qstr_{s1}_decided_to_besi|{s1} zdecydował dokonać oblężenia. Jego celem jest {s2}.
+qstr_{s1}_decided_to_raid|{s1} zdecydował zaatakować {s2}.
+qstr_{s1}_decided_to_atta|{s1} zdecydował zaatakować {s2}.
+qstr_{s1}_decided_to_attac|{s1} zdecydował zaatakować wrogów zauważonych obok miejscowości {s2}.
+qstr_You_gained_{reg12}_r|Twoja sława zwiększa się o {reg12}.
+qstr_You_lose_{reg12}_ren|Twoja sława zmniejsza się o {reg12}.
+qstr_Your_relation_with_{|{s1} - wasze stosunki uległy poprawie.
+qstr_Your_relation_with_{s|{s1} - wasze stosunki uległy pogorszeniu. 
+qstr_You_gain_honour.|Zyskałeś szacunek. 
+qstr_You_lose_honour.|Straciłeś szacunek. 
+qstr_{s1}_has_declared_wa|{s1} i {s2} rozpoczynają wojnę. 
+qstr_{s1}_and_{s2}_have_m|{s1} i {s2} zawierają pokój. 
+qstr_{s2}_{reg3?was:is_cu|{s2} {reg3?był{/a}:jest} w miejscowości {s3}.
+qstr_{s2}_{reg3?was:is}_t|{s2} {reg3?podążał{/a}:podąża} do miejscowości {s3}. {reg4?Ona:On} {reg3?znajdował{/a} się:znajduje się teraz} koło miejscowości {s4}{reg3?:}.
+qstr_{s2}_{reg3?was:is}_i|{s2} {reg3?był{/a}:jest} w drodze. {reg4?Ona:On} {reg3?znajdował{/a} się:znajduje się teraz} koło miejscowości {s3}{reg3?:}.
+qstr_{s2}_{reg3?was:is}_b|{s2} {reg3?był{/a}:jest} więziony{/a} w miejscowości {s3}.
+qstr_{s2}_{reg3?was:has_b|{s2} {reg3?był{/a}:jest} więziony{/a} przez {reg4?jej:jego} wrogów.
+qstr_{reg3?{s2}_s_locatio|{reg3?miejsce, w którym znajdował się {s2} jest nieznane: Nie wiem, gdzie jest teraz {s2}}.
+qstr_{s6}_has_joined_your|{s6} dołącza do oddziału.
+qstr_You_now_owe_{reg2}_d|{s1} otrzymuje od Ciebie {reg2} talarów. 
+qstr_Renown_value_for_thi|W przypadku zwycięstwa Twoja sława zwiększy się o {reg8}.
+qstr_You_have_run_into_a_|Wpadłeś w pułapkę!
+qstr_You_are_attacked_by_|Napadali Cię rozbójnicy!
+qstr_Holding|Utrz. pozycji
+qstr_Following|Przemarsz
+qstr_Charging|Atak
+qstr_Advancing|Naprzód
+qstr_Falling_Back|Wycofanie
+qstr_Standing_Closer|Przegrupowanie
+qstr_Spreading_Out|Rozproszenie
+qstr_Standing|Obrona
+qstr_N/A|Brak
+qstr_Any_Weapon|Dowolna broń
+qstr_Blunt_Weapons|Broń obuchowa
+qstr_{s1}_Rebels|{s1} (buntownicy)
+qstr_Given_by:_{s62}|Kto wydał: {s62}
+qstr_Given_on:_{s60}|Kiedy dano: {s60}
+qstr_You_have_{reg0}_days|Ilość dni na wykonanie zadania: {reg0}.
+qstr_This_quest_has_been_|To zadanie zostało zakończone. {s59} czeka na rozmowę z Tobą. 
+qstr_This_quest_has_been_s|To zadanie zostało wykonane z powodzeniem. {s59} czeka na Ciebie, aby wręczyć nagrodę. 
+qstr_This_quest_has_faile|Wykonanie zadania nie udało się. {s59} czeka na Twoje wyjaśnienia. 
+qstr_At_the_time_quest_wa|W dniu, w którym zostało wydane zadanie, {s1}
+qstr_{s1}_is_infested_by_|Na {s1} napadli rozbójnicy.
+qstr_{s5}_has_a_strength_|{s5} ma armię składającą się z {reg1} ludzi. 
+qstr_The_last_time_you_sa|Kiedy widziałeś {reg1?ją:jego} po raz ostatni, {s1}
+qstr_The_last_time_you_he|Kiedy słyszałeś o {reg1?niej:nim} po raz ostatni, {s1}
+qstr_{s50}|{s50}
+qstr_Current_garrison_con|Garnizon liczy {reg5} ludzi.^Pożywienia wystarczy na {reg6} dni.
+qstr_Very_Poor|bardzo niski
+qstr_Poor|niski
+qstr_Average|średni
+qstr_Rich|wysoki
+qstr_Very_Rich|bardzo wysoki
+qstr_Manor|Posiadłość
+qstr_A_manor_lets_you_res|Posiadłość pozwala Ci odpoczywać na wsi. W czasie odpoczynku płacisz ludziom ze swojego oddziału tylko połowę żołdu. 
+qstr_Mill|Młyn
+qstr_A_mill_increases_vil|Młyn zwiększa dobrobyt we wsi o 5%.
+qstr_Watch_Tower|Wieża strażnicza
+qstr_A_watch_tower_lets_t|Wieża strażnicza pozwala mieszkańcom wsi wcześnie bić na alarm. Czas kiedy wrogowie spustoszą wieś wydłuża się o 25%.
+qstr_School|Szkoła
+qstr_A_shool_increases_th|Dzięki szkole oddanie Twoich mieszkańców wsi wzrasta o 1 punkt w miesiącu.
+qstr_Messenger_Post|Poczta
+qstr_A_messenger_post_let|Dzięki poczcie mieszkańcy mogą wysłać Ci wiadomość o napaści wrogów, nawet gdy jesteś daleko. 
+qstr_Prison_Tower|Wieża więzienna
+qstr_A_prison_tower_reduc|Więźniowie z wieży więziennej mają mniejsze szanse na ucieczkę.
+qstr_Prosperity_of_{s2}_h|{s2} - zmiana poziomu dobrobytu z {s3} na {s4}.
+qstr_{s4}_looks_upset.|{s4} wygląda na zawiedzionego. 
+qstr_OiM_You_ve_lost_your|Straciłeś konia. 
+qstr_oim_potop_negative_e|Roku pańskiego 1655 król polski siłą rozpędził radę szlachecką sejmem zwaną, po czym ogłosił się monarchą absolutnym na wzór cara moskiewskiego. Jednak niewierna szlachta nie puściła mu tego płazem i wkrótce na ziemiach Wielkiej i Małej Polski, ziemiach litewskich, ruskich i ukraińskich, ogłoszono konfederacje, które król postanowił tłumić z pomocą najemnych niemieckich landsknechtów. ^Wkrótce cała polsko-litewska republika spaliła się w wojennych pożarach, jak wiązka suchego chrustu. Sam Jan Kazimierz, straciwszy poparcie szlachty i narodu, uciekł, tronu się zrzekając, wraz ze swym dowódcą o imieniu {playername}, który z nizin społecznych pochodził. Na granicy Mazowsza i Prus otoczył ich duży oddział zbójów, których wielu włóczyło się natenczas po kraju. Król i wszyscy jego towarzysze zginęli, a gdzie zwłoki ich spoczywają, nikt po dzień dzisiejszy nie wie. ^Zenon Petrecki, ''Krótka historia Rzeczpospolitej'', 1855 r.
+qstr_your_party|Twój oddział
+qstr_{reg0?One_of_your_pr|{reg0?Jeden z Twoich jeńców, :}{s1} ({s3}){reg0?,:} uciekł!
+qstr_You_brought_{reg3}_h|{s1}: dostarczono {reg3} sztuk bydła.
+qstr_I_heard_that_there_w|Powiadają, że wkrótce odbędzie się turniej w miejscowości {s62}.
+qstr_I_heard_that_one_can|Powiadają, że {s63} sprzedaje bardzo tanio. {s62} może być dobrym przykładem.
+qstr_I_heard_that_they_pa|Powiadają, że {s63} zapłaci bardzo dużo za towary. Przykładem jest {s62}.
+qstr_Log_entry_{reg3}:_ty|Wpis {reg3}: typ {reg4}
+qstr_Center:_{s4}|Centrum: {s4}
+qstr_Troop:_{s4}|Wojsko: {s4}
+qstr_Lord:_{s4}|Władca: {s4}
+qstr_Ally_party_is_presen|Znajduje się tam wojsko sojusznicze
+qstr_{s4}_is_present_at_e|{s4} jest obecny na uroczystości.
+qstr_Event_#{reg5}_type_{|Wydarzenie #{reg5}, typ {reg6}, czas {reg8}: stosunek mocarstwa gracza do wojska = {reg7}
+qstr_Event_#{reg5}_type_{r|Wydarzenie #{reg5}, typ {reg6}, czas {reg8}: stosunek mocarstwa gracza do głównego państwa = {reg7}
+qstr_Event_#{reg5}_type_{re|Wydarzenie #{reg5}, typ {reg6}, czas {reg8}: stosunek mocarstwa gracza do państwa = {reg7}
+qstr_Event_#{reg5}_type_{reg|Wydarzenie #{reg5}, typ {reg6}, czas {reg8}. Nie ma nawiązanych stosunków z królestwem.
+qstr_Event_#{reg5}_type_{reg6|Wydarzenie #{reg5}, typ {reg6}, czas {reg8}. Gracz nie uczestniczy.
+qstr_Elapsed_hours:_{reg7|Minęło godzin: {reg7}
+qstr_Reputation_type:_{s1|Typ reputacji: {s15}
+qstr_Entries_up_to_#{reg5|Dokonano wpisów do: #{reg5}
+qstr__{reg6}_dinarov_| ({reg6} talarów)
+qstr__{s20}_{s22}_{s5}| {s20}, {s22} {s5}
+qstr_{s0}___{reg1}|{s0} - {reg1}
+qstr__^not_drunk| ^^[jest trzeźwy]
+qstr__^slightly_drinken| ^^[troszeczkę wypił]
+qstr__^quite_drunk| ^^[musiał sporo siedzieć w karczmie]
+qstr__^cant_say_few_words| ^^[długo próbuję skierować na Ciebie swój wzrok]
+qstr_V_otryade_nachalas_e|W oddziale szaleje {s0}. Żeby się wyleczyć, twoi żołnierze potrzebują odpoczynku w karczmie i porządnego jedzenia. Poza tym byłoby dobrze, gdyby obejrzał ich lekarz.
+qstr_{s0}|{s0}
+qstr_{s50}_i_{s0}|{s50} i {s0}
+qstr_v_otryade_nachalas_e|W oddziale szaleje {s0}. Żeby się wyleczyć, twoi żołnierze potrzebują odpoczynku w karczmie i porządnego jedzenia. Poza tym byłoby dobrze, gdyby obejrzał ich lekarz.
+qstr_v_otryade_nachalis_e|W oddziale szaleją {s50}.
+qstr_{s2}_{reg3?was:is}_in|{s2} {reg3? {reg4?była:był}:jest} w drodze i {reg4?ona:on} {reg3? {reg4?była:był}:{reg4?powinna być:powinien być}} w okolicach miejscowości {s3}.
+qstr_Player:_v_gorode_{s3|W miejscowości {s30} wkrótce pojawi się {s31}.
+qstr_{s0}_{s2}|{s0}, {s2}
+qstr_V_gorode_{s30}_zaver|W miejscowości {s30} pojawia się {s31}.
+qstr_Glava|Włodarz
+qstr_tax:_{reg3}|podatki: {reg3}
+qstr__{s2}_stud:_{reg0}| {s2} stud: {reg0}
+qstr_depozita|Depozyt
+qstr_kredita|Kredyt
+qstr_Zdes_vi_mozhete_zaka|Możesz tu zamówić wspaniałą broń.
+qstr_Zdes_vi_mozhete_zakaz|Możesz tu zamówić wspaniałe umundurowanie.
+qstr_Vash_zakaz_esche_ne_|Twoje zamówienie nie jest jeszcze gotowe. 
+qstr_Vi_esche_ne_zabrali_|Nie odebrałeś jeszcze swojego poprzedniego zamówienia!
+qstr_Za_mir_nuzhno_budet_|Zgadzamy się na zawarcie pokoju, jeśli przekażesz nam {s5}.
+qstr_Za_mir_nuzhno_budet_o|Zgadzam się na zawarcie pokoju, ale {s5} i {s2} muszą być moje.
+qstr_Uchitivaya_silu_vash|Szanujemy siłę waszej broni, dlatego zgadzamy się na zawarcie pokoju.
+qstr_Za_mir_vam_nuzhno_bu|Zgadzamy się na zawarcie pokoju za niewielką kontrybucję w wysokości {reg1} talarów.
+qstr_^{s20}_{s21}|^{s20} {s21}
+qstr_gorode|mieście
+qstr_zamke|zamku
+qstr_sele|wiosce
+qstr_V_{s22}_hodyat_sluhi| Plotki krążące po {s22}: {s21}
+qstr_V_etom_{s22}_nichego| W {s22} nie wydarzyło się nic godnego uwagi. 
+qstr_{s3}_{reg1}_|{s3}({reg1})
+qstr_{s4}_{s3}_{reg1}_|{s4}, {s3}({reg1})
+qstr_Party_has_nothing_to|Twój oddział głoduje! 
+qstr_{s31}|{s31}
+qstr__{s32}| {s32}
+qstr__| 
+qstr_Cannot_leave_now.|Teraz nie możesz wyjść. 
+qstr_You_must_stay_behind|Musisz stać na ziemi za linią! Punkt nie został zaliczony.
+qstr_You_run_away_from_th|Uciekłeś z pola walki.
+qstr_You_came_into_the_wo|Jesteś {reg3?potomkiem:potomkiem} możnego, lecz zubożałego rodu. Majątki Twojego ojca zupełnie podupadły i ze wszystkich dostatków pozostała mu tylko siedziba, w której mieszkaliście. Nie bacząc na wszystkie trudności, rodzina postarała się zapewnić Ci porządne wykształcenie i od dziecka przygotować do służby na dworze.
+qstr_You_were_born_the_{r|Jesteś {reg3?córką:synem} wędrownych kupców, stale zmieniających miejsce pobytu w poszukiwaniu zarobku. Chociaż twoi rodzice byli bogatsi od większości otaczających Cię towarzyszy i dali Ci najlepsze wykształcenie, na jakie było ich stać, nie udało Ci się zdobyć przyjaciół w niekończących się podróżach. Całe Twoje życie składało się głównie z handlu.
+qstr_As_a_child_your_fami|Kiedy byłeś dzieckiem Twoja rodzina z trudem wiązała koniec z końcem, próbując przeżyć z lafy ojca, który był strażnikiem u miejscowego szlachcica. Żyło się ciężko i na dobre wykształcenie brakowało środków. Przede wszystkim, nauczyłeś się na ulicy jak zadbać o siebie, z bronią czy też bez niej. 
+qstr_{reg3?daughter:son}|{reg3?córka:syn}
+qstr_You_were_the_{reg3?d|Urodziłeś się w rodzinie, która mieszkała nieopodal lasu i, wiążąc koniec z końcem, zajmowała się wszystkim: polowaniami, wyrębem lasu, produkcją strzał, a kiedy było już całkiem ciężko - kłusownictwem. Zimą było najgorzej, ponieważ z chłodu umierali i ludzie, i zwierzęta. Tobie udało się te zimy przeżyć, ale twoi bracia i siostry nie mieli tyle szczęścia.
+qstr_You_were_a_child_of_|Urodziłeś się w stepie, w plemieniu koczowników, którzy żyli w wielkich obozach na bezkresnych pastwiskach. Jak wszyscy koczownicy, tak i Twoja rodzina najbardziej ceniła konie. Nauczyłeś się na nich jeździć wcześniej niż stawiać pierwsze kroki.
+qstr_As_the_{reg3?daughte|Jako {reg3?córka:syn} złodzieja, nie mogłeś zdobyć porządnego wykształcenia. Spędzałeś czas na ulicy, prosząc o jałmużnę, aż nauczyłeś się rzezać mieszki, później zaś otwierać zamki. Tak właściwie minęło Ci całe dzieciństwo. Świetnie radzisz sobie na niebezpiecznych ulicach, poznałeś także wiele mrocznych sekretów miasta.
+qstr_As_a_{reg3?girl:boy}|Kiedy podrosłeś, zostałeś wysłany do jednego z miejscowych możnowładców gdzie przede wszystkim nauczyłeś sie pokory, wykonując polecenia przeróżnych dam i panów. Jednak podpatrując ich intrygi, słuchając jak plotkują, a nawet czytając wiersze o namiętnej miłości i bohaterskich czynach, pomału zacząłeś poznawać wielki świat, co Cię otaczał i w którym stale trwała walka. Wiele też nauczyłeś się z zabaw dzieci, które biły się kijami lub drewnianymi palcatami.
+qstr_As_a_{reg3?girl:boy}_|Kiedy trochę dorosłeś zostałeś oddany na czeladnika, by się nauczyć rzemiosła. Po wielu latach ciężkiej pracy i nauki, gospodarz mianował Cię {reg3?pomocnikiem:pomocnicą} i przyjął do pracy, płacąc śmiesznie niską pensję, dopóki sam nie zdecydowałeś się odejść. 
+qstr_As_a_{reg3?girl:boy}_g|Kiedy trochę podrosłeś, zacząłeś się uczyć rzemiosła u bogatego kupca, sprzedając w kramie przeróżne towary lub handlując w wędrownym obozie. Wkrótce wiedziałeś już jak tanio kupić i drogo sprzedać, a zarazem przekonać klientów, jak im się bardzo udała transakcja. 
+qstr_As_a_{reg3?girl:boy}_gr|Kiedy trochę podrosłeś, wyszedłeś na ulicę, imając się każdego zajęcia, które dawało szansę na przeżycie. Żebrałeś, wstępowałeś do watah grasantów i żyłeś wyłącznie dniem dzisiejszym w tym okrutnym świecie, zawsze o krok wyprzedzając prawo i tych, którzy chcieli Cię skrzywdzić.
+qstr_As_a_{reg3?girl:boy}_gro|Kiedy trochę podrosłeś zacząłeś przemierzać niezmierzone stepy na swoim koniu. Chociaż czasem nie miałeś jedzenia, udało Ci się zostać doskonałym myśliwym i tropicielem śladów. Twoje mięśnie stwardniały i z czasem stałeś się prawdziwym koczownikiem.
+qstr_{reg3?daughter:man}|{reg3?córka:mężczyzna}
+qstr_Though_the_distincti|Chociaż nie zauważyłeś tego od razu, z czasem stałeś się, {reg3?dorosłą kobietą:dorosłym mężczyzną}, i cały świat wokół Ciebie się zmienił... Kiedy zostałeś mianowany sługą rękodajnym, zacząłeś się uczyć jak władać bronią, zadawać i znosić silne ciosy. Opowiedziano Ci o obowiązkach, które masz wobec pana i o długu wobec tych, którzy w przyszłości mogą zostać Twymi poddanymi. Jednak poza ideałami rycerskimi dowiedziałeś się o mniej przyjemnych rzeczach - starzy wojacy dużo opowiedzieli o okrutnej polityce, władzy, zdradach i uzurpatorach, a także ludziach, którzy osiągali swe cele zarówno odwagą, jak i podstępem. 
+qstr_{reg3?woman:man}|{reg3?kobieta:mężczyzna}
+qstr_Though_the_distinctio|Chociaż nie zauważyłaś tego od razu, ale z czasem wydoroślałaś i cały świat wokół Ciebie się zmienił. Przyłączyłaś się do kręgu dam, żon i metres możnowładców, a także młodych dziewczyn, które poszukiwały sobie męża. Jednak nawet tutaj rządziła polityka - damy walczyły o uwagę najlepszych partii małżeńskich na dworze. Szybko się nauczyłaś wyciągać korzyść z każdego zdarzenia i zrozumiałaś, że przy odrobinie sprytu możesz być kimś bardzo wpływowym w tym świecie.
+qstr_Though_the_distinction|Chociaż nie zauważyłeś tego od razu, z czasem dorosłeś i cały świat wokół Ciebie się zmienił. Zacząłeś żyć swoim życiem, nie mając niczego oprócz instrumentu na plecach i własnego głosu. Z początku nie było Ci lekko, ludziom nie zawsze podobały się Twoje występy i nie zawsze też stać Cię było na jedzenie. Dzięki Twojemu głosowi udało Ci się jednak przeżyć i z czasem nauczyć się zbierać tłumy widzów w karczmach, a co nawet bardziej pożyteczne, wyciągać od ludzi wszystkie potrzebne Ci wiadomości. 
+qstr_Though_the_distinction_|Chociaż nie zauważyłeś tego od razu, ale z czasem stałeś się, {reg3?dorosłą kobietą:dorosłym mężczyzną}, i cały śiwat wokół Ciebie się zmienił. Zostałeś żakiem na uniwersytecie w jednym z wielkich miast, zgłębiałeś teologię, filozofię i medycynę. Jednak nie wszystkie lekcje odbierałeś w kolegium. Czasem z przyjaciółmi wybierałeś się na poszukiwania kobiet, wina i dobrej bójki. Nie przeszkadzało Ci to jednak żyż z nastawiania połamanych kości i przekonywania rozwścieczonych kupców by przyjęli rekompensatę pieniężną za zniszczone sklepy.
+qstr_Though_the_distinction_f|Chociaż nie zauważyłeś tego od razu, ale z czasem wydoroślałeś i cały świat wokół Ciebie się zmienił. Kusiła Cię droga i zacząłeś podróżować od jednej wsi do drugiej, kupując i sprzedając wszystko, co zdołałeś. Na początku nie byłeś bogaty, ale z wolna nauczyłeś się handlować nawet z najbardziej skąpymi starcami. Wkrótce powinieneś uzbierać wystarczająco, by stworzyć własne imperium handlowe...
+qstr_Though_the_distinction_fe|Chociaż nie zauważyłeś tego od razu, ale z czasem wydoroślałeś i cały świat wokół Ciebie się zmienił. Wybrałeś fach kowala i zacząłeś wykuwać z metalu niezwykle piękne i pożyteczne przedmioty. Z czasem stałeś się prawdziwym mistrzem i za Twoją pracę ludzie płacili duże pieniądze. Siedząc wieczorem przy kominku po sutej kolacji, z dumą rozmyślałeś o swej rosnącej sławie.
+qstr_Though_the_distinction_fel|Chociaż nie zauważyłeś tego od razu, ale z czasem wydoroślałeś i cały świat wokół Ciebie się zmienił. Nie pociągała Cię pogoń za pieniędzmi i zdecydowałeś osiedlić się w lesie miejscowego możnowładcy, nie zważając na prawo. Polowałeś na jelenie, gęsi, dziki, a potem cichaczem sprzedawałeś mięso. Rąbałeś drzewa prosto przed nosem leśniczych, by mogli swe domy ogrzać zimą, oczywiście, też za pieniądze.
+qstr_Only_you_know_exactl|Tylko Ty możesz wiedzieć, co zmusiło Cię do rzucenia poprzedniego życia i poszukiwania przygód. Jednakże wściekłość szalejąca w Twoim sercu pozwoliła by rozstanie z przeszłością nie było trudne. Chcesz się zemścić. Szukasz sprawiedliwości. Tego, co z Tobą zrobiono, już się nie da naprawić lecz zapłacić za to można tylko krwią...
+qstr_Only_you_know_exactly|Tylko Ty możesz wiedzieć, co zmusiło Cię do rzucenia poprzedniego życia i poszukiwania przygód.. Nie mogłeś już ostać w poprzednim miejscu i żyć wspomnieniami tych, którzy byli Ci tak drodzy. Możliwe, że Twoje nowe życie pozwoli Ci zapomnieć lub przysporzyć sławy imionom, których już nawet nie masz siły wymówić...
+qstr_Only_you_know_exactly_|Tylko Ty możesz wiedzieć, co zmusiło Cię do rzucenia poprzedniego życia i poszukiwania przygód. Ale nawet Ty nie wiesz dokładnie, dlaczego Twój dom nagle wydał się więzieniem, wszystko co Cię otaczało sprzykrzyło się, a Twoje myśli zajęły wędrówki. Gdzie byś się nie zatrzymywał i czego byś nie spotkał po drodze i tak nigdzie nie mogłeś zostać dłużej. Po prostu szedłeś naprzód, nie oglądając się za siebie...
+qstr_Only_you_know_exactly_w|Tylko Ty możesz wiedzieć, co zmusiło Cię do rzucenia poprzedniego życia i poszukiwania przygód. Wiesz, że nie ma już drogi powrotu, a zresztą i tak nie ma do czego wracać. Nie ma już domu, jaki by on nie był i musisz przyznać, że zostałeś na tym świecie całkowicie sam. Teraz albo utoniesz, albo nauczysz się pływać...
+qstr_Only_you_know_exactly_wh|Tylko Ty możesz konkretnie powiedzieć, co zmusiło Cię do porzucenia poprzedniego życia i wyruszenia na poszukiwanie przygód. Wszyscy wokół są pewni, że masz jakiś niejasny cel. Chcesz bogactwa, władzy, szacunku, chcesz, by to Ciebie się bano... Chcesz, by ludzie bili Ci pokłony, żeby Twoje imię znali wszyscy, a jego brzmienie wszystkich przerażało. Chcesz wszystko mieć natychmiast i nikt nie przeszkodzi w tym, byś to osiągnął!
+qstr_Back_to_the_beginnin|Wróć do początku...
+qstr_View_next_segment...|Kolejna część
+qstr___| -
+qstr__+| +
+qstr_^No_food:___{reg7}|^Brak pożywienia:  -{reg7}
+qstr_^Wage_debt:___{reg6}|^Długi:  -{reg6}
+qstr_Current_party_morale|Morale oddziału wynosi {reg5}.^Na nie wpływa:^^Wartość podstawowa: +50^Wielkość oddziału: {s2}{reg1}^Przywództwo: {s3}{reg2}^Różnorodność pożywienia: {s4}{reg3}{s5}{s6}^Niedawne wydarzenia: {s7}{reg4}^ŁĄCZNIE: {reg5}
+qstr_Defending|Obrona
+qstr_Gathering_army|Zbieranie armii
+qstr_Besieging_{s11}|{s11} - oblężenie
+qstr_Raiding_{s11}|{s11} - atak
+qstr_Attacking_enemies_ar|Atak na wrogów w pobliżu {s11}
+qstr_No_one|Ani jednego 
+qstr_{s9}{s10}^Current_st|{s9}{s10}^Stopień: {s11}^Marszałek: {s12}^Od ostatniego ataku minęło: {reg1} godz.^Przy ataku pomogło: {reg2}^^
+qstr_Selected_faction_is:|Wybrane państwo: {s10}^^{s9}
+qstr_You_are_currently_re|Czytasz książkę pod tytułem: {s8}.
+qstr_You_are_not_reading_|Akualnie nie czytasz książki. 
+qstr_none|Brak
+qstr_{s5}_and_{s6}|{s5} i {s6}
+qstr_{s5}_{s6}|{s5}, {s6}
+qstr_Renown:_{reg2}.^Hono|Sława: {reg2}^Szacunek: {reg3}^Przyjaciele: {s8}.^Wrogowie: {s6}.^{s9}
+qstr_Your_estates_are:_{s|Twoje posiadłości: {s8}.^{s9}
+qstr_You_are_a_lord_of_{s|Jesteś szlachcicem: {s8}.^{s9}
+qstr_Current_party_size_l|Maksymalna wielkość oddziału: {reg5}.^Wpływa na nią:^^Wielkość podstawowa: +{reg4}^Przywództwo: {s2}{reg1}^Charyzma: {s3}{reg2}^Sława: {s4}{reg3}^ŁĄCZNIE: {reg5}
+qstr_Loyal|Wierność
+qstr_Devoted|Oddanie
+qstr_Fond|Przywiązanie
+qstr_Gracious|Uprzejmość
+qstr_Friendly|Przyjazność
+qstr_Supportive|Wsparcie
+qstr_Favorable|Życzliwość
+qstr_Cooperative|Serdeczność
+qstr_Accepting|Uznanie
+qstr_Indifferent|Obojętność
+qstr_Suspicious|Podejrzliwość
+qstr_Grumbling|Niezadowolenie
+qstr_Hostile|Wrogość
+qstr_Resentful|Oburzenie
+qstr_Angry|Złość
+qstr_Hateful|Nienawiść
+qstr_Revengeful|Wrogość
+qstr_Vengeful|Nienawiść
+qstr_{s2}^{s4}:_{reg1}__{|{s2}^{s4}: {reg1} ({s3})
+qstr_Your_relation_with_t|Twoje stosunki z państwami:^{s2}
+qstr_V_{s10}_stroitsya_{s|W miejscowości {s10} trwa budowa: {s11}. Pozostało {reg4} d. i {reg5} g.
+qstr_V_{s10}_postroeno_{s|W miejscowości {s10} zakończono budowę: {s11}.
+qstr_Player_renown_is_inc|Sława gracza została zwiększona o 100.
+qstr_{reg1}_{s1}_{reg2?ac|{reg2?{s1} (w liczbie {reg1}) przyjmują:{reg1} {s1} przyjmuje} propozycję.
+qstr_No_one_accepts_the_o|Nikt nie przyjął propozycji. 
+qstr_You_start_reading_{s|Zaglądasz do księgi pod tytułem: {s2}. Po przeczytaniu kilku stron, rozumiesz, że możesz się z niej wiele nauczyć. Podejmujesz decyzję, że będziesz ją woził przy sobie i czytał kiedy nadarzy się taka sposobność. 
+qstr_You_flip_through_the|Przeglądasz księgę pod tytułem: {s2}, ale jej tekst jest dla Ciebie zbyt trudny. Od czytania zaczyna boleć Cię głowa i musisz je przerwać.
+qstr_You_paid_{reg3}_of_y|Zapłaciłeś {reg3} z Twoich {reg4} talarów swoim ludziom. Zostało Ci {reg5} talarów
+qstr_Your_debt_to_your_me|Jesteś winny swoim ludziom {reg3} talarów, jednak masz ich tylko {reg4}. Niezapłacona kwota {reg5} talarów będzie dodana do Twojego długu. Morale w twoim oddziale spada.
+qstr_This_week_s_wages:_{|Tygodniowy żołd: {reg6} talarów^Długi: {reg2} talarów^Łącznie: {reg3} talarów^W posiadaniu: {reg4} talarów^^{s1}
+qstr_Villagers|Mieszkańcy wsi 
+qstr_You_have_encountered|Na Twej drodze staje {s1}.
+qstr_Armiya_protivnika_po|Armia przeciwnika wycofała się za tabór.
+qstr_You_have_engaged_{s1|Ty i {s1} rozpoczęliście walkę, kiedy oni atakowali {s3}.
+qstr_You_were_caught_by_{|{s1} napada na Ciebie w trakcie plądrowania wsi {s3}.
+qstr_You_were_victorious!|Zwyciężyłeś!
+qstr_Battle_was_lost._You|Bitwa została przegrana. Twoje wojsko jest doszczętnie rozbite.
+qstr_Your_companions_carr|Twoi towarzysze wynieśli Cię z pola bitwy. 
+qstr_You_have_defeated_th|Zwyciężyłeś wroga. 
+qstr_You_have_retreated_f|Wycofałeś się z pola walki.
+qstr_^^Ally_Casualties:{s|^^Straty sojuszników:{s0}
+qstr_{s1}_of_{s3}_managed|{s1} ({s3}) zdołał zbiec. 
+qstr_{s17}|{s17}
+qstr__V_gorode_ostalos_{r|Przy życiu pozostało {reg0} wojowników, których wziąłeś do niewoli. Co zamierzasz z nimi zrobić?
+qstr__V_gorode_ostalos_{re|Przy życiu pozostało {reg0} wojowników, których wyzwoliłeś z niewoli. Wcielić ich do garnizonu?
+qstr_Victory_comment._Pla|Zwycięstwo. Gracz był sam. 
+qstr_Ordinary_victory_com|Zwykłe zwycięstwo. Gracz przyprowadził ze sobą co najmniej 40 procent swych sił.
+qstr_Player_participation|Uczestnictwo gracza. Początkowa siła przeciwnika była równa co najmniej 1k.
+qstr_No_victory_comment._|Brak zwycięstwa. Bitwa była niewielka i gracz przyprowadził z sobą mniej niż 40 procent wszystkich wojsk sojuszniczych.
+qstr_Some_of_your_tendons|Naderwałeś w walce kilka ścięgien. Twoja siła zmniejszyła się o 1.
+qstr_You_took_a_nasty_wou|Otrzymałeś nieprzyjemną ranę. Jeszcze długo po wyzdrowieniu będziesz kuleć. Twoja zręczność zmniejszyła się o 1.
+qstr_You_have_trouble_thi|Po walce nie możesz w ogóle zebrać myśli, możliwe, że przyczyną tego jest silny cios w głowę, który otrzymałeś. Oprócz tego, zaczęły Cię męczyć silne migreny. Twój intelekt zmniejszył się o 1.
+qstr_Perhaps_I_m_getting_|Możliwe, że szczęście odwróciło się ode mnie...
+qstr_Retirement_is_starti|Chyba bardziej kusi mnie porzucenie służby.
+qstr_No_matter!_I_will_pe|Nic to! Przeżyję. 
+qstr_What_did_I_do_to_des|Za co to wszystko mnie spotyka?
+qstr_I_suppose_it_ll_make|Cóż, przynajmniej będzie, co opowiadać. 
+qstr_Player_retreats_from|Gracz opuszcza pole walki. 
+qstr_{s9}_wants_you_to_fo|{s9} chce byś podążał za jego armią, do czasu otrzymania kolejnych rozkazów. 
+qstr_{s8}_of_{s9}|{s8} ({s9})
+qstr__Your_own_banner_fli| Nad wrotami zamku powiewa Twoja flaga.
+qstr__You_see_the_banner_| Nad wrotami zamku powiewa flaga informująca, że to {s7} jest władcą tejże miejscowości.
+qstr__This_castle_seems_t| Wydaje się, że obecnie nikt nie jest właścicielem tych ziem.
+qstr__Your_own_banner_flie| Nad miejskimi wrotami powiewa Twoja flaga.
+qstr__You_see_the_banner_o| Nad miejskimi wrotami powiewa flaga informująca, że to {s7} jest władcą tejże miejscowości.
+qstr__The_townsfolk_here_| Mieszkańcy ogłosili niepodległość.
+qstr_Zapasov_edi_v_{reg6?|Zapasów jedzenia w {reg6?mieście:zamku} wystarczy jeszcze na {reg3} dni.
+qstr_Zapasov_edi_v_{reg6?g|Zapasy pożywienia w {reg6?mieście:zamku} skończyły się. Obrońcy głodują.
+qstr_Vi_stroite_lestnici_|Rozpocząłeś budowanie drabin. Do zakończenia prac pozostało {reg9} godzin.
+qstr_Prokladka_podkopa_dl|Podłożenie miny zajmie jeszcze {reg9} godz.
+qstr_Postroika_lestnic_za|Przygotowania zakończone. Możesz rozpocząć szturm w dowolnym momencie.
+qstr_Postroika_podkopa_za|Przygotowania zakończone. Możesz rozpocząć szturm w dowolnym momencie.
+qstr_As_a_last_defensive_|Po zebraniu sił, wycofujesz się do centralnej sali w twierdzy. Tutaj ze swoimi żołnierzami stoczysz ostatnią, zaciekłą walkę. Jeśli przegrasz, nie będziesz miał już gdzie się wycofać. 
+qstr_You_ve_been_driven_a|Musisz wycofać się spod murów - atakujący wkraczają na ulice. Jeśli ich zwyciężysz, może uda Ci się uratować. 
+qstr_You_ve_breached_the_|Przedostałeś się przez mury, ale obrońcy z uporem powstrzymują atak na ulicach! Trzeba się ich pozbyć, zanim ruszysz z atakiem na twierdzę w centrum miasta. 
+qstr_The_town_centre_is_y|Zająłeś centrum miasta. Aby Twoje zwycięstwo było pełne, musisz pokonać pozostałych przy życiu obrońców.
+qstr_The_remaining_defend|Ostatni obrońcy ukryli się w zamku. Musisz się tam dostać i zdławić ostatnie ognisko oporu. 
+qstr__kriticheskie|krytyczne
+qstr__ogromnie|ogromne
+qstr__visokie|wysokie
+qstr_However_since_you_ar|Jednak nie składałeś przysięgi {s9}, dlatego nie jesteś uznawany za {nowego pana/nową Panią} w tym{reg8?mieście:zamku}.
+qstr_The_enemy_has_been_f|Wróg został zmuszony do wycofania się. Bitwa jest zakończona, ale oblężenie trwa dalej. 
+qstr__This_village_and_th| Ta wieś i przylegające do niej ziemie należą do Ciebie. 
+qstr__You_remember_that_t| Przypominasz sobie, co to za wieś i do kogo należą przylegające ziemie. Ich władcą jest {s7}.
+qstr__These_lands_belong_| Te ziemie nie należą do nikogo. 
+qstr__{s3}__{reg9}_.| {s3} ({reg9}).
+qstr__The_village_is_infe| Wieś została napadnięta! {s35} w liczbie {reg8} ludzi okupują wioskę.
+qstr__The_village_has_bee| Wieś została spustoszona. Garstka ludzi w przerażeniu ucieka, kiedy przechodzisz obok spalonych domów.
+qstr__The_village_is_bein| Wieś została napadnięta!
+qstr_No_one_here_seems_to|Nikt nie pała chęcią przyłączenia się do Twego oddziału. 
+qstr_One_{s3}_volunteers_|Jeden ochotnik, {s3}, zgłasza, że pójdzie z Tobą. 
+qstr_{reg5}_{s3}_voluntee|{reg5} ludzi zgadza się pójść z Tobą.
+qstr_Try_as_you_might_you|Jak byś się nie starał, nie poradzisz sobie z rozbójnikami. Z wściekłości niszczą całą wieś, aby dać nauczkę chłopom. Zostawiają po sobie spaloną ziemię.
+qstr_village|Wieś 
+qstr_town|Miasto
+qstr_castle|Zamek
+qstr_{s18}_{s0}|{s18}, {s0}
+qstr_The_{s17}_has_no_imp|{s17} - nie posiada żadnego usprawnienia. 
+qstr_The_{s17}_has_the_fo|{s17} posiada usprawnienie: {s18}.
+qstr_The_assasins_beat_yo|Zabójcy biją Cię dotkliwie i porzucają, będąc pewnym, że jesteś martwy. 
+qstr_You_have_fallen._The|Leżysz na ziemi. Rozbójnicy obszukują Twoje ciało, zabierają wszystko, co ma nawet najmniejszą wartość i rozpływają się w mroku nocy. Ty jednak jesteś żywy i to jest najważniejsze. 
+qstr_Luckily_some_of_your|Na szczęście twoi towarzysze, zaniepokojeni długą nieobecnością, wyruszają na poszukiwania i znajdują Cię przy drodze. Przenoszą Cię w bezpieczne miejsce i opatrują rany. 
+qstr_Luckily_some_passing|Na szczęście kilku mieszczan znajduje Cię przy drodze i nie biorą Cię za zwykłego pijaka lub żebraka. Odnoszą Cię do najbliższego budynku i opatrują rany.
+qstr_You_fail_to_steal_an|Nie udało Ci się wykraść bydła.
+qstr_You_drive_away_{reg1|Wyprowadziłeś ze stada ze wsi {reg17} {reg12?:} sztuk bydła.
+qstr_OiM_Teper_luchshe_{s|{s9} nie jest zachwycony Twoimi poczynaniami. Lepiej unikać z nim konfrontacji...
+qstr_OiM_Potop_Loshad_tep|Koń został zdobyty. Czas dostarczyć go na miejsce.
+qstr_You_are_at_{s2}.|Oto {s2}.
+qstr__You_have_successful| Udało Ci się przeniknąć do środka.
+qstr___{reg1}_denars_per_| ({reg1} talarów za noc)
+qstr_Moreover_you_earn_{r|Oprócz tego otrzymujesz {reg8} talarów ze stawek, które postawiłeś na siebie.
+qstr_Victory_is_yours!_Yo|Zwycięstwo jest Twoje! Wygrałeś tą walkę, ale musisz się przygotować do następnej rundy.
+qstr_You_have_been_bested|W tej walce odniosłeś porażkę, ale mistrz ceremonii docenił Twoją wprawę i odwagę i pozwolił Ci wziąć udział w kolejnej rundzie.
+qstr_{s11}^{s12}|{s11}^{s12}
+qstr_You_were_beaten._The|Nie udało Ci się. Chłopi cieszą się, a Tobie nie udało się dać im nauczki. 
+qstr_After_beating_your_l|Po pokonaniu wszystkich przeciwników, wyjaśniasz chłopom jak najlepiej bronić się przed takimi atakami. Jest nadzieja, że wszystko zrozumieją i przygotują się jak należy.
+qstr_The_bandits_are_brok|Rozbójnicy zostali pokonani! Ci, którzy przeżyli, uciekali gdzie pieprz rośnie, bojąc się chłopów i ich nowego obrońcy. 
+qstr_{s1}_s_Ship|Właścicielem statku jest: {s1}
+qstr_^{s3}_=_{reg1}{s1}|^{s3} = {reg1}{s1}
+qstr_^{s3}_=_{reg1}{s2}|^{s3} = {reg1}{s2}
+qstr_However_{reg3?You_ar|Jednak {reg3?nie możesz:{s1} nie może} znaleźć towarów, które przyniosłyby Ci zysk. 
+qstr_^Buying_{s4}_here_an|^Jeśli zakupisz tutaj towar, którym będzie {s4} i sprzedasz go w miejscowości {s5}, osiągniesz zysk w wysokości {reg6} talarów za sztukę. {s3}
+qstr_{reg3?You_find:{s1}_|{reg3?Dowiedziałeś się:{s1} dowiaduje się}, co następuje:^{s3}
+qstr__Continue....|Kontynuuj...
+qstr__Ne_hvataet_money_nu|Brakuje pieniędzy. Potrzeba {reg8} talarów.
+qstr__Back|Kontynuuj...
+qstr__Stoimost_{reg8}_din|Koszt w talarach: {reg8}.
+qstr__Continue|Kontynuuj...
+qstr_{s2}^{reg1}_{s1}_ear|{s2}^{reg1} {s1} otrzymuje {reg0} punktów doświadczenia.
+qstr_{s2}^{s1}_earned_an_|{s2}^{s1} otrzymuje jeszcze {reg0} punktów doświadczenia.
+qstr_^You_earned_{reg0}_e|^Otrzymujesz {reg0} punktów doświadczenia.{s2}
+qstr_The_training_didn_t_|Trening w ogóle się nie udał. 
+qstr_The_training_didn_t_g|Trening niezbyt dobrze się udał. 
+qstr_The_training_went_qu|Trening udał się całkiem normalnie. 
+qstr_The_training_went_ve|Trening udał się dobrze. 
+qstr_The_training_went_pe|Trening udał się świetnie. 
+qstr_{s13}_asked_you_to_r|{s13} prosi Cię, abyś stawił się u niego z oddziałem liczącym co najmniej {reg13} ludzi.
+qstr_{s13}_ordered_you_to|{s13} rozkazuje Ci przyłączyć się do ataku. Celem jest {s14}.
+qstr_Find_and_speak_with_|Odszukaj i złóż przysięgę wierności władcy o imieniu {s3} ({s4}).
+qstr_you|ty
+qstr_OiM_You_ve_failed_to|Nie udało Ci się obronić wsi. 
+qstr_OiM_You_ve_protected|Pokonałeś wrogów. Możesz kontynuować podróż.
+qstr_OiM_You_ve_failed_to_|Nie udało Ci się dostarczyć konia. 
+qstr_OiM_You_ve_protected_|Udało Ci się uwolnić od pościgu. Musisz jak najszybciej dostarczyć konia na miejsce, póki nie połakomi się na niego ktoś inny.
+qstr_OiM_Da_takoe_bivaet_|Taka szansa zdarza się tylko raz w życiu.
+qstr_OiM_Potop_Pani_osvob|Pani została uwolniona. Nadszedł czas ruszać z powrotem. 
+qstr_OiM_Potop_kshetuskiy|Udało Ci się przedostać do stajni.
+qstr_OiM_You_ve_failed_to_w|Nie udało Ci się złamać oporu wrogów i przegrałeś bitwę. 
+qstr_OiM_You_ve_got_the_h|Udało Ci się uwolnić od pościgu. Musisz jak najszybciej dostarczyć konia Skrzetuskiemu.
+qstr_Kozaki_podnyali_na_n|Kozacy zbudzili straże!
+qstr_OIM_getman_heroe_can|Raport dowódcy miasta węgierskiego Berghoff, złożony Wielkiemu Mistrzowi: ^^Mistrzu! O legendarnym Czarnym Hetmanie udało się dowiedzieć, co następuje: jest to relikwia jednego z odłamów rodziny rządzącej Rusią. Według legendy rodzinnej książąt Olegowiczów, w połowie XII wieku naszej ery ich przodkowie zawarli tajny sojusz z pogańskimi kapłanami - guślarzami. Guślarze mieli wpływ na zwykłych ludzi i z ich pomocą książęta chcieli zdobyć władzę. ^Właśnie wtedy guślarze przekazali Olegowiczom Czarnego Hetmana - buławę, która daje potężną władzę jej posiadaczowi, zaś książęta wybudowali niedaleko Kijowa klasztor pod wezwaniem Cyryla, gdzie, jak się wydaje, znajduje się Czarny Hetman. ^^Podobną legendę znają magnaci na Żmudzi - Radziwiłłowie. Jak się udało wyjaśnić, Radziwiłłowie pochodzą z rodziny kapłanów, a ich korzenie sięgają jeszcze czasów dynastii Rurykowiczów.
+qstr_OIM_getman_heroe_nee|Książka została napisana w starym, nieznanym języku. Musisz znaleźć jakiegoś uczonego męża, który mógłby ją przetłumaczyć.
+qstr_OIM_add__pora_nayti_|Po spędzeniu wielu godzin w archiwum, udało Ci się dowiedzieć, że buława znajduje się najprawdopodobniej w grobowcu Radziwiłłów. 
+qstr_OiM_You_ve_failed_to_wi|Przegrałeś bitwę. Zostałeś związany przez straże i wtrącony do lochów. 
+qstr_OiM_You_ve_wing_the_|Król został obalony. 
+qstr_OIM_add_getman__Da_z|Nie na darmo Radziwiłł chciał zdobyć buławę. Posiadacza Czarnego Hetmana poprą zapewne wszystkie wpływowe rody. Spróbuj znaleźć ten stary artefakt...
+qstr_OIM_add_getman__Knig|Bez tłumacza księgi się nie da przeczytać.
+qstr_OIM_add_getman__Prik|Pora pokazać wrogowi, jak walczą prawdziwi Kozacy. 
+qstr_OIM_add_getman__Nuzh|Hetman ma nowe rozkazy dla Ciebie. Musisz się z nim spotkać. 
+qstr_OiM_dmitriy_Teper_ko|Teraz, kiedy strażnicy więzienni nie żyją, tylko Car zna Cię z widzenia. Musisz znaleźć silnego opiekuna, który Cię obroni.
+qstr_OIM_add_getman__Prika|Barabasz rozkazuje Ci podbić Księstwo Moskiewskie.
+qstr_OIM_add_getman__Bunt|Bunt został utopiony we krwi. Barabasz chce Cię widzieć. 
+qstr_you_we_lost_the_figh|Przegrałeś walkę. Poza tym będziesz musiał oddać przeciwnikowi {reg0} talarów.
+qstr_you_won_the_fight._A|Wygrałeś {reg0} talarów. Oprócz tego, nauczyłeś się nowych chwytów w walce. 
+qstr_you_we_lost_the_fight|Zostałeś pokonany. Masz szczęście, że skończyło się na niewielkiej kontuzji.
+qstr_you_won_the_fight._An|Wygrałeś bójkę i nauczyłeś się kilku nowych chwytów. 
+qstr_You_ve_got_wound.._I|Odniosłeś kontuzję. Musisz trochę odpocząć i wzmocnić się. 
+qstr_oim_the_duel_is_over|Wynik walki - remis. 
+qstr_oim_the_duel_is_over.|Przegrałeś. Musisz potrenować strzelanie. 
+qstr_oim_the_duel_is_over._|Wygląda na to, że długie treningi z muszkietem nie poszły na marne. Wygrałeś.
+qstr_You_sought_that_the_|Podczas kolacji w karczmie zwróciłeś uwagę na zamożnego mieszczanina. Widzisz, że jest trochę pijany i wiesz, że pora uszczknąć co nieco z jego ciężkiej sakwy...
+qstr_There_is_gourds._It_|Po odpoczynku i porządnym posiłku w tawernie, postanawiasz kontynuować wędrówkę.
+qstr_You_lost_the_fight._|Przegrałeś. Straż, zauważywszy burdę, skrępowała Cię.
+qstr_The_man_is_dead..._Y|Zabiłeś swoich przeciwnikó. Zabierasz niewielką sumę z ich sakiewek oraz broń.
+qstr_you_were_killed_as_c|Werdykt sądu był surowy! Za zabójstwa i grabieże {playername} został skazany na śmierć przez powieszenie.
+qstr_Nu_vow_vostaniye_zak|Powstanie zakończone. Nadszedł czas, by porozmawiać z Razinem.
+qstr_Razin_now_is_the_mar|Razin został marszałkiem.
+qstr_OiM_text_for_main_qs|Posłaniec przekazał Ci informację, że sam król pragnie się z Tobą zobaczyć...
+qstr_Viberite_nuzhnuyu_va|Wybierz odpowiednią usługę:
+qstr_Na_daniy_moment_eto_|Centrum tej osady jest na razie puste i tylko wiatr hula po opuszczonych ulicach.
+qstr_V_vashem_otryade_net|Nie posiadasz ani jednego towarzysza w swoim oddziale.
+qstr_V_vashem_otryade_ime|Posiadasz w swoim oddziale towarzyszy, których można wyszkolić. Co chcesz zrobić?
+qstr_Prosmotret_spisok_go|Obejrzeć listę nieoblężonych miast, w których znajdują się pomocnicy.
+qstr_U_vas_net_gorodov_gd|Nie masz na razie dokąd wysłać gońca.
+qstr_Vam_nuzhno_poslat_go|Twoja stolica została podbita. Musisz wyznaczyć tymczasową stolicę.
+qstr_Vibor_stolici_proshe|Masz teraz nową stolicę.
+qstr_Vam_nuzhno_vibrat_di|Nie masz ani stolicy, ani miasta, do którego mógłbyś ją przenieść.
+qstr_{s5}|{s5}
+qstr_{s6}_^{s5}|{s6} ^{s5}
+qstr_{s7}|{s7}
+qstr_{s8}_^{s7}|{s8} ^{s7}
+qstr_Breaking_camp...|Przerwanie obozowania...
+qstr_{s65}|{s65}
+qstr_Current_wealth:_{reg|Twój stan: {reg1}
+qstr_Your_party_is_spotte|{s1} - zauważono Twój oddział. 
+qstr_{reg1}_{s1}_{reg2?ha|{reg1} {s1} {reg2?uciekło:uciekł} nocą z oddziału.
+qstr_{s1}_of_{s3}_has_bee|{s1} ({s3}) jest znów na wolności. 
+qstr_Building_of_{s0}_in_|Budowa {s0} w {s4} została zakończona. 
+qstr_{s1}_is_no_longer_in|{s1} już nie cierpi z powodu nocnych napadów rozbójników. 
+qstr_You_pay_for_accommod|Płacisz za zakwaterowanie. 
+qstr__Your_tactics_skill_| Twoja umiejętność taktyki została zwiększona o 1.
+qstr__Your_persuasion_ski| Twoja umiejętność przekonywania została zwiększona o 1.
+qstr__Your_leadership_ski| Twoja umiejętność przywództwa została zwiększona o 1.
+qstr__Your_intelligence_h| Twój intelekt został zwiększony o 1.
+qstr__Your_trade_skill_ha| Twoja umiejętność handlu została zwiększona o 1.
+qstr__Your_weapon_master_|Twoja umiejętność władania bronią została zwiększona o 1.
+qstr__Your_engineer_skill|Twoja umiejętność inżynierii została zwiększona o 1.
+qstr_You_have_finished_re|Skończyłeś czytać książkę autorstwa {s1}.{s2}
+qstr_Book_Read|Czytanie książki 
+qstr_You_must_follow_{s1}|{s1}!
+qstr_You_must_follow_{s1}!|Idź za {s1}! To ostatnie ostrzeżenie!
+qstr_{s1}_is_scouted.|{s1} - okolice zostały przeszukane.
+qstr_{s1}_has_switched_fr|{s1} zmienił jednego przywódcę ({s2}) na drugiego ({s3}).
+qstr_{s4}_is_in_{s5}|{s4} jest w miejscowości {s5}
+qstr_OiM_Ne_uspeli_otoyti|Nie zdążyłeś jeszcze odejść od Kozaków, a jeniec podjął próbę rozmowy z Tobą. 
+qstr_OiM_add_{s2}_joined_|{s2} przyłączył się do buntu Zagłoby!
+qstr_{s5}^_{s1}|{s5}^ {s1}
+qstr_You_promised_to_help|{s13} otrzymuje od Ciebie obietnicę poparcia przy próbie pretendowania do tronu. Pomóż mu zdobyć tron w państwie o nazwie {s14}.
+qstr_{s6}_has_joined_your_|{s6} dołączył do Twojego oddziału. 
+qstr_{reg65?my_Lady:my_Lo|{reg65?Waćpanna:Waszmość}
+qstr_{reg65?My_Lady:My_Lo|{reg65?Waćpanna:Waszmość}
+qstr_{reg65?madame:sir}|{reg65?Waćpanna:Waszmość}
+qstr_{reg65?Madame:Sir}|{reg65?Waćpanna:Waszmość}
+qstr_Viberite_variant.|Obecnie to co mogę zaoferować, to:
+qstr_Seychas_vse_dostupni|Obecnie wszyscy dostępni oficerowie są zajęci szkoleniem rekrutów.
+qstr_U_vas_nedostatochno_|Twoja sakwa jest zbyt lekka, aby nająć ochotnika!
+qstr_Vot_vse_chto_dostupn|Oto, co mogę Ci zaproponować.
+qstr_Vot_chto_vam_seychas|Obecnie jestem w stanie wykonać:
+qstr_Na_daniy_moment_net_|Brak dostępnych wariantów.
+qstr_Ya_seychas_zaynuat_p|Proszę o wybaczenie, ale ciągle zajęty jestem twym rozkazem, którego {s1} jest podmiotem. Będę wolny za kilka {reg1?dni:godzin}... No, powiedzmy, że {reg2}.
+qstr_Viberite_zhelayumiy_|Czego potrzebujesz, Panie?
+qstr_Zdes_esche_net_{s1}.|{s1} jeszcze tu nie funkcjonuje
+qstr_Zdes_uzhe_est_{s1}.|{s1} już tu jest
+qstr_{reg0?Naynyat:Postro|{reg0?Chciał{bym/abym} wynająć jednego:Chciał{bym/abym} tę budowlę wybudować}.
+qstr_U_vas_zdes_uzhe_post|Wybudowane są następujące budynki:^
+qstr_Zdes_k_tebe_loyalni_|W tym mieście wyznaczyłeś ludzi na następujące stanowiska:^
+qstr_U_vas_nichego_esche_|W tym kierunku nie poczyniono jeszcze żadnych kroków. 
+qstr_It_s_your_money_or_y|Sakiewka albo życie, {Panie/Pani}. I nie zwlekaj, jeśli zdrowie Ci miłe.
+qstr_Lucky_for_you_you_ca|Bądź pozdrowiony, dobry Panie. Co za spotkanie. Oddaj złoto i możesz stąd odejść spokojnie. 
+qstr_This_a_robbery_eh?_I|To napad. Oddawaj złoto jeśli życie Ci miłe, bo moi ludzie zabawią się z Tobą jak kat z dobrą duszą.
+qstr_we_have_made_very_li|praktycznie nie posunęliśmy się do przodu
+qstr_we_have_suceeded_in_|zdobyliśmy trochę ziemi, ale przed nami daleka droga
+qstr_we_have_become_a_sig|staliśmy się znaczącą siłą i mamy teraz szanse na zwycięstwo
+qstr_we_are_winning_the_w|wygrywamy wojnę, ale wrogowie się jeszcze trzymają
+qstr_we_are_on_the_verge_|prawie zwyciężyliśmy. Pozostali wrogowie nie są zagrożeniem, trzeba ich jednak znaleźć
+qstr_Yes_{s5}?|Tak, {s5}ie?
+qstr__no_fiefs_|(Brak włości)
+qstr__fiefs:_{s0}_|(Włości: {s0})
+qstr_{playername}_when_we|{playername}, z początku mało kto miał odwagę mnie poprzeć, a jeszcze mniej było tych, którzy gotowi byli za mnie zginąć. Ty jednak nie miałeś nawet cienia wątpliwości, kiedy trzeba było radzić sobie z mymi wrogami. Wieleśmy przeżyli razem i były chwile, kiedy już traciłem nadzieję. Jednak z Bożą pomocą, zwyciężyliśmy. Teraz muszę Cię opuścić i odebrać to, co mi się zgodnie z prawem należy. Od tej pory {s3} to moje dobro rodowe. Biorę za nie odpowiedzialność, przejmując władzę. Czeka mnie jeszcze w przyszłości wiele prób i liczę na to, że mnie nie opuścisz. No i, rzecz jasna, zawsze będziesz moim najwierniejszym wasalem. 
+qstr_I_am_{s4}_the_ruler_|Jestem {s4}, {s6} to moje włości
+qstr_I_am_{s4}_a_vassal_o|Jestem {s4}, szlachcic kraju {s6}
+qstr_{s9}{reg5?_and_the_l|{s9}{reg5?. {s8} to moje włości.:.}
+qstr_Your_mission_is_comp|Twoja misja została wypełniona, {s9} chce, zebyś podążał za jego armią do następnych rozkazów.
+qstr_{s13}_asked_you_to_g|{s13} prosi Cię, byś mu przygnał {reg3} sztuk bydła.
+qstr_{s9}_asked_you_to_sc|{s9} prosi Cię, byś rozeznał okolicę wokół miejscowości: {s13}, {s14} oraz {s15}, a następnie wrócił do niego z raportem. 
+qstr_{s16}_and_{s17}|{s16} i {s17}
+qstr_{s16}_{s17}|{s16}, {s17}
+qstr_Very_well_I_will_acc|Niech tak będzie. Przyjmę Cię z powrotem na służbę, jeśli złożysz mi przysięgę wierności. 
+qstr_A_pardon_will_only_b|Wybaczę Ci, ale {s17} będzie dla mnie zadość uczynieniem. Przyjmujesz moje warunki?
+qstr_No._There_is_no_chan|Nie, nie ma mowy. W ogóle mnie to nie interesuje. 
+qstr_We_are_not_at_war_wi|Z nikim nie prowadzimy wojny. 
+qstr_We_are_at_war_with_{|Nasze państwo i {s12} są w stanie wojny.
+qstr_{s9}_asked_you_to_ta|{s9} prosi Cię, byś dostarczył wiadomość, której adresatem jest {s13}. {s4} to ostatnie znane miejsce jego pobytu. Być może {s13} dalej tam jest?
+qstr_{s9}_asked_you_to_tak|{s9} prosi Cię, byś dostarczył wiadomość, której adresatem jest {s13} ({s15}). {s4} to ostatnie znane miejsce jego pobytu. Być może {s13} dalej tam jest.
+qstr_{s11}_asked_you_to_e|{s11} prosi Cię, byś pewną osobę bezpiecznie doprowadził do miejscowości {s14}. Osobą tą jest jego {s17}, {s13}.
+qstr_{s13}_asked_you_to_d|{s13} prosi Cię, byś się pozbył rozbójników, którzy zajęli wieś {s15}, a później zrelacjonował sytuację.
+qstr_{s9}_asked_you_to_ra|{s9} prosi Cię, byś zebrał oddział, na który składać się będą {s14} w liczbie {reg1} ludzi, a następnie przyprowadził go do niego. 
+qstr_{s9}_asked_you_to_co|{s9} prosi Cię, byś udał się do osady {s3} i zebrał stamtąd podatki. Powiedział, że możesz zatrzymać jedną piątą z zebranych pieniędzy. 
+qstr_{s9}_asked_you_to_hu|{s9} prosi Cię, byś odnalazł i zabił uciekiniera o imieniu {s4}. {s3} to ostatnie znane miejsce jego pobytu.
+qstr_{s9}_asked_you_to_as|{s9} poprosił, byś zabił kupca w miejscowości {s3}.
+qstr_{s9}_has_asked_you_t|{s9} poprosił, byś spotkał się ze szpiegiem w miejscowości {s13}.
+qstr_{s9}_asked_you_to_ca|{s9} poprosił, byś ograbił {reg13) tabory kupieckie. Ma nadzieję, że ta prowokacja spowoduje, że {s13} wypowie wojnę.
+qstr_{s9}_asked_you_to_cat|{s9} prosił, byś złapał trzy grupy chłopów, którzy uciekli. Doprowadź ich żywych i nieokaleczonych do miejscowości {s4}. Powiedział, że {s3}, to kierunek w którym się udali.
+qstr_{s11}_asked_you_to_f|{s11} poprosił, byś podążał za szpiegiem. {s12} jest miejscem skąd wyruszy. Musisz uważać, by nie zostać zauważonym przez wroga, gdyż wtedy może coś zacząć podejrzewać i uciec. Jak tylko szpieg spotka się ze wspólnikiem, masz obu aresztować i doprowadzić do zleceniodawcy. {s11} chce ich żywych.
+qstr_{s11}_asked_you_to_c|{s13} musi uszczuplić się o jednego szlachcica, którego {s11} pragnie jako jeńca otrzymać. Twoim zadaniem jest przyprowadzić go żywego.
+qstr_{s9}_asked_you_to_le|{s9} poprosił, byś zostawił mu swojego towarzysza. {s3} powróci po tygodniu.
+qstr_{s9}_asked_you_to_col|{s9} poprosił, byś odzyskał {reg4} talarów. {s3} jest mu winny tę kwotę.
+qstr_{s11}_gave_you_a_fak|{s11} dał Ci fałszywy list, żebyś {s13}, po jego przeczytaniu wygnał szlachcica {s16}. Musisz udać się do {s14}, gdzie {s15} weźmie list i odniesie do miasta. Goniec będzie myślał, że niesie prawdziwy list. 
+qstr_{s9}_has_requested_y|{s9} poprosił, by {s3}, w liczbie {reg1} ludzi, zostali doń przyprowadzeni jako jeńcy. 
+qstr_Lend_your_experience|Skieruj swojego doświadczonego chirurga {s3} do {s1}.
+qstr_Then_take_it_with_my|Przyjmij ode mnie mały dar i szczerą wdzięczność. Jesteś {szlachetnym człowiekiem/szlachetną kobietą}. Nigdy nie zapomnę, Twej pomocy w ciężkich chwilach. 
+qstr_Forgive_me_{playerna|Wybacz, że jestem natrętna, {playername}, ale powinieneś przyjąć mój dar. Przyjmij i skończymy rozmowę.
+qstr_{playername}_what_a_|{playername}, nie pozwolę Ci odmówić. Mam wielki dług wobec Ciebie. Zapewne znajdziesz dla tych pieniędzy lepsze zastosowanie, niż ja. 
+qstr_{s11}_asked_you_to_r|{s11} poprosiła Cię o pomoc. Jej {s17}, {s13}, z {s14}, trafił do więzienia. Żeby go uratować musisz się z nim zamienić na ubrania i pozostać tam zamiast niego.
+qstr_{s11}_asked_you_to_d|{s11} poprosił, byś dostarczył list, którego adresatem jest {s13}. Znajduje się w więzieniu w mieście {s14}.
+qstr_You_agreed_to_challe|Zgodziłeś się stanąć do pojedynku. Twym przeciwnikiem będzie {s13}. {s11} i jej honor są stawką.
+qstr_{s5}__Persuasion_str|{s5} (Dzięki umiejętności przekonywania zaoszczędziłeś: {reg5} talarów)
+qstr_Persuasion_Attempt|Próba przekonania. 
+qstr_A_villager_from_{s7}|Mieszkaniec wsi {s7} błaga, byś pozbył się grasujących tam rozbójników. 
+qstr_You_chose_well_{sir/|Słusznie wybrałeś, {Panie/Pani}. Moi chłopcy dotrzymają słowa i uczciwie zarobią swoje pieniądze. 
+qstr_Well_done_{sir/madam|Zgoda, {Panie/Pani}. Płać nam dobrze i miodu mocnego nalewaj, a żadnego wroga już bać się nie będziesz!
+qstr_We_are_at_your_servi|Jesteśmy do Twych usług, {Panie/Pani}. Pokaż, kogo mamy się pozbyć, to się szybko uwiniemy. 
+qstr_You_will_not_be_diss|Nie zawiedziemy Cię, {Panie/Pani}. Lepszych wojaków w całej okolicy nie znajdziesz. 
+qstr_The_Guildmaster_of_{|Włodarz miasta {s13} prosi Cię, byś się pozbył band łupieżców, grasujących w okolicach miasta.
+qstr_{s9}_of_{s3}_asked_y|{s9} {s3} prosi Cię o dostarczenie towaru. {s6} w liczbie {reg5} sztuk należy dostarczyć do karczmy w miejscowości o nazwie {s4} w ciągu 7 dni.
+qstr_Escort_the_merchant_|Musisz odeskortować tabor handlowy do miejscowości {s8}.
+qstr_Merchant_{s9}_of_{s4|{s9} {s4} prosi Cię byś odnalazł swawolnych rozbójników grasujących w okolicy.
+qstr_Guildmaster_of_{s4}_|Włodarz miasta {s4} dał Ci {reg12} talarów, abyś zapłacił okup za dziewczynę porwaną przez rozbójników. {s3} to miejsce spotkania i przekazania pieniędzy. Następnie dziewczynę trzeba odwieźć z powrotem do miejscowości {s4}.
+qstr_Guildmaster_of_{s4}_p|Włodarz miasta {s4} obiecał Ci {reg12} talarów za dopilnowanie, aby {s12} i {s13} nie zaszkodzili traktatowi pokojowemu, który {s15} i {s14} chcą zawrzeć. Musisz ich albo przekonać, albo wziąć do niewoli i przetrzymać w niej, dopóki nie zostanie zawarty pokój.
+qstr_The_Guildmaster_of_{s|Włodarz miasta {s14} poprosił, byś pozbył się bandy rozbójników, która terroryzuje ulice miasta. Bandyci pojawiają się w nocy i napadają tylko na samotnych przechodniów.
+qstr_Guildmaster_of_{s10}|Włodarz miasta {s10} prosi, byś przegnał bydło do miejscowości {s13}. Otrzymasz za to {reg8} talarów.
+qstr_He_is_not_commanding|Teraz nikim nie dowodzi. 
+qstr_He_currently_command|Dowodzi teraz {reg0} ludźmi{reg1?, {reg1} spośród nich jest rannych: }.
+qstr_The_elder_of_the_vil|Starosta wsi {s3} prosi, byś przyniósł im kilka worków zboża. Wymienił liczbę {reg5}.
+qstr_The_elder_of_the_vill|Starosta wsi {s13} prosi, byś nauczył {reg5} chłopów, jak walczyć z rozbójnikami.
+qstr_The_elder_of_the_villa|Starosta wsi {s3} prosi, byś przygnał im {reg5} sztuk bydła. 
+qstr_As_{s9}_said_it_woun|{s9} poradził, by odwiedzić miejscowość {s10}. Mówi, że miejscowy sołtys szuka odważnych ludzi do wykonania wszelakich zadań. 
+qstr_OiM_The_elder_{s9}_a|Mieszkańcom wsi Zamosze dokucza szajka bandytów. Starosta polecił Ci unicestwić rozbójników, którzy obozują w sąsiednim lesie.
+qstr_OiM_The_elder_{s9}_as|{s9} poprosił Cię, byś sprawił, żeby {s10} obniżył podatki. 
+qstr_OiM_The_elder_{s9}_ask|{s9} chce, byś przywiózł {s10}, a w zasadzie 3 sztuki tegoż dobra.
+qstr_OiM_The__De_la_Gardi|Nowy trop prowadzi do miasta {s10}. Może tamtejsi mieszkańcy coś widzą.
+qstr_OiM_getman_No_skazal|Chociaż zawaliłeś zadanie, starosta przejęzyczył się, że miejscem pobytu Ewangelika jest miejscowość o nazwie {s4}.
+qstr_OiM_The__{s9}_asked_|{s9} chce, by {s10} został przewieziony na Sicz.
+qstr_OiM_nu_vot_so_shmato|Z kawałkiem słoniny będzie się zachowywał ciszej. 
+qstr_OiM_Kozaki_zametii_4|Kozacy zauważyli Twoją zdradę...
+qstr_OiM_The_{s9}_asked_y|{s9} poprosił Cię o eskortę do miejscowości {s10}.
+qstr_OiM_Kozaki_zametili_|Kozacy zauważyli, że ich zdradziłeś.
+qstr_OiM_teper_mozhno_dal|Teraz można ruszać dalej w drogę.
+qstr_OiM_Ischi_teper_yego|Jak do koszowego, no to do koszowego...
+qstr_OiM_The_{s9}_need_to|{s9} powiedział, że {s10} potrzebuje nie mniej niż {reg0} żołnierzy do obrony.
+qstr_OiM_Ne_uspeli_s_cona|Nie zdążyłeś zsiąść z konia, a już przyszli Kozacy... 
+qstr_OiM_Jaz_budet_jarko|Zdaje się, że bitwa jest nieunikniona. Będzie można osobiście przekonać się, jak Kozacy walczą...
+qstr_OiM_{s9}_asked_you_v|{s9} poprosił Cię, abyś udał się do Moskwy i odebrał towary dla Kozaków dońskich.
+qstr_OiM_Potop_nuzhno_per|Otrzymałeś towary, które {s6} powinien niezwłocznie dostać.
+qstr_OiM_{s9}_asked_you_t|{s9} rozkazał Ci przejąć tabor z bronią, który, według jego informacji, jedzie z miejscowości {s10} do miejscowości {s11}. 
+qstr_OiM_{s9}_asked_you_to|{s9} prosił Cię, byś odnalazł Jacque'a de Clermonta i przyprowadził go do króla Szwecji. 
+qstr_OiM_{s9}_asked_you_to_|{s9} pójdzie z Tobą, jeśli przyprowadzisz ze sobą nie mniej niż dziesięciu żołnierzy...
+qstr_OiM_{s9}_asked_you_to_b|{s9} chce, by {s10} został złupiony.
+qstr_OiM_{s9}_skazal_chto|{s9} powiedział, że wstawi się za Ciebie przed Hetmanem. 
+qstr_OiM_{s9}_asked_to_br|{s9} prosił, by dostarczyć konia. {s10} na niego oczekuje.
+qstr_As_{s9}_said_to_get_|{s9} poprosił, abyś zabrał pieniądze z miejscowości {s10} i zawiózł je Chmielnickiemu.
+qstr_As_{s9}_give_you_a_r|{s9} dał Ci list polecający, którego adresatem jest {s10}.
+qstr_OiM_{s9}_asked_to_lo|{s9} prosił, byś złupił trzy wsie w Rzeczpospolitej.
+qstr_OIM_add_{s9}_asked_y|{s9} poradził Ci znaleźć pana Zagłobę. Stary Polak zapewne pije w jakiejś karczmie w Rzeczpospolitej.
+qstr_OIM_add_{s9}_asked_yo|{s9} poprosił, byś dostarczył list, którego adresatem jest {s11}.
+qstr_OIM_add_{s9}_deliver|{s9} rozkazał Ci dostarczyć wziętego do niewoli żołnierza szwedzkiego. 
+qstr_OIM_add_You_were_ask|Polska świątynia jest w niebezpieczeństwie! Król Jan Kazimierz rozkazał Ci przegnać z miejscowości {s10} Szwedów - ''rozbójników'', bezczeszczących słynny klasztor.
+qstr_OIM_add_Wam_nuzhno_o|Stolica Polski, {s10}, wpadła w ręce Szwedów. Musisz ją odbić za wszelką cenę - zależy od tego nie tylko Twój los, ale także przyszłość Rzeczypospolitej.
+qstr_OIM_add_{s9}_asked_you|{s9} prosił, byś wziął do niewoli oficera szwedzkiego i przyprowadził go do niego. 
+qstr_OIM_add_{s9}_asked_you_|{s9} dał Ci niełatwe zadanie. Musisz doprowadzić do zawarcia pokoju między Rzeczpospolitą a Chanatem Krymskim. W tym celu musisz opuścić służbę u Jana Kazimierza i sprawić, by {s10} odzyskał tron. W zamian zmuś go do złożenia obietnicy, że gdy już zostanie chanem, zawrze pokój z Rzeczpospolitą. Doprowadzenie do przejęcia tronu przez pretendenta nie należy do najprostrzych zadań. Będziesz musiał przeciągnąć na swoją stronę wszystkich tatarskich murzów, a tych, którzy odmówią - uwięzić. Ponadto będziesz musiał zdobyć wszystkie miasta i twierdze Chanatu Krymskiego.
+qstr_OIM_add_{s9}_asked_you_t|W zamian za sojusz, {s9} prosił Cię o zajęcie 2 twierdz należących do Księstwa Moskiewskiego. 
+qstr_OiM_Potop_Pora_pogov|Zadanie wykonane. Nadszedł czas rozmowy z królem. 
+qstr_OIM_add_As_{s9}_said|{s9} obiecał przywrócić Ci tytuł i przyjąć z powrotem na służbę, tylko jeśli poprą Cię inni szlachcice. Warto porozmawiać z panem Zagłobą i spróbować przeciągnąć na swą stronę przynajmniej połowę szlachty... Brakuje jeszcze tylko Twojego ''nie pozwalam!'' na sejmie.
+qstr_OiM_Potop_{s3}_prosi|{s3} chce, byś pojmał pewnego możnowładcę, na którym chce się zemścić. Jest nim {s4}.
+qstr_OiM_Potop_Shveda_slo|W poszukiwaniu uprowadzonej przez Szwedów.
+qstr_OiM_Potop_Borzobagat|Stało się jasne, że miejscem pobytu Borzobohatej jest {s5}.
+qstr_{s4}_{s2}|{s4}, {s2}
+qstr_{s5}_{s2}|{s5}, {s2}
+qstr_OIM_add_Nu_polkiy_se|Sejm został zwołany, pozostało tylko czekać na wyniki. 
+qstr_OIM_add_Nu_vot_teper|Teraz {s7} chce, byś zdobył następujące miasta i zamki: {s3}, {s4}, {s5}, {s6}.
+qstr_OIM_add__{s2}_hochet|Król chce, by {s3} został wzięty do niewoli.
+qstr_OIM_add__Teper_pora_|Najwyższy czas zwołać pospolite ruszenie przeciwko królowi i wreszcie wprowadzić na tron kogoś odpowiedniego...
+qstr_OIM_add__Teper_kogda|Jan Kazimierz ściągnął na swoje ziemie najemników. Należy ich powstrzymać, nim zdołają zniszczyć choć jedno miasto Rzeczypospolitej.
+qstr_{s4}.|{s4}.
+qstr_OiMP2_str_qst_potop_|Ciężkie czasy nastały dla Rzeczpospolitej... Ze wszystkich stron okrążają ją wrogowie - Szwedzi, Moskale, Kozacy... Polska potrzebuje bohatera, który powstrzyma szwedzki potop, zmusi wolną szlachtę do opamiętania i ruszenia całą siłą na wrogów... W pierwszej kolejności trzeba ze szlachtą słowo zamienić.
+qstr_OIM_add_getman__{s4}|{s4} prosi Cię o pomoc w obronie wsi {s3}.
+qstr_OIM_add_getman__star|Niestety, starzec nie zdążył opowiedzieć wszystkiego, co wiedział, ale może ktoś inny wie o Czarnym Hetmanie?
+qstr_OiM_add_Nu_teper_por|Udało się znaleźć jakiś trop, może Clermont wie coś o Hetmanie.
+qstr_OIM_add_getman__{s5}|Jak udało się dowiedzieć od Clermonta, o Czarnym Hetmanie może wiedzieć {s5}.
+qstr_OIM_add__chtobi_uzna|Udało Ci się dowiedzieć, że tajemnicę Czarnego Hetmana może znać {s3}. Trzeba wzniecić powstanie przeciwko, którego ofiarą padnie {s4}, aby {s3} mógł objąć tron.
+qstr_OIM_add__{s3}_prosil_|{s3} poprosił Cię, abyś porozmawiał z burmistrzem Kijowa.
+qstr_OIM_add_Kiev_{s3}_pr|{s3} musi odzyskać panowanie nad Kijowem.
+qstr_OIM_add__Net_zolota_|Możliwe, że burmistrz coś wie. Ale bez złota nie ma informacji. 
+qstr_OIM_add__Nu_chto_zhe|Kozak miał rację. Radziwiłł jednak jest zamieszany w historię Czarnego Hetmana. Nadszedł czas, by wypytać go dokładnie.
+qstr_OIM_add__{s3}_hochet|W odpowiedzi na wszystkie pytania, {s3} kazał wziąć do niewoli jednego z tatarskich wodzów. 
+qstr_OIM_add__pora_iskat_|Przy Wodzu znaleziono list, który prowadził do archiwów Templariuszy. Cóż, trzeba będzie je przejrzeć. Coś mówi mi, że należy zacząć poszukiwania w Rydze.
+qstr_OIM_add_Kyazya_Olgov|Po straceniu mnóstwa czasu na przeczytanie archiwów udało się dowiedzieć, że książęta Olegowiczowie również mają związek z Czarnym Hetmanem. 
+qstr_OIM_add__nuzhno_vitr|Ten człek jest uparty. Trzeba będzie wydusić z niego wieści. 
+qstr_OIM_add_getman__Pora|Jeszcze jedna podpowiedź i jeszcze jedna tajemnica - Księga kruków!
+qstr_OiM_getman_Knigu_moz|Księgi nie da się ot tak przeczytać. Uczona głowa jest do tego potrzebna... Możliwe, że wielebny Pafnucy z miejscowości {s6} będzie w stanie ją przetłumaczyć. 
+qstr_OiM_getman_Nuzhno_pe|Pafnucy zgadza się przetłumaczyć księgę, ale potrzebuje do tego archiwów. {s3} to miejsce gdzie się znajdują.
+qstr_OiM_getman_Kniga_na_|Doprowadziłeś Pafnucego do archiwów. Pozostało czekać, aż przetłumaczy księgę...
+qstr_OIM_add_getman__Koza|Kozak Mamaj zna wiele legend i jest gotowy pomóc.
+qstr_OIM_add_getman__Bara|Jak się okazało, Barabasz żyje i może pomóc. 
+qstr_OIM_add_getman__Nu_c|Masz plan: przedostać się do Radziwiłła w przebraniu najemnika i spróbować go zabić...
+qstr_{s1}_s_tomb|Tu spoczywa {s1}
+qstr_OIM_add_getman__Chto|Poparłeś Barabasza, a teraz musisz zdobyć wsparcie przynajmniej połowy kozackich pułkowników, aby zdobyć wpływy i oddać buławę hetmańską Barabaszowi.
+qstr_OIM_add_getman__tepe|Cóż, teraz, kiedy przyłączyłem się do Kozaków, a Mamaj zgodził się nakłonić Chmielnickiego do podjęcia prawidłowej decyzji odnośnie tego, kto powinien zostać marszałkiem, pozostało tylko czekać, aż rozwiązane zostaną wszystkie problemy.
+qstr_OIM_add_getman__{s5}_|{s5} powiedział, że tabor wyruszył z miejscowości {s3} i podąża do miejscowości {s4}. Możliwe, że Chmiel ma rację. 
+qstr_OIM_add_getman_Bilo_|Zdecydowałeś się nie kombinować z dyplomacją i wysłałeś gońca, aby poinformować o swoich zamiarach...
+qstr_Velikoye_Knyazestvo_|Wielkie Księstwo Moskiewskie
+qstr_OIM_add_getman_Koron|Najpierw Czarny Hetman, teraz zaś korona Witolda... Codziennie jakieś nowe zagadki.
+qstr_Mamay|Mamaj
+qstr_Nu_chto_zhe_budem_tr|Zdaje się, że miejscem gdzie znajduje się Korona jest {s3}. Trzeba będzie dostać się do podziemi klasztoru i zabrać koronę...
+qstr_OIM_add_getman_od_mo|Książę chce, by Wielkie Księstwo Moskiewskie sięgało od morza do morza...
+qstr_OIM_add_getman__Nu_ch|Droga do tronu pełna jest przeszkód i śmiałek, który postanowi pokonać cara-ojca i zająć jego miejsce, będzie musiał wykazać się sprytem i ogromną odwagą. Nie może on bać się strasznych bojów i przelania krwi niewinnych.
+qstr_OiM_dmitriy_Teper_kog|{s4} obraził się za twą odmowę pomocy. Zapewne nie będzie chciał opowiedzieć o wydarzeniach Wielkiej Smuty.
+qstr_OIM_add_getman__Nuzhn|Udało Ci się dowiedzieć, że niejaki Gerazym Ewangelik może sporo powiedzieć Ci o Dymitrze Samozwańcu. Gerazyma należy szukać w miejscowości {s3}.
+qstr_OiM_The_elder_{s9}_s|{s9} powiedział, że miejscem pobytu księdza jest {s10}. Spróbuj porozmawiać z mieszkańcami - może oni go widzieli.
+qstr_OiM_getman_Yavangeli|Dowiedziałeś się, że Ewangelik jest w miejscowości {s4}.
+qstr_OIM_add_getman__Nuzhno|Przed śmiercią Gerazym prosił, by porozmawiać z wojewodą, który się zowie {s3}.
+qstr_OiM_The_{s9}_prosil_|{s9} poprosił, byś odwiózł Eleonorę z miejscowości {s10}. {s11} wyczekuje jej z niecierpliwością.
+qstr_OiM_The_{s9}_prosilf|{s9} poprosiła, byś odwiózł ją do pewnej osoby. {s11} wyczekuje jej z niecierpliwością.
+qstr_OiM_The_{s9}_prosilf_|{s9} poprosił, byś dostarczył list, którego adresatem jest {s11}.
+qstr_OiM_The_{s9}_prosil_v|{s9} poprosił, byś dostarczył list, którego adresatem jest {s11}.
+qstr_OiM_The_{s11}_dobriy|{s11} jest poważnym człowiekiem. Nie słuchał Twoich wyjaśnień, od razu wysłał Cię na przesłuchanie.
+qstr_OiM_The_Nu_chto_zhe_|Cóż teraz bez wpływowego protektora nie mam wyboru. Nadszedł czas, by {s11} mi pomógł.
+qstr_OiM_Alevtina_v_Kafe_|Prawdopodobnie Alewtina jest w niewoli w Kaffie. Porozmawiaj z tamtejszym handlarzem niewolników.
+qstr_OiM_pohozhe_alevtinu|Tak po prostu murza nie zostawi Alewtiny. Chyba będziesz musiał użyć siły...
+qstr_OiM_getman_Pohozhe_b|Zdaje się, że Razin nie żartował, mówiąc o nowym carze... Tak widocznie miało być. 
+qstr_OiM_Teper_kogda_ya_p|Teraz, kiedy zostałeś pretendentem do tronu, musisz przekonać bojarów, że masz prawo zostać władcą. Gdy uda Ci się zaskarbić poparcie co najmniej połowy szlachty bojarskiej, poczekaj, aż zostanie zwołana Duma Bojarska.
+qstr_{s5}.|{s5}.
+qstr_{s3}|{s3}
+qstr_{s2}_{s3}|{s2}, {s3}
+qstr_I_can_smell_a_fat_pu|Grubą sakiewkę wyczuwam z daleka. Muszę Ci trochę ulżyć, nie miej mi tego za złe. 
+qstr_Why_it_be_another_tr|Patrz no! Zwykle na tej drodze nie ma nawet żywej duszy, a tutaj... Okolica ta jest niebezpieczna zwłaszcza dla takich ładniutkich {chłopców/dziewczyn}, jak Ty. Lecz jeśli zapłacisz nam nieco grosza, to bez przeszkód dojdziesz, gdzie chcesz. 
+qstr_Well_well_look_at_th|Bądź pozdrowiony, dobry Panie! Widzę, że masz zbyt ciężką sakwę. Odpal nam trochę srebra i rozejdziemy się w przyjaźni. 
+qstr_There_s_a_toll_for_p|Za przejazd tą drogą pobieramy opłatę. Tak więc zapłać ile trzeba albo sami sobie weźmiemy. 
+qstr_Another_fool_come_to|Jeszcze {jeden/jedna} chce z rąk moich zginąć? No cóż, proszę bardzo. 
+qstr_We_re_not_afraid_of_|Nie boimy się Ciebie! Pozbawimy Cię Twej głupiej głowy. 
+qstr_That_was_a_mistake._|Niepotrzebnie tak czynisz. Teraz będę musiał długo i boleśnie Cię dręczyć. 
+qstr_Brave_words._Let_s_s|Śmiało! Zobaczymy, jak czynem potwierdzisz swe słowa. 
+qstr_A_{s5}?_Well..._Yes_|{s5}? Pewnie tak. Dziwne pytanie. 
+qstr_Eh?_No_it_most_certa|Co? To w ogóle nie jest {s5}. Masz widać problemy ze wzrokiem.
+qstr_This_is_the_{reg4?to|To {reg4?miasto:wieś} {s5}, {Panie/Pani}.
+qstr_{s6}_Our_{reg4?town:|{s6} {reg4?Zarówno miasto:Zarówno wieś}, jak i przyległe ziemie, rozumie się, że należą do Ciebie, {Panie/Pani}.
+qstr_{s6}_Our_{reg4?town:v|{s6} {reg4?Tym miastem:Tą wsią} i przyległymi ziemiami włada {s7}. Jego krajem jest {s8}.
+qstr_{s3}_and_{s5}|{s3} i {s5}
+qstr_{s3}_{s5}|{s3}, {s5}
+qstr_{reg20?We_mostly_pro|{reg20?Możesz od nas kupić takie towary jak {s5}:Teraz niczego nie produkujemy}. Nasz {reg4?zarządca miasta:starszy rodu} opowie Ci o wszystkim o wiele lepiej. Powinien być gdzieś w pobliżu...
+qstr__U_Vas_maximalnovozm|Zdaje się, że i tak zebrałem pełen oddział, Panie. Coś jeszcze?
+qstr__U_Vas_ne_hvataet_de|Masz za mało pieniędzy, by opłacić najemników!
+qstr___Skolko_naemnikov_n|Ilu ludzi potrzebujesz?
+qstr__U_vas_netu_etogo_ti|Nie ma kogo przezbroić. 
+qstr__Viberite_razdel|Wybieraj, Panie. Czego potrzebują twoi chłopcy?
