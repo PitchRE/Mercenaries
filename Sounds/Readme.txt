@@ -4,3 +4,4 @@ You can place your sounds in this folder
 scan_module_sounds = 1
 
 directive in module_info.txt
+..
