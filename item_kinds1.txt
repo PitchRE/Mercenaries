@@ -1,5 +1,5 @@
 itemsfile version 3
-922
+983
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -3773,6 +3773,250 @@ itemsfile version 3
 0
 
  itm_duel_sword Dueling_Sword Dueling_Sword 2  polyak_sablya_pure_c 0  polyak_sablya_pure_c_scabbard 3458764513820540928  12582914 9223388564182532110 330 24596 1.250000 100 0 0 0 0 20480 92 0 95 0 256 20
+ 0
+0
+
+ itm_nikolskoe_helm Nikolskoe_helm Nikolskoe_helm 2  nikolskoe_helm 0  inv_nikolskoe_helm 1152921504606846976  69388 0 820 704643238 2.000000 100 48 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_novogrod_helm Novogrod_helm Novogrod_helm 2  novogrod_helm 0  inv_novogrod_helm 1152921504606846976  69388 0 740 704643238 2.000000 100 47 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gnezdovo_helm_a Gnezdovo_helm Gnezdovo_helm 2  gnezdovo_helm_a 0  inv_gnezdovo_helm_a 1152921504606846976  69388 0 640 704643238 2.000000 100 45 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gnezdovo_helm_b Gnezdovo_helm Gnezdovo_helm 2  gnezdovo_helm_b 0  inv_gnezdovo_helm_b 1152921504606846976  69388 0 640 704643238 2.000000 100 45 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tagancha_helm_a Tagancha_helm Tagancha_helm 2  tagancha_helm_a 0  inv_tagancha_helm_a 1152921504606846976  69388 0 580 704643238 2.000000 100 44 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_tagancha_helm_b Tagancha_helm Tagancha_helm 2  tagancha_helm_b 0  inv_tagancha_helm_b 1152921504606846976  69388 0 820 704643238 2.000000 100 48 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_helm Rus_helm Rus_helm 2  rus_helm 0  inv_rus_helm 1152921504606846976  69388 0 230 704643238 2.000000 100 32 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_shoes Rus_Ankle_Boots Rus_Ankle_Boots 1  rus_shoes 0  536940302 0 75 123731968 1.000000 100 0 0 12 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_cav_boots Rus_Cavalry_Boots Rus_Cavalry_Boots 1  rus_cav_boots 0  536940302 0 15 123731968 1.000000 100 0 0 30 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_lamellar_a Rus_lamellar Rus_lamellar 1  rus_lamellar_a 0  16842765 0 1095 704643236 18.000000 100 0 48 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_lamellar_b Rus_lamellar Rus_lamellar 1  rus_lamellar_b 0  16842765 0 1095 704643236 18.000000 100 0 48 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kuyak_a Kuyak Kuyak 1  kuyak_a 0  16842765 0 795 704643236 16.000000 100 0 40 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kuyak_b Kuyak Kuyak 1  kuyak_b 0  16842765 0 795 704643236 16.000000 100 0 40 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_scale Rus_Scale Rus_Scale 1  rus_scale 0  16842765 0 1295 704643236 19.000000 100 0 52 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_litchina_helm litchina_helm litchina_helm 2  litchina_helm 0  inv_litchina_helm 1152921504606846976  69388 0 820 704643238 2.000000 100 54 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_rus_splint_greaves Splinted_Greaves Splinted_Greaves 1  rus_splint_greaves 0  69390 0 960 704643238 2.500000 100 0 0 30 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_red Brigandine Brigandine 1  brigandine_red 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_green Brigandine Brigandine 1  brigandine_green 0  16777229 0 650 704643236 12.000000 100 0 39 8 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_blue Brigandine Brigandine 1  brigandine_blue 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_brown_mail Brigandine_and_Plate Brigandine_and_Plate 1  brigandine_brown_mail 0  16842765 0 1720 704643236 22.000000 100 0 43 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_red_mail Brigandine_and_Plate Brigandine_and_Plate 1  brigandine_red_mail 0  16842765 0 4130 704643236 26.000000 100 0 54 18 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_green_mail Brigandine_and_Plate Brigandine_and_Plate 1  brigandine_green_mail 0  16842765 0 1720 704643236 22.000000 100 0 43 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_brigandine_black_mail Brigandine_and_Plate Brigandine_and_Plate 1  brigandine_black_mail 0  16842765 0 4330 704643236 26.000000 100 0 55 18 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aketon Aketon Aketon 1  aketon 0  553713677 0 325 123731968 3.000000 100 0 22 6 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_aketon_kneecops Aketon_with_Plate Aketon_with_Plate 1  aketon_kneecops 0  553713677 0 575 123731968 6.000000 100 0 32 15 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_grey Grey_Hose Grey_Hose 1  hosen_grey 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_red Red_Hose Red_Hose 1  hosen_red 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_green Green_Hose Green_Hose 1  hosen_green 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_blue Blue_Hose Blue_Hose 1  hosen_blue 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_yellow Yellow_Hose Yellow_Hose 1  hosen_yellow 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hosen_brown Woolen_Hose Woolen_Hose 1  hosen_brown 0  536940302 0 6 123731968 1.000000 100 0 0 4 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_greaves Closed_Greaves Closed_Greaves 1  steel_greaves 0  69390 0 1770 704643238 3.500000 100 0 0 35 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_greaves2 Closed_Greaves Closed_Greaves 1  steel_greaves2 0  69390 0 1630 704643238 3.250000 100 0 0 32 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_boots Leather_Boots Leather_Boots 1  leather_boots 0  536940302 0 90 123731968 1.250000 100 0 0 16 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_leather_gauntlets Leather_Gauntlets Leather_Gauntlets 1  leather_gauntlet_L 0  65551 0 90 123731968 0.250000 120 0 2 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_demi_gauntlets Demi-Gauntlets Demi-Gauntlets 1  demi_gauntlets_L 0  65551 0 990 704643236 1.000000 100 0 7 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_finger_gauntlets Finger_Gauntlets Finger_Gauntlets 1  finger_gauntlets_L 0  65551 0 990 704643236 1.000000 100 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hauberk Hauberk Hauberk 1  hauberk 0  16842765 0 1544 704643236 18.000000 100 0 42 14 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hauberk2 Mail_and_Plate Mail_and_Plate 1  hauberk2 0  16842765 0 2130 704643236 20.000000 100 0 48 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hauberk3 Mail_and_Plate Mail_and_Plate 1  hauberk3 0  16842765 0 2130 704643236 20.000000 100 0 48 12 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_mail1 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_mail1 0  inv_chapel_de_fer_mail1 1152921504606846976  69388 0 325 704643238 2.750000 100 35 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_mail2 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_mail2 0  inv_chapel_de_fer_mail2 1152921504606846976  69388 0 325 704643238 2.750000 100 35 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_mail3 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_mail3 0  inv_chapel_de_fer_mail3 1152921504606846976  69388 0 325 704643238 2.750000 100 42 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_cloth1 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_cloth1 0  inv_chapel_de_fer_cloth1 1152921504606846976  69388 0 260 704643238 2.000000 100 30 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_cloth2 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_cloth2 0  inv_chapel_de_fer_cloth2 1152921504606846976  69388 0 260 704643238 2.000000 100 30 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_chapel_de_fer_cloth3 Chapel-de-Fer Chapel-de-Fer 2  chapel_de_fer_cloth3 0  inv_chapel_de_fer_cloth3 1152921504606846976  69388 0 260 704643238 2.000000 100 30 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zitta_bascinet_novisor Bascinet Bascinet 2  zitta_bascinet_novisor 0  inv_zitta_bascinet_novisor 1152921504606846976  69388 0 479 704643238 2.000000 100 45 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_zitta_bascinet Klappvisier_Bascinet Klappvisier_Bascinet 2  zitta_bascinet 0  inv_zitta_bascinet 1152921504606846976  2147553036 0 1180 704643238 3.000000 100 55 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hounskull_bascinet Klappvisier_Bascinet Klappvisier_Bascinet 2  hounskull 0  inv_hounskull 1152921504606846976  2147553036 0 1180 704643238 3.750000 100 57 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_a_closed1 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_a_closed1 0  inv_sallet_a_closed1 1152921504606846976  2147553036 0 1180 704643238 4.750000 100 55 3 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_a_closed2 Visored_Sallet Visored_Sallet 2  sallet_a_closed2 0  inv_sallet_a_closed2 1152921504606846976  69388 0 1180 704643238 2.750000 100 52 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_a_open1 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_a_open1 0  inv_sallet_a_open1 1152921504606846976  69388 0 1180 704643238 3.750000 100 52 2 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_a_open2 Visored_Sallet Visored_Sallet 2  sallet_a_open2 0  inv_sallet_a_open2 1152921504606846976  69388 0 1180 704643238 2.000000 100 50 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_b_closed1 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_b_closed1 0  inv_sallet_b_closed1 1152921504606846976  2147553036 0 1180 704643238 3.750000 100 57 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_b_closed2 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_b_closed2 0  inv_sallet_b_closed2 1152921504606846976  69388 0 1180 704643238 3.750000 100 52 2 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_b_open1 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_b_open1 0  inv_sallet_b_open1 1152921504606846976  69388 0 1180 704643238 3.750000 100 57 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_b_open2 Visored_Sallet_with_Bevor Visored_Sallet_with_Bevor 2  sallet_b_open2 0  inv_sallet_b_open2 1152921504606846976  69388 0 1180 704643238 3.750000 100 52 2 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_c Sallet Sallet 2  sallet_c 0  inv_sallet_c 1152921504606846976  69388 0 980 704643238 1.750000 100 43 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_c_bevor Sallet_with_Bevor Sallet_with_Bevor 2  sallet_c_bevor 0  inv_sallet_c_bevor 1152921504606846976  69388 0 1080 704643238 2.000000 100 45 2 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sallet_d Archer's_Sallet Archer's_Sallet 2  sallet_d 0  inv_sallet_d 1152921504606846976  69388 0 680 704643238 1.750000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_eyeslot_kettlehat Eyeslot_Kettlehat Eyeslot_Kettlehat 2  eyeslot_kettlehat 0  inv_eyeslot_kettlehat 1152921504606846976  69388 0 680 704643238 1.750000 100 38 0 0 0 0 0 0 0 0 0 0
  0
 0
 
