@@ -1,5 +1,5 @@
 itemsfile version 3
-983
+1020
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -3840,6 +3840,110 @@ itemsfile version 3
  0
 0
 
+ itm_corrazina_red Corrazina Corrazina 1  corrazina_red 0  16842765 0 4228 704643236 23.000000 100 0 54 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_corrazina_green Corrazina Corrazina 1  corrazina_green 0  16842765 0 4228 704643236 23.000000 100 0 54 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_corrazina_grey Corrazina Corrazina 1  corrazina_grey 0  16842765 0 4228 704643236 23.000000 100 0 54 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_greaves Corrazina Corrazina 1  corrazina_grey 0  16842765 0 4228 704643236 23.000000 100 0 54 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_churburg_13 Full_Plate Full_Plate 1  churburg_13 0  16842765 0 4828 704643236 27.000000 100 0 54 20 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_churburg_13_brass Ornate_Full_Plate Ornate_Full_Plate 1  churburg_13_brass 0  16842765 0 4828 704643236 27.000000 100 0 54 20 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_churburg_13_mail Ornate_Full_Plate Ornate_Full_Plate 1  churburg_13_mail 0  16842765 0 4828 704643236 27.000000 100 0 54 20 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_padded_jack Padded_Jack Padded_Jack 1  gambeson 0  553713677 0 415 123731968 6.000000 100 0 26 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_early_transitional_blue Heavy_Mail_and_Plate Heavy_Mail_and_Plate 1  early_transitional_blue 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_early_transitional_orange Heavy_Mail_and_Plate Heavy_Mail_and_Plate 1  early_transitional_orange 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_early_transitional_white Heavy_Mail_and_Plate Heavy_Mail_and_Plate 1  early_transitional_white 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_splinted_greaves_spurs Splinted_Greaves_with_Spurs Splinted_Greaves_with_Spurs 1  splinted_greaves_spurs 0  69390 0 960 704643238 2.500000 100 0 0 30 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_shynbaulds Shynbaulds Shynbaulds 1  shynbaulds 0  69390 0 1329 704643238 3.000000 100 0 0 32 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_greaves Cased_Greaves Cased_Greaves 1  steel_greaves 0  69390 0 1770 704643238 3.500000 100 0 0 33 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_oniontop_bascinet Onion-top_Bascinet Onion-top_Bascinet 1  onion-top_bascinet 0  65548 0 479 704643238 2.250000 100 46 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pigface_klappvisor Pigface_Bascinet Pigface_Bascinet 1  pigface_klappvisor 0  2147549196 0 1180 704643238 2.750000 100 56 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_pigface_klappvisor_open Pigface_Bascinet Pigface_Bascinet 1  pigface_klappvisor_open 0  65548 0 1180 704643238 2.750000 100 50 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_sugarloaf Sugarloaf_Greathelm Sugarloaf_Greathelm 1  sugarloaf 0  2147549196 0 980 704643238 3.250000 100 53 0 0 9 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_kettle_hat Kettle_Hat Kettle_Hat 1  prato_chapel-de-fer 0  65548 0 240 704643238 1.750000 100 35 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wisby_gauntlets_black Splinted_Leather_Gauntlets Splinted_Leather_Gauntlets 1  wisby_gauntlets_black_L 0  65551 0 860 704643236 0.750000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_wisby_gauntlets_red Splinted_Leather_Gauntlets Splinted_Leather_Gauntlets 1  wisby_gauntlets_red_L 0  65551 0 860 704643236 0.750000 100 0 6 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_mail_gauntlets Mail_Gauntlets Mail_Gauntlets 1  mail_gauntlets_L 0  65551 0 490 704643236 0.500000 100 0 4 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hourglass_gauntlets_ornate Ornate_Hourglass_Gauntlets Ornate_Hourglass_Gauntlets 1  hourglass_gauntlets_ornate_L 0  65551 0 1190 704643236 1.000000 100 0 7 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_hourglass_gauntlets Hourglass_Gauntlets Hourglass_Gauntlets 1  hourglass_gauntlets_L 0  65551 0 990 704643236 1.000000 100 0 7 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_steel_buckler1 Steel_Buckler Steel_Buckler 1  steel_buckler1 0  65543 5368709120 120 167772194 2.000000 100 0 12 0 0 330 98 35 35 0 0 0
+ 0
+0
+
+ itm_steel_buckler2 Steel_Buckler Steel_Buckler 1  steel_buckler2 0  65543 5368709120 120 167772194 2.000000 100 0 12 0 0 330 98 45 28 0 0 0
+ 0
+0
+
  itm_brigandine_red Brigandine Brigandine 1  brigandine_red 0  16842765 0 3828 704643236 25.000000 100 0 52 16 8 0 0 0 0 0 0 0
  0
 0
@@ -4017,6 +4121,50 @@ itemsfile version 3
 0
 
  itm_eyeslot_kettlehat Eyeslot_Kettlehat Eyeslot_Kettlehat 2  eyeslot_kettlehat 0  inv_eyeslot_kettlehat 1152921504606846976  69388 0 680 704643238 1.750000 100 38 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flamberge Flamberge_Zweihander Flamberge_Zweihander 1  flamberge 0  6365188 4222129415393024 1123 155668 3.750000 100 0 0 0 11 51200 77 0 125 0 284 50
+ 0
+0
+
+ itm_chapel_de_fer Dhapel-de-Fer Dhapel-de-Fer 1  chapel-de-fer 0  65548 0 293 704643238 1.500000 100 40 0 0 7 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_plate_mittens Plate_Mittens Plate_Mittens 1  plate_mittens_L 134217728  65551 0 1940 704643236 1.500000 100 0 9 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bnw_gauntlets Black_and_White_Gauntlets Black_and_White_Gauntlets 1  bnw_gauntlet_R 134217728  65551 0 2240 704643236 1.750000 100 0 8 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bear_paw_shoes Bear_Paw_Shoes Bear_Paw_Shoes 1  bear_paw_shoes 0  536940302 0 150 123731968 1.000000 232 0 0 5 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_combed_morion Combed_Morion Combed_Morion 1  combed_morion 0  65548 0 538 704643238 2.750000 100 48 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_combed_morion_blued Blued_Combed_Morion Blued_Combed_Morion 1  combed_morion_blued 0  65548 0 538 704643238 2.750000 100 48 0 0 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_milanese_armour Milanese_Armour Milanese_Armour 1  milanese_armour 0  16842765 0 9496 704643238 30.000000 100 0 62 22 10 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_gothic_armour Gothic_Armour Gothic_Armour 1  gothic_armour 0  16842765 0 9996 704643238 24.000000 100 8 58 20 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bnw_armour Black_and_White_Armour Black_and_White_Armour 1  bnw_armour_slashed 0  16842765 0 3696 704643238 19.000000 100 0 48 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_bnw_armour Black_and_White_Armour Black_and_White_Armour 1  bnw_armour_stripes 0  16842765 0 3696 704643238 19.000000 100 0 48 18 8 0 0 0 0 0 0 0
  0
 0
 
