@@ -1,5 +1,5 @@
 itemsfile version 3
-1020
+1021
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -4124,10 +4124,6 @@ itemsfile version 3
  0
 0
 
- itm_flamberge Flamberge_Zweihander Flamberge_Zweihander 1  flamberge 0  6365188 4222129415393024 1123 155668 3.750000 100 0 0 0 11 51200 77 0 125 0 284 50
- 0
-0
-
  itm_chapel_de_fer Dhapel-de-Fer Dhapel-de-Fer 1  chapel-de-fer 0  65548 0 293 704643238 1.500000 100 40 0 0 7 0 0 0 0 0 0 0
  0
 0
@@ -4165,6 +4161,14 @@ itemsfile version 3
 0
 
  itm_bnw_armour Black_and_White_Armour Black_and_White_Armour 1  bnw_armour_stripes 0  16842765 0 3696 704643238 19.000000 100 0 48 18 8 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flamberge Knightly_Arming_Sword Knightly_Arming_Sword 1  flamberge 0  2251800354816004 4222129415393024 425 24596 3.750000 100 0 0 0 11 51200 77 0 125 0 284 50
+ 0
+0
+
+ itm_flamberge_alt Knightly_Arming_Sword Knightly_Arming_Sword 1  flamberge 0  3377734354993156 4222129415393024 425 24596 3.500000 100 0 0 0 11 40960 77 0 102 0 513 552
  0
 0
 
