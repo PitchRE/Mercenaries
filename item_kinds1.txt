@@ -1,5 +1,5 @@
 itemsfile version 3
-1021
+1054
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -92,7 +92,7 @@ itemsfile version 3
  0
 0
 
- itm_arena_sword_two_handed Two_Handed_Sword Two_Handed_Sword 1  arena_sword_two_handed 0  6291459 9223635924301119728 670 155668 2.750000 100 0 0 0 0 30720 93 0 110 0 536 542
+ itm_arena_sword_two_handed Two_Handed_Sword Two_Handed_Sword 1  arena_sword_two_handed 0  543162371 9223635924301119728 670 155668 2.750000 100 0 0 0 0 30720 93 0 110 0 536 542
  0
 0
 
@@ -4168,7 +4168,141 @@ itemsfile version 3
  0
 0
 
- itm_flamberge_alt Knightly_Arming_Sword Knightly_Arming_Sword 1  flamberge 0  3377734354993156 4222129415393024 425 24596 3.500000 100 0 0 0 11 40960 77 0 102 0 513 552
+ itm_flamberge_alt Knightly_Arming_Sword Knightly_Arming_Sword 1  flamberge 0  2251834448150532 13229328670130432 425 24596 3.500000 100 0 0 0 11 40960 78 0 102 0 304 552
+ 0
+0
+
+ itm_flemish_armet Flemish_Armet Flemish_Armet 1  flemish_armet 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_great_bascinet Great_Bascinet Great_Bascinet 1  greatbascinet1 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_poleaxe_a Poleaxe Poleaxe 1  poleaxe_a 0  342163460 4222131026005760 280 8202 3.500000 100 0 0 0 10 38912 79 0 144 0 292 38
+ 0
+0
+
+ itm_elegant_poleaxe Poleaxe Poleaxe 1  elegant_poleaxe 0  342163460 4222131026005760 365 8202 3.250000 100 0 0 0 9 41984 81 0 139 0 294 41
+ 0
+0
+
+ itm_german_poleaxe German_Poleaxe German_Poleaxe 1  german_poleaxe 0  342163460 4222131026005760 255 8202 3.000000 100 0 0 0 8 37888 82 0 128 0 293 37
+ 0
+0
+
+ itm_simple_poleaxe Burgundian_Poleaxe Burgundian_Poleaxe 1  simple_poleaxe 0  342163460 4222131026005760 205 8202 3.250000 100 0 0 0 8 34816 80 0 135 0 295 34
+ 0
+0
+
+ itm_bec_de_corbin Bec_de_Corbin Bec_de_Corbin 1  bec_de_corbin 0  342163460 4222131026005760 200 8202 2.250000 100 0 0 0 8 32768 85 0 120 0 289 288
+ 0
+0
+
+ itm_english_bill English_Bill English_Bill 1  english_bill 0  342163460 4222131026005760 170 8202 3.250000 100 0 0 0 12 45056 75 0 167 0 288 44
+ 0
+0
+
+ itm_swiss_halberd Swiss_Halberd Swiss_Halberd 1  swiss_halberd 0  342163460 13229330280743680 230 8202 3.000000 100 0 0 0 11 47104 76 0 161 0 290 46
+ 0
+0
+
+ itm_guisarme Guisarme Guisarme 1  guisarme_a 0  342163460 4222131026005760 145 8202 3.000000 100 0 0 0 11 30720 74 0 164 0 288 286
+ 0
+0
+
+ itm_german_hunting_spear German_Hunting_Spear German_Hunting_Spear 1  german_hunting_spear 0  73728004 4222131026005760 120 8202 1.750000 100 0 0 0 0 19456 92 0 178 0 290 531
+ 0
+0
+
+ itm_glaive_a Glaive Glaive 1  glaive1 0  342163460 4222131026005760 245 8202 2.500000 100 0 0 0 9 31744 82 0 163 0 284 31
+ 0
+0
+
+ itm_glaive_b Glaive Glaive 1  glaive2 0  342163460 4222131026005760 270 8202 2.250000 100 0 0 0 10 34816 80 0 170 0 285 34
+ 0
+0
+
+ itm_partisan Partisan Partisan 1  partisan 0  342163460 4222131026005760 305 8202 2.000000 100 0 0 0 10 34816 84 0 158 0 290 34
+ 0
+0
+
+ itm_longsword Longsword Longsword 1  longsword_b 0  4259843 9223635919939043583 345 155668 2.000000 100 0 0 0 9 36864 97 0 100 0 285 36
+ 0
+0
+
+ itm_danish_greatsword Danish_Greatsword Danish_Greatsword 1  danish_greatsword 0  6356995 9223635924301119728 458 155668 3.000000 100 0 0 0 10 43008 96 0 114 0 289 42
+ 0
+0
+
+ itm_espada_eslavona_a Espada_Eslavona Espada_Eslavona 1  espada_eslavona_a 0  4259842 9223388529822793743 203 155668 1.750000 100 0 0 0 0 29696 99 0 90 0 279 29
+ 0
+0
+
+ itm_espada_eslavona_b Espada_Eslavona Espada_Eslavona 1  espada_eslavona_b 0  4259842 9223388529822793743 245 155668 2.000000 100 0 0 0 0 31744 97 0 101 0 280 31
+ 0
+0
+
+ itm_english_longsword English_Longsword English_Longsword 2  english_longsword 0  english_longsword_scabbard 3458764513820540928  4259843 9223635954298781951 370 155668 2.000000 100 0 0 0 9 37888 97 0 103 0 288 37
+ 0
+0
+
+ itm_german_bastard_sword German_Bastard_Sword German_Bastard_Sword 2  german_bastard_sword 0  german_bastard_sword_scabbard 3458764513820540928  4259843 9223635954298781951 355 155668 2.000000 100 0 0 0 9 36864 97 0 107 0 289 36
+ 0
+0
+
+ itm_italian_sword Italian_Sword Italian_Sword 2  italian_sword 0  italian_sword_scabbard 3458764513820540928  4259842 9223388564182532111 234 155668 2.000000 100 0 0 0 8 32768 96 0 98 0 280 32
+ 0
+0
+
+ itm_side_sword Side-sword Side-sword 2  side_sword 0  side_sword_scabbard 3458764513820540928  4259842 9223388564182532111 280 155668 2.000000 100 0 0 0 0 30720 98 0 94 0 284 30
+ 0
+0
+
+ itm_milanese_sword Milanese_Shortsword Milanese_Shortsword 2  milanese_sword 0  milanese_sword_scabbard 3458764513820540928  4259842 9223388564182532111 190 155668 1.500000 100 0 0 0 0 27648 102 0 76 0 282 27
+ 0
+0
+
+ itm_longbowman_sword Archer's_Sword Archer's_Sword 1  longbowman_sword 0  4259842 9223388529822793743 165 155668 1.500000 100 0 0 0 0 28672 99 0 83 0 277 28
+ 0
+0
+
+ itm_italian_falchion Italian_Falchion Italian_Falchion 2  italian_falchion 0  italian_falchion_scabbard 3458764513820540928  4259842 9223388564182532111 215 155668 1.500000 100 0 0 0 0 32768 104 0 73 0 276 32
+ 0
+0
+
+ itm_scottish_sword Scottish_Sword Scottish_Sword 2  scottish_sword 0  scottish_sword_scabbard 3458764513820540928  4259842 9223388564182532111 170 155668 1.750000 100 0 0 0 0 28672 98 0 81 0 281 28
+ 0
+0
+
+ itm_crusader_sword Crusader's_Longsword Crusader's_Longsword 2  crusader_sword 0  crusader_sword_scabbard 3458764513820540928  4259843 9223635954298781951 310 155668 2.000000 100 0 0 0 9 33792 97 0 98 0 287 33
+ 0
+0
+
+ itm_grosse_messer Grosse_Messer Grosse_Messer 1  grosse_messer 0  4259842 9223388529822793743 140 155668 1.750000 100 0 0 0 0 29696 98 0 86 0 276 29
+ 0
+0
+
+ itm_grosse_messer_b Grosse_Messer Grosse_Messer 2  grosse_messer_b 0  grosse_messer_b_scabbard 3458764513820540928  4259843 9223635954298781951 185 155668 2.000000 100 0 0 0 9 35840 98 0 92 0 280 35
+ 0
+0
+
+ itm_irish_sword Irish_Sword Irish_Sword 1  irish_sword 0  4259842 9223388529822793743 200 155668 2.000000 100 0 0 0 0 27648 96 0 106 0 281 27
+ 0
+0
+
+ itm_bollock_dagger Bollock_Dagger Bollock_Dagger 1  bollock_dagger 0  12664834 9223372037685248015 75 155668 1.000000 100 0 0 0 0 21504 109 0 46 0 296 21
+ 0
+0
+
+ itm_pikeman_dagger Pikeman's_Dagger Pikeman's_Dagger 1  pikeman_dagger 0  12664834 9223372037685248015 64 155668 1.000000 100 0 0 0 0 23552 108 0 41 0 296 23
+ 0
+0
+
+ itm_rondel_dagger Rondel_Dagger Rondel_Dagger 1  rondel_dagger 0  12664835 9223372037685248015 91 155668 1.500000 100 0 0 0 0 0 106 0 47 0 296 0
  0
 0
 
