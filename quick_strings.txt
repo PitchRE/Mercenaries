@@ -1,4 +1,4 @@
-793
+792
 qstr_Next_Page Next_Page
 qstr_Game_Rules:^ Game_Rules:^
 qstr_Show_game_rules Show_game_rules
@@ -106,8 +106,7 @@ qstr_{s11}GiveEXP?sid={s12 {s11}GiveEXP?sid={s12}&spa={s13}&name={s10}&guid={reg
 qstr_Killer_id:_{reg11}_D Killer_id:_{reg11},_Death_id:_{reg20},_Weapon_id:_{reg21}
 qstr_{s11}GiveEarnings?si {s11}GiveEarnings?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}&gold={reg12}
 qstr_{s11}checkplayer?sid {s11}checkplayer?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}
-qstr__event_player_id_{re _event_player_id_{reg5}
-qstr__[1]_ _[1]_
+qstr__agent_id_{reg40}_we _agent_id_{reg40},_weapon_{reg41}
 qstr_DEBUG:_Give_player_{ DEBUG:_Give_player_{reg56}_item_{reg55}
 qstr_+{reg1}_to_party_mor +{reg1}_to_party_morale
 qstr_Requires_{reg1}_inte Requires_{reg1}_intelligence_to_read
