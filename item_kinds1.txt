@@ -1,5 +1,5 @@
 itemsfile version 3
-1054
+1079
  itm_no_item INVALID_ITEM INVALID_ITEM 1  practice_sword 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -4304,6 +4304,131 @@ itemsfile version 3
 
  itm_rondel_dagger Rondel_Dagger Rondel_Dagger 1  rondel_dagger 0  12664835 9223372037685248015 91 155668 1.500000 100 0 0 0 0 0 106 0 47 0 296 0
  0
+0
+
+ itm_munitionshelm2 munitionshelm2 munitionshelm2 1  munitionshelm2 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_kettlehat1 kettlehat1 kettlehat1 1  kettlehat1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_barbuta1 barbuta1 barbuta1 1  barbuta1 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_visored_salet_coif visored_salet_coif visored_salet_coif 1  visored_salet_coif 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_visored_salet visored_salet visored_salet 1  visored_salet 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_byzantion byzantion byzantion 1  byzantion 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_open_salet open_salet open_salet 1  open_salet 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_frenchpepperpot French_Pepperpot French_Pepperpot 1  frenchpepperpot 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_greathelm1 Great_Helmet Great_Helmet 1  greathelm1 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_kettlehatfacebyrnie kettlehatfacebyrnie kettlehatfacebyrnie 1  kettlehatfacebyrnie 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_bolzanobucket bolzanobucket bolzanobucket 1  bolzanobucket 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_normanpepperpot Norman_Pepperpot Norman_Pepperpot 1  normanpepperpot 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_greathelmwhat Great_Helmet Great_Helmet 1  greathelmwhat 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_col1_kettlehat2 col1_kettlehat2 col1_kettlehat2 1  col1_kettlehat2 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_fullfacecoif fullfacecoif fullfacecoif 1  fullfacecoif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_weimarhelm Weimar_Helmet Weimar_Helmet 1  weimarhelm 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_open_salet_coif open_salet_coif open_salet_coif 1  open_salet_coif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_crownedhelm crownedhelm crownedhelm 1  crownedhelm 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_frenchpepperpot2 French_Pepperpot French_Pepperpot 1  frenchpepperpot2 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_inv_nikolskoe_helm Nikolskoe_Helm Nikolskoe_Helm 1  inv_nikolskoe_helm 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_flattophelmet flattophelmet flattophelmet 1  flattophelmet 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_pepperpothelm1 Pepperpot Pepperpot 1  pepperpothelm1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_inv_rus_helm inv_rus_helm inv_rus_helm 1  inv_rus_helm 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_munitionshelm1 munitionshelm1 munitionshelm1 1  munitionshelm1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
+0
+
+ itm_normanhelmbalaclavacoif normanhelmbalaclavacoif normanhelmbalaclavacoif 1  normanhelmbalaclavacoif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+ 1
+ 17
 0
 
  itm_items_end End_of_list End_of_list 1  shield_round_a 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
