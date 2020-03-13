@@ -1,4 +1,4 @@
-795
+798
 qstr_Next_Page Next_Page
 qstr_Game_Rules:^ Game_Rules:^
 qstr_Show_game_rules Show_game_rules
@@ -55,6 +55,7 @@ qstr_Days_Passed:_{reg0} Days_Passed:_{reg0}
 qstr_Difficulty:_{reg0}% Difficulty:_{reg0}%
 qstr_{!}{reg3?+:}{reg0} {!}{reg3?+:}{reg0}
 qstr_TOTAL_SCORE:_{reg0} TOTAL_SCORE:_{reg0}
+qstr__Stronger:_{reg10} _Stronger:_{reg10}
 qstr_{!}DEBUG_:_SYSTEM_ER {!}DEBUG_:_SYSTEM_ERROR!
 qstr_{s1}_of_{s3}_was_def {s1}_of_{s3}_was_defeated_in_battle_but_managed_to_escape.
 qstr_{!}DEBUG_:_Siege_att {!}DEBUG_:_Siege_attackers_are_running_away
@@ -108,6 +109,7 @@ qstr_{s11}GiveEXP?sid={s1 {s11}GiveEXP?sid={s12}&spa={s13}&name={s10}&guid={reg1
 qstr_{s11}GiveFrag?sid={s {s11}GiveFrag?sid={s12}&spa={s13}&name={s10}&guid={reg10}&deathguid={reg20}&weaponid={reg21}
 qstr_{s11}GiveEarnings?si {s11}GiveEarnings?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}&gold={reg12}
 qstr_{s11}checkplayer?sid {s11}checkplayer?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}
+qstr__gave_warcry _gave_warcry
 qstr_client_event client_event
 qstr__agent_id_{reg40}_we _agent_id_{reg40},_weapon_{reg41}
 qstr_DEBUG:_Give_player_{ DEBUG:_Give_player_{reg56}_item_{reg55}
@@ -310,6 +312,7 @@ qstr_Cannot_leave_now. Cannot_leave_now.
 qstr_You_must_stay_behind You_must_stay_behind_the_line_on_the_ground!_Point_is_not_counted.
 qstr_Your_helmet_has_no_v Your_helmet_has_no_visor!
 qstr_You_whistle_for_a_ho You_whistle_for_a_horse!
+qstr_You_activated_warcry You_activated_warcry!
 qstr_Hello_{reg4} Hello_{reg4}
 qstr_{!}sending_prisoner_ {!}sending_prisoner_cart_6_feet_underground!
 qstr_{!}spawn_prison_cart {!}spawn_prison_cart_5_secs_initiated!
