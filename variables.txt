@@ -1144,5 +1144,6 @@ g_presentation_obj_reload_available
 g_multiplayer_cbf_enable_squad_ratio
 g_mp_num_troops_per_type_tier123
 g_mp_num_troops_per_type_tier4
+g_effect_heavy_armor
 g_prison_cart_previous_point
 g_last_report_control_day
