@@ -1,4 +1,4 @@
-793
+795
 qstr_Next_Page Next_Page
 qstr_Game_Rules:^ Game_Rules:^
 qstr_Show_game_rules Show_game_rules
@@ -88,6 +88,8 @@ qstr_{s7}_opened_the_gate {s7}_opened_the_gate
 qstr_{s7}_closed_the_gate {s7}_closed_the_gate
 qstr_{!}multiplayer_serve {!}multiplayer_server_before_mission_start_common
 qstr_DEBUG:_Did_give_play DEBUG:_Did_give_player_{reg1}_following_troop:_{reg55}
+qstr__Gave_player_{s30}_f _Gave_player_{s30}_firearm_skill_{reg31}_and_crossbow_{reg22}
+qstr__horse_{reg10} _horse_{reg10}
 qstr_Welcome_{s59}!^Your_ Welcome_{s59}!^Your_data_was_successfully_loaded.^Current_Level:_{reg13}
 qstr_Experience:{reg12}_^ Experience:{reg12}_^Login:_{reg50}_^Password:_{s0}
 qstr_{s59}_did_join_the_s {s59}_did_join_the_server_&_his_data_was_loaded
@@ -106,8 +108,8 @@ qstr_{s11}GiveEXP?sid={s12 {s11}GiveEXP?sid={s12}&spa={s13}&name={s10}&guid={reg
 qstr_Killer_id:_{reg11}_D Killer_id:_{reg11},_Death_id:_{reg20},_Weapon_id:_{reg21}
 qstr_{s11}GiveEarnings?si {s11}GiveEarnings?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}&gold={reg12}
 qstr_{s11}checkplayer?sid {s11}checkplayer?sid={s12}&spa={s13}&name={s10}&guid={reg10}&pid={reg11}
-qstr__event_player_id_{re _event_player_id_{reg5}
-qstr__[1]_ _[1]_
+qstr_client_event client_event
+qstr__agent_id_{reg40}_we _agent_id_{reg40},_weapon_{reg41}
 qstr_DEBUG:_Give_player_{ DEBUG:_Give_player_{reg56}_item_{reg55}
 qstr_+{reg1}_to_party_mor +{reg1}_to_party_morale
 qstr_Requires_{reg1}_inte Requires_{reg1}_intelligence_to_read
