@@ -4164,7 +4164,11 @@ itemsfile version 3
  0
 0
 
+<<<<<<< HEAD
  itm_flamberge Knightly_Arming_Sword Knightly_Arming_Sword 1  flamberge 0  2251800354816004 4222129415393024 425 24596 3.750000 100 0 0 0 11 51200 77 0 125 0 284 50
+=======
+ itm_flamberge Flamberge Flamberge 1  flamberge 0  2251800354816004 4222129415393024 425 24596 3.750000 100 0 0 0 11 51200 77 0 125 0 284 50
+>>>>>>> dev
  0
 0
 
@@ -4172,7 +4176,11 @@ itemsfile version 3
  0
 0
 
+<<<<<<< HEAD
  itm_flemish_armet Flemish_Armet Flemish_Armet 1  flemish_armet 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_flemish_armet Flamberge Flamberge 1  flemish_armet 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
@@ -4302,96 +4310,172 @@ itemsfile version 3
  0
 0
 
+<<<<<<< HEAD
  itm_rondel_dagger Rondel_Dagger Rondel_Dagger 1  rondel_dagger 0  12664835 9223372037685248015 91 155668 1.500000 100 0 0 0 0 0 106 0 47 0 296 0
  0
 0
 
  itm_munitionshelm2 munitionshelm2 munitionshelm2 1  munitionshelm2 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_rondel_dagger Rondel_Dagger Rondel_Dagger 1  rondel_dagger 0  12664834 9223372037685248015 91 155668 1.500000 100 0 0 0 0 0 106 0 47 0 296 0
+ 0
+0
+
+ itm_munitionshelm2 Munitions_Helm Munitions_Helm 1  munitionshelm2 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_kettlehat1 kettlehat1 kettlehat1 1  kettlehat1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_kettlehat1 Kettlehat Kettlehat 1  kettlehat1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_barbuta1 barbuta1 barbuta1 1  barbuta1 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_barbuta1 Barbuta Barbuta 1  barbuta1 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_visored_salet_coif visored_salet_coif visored_salet_coif 1  visored_salet_coif 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_visored_salet_coif Visored_Salet_with_Coif Visored_Salet_with_Coif 1  visored_salet_coif 0  65548 0 6325 704643238 4.250000 10 62 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_visored_salet visored_salet visored_salet 1  visored_salet 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_visored_salet Visored_Salet Visored_Salet 1  visored_salet 0  65548 0 6325 704643238 4.250000 10 58 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_byzantion byzantion byzantion 1  byzantion 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_byzantion Byzantion Byzantion 1  byzantion 0  68719542284 0 6325 704643238 4.250000 10 45 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_open_salet open_salet open_salet 1  open_salet 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_open_salet Open_Salet Open_Salet 1  open_salet 0  65548 0 6325 704643238 4.250000 10 30 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_frenchpepperpot French_Pepperpot French_Pepperpot 1  frenchpepperpot 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_frenchpepperpot French_Pepperpot French_Pepperpot 1  frenchpepperpot 0  68719542284 0 6325 704643238 4.250000 10 42 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_greathelm1 Great_Helmet Great_Helmet 1  greathelm1 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_greathelm1 Great_Helm Great_Helm 1  greathelm1 0  2147549196 0 6325 704643238 4.250000 10 65 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_kettlehatfacebyrnie kettlehatfacebyrnie kettlehatfacebyrnie 1  kettlehatfacebyrnie 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_kettlehatfacebyrnie Kettlehat Kettlehat 1  kettlehatfacebyrnie 0  68719542284 0 6325 704643238 4.250000 10 45 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_bolzanobucket bolzanobucket bolzanobucket 1  bolzanobucket 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_bolzanobucket Bolzano_Bucket Bolzano_Bucket 1  bolzanobucket 0  2147549196 0 6325 704643238 4.250000 10 60 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_normanpepperpot Norman_Pepperpot Norman_Pepperpot 1  normanpepperpot 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_normanpepperpot Norman_Pepperpot Norman_Pepperpot 1  normanpepperpot 0  68719542284 0 6325 704643238 4.250000 10 50 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_greathelmwhat Great_Helmet Great_Helmet 1  greathelmwhat 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_greathelmwhat Great_Helm Great_Helm 1  greathelmwhat 0  2147549196 0 6325 704643238 4.250000 10 64 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_col1_kettlehat2 col1_kettlehat2 col1_kettlehat2 1  col1_kettlehat2 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_col1_kettlehat2 Kettlehat Kettlehat 1  col1_kettlehat2 0  68719542284 0 6325 704643238 4.250000 10 48 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_fullfacecoif fullfacecoif fullfacecoif 1  fullfacecoif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_fullfacecoif Full_Face_Coif Full_Face_Coif 1  fullfacecoif 0  68719542284 0 6325 704643238 4.250000 10 25 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_weimarhelm Weimar_Helmet Weimar_Helmet 1  weimarhelm 0  2147549196 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_weimarhelm Weimar_Helmet Weimar_Helmet 1  weimarhelm 0  2147549196 0 6325 704643238 4.250000 10 65 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_open_salet_coif open_salet_coif open_salet_coif 1  open_salet_coif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_open_salet_coif Open_Salet_With_Coif Open_Salet_With_Coif 1  open_salet_coif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_crownedhelm crownedhelm crownedhelm 1  crownedhelm 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_crownedhelm Crowned_Helm Crowned_Helm 1  crownedhelm 0  68719542284 0 6325 704643238 4.250000 10 45 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
@@ -4406,7 +4490,11 @@ itemsfile version 3
  17
 0
 
+<<<<<<< HEAD
  itm_flattophelmet flattophelmet flattophelmet 1  flattophelmet 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_flattophelmet Flat_Top_helmet Flat_Top_helmet 1  flattophelmet 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
@@ -4416,21 +4504,34 @@ itemsfile version 3
  17
 0
 
+<<<<<<< HEAD
  itm_inv_rus_helm inv_rus_helm inv_rus_helm 1  inv_rus_helm 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_inv_rus_helm Rus_Helm Rus_Helm 1  inv_rus_helm 0  65548 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_munitionshelm1 munitionshelm1 munitionshelm1 1  munitionshelm1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_munitionshelm1 Munitions_Bascinet Munitions_Bascinet 1  munitionshelm1 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_normanhelmbalaclavacoif normanhelmbalaclavacoif normanhelmbalaclavacoif 1  normanhelmbalaclavacoif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+=======
+ itm_normanhelmbalaclavacoif Norman_Helm_With_Coif Norman_Helm_With_Coif 1  normanhelmbalaclavacoif 0  68719542284 0 6325 704643238 4.250000 10 55 0 0 13 0 0 0 0 0 0 0
+>>>>>>> dev
  1
  17
 0
 
+<<<<<<< HEAD
  itm_cuirassier3 Black_Masterwork_Plate_Armour Black_Masterwork_Plate_Armour 1  cuirassier3 0  16842765 0 3696 704643238 19.000000 100 0 48 18 8 0 0 0 0 0 0 0
  0
 0
@@ -4851,6 +4952,8 @@ itemsfile version 3
  0
 0
 
+=======
+>>>>>>> dev
  itm_items_end End_of_list End_of_list 1  shield_round_a 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
