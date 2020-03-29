@@ -1298,7 +1298,7 @@ str_credits_7 Special_thanks_to:^Aperion_Studio,_Olga_Belaya_and_Igor_Shegolkovu
 str_credits_10 QA_team:^Michael_Bruhanov^Alexander_Radkevich^Victor_Chaschin^Egor_Botov^Sergey_Egorov^Dmitry_Kiyatkin^Viacheslav_Erofeev^Stanislav_Lobachev_(Apeiron)^Nikita_Pavlutin^Uliana_Erofeeva^Alexander_Suslov
 str_credits_11 Promotion:^Svyatoslav_Kozlov^Maria_Konovalova^Alexander_Suslov^Vlalimir_Tortsov^Artem_Schuyko^^Russian_Website:^Anton_Zhevlakov^^Marketing_Director:^Pavel_Nechaev^^Chief_Editor:^Evelina_Novikova^^Technical_Director:^Vitaly_Klimov
 str_credits_12 TaleWorlds_Entertainment_(Ankara)^^Producer:^Mika'il_Yazbeck^^Programming:^Armağan_Yavuz^Cem_Çimenbiçer
-str_multi_scene_1 {!}Ruins
+str_multi_scene_1 Folwark
 str_multi_scene_2 {!}Village
 str_multi_scene_3 {!}Castle
 str_multi_scene_4 {!}Ruined_Fort
